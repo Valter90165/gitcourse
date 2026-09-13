@@ -54,6 +54,13 @@ Le stesse della prova scritta. Una scheda per ciascuna in [`materie/`](materie/)
 
 Piano di lavoro e tracker: [`00-piano-di-studio.md`](00-piano-di-studio.md)
 
+## Dispense integrative
+
+Materiale redatto per colmare le lacune rilevate nei PDF su Drive, in
+[`dispense/`](dispense/):
+
+1. [Valutazione delle politiche pubbliche — parte concettuale e metodi qualitativi](dispense/01-valutazione-parte-concettuale-e-qualitativa.md)
+
 ---
 
 ## Come lavoriamo

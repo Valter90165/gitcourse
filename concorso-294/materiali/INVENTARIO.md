@@ -53,7 +53,7 @@ taglio con cui la materia è stata selezionata dalla commissione.
 | 2 | Scienza delle finanze e politica economica | ●●● | Due manuali |
 | 3 | Data science e data mining | ●○○ | Una sola dispensa breve |
 | 4 | Statistica economica per le PA | ●●● | Manuale ampio |
-| 5 | **Valutazione politiche pubbliche** | **●○○** | **Una sola dispensa, 7 pagine — vedi sotto** |
+| 5 | **Valutazione politiche pubbliche** | ●●○ | Dispensa Simone (quantitativo) + dispensa integrativa (concettuale e qualitativo) |
 | 6 | Contabilità pubblica | ●●● | Manuale + 6 dispense |
 | 7 | Diritto amministrativo | ●●● | Manuale Simone + 6 dispense |
 | 8 | Lingua inglese B1 | ○○○ | **Nessun materiale** |
@@ -86,7 +86,9 @@ compare nulla su:
 - revisione della spesa come uso della valutazione
 - validità interna ed esterna
 
-Serve materiale aggiuntivo su questa metà.
+**Colmata** con la dispensa
+[`dispense/01-valutazione-parte-concettuale-e-qualitativa.md`](../dispense/01-valutazione-parte-concettuale-e-qualitativa.md),
+redatta appositamente.
 
 ### 2. Inglese B1 e tecnologie informatiche
 

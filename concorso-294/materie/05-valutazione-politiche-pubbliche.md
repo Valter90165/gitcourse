@@ -199,11 +199,15 @@ RCT (nulla, l'equivalenza è costruita) → RDD (quasi-casualità locale alla so
 matching e regressione (selezione sulle osservabili, l'assunzione più forte e la
 più contestabile). Saper dire *questa gerarchia* vale più che elencare i metodi.
 
-## Da integrare — non c'è nella dispensa
+## L'altra metà della materia
 
-Vedi `materiali/INVENTARIO.md`: metodi qualitativi, teoria del programma, ciclo di
-policy, monitoraggio vs valutazione, ex ante/in itinere/ex post, criteri OCSE-DAC,
-costi-benefici e costo-efficacia, AIR/VIR, revisione della spesa, validità interna
-ed esterna.
+Quanto non è nella dispensa Simone — metodi qualitativi, teoria del programma,
+ciclo di policy, monitoraggio vs valutazione, criteri OCSE-DAC, approcci
+theory-based, costi-benefici e costo-efficacia, AIR/VIR, revisione della spesa,
+validità interna ed esterna — è in:
+
+**[`dispense/01-valutazione-parte-concettuale-e-qualitativa.md`](../dispense/01-valutazione-parte-concettuale-e-qualitativa.md)**
+
+Le due vanno studiate insieme: sono la stessa materia vista dai due lati.
 
 ## Punti su cui ho esitato
