@@ -58,9 +58,12 @@ Piano di lavoro e tracker: [`00-piano-di-studio.md`](00-piano-di-studio.md)
 
 ## Come lavoriamo
 
-I PDF dei capitoli vanno in [`materiali/`](materiali/) — vedi le istruzioni lì.
-Man mano che arrivano, riempiamo le schede delle materie con sintesi, definizioni
-operative e batterie di domande d'orale simulate.
+I materiali stanno su Google Drive, cartella **CONCORSO 294 FUNZIONARI RIPAM**
+(23 PDF). Inventario, mappatura sul programma e analisi delle lacune:
+[`materiali/INVENTARIO.md`](materiali/INVENTARIO.md).
+
+Man mano che leggiamo i capitoli, riempiamo le schede delle materie con sintesi,
+definizioni operative e batterie di domande d'orale simulate.
 
 ## Avvertenza sulle fonti
 
