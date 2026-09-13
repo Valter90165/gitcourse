@@ -51,3 +51,28 @@ e i sette aggiornamenti recenti.
 > stampate 190-191 (raccordo fra gli Accordi tra Ministeri e l'avvio della
 > sessione di bilancio): la sostanza dell'*iter* parlamentare è comunque
 > ricostruita per intero a partire da p. 192.
+
+## 04 — Data science e data mining
+
+- Sorgente: [`04-data-science-e-data-mining.md`](04-data-science-e-data-mining.md)
+- Impaginata: [`04-data-science-e-data-mining.pdf`](04-data-science-e-data-mining.pdf) — 27 pagine
+
+La scheda Simone su Drive (`data mining.pdf`) copre solo l'impianto
+metodologico ed è lunga sei pagine. È riportata **integralmente** nelle
+Parti I-III (definizioni e storia, processo KDD, modello CRISP-DM); le
+Parti IV-X sono **integrazione**, segnalata come tale nel testo:
+
+- i dati (tipi, scale di misura, sei dimensioni della qualità, cinque V);
+- il pre-processing in dettaglio (MCAR/MAR/MNAR, outlier, normalizzazione,
+  encoding, riduzione dimensionale, bilanciamento delle classi);
+- la mappa del machine learning (tre famiglie, bias-varianza, validazione);
+- gli algoritmi fondamentali, senza derivazioni;
+- le metriche di valutazione (matrice di confusione, ROC-AUC, silhouette);
+- **dati e algoritmi nella P.A. italiana**: CAD e PDND, open data e
+  D.Lgs. 200/2021, text mining sugli atti, usi concreti nel settore
+  pubblico, i tre principi del Consiglio di Stato (2270/2019 e 8472/2019),
+  art. 22 GDPR, AI Act, bias algoritmico, SISTAN e segreto statistico.
+
+Chiude con **60 domande d'orale**, le **dieci formule essenziali** in un
+riquadro a parte (da scegliere, non tutte necessarie) e una sezione sui
+collegamenti con le altre materie del bando.
