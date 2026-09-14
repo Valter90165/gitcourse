@@ -76,3 +76,64 @@ Parti IV-X sono **integrazione**, segnalata come tale nel testo:
 Chiude con **60 domande d'orale**, le **dieci formule essenziali** in un
 riquadro a parte (da scegliere, non tutte necessarie) e una sezione sui
 collegamenti con le altre materie del bando.
+
+## 05 — Econometria
+
+- Sorgente: [`05-econometria.md`](05-econometria.md)
+- Impaginata: [`05-econometria.pdf`](05-econometria.pdf) — 100 pagine
+
+Costruita sulla **Parte III del manuale** — *Econometria e metodi qualitativi
+e quantitativi* — **pagine stampate 261-571**, lette integralmente. Il file
+è arrivato in quattro parti separate (P1 con testo nativo, P2/P3/P4 come
+scansioni immagine, ricostruite con OCR italiano a 300 dpi); la continuità
+fra le parti è stata verificata pagina per pagina.
+
+**Impostazione: nessuna derivazione, nessuna dimostrazione, nessun passaggio
+algebrico.** Le formule sono raccolte tutte insieme alla fine, nel riquadro
+*«Le venti formule fondamentali»*, ciascuna con la traduzione in italiano e
+un giudizio esplicito su quanto valga la pena memorizzarla (sette
+indispensabili, sette da riconoscere, sei da lasciar perdere).
+
+Venti parti, sui sedici capitoli del manuale:
+
+- statistica descrittiva, calcolo delle probabilità, variabili casuali,
+  teoria della stima, verifica delle ipotesi (Parti I-V);
+- i modelli econometrici: quattro stadi, forma strutturale e ridotta,
+  esempio del modello di Keynes (Parte VI);
+- **il modello di regressione semplice**: le sei ipotesi classiche con la
+  patologia corrispondente a ciascuna, OLS, scomposizione della devianza e
+  R², Gauss-Markov e il BLUE, test *t*, intervalli, ANOVA, previsione
+  (Parti VII, il capitolo decisivo);
+- le forme funzionali con l'interpretazione del coefficiente: lineare,
+  doppio logaritmico (elasticità costante, Cobb-Douglas), semilogaritmico,
+  iperbolico (curva di Phillips), logaritmico-iperbolico (Parte VIII);
+- regressione multipla, R² corretto, test congiunti e **variabili dummy**
+  con interazioni (Parte IX);
+- multicollinearità: effetti, VIF, numero di condizionamento, ridge,
+  metodi stepwise (Parte X);
+- metodi asintotici, massima verosimiglianza e Cramér-Rao, **variabili
+  strumentali** con le tre condizioni (Parte XI);
+- **violazione della sfericità**: eteroschedasticità (GLS, WLS,
+  Breusch-Pagan, Goldfeld-Quandt) e autocorrelazione (processi stocastici,
+  ACF/PACF, AR/MA/ARMA, Durbin-Watson, Breusch-Godfrey, Cochrane-Orcutt,
+  Hildreth-Lu) — Parte XII, la più lunga;
+- equazioni simultanee, identificazione, ILS e **2SLS** (Parte XIII);
+- serie storiche: componenti, modelli decompositivi, medie mobili, ARIMA,
+  **procedura di Box-Jenkins** in cinque passi, **TRAMO-SEATS dell'ISTAT**
+  con la storia istituzionale (progetto SARA, 1997; applicazione dal
+  febbraio 1999) — Parte XIV;
+- **dati panel**: effetti fissi e stimatore *within*, effetti casuali e GLS,
+  stimatore *between*, **test di Hausman** (Parte XV);
+- **la valutazione controfattuale delle politiche pubbliche**: modello di
+  Rubin e ATT, le distorsioni da dinamica spontanea e da *selection bias*,
+  SUTVA / Common Support / CIA / *strong ignorability*, propensity score di
+  Rosenbaum-Rubin con i quattro algoritmi di matching, **DiD** e
+  parallelismo dei trend, **RCT**, **RDD** anche con più soglie, e i quattro
+  aspetti dell'interpretazione (*lock-in*, *compliance*, attrito,
+  comunicazione dei risultati) — Parte XVI, quella che per questo bando
+  vale doppio.
+
+Chiude con le **venti formule fondamentali**, **60 domande d'orale** con
+traccia di risposta (dodici segnalate come ad altissima probabilità), i
+collegamenti con le altre materie del bando e una sezione di metodo su come
+portare la materia all'orale.
