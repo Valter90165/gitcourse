@@ -199,3 +199,76 @@ Chiude con **45 domande d'orale** con traccia di risposta (dieci segnalate
 come ad altissima probabilità), i collegamenti con le altre materie — il
 più fitto è quello con contabilità pubblica sul perimetro S13 e con
 econometria su TRAMO-SEATS e Cobb-Douglas — e una sezione di metodo.
+
+## 07 — Scienza delle finanze
+
+- Sorgente: [`07-scienza-delle-finanze.md`](07-scienza-delle-finanze.md)
+- Impaginata: [`07-scienza-delle-finanze.pdf`](07-scienza-delle-finanze.pdf) — 124 pagine
+
+Costruita sulla **Parte V del manuale** — *Elementi di scienza delle finanze*
+— **pagine stampate 649-729**, lette integralmente. Il file è arrivato in
+quattro parti (81 pagine; il testo incorporato era di qualità troppo bassa
+per essere usato, quindi ricostruito con OCR italiano a 300 dpi); la
+continuità è stata verificata pagina per pagina — P1 649-668, P2 669-688,
+P3 689-708, P4 709-729 — ed è contigua alla statistica economica, che
+terminava a p. 648.
+
+**Impostazione: solo i grafici importanti, con le relative spiegazioni.**
+È la materia più grafica del programma. Ogni grafico che conta ha una scheda
+dedicata, sempre con la stessa struttura — *che cosa sta sugli assi*, *che
+cosa si disegna*, *qual è il punto che conta* — scritta per poter essere
+rifatta alla lavagna e spiegata a voce. **Sedici grafici** in tutto, raccolti
+alla fine in un indice ragionato che per ciascuno dà la frase che lo riassume.
+Le formule sono **tredici**, raccolte a parte con il consueto giudizio di
+priorità.
+
+Dieci parti, sui dodici capitoli del manuale:
+
+- **il quadro teorico**: bisogni e beni (escludibilità e rivalità, beni
+  meritori), teorie economiche e politico-sociologiche, **illusione
+  finanziaria di Puviani**, *Public Choice* (**teorema di Arrow**,
+  Wicksell/Buchanan, paradosso del voto, **elettore mediano**, *logrolling*,
+  burocrati e gruppi di pressione), **le quattro fasi storiche** della
+  finanza pubblica;
+- **economia del benessere**: scatola di Edgeworth, curva dei contratti,
+  frontiera delle possibilità produttive, condizione **SMS = SMT**, **i due
+  teoremi** — con il secondo come fondamento economico dello Stato sociale —
+  e i tre limiti;
+- **i fallimenti del mercato**: monopolio naturale, esternalità e **imposta
+  pigouviana**, **teorema di Coase**, beni pubblici e *free rider*,
+  **moral hazard vs selezione avversa** (la distinzione temporale), beni
+  meritori;
+- **entrate, impresa pubblica, debito**: la **scala dei corrispettivi** in
+  sette gradini, privatizzazioni, **debito pubblico** (forme, tecniche di
+  emissione, ammortamento vs conversione, titoli italiani aggiornati),
+  **equivalenza ricardiana**, gioco di Ponzi, le due crisi del debito
+  italiano;
+- **i tributi**: capacità contributiva ex **art. 53 Cost.**, dirette vs
+  indirette, **le cinque tecniche di progressività** con l'esempio numerico
+  classi/scaglioni, **detrazione vs deduzione**, eccesso di pressione;
+- **incidenza e criteri distributivi**: traslazione, **ammortamento
+  dell'imposta**, **le quattro «e»** (evasione/erosione/elisione/elusione),
+  criteri di Cosciani, **i tre principi del sacrificio**, **teorema di
+  Barone** e **curva di Laffer**;
+- **il reddito imponibile**: **reddito-prodotto, reddito-entrata,
+  reddito-consumo**, la **doppia tassazione del risparmio** di Fisher, la
+  **discriminazione quantitativa e qualitativa** dei redditi;
+- **federalismo fiscale**: definizione di Musgrave, i quattro presupposti, la
+  ripartizione delle tre funzioni fra livelli di governo, **Tiebout** (voto
+  coi piedi), **Oates** (teorema del decentramento), **Buchanan** (teoria dei
+  club), trasferimenti, **capacità fiscale e sforzo fiscale**, **effetto
+  carta moschicida**;
+- **la spesa pubblica**: legittimità e proficuità, le otto classificazioni,
+  **legge di Wagner** con cause apparenti e reali, produttività della spesa,
+  fiscalizzazione degli oneri sociali e parafiscalità, limiti, redistribuzione;
+- **le teorie sul bilancio e la politica fiscale**: le cinque teorie (pareggio,
+  doppio bilancio, ciclico, funzionale, neo-liberiste con Lucas e Sargent),
+  **Y = C + I + G** e la croce keynesiana, **il moltiplicatore** con la catena
+  dei giri successivi, **il teorema di Haavelmo** sul bilancio in pareggio.
+
+Chiude con l'**indice ragionato dei sedici grafici**, le **tredici formule**
+essenziali, **58 domande d'orale** con traccia di risposta (diciotto segnalate
+come ad altissima probabilità), i collegamenti con le altre materie — i più
+fitti sono con contabilità pubblica (fasi della spesa, art. 81 e art. 119,
+fabbisogni standard) e con il diritto amministrativo — e una sezione di
+metodo su come portare la materia all'orale.
