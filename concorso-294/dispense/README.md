@@ -137,3 +137,65 @@ Chiude con le **venti formule fondamentali**, **60 domande d'orale** con
 traccia di risposta (dodici segnalate come ad altissima probabilità), i
 collegamenti con le altre materie del bando e una sezione di metodo su come
 portare la materia all'orale.
+
+## 06 — Statistica economica
+
+- Sorgente: [`06-statistica-economica.md`](06-statistica-economica.md)
+- Impaginata: [`06-statistica-economica.pdf`](06-statistica-economica.pdf) — 70 pagine
+
+Costruita sulla **Parte IV del manuale** — *Statistica economica* — **pagine
+stampate 575-648**, lette integralmente. Il file è arrivato in tre parti
+(74 pagine di scansioni fotografiche, nessun testo nativo, ricostruite con
+OCR italiano a 300 dpi); la continuità fra le parti è stata verificata
+pagina per pagina: P1 575-599, P2 600-624, P3 625-648, senza buchi.
+
+**Impostazione sulle formule**: come per econometria, nessuna derivazione.
+Qui però una differenza: alcune formule *sono* il contenuto — gli indici di
+Laspeyres e Paasche non si distinguono se non si dice che cosa sta al
+numeratore e al denominatore — e quelle poche compaiono nel testo, sempre
+tradotte in italiano. Il riepilogo finale raccoglie **dodici formule** con
+il consueto giudizio (sei indispensabili, tre da conoscere, tre da lasciar
+perdere).
+
+Undici parti, sui sette capitoli del manuale:
+
+- **numeri indici**: ISTAT e i suoi quattro compiti, rapporti statistici,
+  indici semplici e complessi, **Laspeyres / Paasche / Fisher** con il
+  *trade-off* fra ponderazione fissa e variabile e le proprietà che i primi
+  due non rispettano; gli indici ISTAT (**NIC, FOI, IPCA**, ECOICOP, IPAB) e
+  l'indice della produzione industriale;
+- **contabilità nazionale e SEC 2010**: circuito economico, i quattro
+  indicatori con effetti giuridici diretti (Maastricht, bilancio UE, fondi
+  strutturali, politica monetaria), la cronologia 1970→2014, **le novità del
+  SEC 2010** (capitalizzazione della R&S, armamenti, **perimetro S13** con
+  test market/non market e condizioni di concorrenzialità, crediti d'imposta
+  pagabili, società veicolo, attività illegali), residenza economica, i sei
+  settori istituzionali, flussi e consistenze, partita quadrupla;
+- **comparazione nel tempo e nello spazio**: deflatore implicito e la
+  distinzione fra deflatore del PIL e indice dei prezzi al consumo; parità
+  del potere d'acquisto, **ICP** ed **ECP**, metodi **EKS**, **Geary-Khamis**
+  e **Gerardi** con transitività e additività;
+- **tavole input-output**: da Quesnay a Leontief, le tre sezioni, equazioni
+  di bilancio / costi / equilibrio, ipotesi di tecnologia lineare,
+  **inversa di Leontief e coefficienti di attivazione** raccontati come
+  moltiplicatori settoriali, indici di Chenery-Watanabe, triangolarizzazione,
+  modello dei prezzi, **analisi multiregionale** e **matrici SAM**;
+- **consumi**: funzione keynesiana, **legge di Engel** con le tre categorie di
+  beni, propensione marginale/media ed elasticità, le sei forme funzionali,
+  modelli a variabili ritardate, **teoria del reddito permanente** di
+  Friedman e il paradosso di Kuznets;
+- **mercato del lavoro**: le definizioni ISTAT alla lettera (un'ora di
+  lavoro, 30 giorni, due settimane, 15-74 anni), i **tre tassi** con i
+  denominatori corretti, flussi e durata della disoccupazione, i **tre tipi
+  di disoccupazione** con la **legge di Okun**, la Rilevazione sulle forze di
+  lavoro (Reg. CE 577/98, continua dal 2004);
+- **produzione e produttività**: produttività marginale e media, saggio
+  marginale di sostituzione ed elasticità di sostituzione, rendimenti di
+  scala, **Cobb-Douglas** con le sue sei proprietà e il teorema di Eulero,
+  produttività parziale (Pul, Puc) e globale, **funzione di Solow** e
+  **residuo** come misura del progresso tecnico.
+
+Chiude con **45 domande d'orale** con traccia di risposta (dieci segnalate
+come ad altissima probabilità), i collegamenti con le altre materie — il
+più fitto è quello con contabilità pubblica sul perimetro S13 e con
+econometria su TRAMO-SEATS e Cobb-Douglas — e una sezione di metodo.
