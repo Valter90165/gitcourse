@@ -4,23 +4,23 @@
 
 *Concorso RIPAM 294 unità — Codice 02, Area dei funzionari — prova orale del 27 novembre 2026*
 
-Questa dispensa è costruita sulla **Parte VI del manuale** — *Elementi di politica economica* (Simone, edizione per il concorso RIPAM 294) — **pagine stampate 732-779**, lette integralmente. Il materiale riprende esattamente dove finiva la scienza delle finanze (p. 729): le due Parti sono contigue nel volume.
+Questa dispensa è costruita sulla **Parte VI del manuale** — *Elementi di politica economica* (Simone, edizione per il concorso RIPAM 294) — **pagine stampate 732-804**, lette integralmente. Il materiale riprende esattamente dove finiva la scienza delle finanze (p. 729): le due Parti sono contigue nel volume.
 
 > **Stato del materiale — da leggere prima di studiare.**
 >
-> I due file caricati contengono **48 pagine effettive** e coprono i **capitoli da 1 a 8 per intero**, più **l'apertura del capitolo 9**. Il testo si interrompe a p. 779, nel mezzo della costruzione della curva di domanda aggregata.
+> I tre file caricati contengono **73 pagine effettive** e coprono i **capitoli da 1 a 10 per intero**, più **l'impianto generale del capitolo 11**. Il testo si interrompe a p. 804, mentre introduce la funzione del consumo in presenza di tassazione.
 >
-> Questa dispensa è quindi **completa e autosufficiente fino al modello IS-LM**, che è il naturale punto d'arrivo dei modelli macroeconomici a prezzi fissi. Il capitolo 9 e i successivi — modello AD-AS, inflazione, disoccupazione, crescita, economia aperta — **verranno aggiunti quando arriverà la terza parte del materiale**. La Parte X segnala esattamente dove si ferma e che cosa manca.
+> La dispensa copre quindi **tutta la teoria macroeconomica del programma**: i tre modelli (reddito-spesa, IS-LM, AD-AS), la moneta in tutte le sue dimensioni, la disoccupazione e l'inflazione con **la curva di Phillips**. Restano fuori **la parte finale del capitolo 11** — limiti della politica di bilancio e politica monetaria in dettaglio — **e l'economia aperta**: la **Parte XII** elenca esattamente che cosa manca e segnala quali lacune sono già colmate da altre dispense.
 
 > **L'impostazione, coerente con quella di scienza delle finanze: solo i grafici importanti, con le relative spiegazioni.**
 >
-> Questa materia è, insieme a scienza delle finanze, **la più grafica del programma**: la croce keynesiana, il moltiplicatore, la trappola della liquidità, la costruzione della IS, la costruzione della LM e il modello IS-LM completo **sono** il contenuto del ragionamento, non un suo ornamento.
+> Questa materia è, insieme a scienza delle finanze, **la più grafica del programma**: la croce keynesiana, il moltiplicatore, la trappola della liquidità, la costruzione della IS e della LM, il modello IS-LM, lo schema AD-AS e **la curva di Phillips** nelle sue due versioni **sono** il contenuto del ragionamento, non un suo ornamento.
 >
 > Ogni grafico che conta ha quindi **una scheda dedicata**, con sempre la stessa struttura — **che cosa sta sugli assi**, **che cosa si disegna**, **qual è il punto che conta** — scritta in modo che tu possa **rifare il disegno alla lavagna** e **spiegarlo a voce**.
 >
-> **Sulle formule.** Qui, diversamente da econometria, alcune formule *sono* il contenuto: non si può spiegare la teoria quantitativa senza scrivere *MV = PQ*, né il moltiplicatore senza scrivere *1/(1−c)*. Quelle poche compaiono nel testo, **sempre tradotte in italiano**, e sono raccolte alla fine con il consueto giudizio di priorità. Nessuna derivazione e nessun passaggio algebrico che non serva a capire.
+> **Sulle formule.** Qui, diversamente da econometria, alcune formule *sono* il contenuto: non si può spiegare la teoria quantitativa senza scrivere *MV = PQ*, né il moltiplicatore senza scrivere *1/(1−c)*, né il tasso di disoccupazione senza dire qual è il denominatore. Quelle che contano compaiono nel testo, **sempre tradotte in italiano**, e sono raccolte alla fine con il consueto giudizio di priorità. Nessuna derivazione e nessun passaggio algebrico che non serva a capire.
 
-**Come è organizzata.** Nove capitoli, che raggruppo in **nove parti**: che cos'è la politica economica (cap. 1); modelli, strumenti e la regola di Tinbergen (cap. 2); contabilità nazionale (cap. 3); il modello reddito-spesa e il moltiplicatore (cap. 4); la domanda di moneta (cap. 5); il mercato del credito e le banche (cap. 6); l'offerta di moneta (cap. 7); la sintesi neoclassica e il modello IS-LM (cap. 8); l'apertura del modello AD-AS (cap. 9). Chiudono l'**indice dei grafici**, le **formule essenziali**, le **domande d'orale con traccia di risposta**, i **collegamenti con le altre materie** e il **metodo di esposizione**.
+**Come è organizzata.** Undici capitoli, che raggruppo in **undici parti**: che cos'è la politica economica (cap. 1); modelli, strumenti e la regola di Tinbergen (cap. 2); contabilità nazionale (cap. 3); il modello reddito-spesa e il moltiplicatore (cap. 4); la domanda di moneta (cap. 5); il mercato del credito e le banche (cap. 6); l'offerta di moneta (cap. 7); la sintesi neoclassica e il modello IS-LM (cap. 8); il modello di domanda e offerta aggregate (cap. 9); **la disoccupazione e l'inflazione, con la curva di Phillips** (cap. 10) — la parte più densa e più chiesta; la politica fiscale o di bilancio (cap. 11). Chiudono lo **stato del materiale**, l'**indice dei diciannove grafici**, le **formule essenziali**, **sessanta domande d'orale con traccia di risposta**, i **collegamenti con le altre materie** e il **metodo di esposizione**.
 
 > **Un avvertimento metodologico che vale per tutta la dispensa.** Questa Parte VI è, di fatto, **un corso di macroeconomia**. Chi ha studiato la dispensa di scienza delle finanze ritroverà qui, sviluppati per esteso e con i grafici, concetti che là erano stati enunciati in forma sintetica: l'equazione *Y = C + I + G*, il moltiplicatore keynesiano, il teorema di Haavelmo, la critica delle aspettative razionali. **Non è una ripetizione: è l'altra metà dello stesso discorso.** La scienza delle finanze studia *che cosa lo Stato può fare*; la politica economica studia *come lo fa e con quali effetti*. Segnalo i raccordi ogni volta che si presentano.
 
@@ -2104,13 +2104,1085 @@ L'esempio numerico con cui il manuale sta costruendo il grafico, e su cui il mat
 
 ---
 
-# PARTE X — DOVE SI FERMA IL MATERIALE E CHE COSA MANCA
+## 51. GRAFICO 12 — Dallo schema IS-LM alla curva di domanda aggregata
 
-Questa sezione esiste perché **la dispensa sia onesta su ciò che copre**, e perché tu sappia esattamente che cosa manca quando ripasserai.
+Il manuale completa qui la costruzione avviata al §50, e lo fa con **un grafico a due pannelli sovrapposti** che è il ponte fra i due modelli. Va saputo perché mostra **da dove viene** la curva AD.
 
-## 51. Il punto di interruzione
+> ### 📊 **GRAFICO 12 — Dallo schema IS-LM alla curva AD**
+>
+> **CHE COSA SI DISEGNA — due pannelli, uno sopra l'altro, allineati sull'asse orizzontale**
+>
+> **Pannello (a), in alto — lo schema IS-LM.** Asse verticale: **tasso d'interesse i**. Asse orizzontale: **reddito Y**. Si tracciano la **IS**, la **LM₁** (corrispondente al livello di prezzi P₁) e la **LM₂** (corrispondente a un livello di prezzi P₂ più alto), spostata **verso sinistra**. I due equilibri sono **E₁** e **E₂**.
+>
+> **Pannello (b), in basso — la curva AD.** Asse verticale: **livello dei prezzi P**. Asse orizzontale: **reddito Y**, **con la stessa scala del pannello superiore**. Si riportano **P₁** e **P₂** in verticale e, per proiezione dai due equilibri di sopra, **Y₁** e **Y₂** in orizzontale. Congiungendo i due punti si ottiene **la curva AD, inclinata negativamente**.
+>
+> **IL RAGIONAMENTO, nei passaggi del manuale**
+>
+> *Se **la domanda reale di moneta non varia e l'offerta reale di moneta diminuisce per effetto del rialzo del livello dei prezzi**, per riportare il mercato della moneta in equilibrio **è necessario che i tassi d'interesse salgano** in modo tale da ridurre la domanda reale di moneta. […] Quando si riduce l'offerta di moneta — **nominale, nell'ipotesi precedente di prezzi fissi; reale, in questo caso** — **la curva LM si sposta verso sinistra**.*
+>
+> *Il nuovo equilibrio **E₂** presenta **un tasso d'interesse superiore e un livello di produzione inferiore**. Poiché il tasso è più elevato, **è più difficile e più costoso ottenere crediti** e per questa ragione **gli investimenti diminuiscono**; di conseguenza **anche il livello di produzione di equilibrio è più basso**.*
+>
+> **La catena completa, da recitare:**
+>
+> **prezzi ↑ → offerta REALE di moneta M/P ↓ → LM si sposta a sinistra → tasso d'interesse ↑ → investimenti ↓ → reddito di equilibrio ↓**
+>
+> E **il caso simmetrico**, che il manuale svolge per esteso: *un abbassamento del livello dei prezzi comporta, a parità di offerta nominale, **un aumento dell'offerta reale** (il rapporto M/P è maggiore perché il denominatore è più piccolo). Per incentivare il pubblico ad incrementare la sua domanda di moneta **il tasso deve scendere**; la LM si sposta **in basso verso destra**, e il nuovo equilibrio ha **produzione superiore**.*
 
-Il materiale caricato copre **le pagine stampate 732-779**, cioè:
+### Che cosa significa la curva AD — la definizione da sapere
+
+> **CURVA DI DOMANDA AGGREGATA (o macroeconomica)** = *esprime **la quantità complessiva di prodotto — la spesa complessiva — che gli operatori economici (famiglie, imprese e Stato) desiderano acquistare in corrispondenza di diversi livelli di prezzo**.*
+
+E il manuale sottolinea **perché questa AD è diversa da quella del capitolo 4**:
+
+> *È evidente che **la curva AD assume ora un significato più esteso** rispetto alla curva di domanda aggregata introdotta in precedenza, poiché **tiene conto di ciò che accade sia sul mercato dei beni sia su quello della moneta**. La curva AD esprime cioè **tutte le combinazioni possibili fra produzione e livelli di prezzi, tali per cui sia il mercato dei beni sia il mercato delle attività finanziarie sono contemporaneamente in equilibrio**. **A ogni punto sulla curva AD corrisponde una situazione di equilibrio fra la curva IS e la curva LM.***
+
+> **La frase che chiude il ragionamento, e che vale la pena dire:** *«**Ogni punto della curva AD è un intero equilibrio IS-LM.** La AD non è una nuova curva di domanda: è **il modello IS-LM risolto tante volte, una per ciascun livello di prezzo**, e i risultati riportati su un piano diverso.»*
+>
+> Ne discende una conseguenza che il manuale segnala: *poiché la curva AD **è ricavata direttamente dal modello IS-LM**, **la sua posizione e la sua inclinazione dipendono sia dalla politica fiscale — espressa dalla curva IS — sia dalla quantità nominale di moneta — espressa dalla curva LM**.*
+
+### Movimenti LUNGO la curva e spostamenti DELLA curva
+
+È **la distinzione metodologica che il manuale raccomanda espressamente** (*come sempre, è necessario distinguere ciò che avviene lungo una curva da ciò che determina uno spostamento dell'intera curva*), ed è una domanda d'orale classica.
+
+**Ci si muove LUNGO la AD** quando cambia **il livello dei prezzi**: è il meccanismo appena visto — *l'andamento decrescente significa che **il prodotto reale domandato complessivamente dagli operatori diminuisce all'aumentare del livello dei prezzi***.
+
+**Si sposta L'INTERA AD** per **due famiglie di cause**:
+
+**A) Scelte di politica economica.**
+
+| Politica | Effetto sulla AD | Il perché |
+|---|---|---|
+| **Fiscale ESPANSIVA** (↑ spesa pubblica o ↓ tributi) | **AD si sposta a destra** | *la IS si sposta in alto verso destra, l'equilibrio si realizza con **tasso e produzione entrambi più elevati**: a parità di prezzi, più reddito* |
+| **Monetaria ESPANSIVA** (↑ offerta nominale) | **AD si sposta a destra** | *aumenta anche l'offerta reale; **i tassi devono scendere** per riequilibrare il mercato monetario, e **tassi più bassi aumentano la domanda aggregata*** |
+| **Politiche RESTRITTIVE** | **AD si sposta a sinistra** | spostamenti di IS e LM di segno opposto |
+
+> **Il punto da cogliere:** **le due politiche espansive spostano entrambe la AD a destra, ma per strade opposte** — la fiscale **alzando** il tasso, la monetaria **abbassandolo**. È la stessa asimmetria del §46, e la ragione per cui solo la fiscale produce spiazzamento.
+
+**B) Fattori esterni.** Il manuale ne elenca tre:
+- **il progresso tecnico**, che *crea nuove opportunità di investimento e di consumo* — gli esempi dati sono *le prime ferrovie o i computer*;
+- **eventi politici favorevoli che aumentano la fiducia degli operatori**, con crescita di investimenti e consumi;
+- **un aumento della domanda estera di beni**.
+
+*(E simmetricamente, *eventi sfavorevoli di vario genere* spostano la AD verso l'interno.)*
+
+---
+
+## 52. GRAFICO 13 — La curva di offerta aggregata e l'equilibrio macroeconomico
+
+Fin qui abbiamo **una sola curva**, e il manuale pone la domanda giusta: *fra le tante possibili coppie di livelli di produzione e di prezzo che troviamo lungo la curva AD, quale sarà quella che permette di raggiungere l'equilibrio macroeconomico?* Per rispondere serve **l'altro lato del mercato**.
+
+> **OFFERTA AGGREGATA (o macroeconomica) AS** = *la **quantità complessiva di prodotto — beni e servizi — che le imprese sono disposte a produrre e a vendere in corrispondenza di diversi livelli di prezzo**.*
+
+> ### 📊 **GRAFICO 13 — Il modello AD-AS e l'equilibrio macroeconomico**
+>
+> **CHE COSA STA SUGLI ASSI**
+> - **Asse verticale**: il **livello dei prezzi P**.
+> - **Asse orizzontale**: la **produzione / reddito Y**.
+>
+> **CHE COSA SI DISEGNA**
+>
+> - la **curva AD**, **inclinata negativamente** (dal §51);
+> - la **curva AS**, **inclinata positivamente**;
+> - il loro **punto di incontro E₀**, che individua **il livello di prezzo P₀ e il livello di produzione Y₀ di equilibrio**.
+>
+> **QUAL È IL PUNTO CHE CONTA**
+>
+> **Primo — il significato dell'equilibrio**, nelle parole del manuale: *al livello di prezzo **P₀** **le imprese sono disposte a produrre e vendere esattamente ciò che gli acquirenti sono disposti ad acquistare (Y₀)***.
+>
+> **Secondo — perché la AS è inclinata positivamente**: *muovendoci lungo una stessa curva di offerta possiamo individuare le quantità complessivamente offerte in relazione ai diversi livelli di prezzo: **a prezzi più elevati corrisponde un'offerta maggiore***.
+>
+> **Terzo — che cosa sposta l'intera curva AS.** Il manuale indica **due cause**:
+> - *si modifica **la quantità disponibile di fattori produttivi o il prezzo dei fattori** stessi: se **aumenta la disponibilità di capitale o di lavoro**, o **si abbassa il prezzo** di questi fattori, le aziende sono disposte a produrre e offrire **quantità maggiori**;*
+> - *per effetto del **progresso tecnico**, **migliora l'insieme delle conoscenze e delle tecnologie disponibili**.*
+>
+> In entrambi i casi **la curva AS si sposta verso il basso e a destra**.
+>
+> *(Notate che **il progresso tecnico compare due volte**: al §51 sposta la **AD**, qui sposta la **AS**. Non è una contraddizione — l'innovazione crea insieme nuova domanda di investimento e nuova capacità produttiva. Ma le due cose hanno **effetti opposti sui prezzi**: lo spostamento della AD li alza, quello della AS li abbassa. È la ragione per cui **un'economia a forte progresso tecnico può crescere senza inflazione**, ed è un'ottima osservazione da spendere.)*
+
+## 53. Prodotto effettivo e prodotto potenziale
+
+Il manuale chiude con una distinzione **breve ma fondamentale**, che è la chiave per capire tutto il capitolo successivo sulla disoccupazione. *Un po' come avveniva nell'analisi microeconomica della produzione, può essere utile **distinguere il breve dal lungo periodo**.*
+
+**Nel BREVE periodo** *la **capacità produttiva** — l'insieme delle risorse a disposizione dell'economia: gli impianti, i lavoratori e in generale tutti i fattori produttivi — **è data e non può essere aumentata**. A seconda dei casi questa capacità può essere impiegata **per intero oppure soltanto in parte**.*
+
+Da cui **i due concetti di prodotto**:
+
+> **PRODOTTO EFFETTIVO (Y)** = *la quantità di beni e servizi **complessivamente ed effettivamente prodotta** all'interno di un sistema economico in un dato momento.*
+>
+> **PRODOTTO POTENZIALE (Y_p)** = *il **massimo livello di produzione** che un sistema economico può realizzare **utilizzando per intero la capacità produttiva disponibile**.*
+
+**La relazione fra i due, e il suo significato:**
+
+> *Nel breve periodo **il prodotto effettivo può essere al massimo uguale o inferiore al prodotto potenziale**: se il prodotto raggiunge il suo livello massimo significa che **non vi sono risorse inutilizzate**, che **non esiste, per esempio, disoccupazione** — per questa ragione si parla anche di **reddito o prodotto di pieno impiego**. La produzione effettiva può essere però inferiore rispetto al suo livello potenziale **nelle cosiddette fasi di recessione economica**.*
+
+**Nel LUNGO periodo**, invece, *il **prodotto potenziale può modificarsi** per effetto delle **innovazioni tecnologiche** o della **maggior disponibilità di fattori produttivi**.*
+
+> **Questa distinzione è la cerniera di tutta la seconda metà della Parte VI**, e conviene fissarla così:
+>
+> | | Che cosa può fare la politica economica |
+> |---|---|
+> | **Y < Y_p** (*output gap* negativo, recessione) | **portare Y verso Y_p** — è il compito delle **politiche della domanda**, fiscale e monetaria |
+> | **Y = Y_p** (pieno impiego) | **nulla, sul versante della domanda**: ogni stimolo ulteriore si scarica **sui prezzi**, non sulle quantità |
+> | **spostare Y_p** | solo **nel lungo periodo**, con **politiche dell'offerta**: innovazione, capitale umano, infrastrutture, riforme |
+>
+> **È la risposta corretta alla domanda «la politica economica può far crescere l'economia?»**: le politiche della domanda **chiudono l'output gap**, le politiche dell'offerta **spostano il potenziale**. Confonderle è l'errore più comune. *(E si riaggancia al Grafico 15 della dispensa 07, §62, dove avevamo visto che la politica anticiclica **non cambia il trend, riduce l'ampiezza delle oscillazioni attorno al trend**. Il trend è precisamente Y_p.)*
+
+---
+
+# PARTE X — LA DISOCCUPAZIONE E L'INFLAZIONE
+
+*(Capitolo 10, pp. 786-801)*
+
+**È il capitolo più importante dell'intera Parte VI dal punto di vista dell'orale**, perché contiene **la curva di Phillips** e perché tocca i due temi su cui una commissione può sempre chiedere l'attualità. È anche il più lungo.
+
+## 54. Le sei teorie sulla determinazione del salario
+
+Il manuale apre con una rassegna storica delle teorie sul mercato del lavoro. Conviene tenerle in sequenza, perché **ciascuna nasce come critica alla precedente**.
+
+### 54.1 La teoria classica: il salario di sussistenza
+
+*La teoria classica sosteneva che **il livello dei salari doveva essere tale da soddisfare i bisogni più elementari del lavoratore e della sua famiglia** — nutrimento, vestiario, cure mediche.* Di conseguenza **il prezzo del lavoro era commisurato al livello delle spese di sussistenza** in un dato momento, e **aumentava o diminuiva al variare dei prezzi dei beni di sussistenza**.
+
+**I due problemi**, che il manuale segnala:
+1. *il non facile problema di **definire quale fosse il livello minimo di sussistenza** che il salario doveva assicurare, poiché esso **varia da paese a paese e da epoca in epoca**;*
+2. il mantenimento di quel livello *era assicurato dall'operare della **trappola malthusiana**: **la pressione demografica avrebbe impedito qualsiasi variazione di lungo periodo***.
+
+> Questa è la ***legge bronzea dei salari***, secondo la definizione di **Lassalle** — nome da citare.
+>
+> **Il meccanismo, se ve lo chiedono:** se i salari salgono sopra la sussistenza, migliorano le condizioni di vita, **cresce la popolazione**, cresce l'offerta di lavoro, **e i salari ricadono**. Se scendono sotto, la popolazione diminuisce e i salari risalgono. **Il salario è quindi ancorato alla sussistenza da una forza demografica, non contrattuale.** È una teoria profondamente pessimista, ed è la ragione per cui l'economia fu chiamata *«la scienza triste»*.
+
+### 54.2 La teoria marxista
+
+*Anche per **Marx**, come per i classici, **il salario è sostanzialmente quello corrispondente al minimo di sussistenza**, ma **inteso in senso sociale**, poiché dipendente dal contesto storico e influenzato dall'opera dei sindacati.*
+
+**Il meccanismo che regola i salari** è però diverso, e va esposto nei suoi passaggi:
+
+1. i sindacati *devono confrontarsi con **il processo innovativo** che, **aumentando la composizione organica del capitale** — cioè il rapporto fra **capitale costante e capitale variabile** — **riduce la domanda di lavoro***;
+2. si creano così le condizioni perché ***«l'esercito industriale di riserva»* — i disoccupati — con le sue pressioni faccia cadere il saggio di salario**;
+3. il sistema capitalistico è caratterizzato da *un incessante processo di **trasformazione in nuovo capitale del plusvalore***, dove **il plusvalore** è *il valore della quantità di lavoro non retribuito di cui si appropriano i capitalisti in quanto detentori dei mezzi di produzione*.
+
+**Il ciclo completo**, che è il cuore dell'analisi marxista e vale la pena saperlo raccontare:
+
+> *L'accumulazione di capitale determina **un aumento della domanda di lavoro** e provoca **un aumento del saggio di salario**. Oltre un certo limite, questo incremento **ridurrà i profitti** e **spingerà i capitalisti ad adottare metodi produttivi *labour saving*** — a bassa intensità di lavoro —: **l'incremento della disoccupazione che ne seguirà farà di nuovo diminuire il saggio di salario**.*
+
+**È un modello ciclico e auto-correttivo**: accumulazione → più occupazione → salari alti → profitti bassi → innovazione risparmiatrice di lavoro → disoccupazione → salari bassi → e si ricomincia. **L'esercito industriale di riserva è la variabile che tiene il sistema in equilibrio.**
+
+### 54.3 La teoria del fondo dei salari
+
+*Gli autori classici avevano posto l'accento **sull'offerta di lavoro**. Altri autori si soffermano invece sull'analisi **della domanda**.*
+
+> **L'ipotesi centrale**: *la domanda di lavoro **è determinata dalla quantità di capitale destinato a pagare questo fattore** e pertanto **varia al variare dell'accumulazione del capitale**.*
+>
+> **Il salario si calcola dividendo il fondo salari — il capitale disponibile per assumere i lavoratori — per il numero della popolazione salariata in cerca di lavoro.** Si crea così **un tasso naturale di piena occupazione**.
+
+**L'uso politico della teoria, che il manuale segnala esplicitamente** ed è la cosa più interessante del paragrafo:
+
+> *Questa teoria venne utilizzata **per tentare di dimostrare l'inutilità di ogni azione sindacale** volta a modificare il saggio generale di salario o a ritardare il processo di accumulazione del capitale.*
+
+**Il ragionamento sottostante**: se il fondo salari è dato, **un aumento salariale ottenuto dal sindacato per alcuni si traduce necessariamente in disoccupazione per altri** — la somma è fissa. È un argomento potente e, come si vedrà, **sbagliato nella premessa**.
+
+E il manuale aggiunge la nota storica che vale doppio: *per quest'ultima ragione, benché **John Stuart Mill** l'avesse in un secondo momento ripudiata, **essa piacque all'innovazione della classe dirigente**.* **Mill stesso, che l'aveva sostenuta, la rinnegò pubblicamente nel 1869** — un caso raro e notevole di ritrattazione scientifica.
+
+### 54.4 La teoria neoclassica: il salario come prezzo di equilibrio
+
+*La critica alla teoria del fondo salari venne portata avanti in base alla considerazione che **il capitale destinato ai salari non è un fondo fisso, ma varia in base alla produttività del lavoro**.* Si assume cioè che *la ripartizione del reddito disponibile fra investimenti e consumi **non sia fissa, ma si modifichi in funzione delle aspettative di profitto***.
+
+Questo permise *l'elaborazione di schemi molto più raffinati, che tenevano conto anche delle elaborazioni in materia di **analisi marginale**: **il salario venne così considerato come il risultato congiunto della domanda e dell'offerta di lavoro**.*
+
+**Le due definizioni, da sapere alla lettera:**
+
+> **DOMANDA DI LAVORO** = *la quantità di lavoro, o il numero di lavoratori, che le imprese richiedono in un dato momento e a un dato salario.*
+>
+> **OFFERTA DI LAVORO** = *la quantità di ore-lavoro che, in un dato momento e a un dato salario, i lavoratori sono disposti a prestare alle imprese.*
+
+**La regola di comportamento dell'impresa**, che è il cuore marginalista della teoria:
+
+> *L'imprenditore avrà convenienza ad assumere lavoratori **soltanto fino a quando la produttività marginale dell'ultimo lavoratore impiegato è pari al salario che questo lavoratore percepisce**.*
+
+E il motivo per cui la domanda di lavoro è decrescente: *se il salario è basso, l'imprenditore potrà assumere molti lavoratori prima che il salario eguagli la produttività marginale dell'ultimo lavoratore — infatti **la produttività marginale è decrescente**.*
+
+**Il comportamento del lavoratore**: *la disponibilità a svolgere un certo lavoro è determinata dal saggio di salario: **a un salario più alto aumenterà il numero di coloro che si affacceranno sul mercato**; viceversa, se il salario è basso, **sarà minore il numero di coloro che intenderanno rinunciare al proprio tempo libero**.*
+
+---
+
+## 55. GRAFICO 14 — Il mercato del lavoro neoclassico
+
+> ### 📊 **GRAFICO 14 — L'equilibrio neoclassico nel mercato del lavoro**
+>
+> **CHE COSA STA SUGLI ASSI**
+> - **Asse verticale**: il **salario W**.
+> - **Asse orizzontale**: il **numero di lavoratori N**.
+>
+> **CHE COSA SI DISEGNA**
+>
+> - la **curva di DOMANDA di lavoro D**, **decrescente** (per la produttività marginale decrescente);
+> - la **curva di OFFERTA di lavoro O**, **crescente**;
+> - il punto di intersezione **A**, che è **l'equilibrio**.
+>
+> Poi si tracciano **due rette orizzontali** che rappresentano salari **fuori equilibrio**:
+> - **W₁ SOPRA l'equilibrio**: la domanda di lavoro (punto **H**) è **inferiore** all'offerta (punto **E**) — c'è **eccesso di offerta**, cioè disoccupazione;
+> - **W₂ SOTTO l'equilibrio**: la domanda (punto **C**) è **superiore** all'offerta (punto **B**) — c'è **eccesso di domanda**.
+>
+> **QUAL È IL PUNTO CHE CONTA — e questa è la conclusione teorica decisiva**
+>
+> Il manuale spiega **perché per i neoclassici lo squilibrio non dura**:
+>
+> *Se il salario è alto molti lavoratori sono disposti a lavorare, ma **pochi imprenditori assumeranno finché non scenderà il prezzo del salario**; viceversa, se il salario è basso, pochi lavoratori sono disposti a lavorare, per cui **gli imprenditori sono disposti a pagare di più pur di averli**. **Tale processo continuerà fino al raggiungimento del salario di equilibrio (punto A).***
+>
+> E la conseguenza, che va citata testualmente perché è **la tesi classica sulla disoccupazione**:
+>
+> > ***Dunque, per i neoclassici, se vi è disoccupazione questa è sempre VOLONTARIA.***
+>
+> **Come spiegarla, perché è una tesi che suona provocatoria e va resa comprensibile:** nel modello, **chiunque sia disposto a lavorare al salario di equilibrio trova lavoro**. Chi resta senza è chi **rifiuta** quel salario — cioè chi preferisce il tempo libero a quella retribuzione. **È una scelta, non una costrizione.** La disoccupazione è quindi un fenomeno di **preferenze**, non di **fallimento del mercato**. **E se è volontaria, non c'è nulla da correggere con la politica economica.** Questo è il punto che Keynes attaccherà frontalmente.
+
+---
+
+## 56. GRAFICO 15 — La teoria keynesiana e la disoccupazione involontaria
+
+*Keynes **criticò fortemente le ipotesi neoclassiche** sul funzionamento del mercato del lavoro. Pur accettando in linea di massima **la funzione della domanda di lavoro** delle imprese, **dava una diversa interpretazione della curva dell'offerta**.*
+
+**La rottura sta in un solo punto:**
+
+> *L'economista inglese **non accettava l'idea della piena flessibilità dei salari**; la sua curva dell'offerta di lavoro era costruita partendo dall'ipotesi che **i salari monetari fossero RIGIDI VERSO IL BASSO**.*
+
+### I due motivi della rigidità — da sapere entrambi
+
+1. **il potere sindacale**: *in un'economia capitalistica matura **il salario non è determinato da una contrattazione individuale, ma è il risultato dell'azione dei sindacati**, che operano al fine di **non dover ridurre i salari monetari**;*
+2. **l'informazione imperfetta**: *sul mercato del lavoro **non vi è una grande mobilità di informazioni**, per cui **un lavoratore disoccupato difficilmente accetterà una retribuzione più bassa di quella precedente**, almeno fino a quando non sia certo dell'impossibilità di trovare un posto al vecchio salario.*
+
+> **Notate che i due motivi sono di natura diversa** e conviene distinguerli: il primo è **istituzionale** (l'assetto della contrattazione), il secondo è **informativo** (il lavoratore non sa qual è il salario di mercato e resiste al ribasso finché non lo scopre). **Il secondo è particolarmente moderno**: è, in linguaggio odierno, un problema di ***search*** — e ha fruttato il Nobel nel 2010 a Diamond, Mortensen e Pissarides.
+
+> ### 📊 **GRAFICO 15 — Il mercato del lavoro keynesiano**
+>
+> **CHE COSA SI DISEGNA**
+>
+> Gli stessi assi del Grafico 14 (**salario W** in verticale, **lavoratori N** in orizzontale), la stessa **curva di domanda D decrescente**, ma **l'offerta cambia forma**: ha un ***tratto orizzontale*** in corrispondenza del salario **W₁**, sotto il quale **non scende**, e solo oltre quel livello comincia a salire.
+>
+> Si segnano poi:
+> - **W\*** — il salario che **assicurerebbe il pieno impiego** (punto **A**);
+> - **W₁** — il salario effettivo, **superiore a W\***, sotto il quale i salari non possono scendere;
+> - **N₁** — i lavoratori effettivamente assunti al salario W₁;
+> - **N\*** — i lavoratori che sarebbero occupati al salario W\*.
+>
+> **QUAL È IL PUNTO CHE CONTA**
+>
+> Il manuale lo dice con precisione: *se i salari **non possono scendere al di sotto di un determinato livello W₁**, **si creeranno squilibri sul mercato del lavoro**: vi sono infatti **lavoratori disposti a lavorare per un salario pari a W\*** — che assicurerebbe il pieno impiego — **ma essi rimangono disoccupati**, perché le imprese, a un salario W₁, **sono disposte ad assumere solo N₁ lavoratori**.*
+>
+> **Il segmento fra N₁ e N\* è la DISOCCUPAZIONE INVOLONTARIA.** Sono persone che **vorrebbero lavorare al salario corrente e non trovano posto**. Non è una scelta: è un esito del mercato.
+>
+> **E il secondo punto, quello che introduce il ruolo della domanda:**
+>
+> > *Le imprese, d'altra parte, **non basano la loro domanda di lavoro solo sul livello del salario, ma anche sulle aspettative**: se queste sono ottimistiche, perché si ipotizza una **crescita della domanda effettiva**, allora **le imprese domandano lavoro e la disoccupazione si riduce**; se le aspettative sono pessimistiche, **la disoccupazione aumenta**.*
+>
+> **Ecco perché nell'analisi keynesiana la disoccupazione è di tipo involontario** — e, soprattutto, **ecco perché la si combatte sostenendo la domanda aggregata anziché abbassando i salari**. Se le imprese assumono in funzione di quanto si aspettano di vendere, **l'intervento efficace è quello che fa crescere le vendite attese**, non quello che riduce il costo del lavoro.
+
+## 57. Le quattro teorie che spiegano la rigidità dei salari
+
+Il manuale dedica un paragrafo alle spiegazioni **microeconomiche** della vischiosità dei salari — cioè ai modelli che spiegano **perché sia razionale per le imprese non ridurre i salari** anche in presenza di disoccupazione. **Sono quattro, con quattro nomi da ricordare**, e formano un elenco perfetto da orale.
+
+| Teoria | Il meccanismo |
+|---|---|
+| **1. CONTRATTI IMPLICITI** | fra lavoratori e imprese *si crea **una sorta di accordo tacito** che rappresenta **un'assicurazione contro il licenziamento** per i primi e **contro l'eccessiva variabilità del salario** per i secondi*: **quando la congiuntura è favorevole i lavoratori accettano un salario più basso di quello di mercato**, e in cambio **l'impresa si impegna a mantenerlo anche quando la congiuntura sarà sfavorevole** |
+| **2. *SHIRKING*** | *anche in presenza di **un alto tasso di disoccupazione** le imprese **tendono a non ridurre il salario per evitare che i lavoratori si demotivino** e tendano a **scansare (*shirk*) i compiti più pesanti**, con conseguente **riduzione della produttività*** |
+| **3. SALARI D'EFFICIENZA** | *il **livello del salario influenza la produttività** dei lavoratori: **operai pagati meglio producono di più**. Di conseguenza le imprese **rinunciano a ridurre i salari** per evitare che **conflittualità sindacale e demotivazione facciano diminuire la produttività in misura superiore al risparmio sui salari*** |
+| **4. *INSIDER-OUTSIDER*** | i salari sono rigidi *a causa della **contrapposizione fra gli *insider*** — i lavoratori con esperienza, che hanno un potere contrattuale significativo — **e gli *outsider***, i non occupati: questi ultimi **sarebbero disposti a lavorare per meno, ma gli insider si oppongono alla loro assunzione perché non vogliono accettare una riduzione del proprio salario* |
+
+> **Come presentarle all'orale, perché l'elenco da solo non basta.** *«Sono quattro spiegazioni microeconomiche di uno stesso fatto: **la rigidità del salario non è irrazionalità né mera imposizione sindacale, ma può essere il comportamento ottimale dell'impresa**.*
+>
+> ***I contratti impliciti** la spiegano come **assicurazione**: il lavoratore accetta meno nei periodi buoni in cambio della garanzia nei periodi cattivi. **Shirking e salari d'efficienza** la spiegano come **investimento in produttività**: tagliare il salario costa più di quanto faccia risparmiare, perché deprime lo sforzo. **Insider-outsider** la spiega come **conflitto distributivo interno alla forza lavoro**: chi è dentro impedisce l'ingresso di chi è fuori.*
+>
+> ***Le prime tre sono spiegazioni di efficienza, la quarta è una spiegazione di potere.** E hanno implicazioni di politica economica diverse: se vale l'insider-outsider, le riforme del mercato del lavoro che riducono la protezione degli insider possono aumentare l'occupazione; se valgono i salari d'efficienza, **comprimere i salari è controproducente anche per l'impresa**.»*
+>
+> *(Notate che **shirking e salari d'efficienza sono due facce dello stesso problema di* moral hazard*** che avete studiato in scienza delle finanze, §21 della dispensa 07: l'impresa non osserva perfettamente lo sforzo del lavoratore, e usa il salario come strumento di incentivo. **È un problema di asimmetria informativa risolto con un prezzo fuori equilibrio.** Dirlo è uno dei collegamenti più forti possibili fra le due materie.)*
+
+## 58. Le caratteristiche del mercato del lavoro
+
+Un paragrafo breve ma con **tre concetti citabili**.
+
+**Il mercato del lavoro non è un mercato come gli altri.** *Non è un grande spazio in cui convergono tutti coloro che sono in cerca di lavoro e tutti gli imprenditori, ma **la contrattazione salariale si svolge fra i rappresentanti delle associazioni di ciascuna categoria**.*
+
+> **Ecco perché il mercato del lavoro viene spesso assimilato a un MONOPOLIO BILATERALE**, in cui *non operano singoli lavoratori e singoli imprenditori, ma **i sindacati dei lavoratori da un lato e quelli dei datori di lavoro dall'altro**.*
+
+**Il monopolio bilaterale è il termine tecnico da usare**, e la sua conseguenza teorica va detta: in un monopolio bilaterale **il prezzo non è determinato dalle forze di mercato ma dal potere contrattuale relativo delle parti**, e **la teoria non è in grado di prevederlo con precisione** — indica solo un intervallo entro cui l'esito cadrà.
+
+**I tre ruoli dello Stato**, da elencare:
+
+| Ruolo | In che consiste |
+|---|---|
+| **Datore di lavoro** | *la pubblica amministrazione e gli altri enti pubblici **assorbono un numero non esiguo di forza-lavoro*** |
+| **Mediatore** | *nelle **contrattazioni collettive** fra associazioni imprenditoriali e sindacati* |
+| **Legislatore** | *quando emana **norme che pongono particolari vincoli** sia agli imprenditori sia ai lavoratori* |
+
+**E due caratteristiche strutturali:**
+- **la SEGMENTAZIONE**, che *deriva dalla **molteplicità di qualifiche e specializzazioni lavorative**, che impongono anche **differenziazioni salariali***;
+- **la VARIABILITÀ DI DIMENSIONE**, che consegue *alla crescente specializzazione del lavoro, **non solo da una professione a un'altra ma anche da un settore economico a un altro***.
+
+> **La segmentazione ha una conseguenza che vale la pena trarre**, perché prepara il §62: **se il mercato del lavoro è segmentato, non esiste "il" mercato del lavoro ma molti mercati paralleli poco comunicanti**. Un eccesso di domanda di infermieri non si risolve con un eccesso di offerta di architetti. **È precisamente l'origine della disoccupazione strutturale**, e la ragione per cui si può avere contemporaneamente disoccupazione e posti vacanti.
+
+---
+
+## 59. GRAFICI 16-17 — La domanda e l'offerta di lavoro
+
+> ### 📊 **GRAFICO 16 — La domanda di lavoro**
+>
+> **CHE COSA STA SUGLI ASSI** — **salario W** in verticale, **quantità di lavoro L** in orizzontale.
+>
+> **CHE COSA SI DISEGNA** — *la domanda di lavoro è **una retta (o curva) inclinata negativamente verso destra**, poiché **a un aumento del livello dei salari corrisponde una diminuzione della domanda** e viceversa.*
+>
+> **QUAL È IL PUNTO CHE CONTA — la spiegazione dell'inclinazione, che è tutta marginalista**
+>
+> Il manuale la dà per intero e va saputa: *l'inclinazione **è il risultato dell'andamento della produttività marginale del fattore lavoro**. **La produttività marginale è decrescente**: ogni volta che aumentiamo di 1 unità l'impiego di un fattore, fermi restando gli altri, **la sua produttività marginale diminuisce**. Per questo motivo **l'impresa assumerà lavoratori finché il valore del prodotto marginale è uguale al prezzo del fattore, cioè al salario**.*
+>
+> **La regola decisionale, da dire così:** *«Finché la produttività di un nuovo lavoratore è superiore al salario, **l'impresa ha convenienza ad assumerlo**. Quando la produttività marginale dell'ultimo lavoratore **eguaglia il salario**, l'impresa si ferma: assumere ancora significherebbe **pagare un salario a un lavoratore la cui produttività è più bassa**.»*
+
+> ### 📊 **GRAFICO 17 — L'OFFERTA DI LAVORO A «Z»**
+>
+> **È il grafico più curioso e meno noto del capitolo, e proprio per questo può fare una figura eccellente.**
+>
+> **Il punto di partenza** è che le teorie più recenti ritengono che, per analizzare correttamente l'offerta di lavoro, occorra tener conto *di alcuni fenomeni tipici delle società avanzate quali **la preferenza per il tempo libero**, le dimissioni volontarie in prospettiva di un lavoro meglio retribuito e così via*.
+>
+> **I due effetti contrastanti di un aumento salariale**, che il manuale espone e che sono la chiave del grafico:
+> - **un aumento dell'offerta di ore di lavoro**, con la rinuncia a parte del tempo libero (**effetto di sostituzione**: il tempo libero è diventato più costoso);
+> - *oppure* **una riduzione delle ore di lavoro** e un incremento del tempo libero, perché *il lavoratore conseguirebbe **lo stesso reddito** lavorando di meno* (**effetto di reddito**).
+>
+> *Ciò vuol dire che **per alti livelli di salario la curva di offerta del lavoro, anziché essere crescente, assumerebbe un andamento negativo**.*
+>
+> **CHE COSA SI DISEGNA — la curva a Z, nei suoi quattro tratti**
+>
+> | Tratto | Che cosa accade | Il perché, nelle parole del manuale |
+> |---|---|---|
+> | **1** — salario **molto basso** | **l'offerta è alta** | *il bisogno spinge a **lavorare più ore** per ottenere un reddito che assicuri alla famiglia un tenore di vita migliore* |
+> | **2** — il salario **aumenta** | **l'offerta DIMINUISCE** | *se aumenta il reddito **non sarà necessario aumentare il ritmo del lavoro*** |
+> | **3** — il salario **aumenta ulteriormente** | **l'offerta torna a CRESCERE** | *la maggiore quantità di lavoro prestato **rende possibile il conseguimento di un tenore di vita superiore*** |
+> | **4** — **ogni successivo aumento** | **l'offerta DIMINUISCE** | *il tenore di vita acquisito **gratifica il lavoratore**, che non avrà alcun incentivo a lavorare ulteriormente* |
+>
+> **QUAL È IL PUNTO CHE CONTA**
+>
+> **La curva di offerta di lavoro non è monotòna.** A differenza di quasi tutte le curve di offerta dell'economia, **non sale sempre**: alterna tratti crescenti e decrescenti, perché **effetto di reddito ed effetto di sostituzione si alternano nel prevalere**.
+>
+> **La conseguenza di politica economica, che è quella che interessa:** **non si può dare per scontato che alzare i salari netti aumenti l'offerta di lavoro.** Una riduzione del cuneo fiscale può aumentare le ore offerte o ridurle, **a seconda del tratto in cui si trova quella categoria di lavoratori**. È un'osservazione che vale molto, perché mostra che la relazione più intuitiva della materia **non è affatto garantita**.
+>
+> **E i fattori non economici**, che il manuale aggiunge e che vale la pena riportare: *sull'andamento dell'offerta di lavoro **non influiscono solo fattori economici ma anche culturali e sociali**.* Cita il **livello d'istruzione** e l'**esperienza professionale**, e poi — con un esempio molto concreto — **le differenze di genere**: *in Italia **il numero maggiore di lavoratori part-time si registra fra le donne**, e ciò per almeno due motivi: il primo è **il ruolo principale loro demandato nella cura dei figli**, l'altro **la scarsa assistenza pubblica con politiche di sostegno alle madri lavoratrici** — come asili pubblici che pratichino orari prolungati.*
+>
+> *(Questo passaggio è utile due volte: è un dato di realtà sul mercato del lavoro italiano, ed è **un esempio di come una politica pubblica — l'offerta di servizi per l'infanzia — agisca sull'offerta di lavoro**. Se la commissione porta il discorso sulle politiche attive, è un collegamento pronto.)*
+
+---
+
+## 60. La disoccupazione: le definizioni ISTAT
+
+Questo paragrafo è **da sapere alla lettera**, perché le definizioni statistiche sono precise e una commissione può verificarle. Sono peraltro **le stesse che avete già studiato nella dispensa 06 di statistica economica**: ritrovarle qui è un'occasione di ripasso, non di studio nuovo.
+
+### La rilevazione
+
+*Per monitorare l'andamento del mercato del lavoro, in riferimento al fenomeno della disoccupazione, **l'ISTAT effettua un'indagine su un campione ponderato di famiglie**. L'indagine campionaria è denominata **continua** in quanto **le informazioni sono raccolte in tutte le settimane dell'anno e non più in una singola settimana per trimestre**, come accadeva sino a qualche anno fa. I risultati continuano comunque a essere **diffusi con cadenza trimestrale**.*
+
+Tutti i familiari **in età da lavoro** — *ossia quelli che hanno superato i **15 anni**, che erano **14 prima dell'adeguamento alla normativa comunitaria*** — vengono ripartiti in **una delle tre categorie**.
+
+### Le tre categorie — con le soglie numeriche
+
+> **a) OCCUPATI.** *Rientrano in questa categoria tutte le persone aventi **almeno 15 anni** che nella settimana di riferimento:*
+> - *hanno svolto **almeno UN'ORA di lavoro** in una qualsiasi attività che preveda **un corrispettivo monetario o in natura**;*
+> - *hanno svolto **almeno un'ora di lavoro NON RETRIBUITO nella ditta di un familiare** nella quale collaborano abitualmente;*
+> - *sono **assenti dal lavoro** (ad esempio per ferie o per malattia).*
+
+> **b) PERSONE IN CERCA DI OCCUPAZIONE.** *Persone **non occupate in età lavorativa** che:*
+> - *hanno effettuato **almeno un'azione attiva di ricerca di lavoro nei 30 giorni** che precedono la rilevazione **e sono disponibili a lavorare entro le due settimane successive**;*
+> - *oppure **inizieranno un lavoro entro tre mesi** dalla rilevazione **e sono disponibili a lavorare entro le due settimane** qualora fosse possibile anticiparne l'inizio.*
+
+> **OCCUPATI + PERSONE IN CERCA DI OCCUPAZIONE = FORZA LAVORO**
+
+> **c) NON FORZA LAVORO (inattivi).** *Categoria **residuale**: tutte le persone che **non fanno parte di nessuna delle due categorie precedenti** — cioè **coloro che hanno dichiarato di non aver lavorato né di aver cercato lavoro** nel periodo di riferimento: casalinghe, studenti, ritirati dal lavoro per età o per invalidità.*
+
+**Le tre soglie da non sbagliare: UN'ORA, TRENTA GIORNI, DUE SETTIMANE.** Sono i numeri che una commissione usa per verificare se avete studiato o improvvisato.
+
+> **La conseguenza da segnalare, perché è quella che rende le definizioni interessanti:** **basta un'ora di lavoro nella settimana per essere contati come occupati.** Questo significa che **il tasso di occupazione non misura la quantità di lavoro**, ma il numero di persone che ne hanno svolto un minimo. **Un paese può aumentare l'occupazione senza aumentare le ore lavorate**, se cresce il part-time involontario. È una critica standard alle statistiche del lavoro e mostra che avete capito che cosa misurano davvero.
+
+### I lavoratori scoraggiati
+
+Il manuale dedica un passaggio a una categoria che vale la pena conoscere:
+
+> *Una **percentuale crescente della non forza lavoro** è rappresentata dai cosiddetti **LAVORATORI SCORAGGIATI**, cioè coloro che — secondo la definizione dell'ISTAT — **non cercano occupazione perché ritengono di essere troppo giovani o troppo vecchi, di non avere professionalità richieste, o più semplicemente perché ritengono non esistano occasioni di impiego nel mercato del lavoro locale**.*
+
+> **Perché è un concetto importante, e come spenderlo:** **lo scoraggiato non è contato fra i disoccupati** — perché non cerca attivamente — **ma non è neppure realmente inattivo**, perché lavorerebbe se ci fosse lavoro. **Statisticamente sparisce dalla forza lavoro.**
+>
+> **La conseguenza è paradossale e va detta**: **quando molti disoccupati si scoraggiano, il tasso di disoccupazione SCENDE** — non perché trovino lavoro, ma perché **escono dal denominatore**. **Un calo della disoccupazione può quindi essere un segnale negativo.** È precisamente la ragione per cui gli statistici affiancano al tasso ufficiale **misure allargate di sottoccupazione**, e per cui in Italia il divario fra tasso di disoccupazione e tasso di occupazione è così informativo.
+
+### I due indicatori
+
+> **(1) TASSO DI ATTIVITÀ** (detto anche **tasso di partecipazione**) **= forza lavoro / popolazione in età lavorativa**
+>
+> **(2) TASSO DI DISOCCUPAZIONE = numero di disoccupati / forza lavoro**
+
+**Attenzione al denominatore**, che è l'errore più frequente: il tasso di attività ha al denominatore **la popolazione in età lavorativa**; il tasso di disoccupazione ha al denominatore **la forza lavoro**, non la popolazione.
+
+**Le quattro cause di variazione del tasso di attività**, che il manuale elenca — e notate che **due spingono in un senso e due nell'altro**:
+
+| Fattore | Effetto sul tasso di attività |
+|---|---|
+| **Invecchiamento della popolazione** | ↓ — *per l'allungamento della vita media **cresce la popolazione inattiva e diminuisce la forza lavoro*** |
+| **Prolungamento della durata media degli studi** | ↓ — *i giovani **ritardano l'ingresso** sul mercato del lavoro* |
+| **Crescita dell'occupazione femminile** | ↑ — *la riduzione del numero di casalinghe ha indotto **un progressivo aumento della forza lavoro***, con **effetto di segno contrario** ai precedenti |
+| **Immigrazione** | ↑ — *costituita prevalentemente da **giovani attivamente alla ricerca di un'occupazione*** |
+
+## 61. Flussi e durata della disoccupazione
+
+Il manuale introduce **una prospettiva dinamica** che è molto utile all'orale, perché sposta l'attenzione dallo *stock* al *flusso*.
+
+**I flussi di ENTRATA nella disoccupazione** provengono da:
+- **l'area dell'occupazione** (licenziamenti, dimissioni);
+- **la popolazione non attiva** (chi entra per la prima volta nel mercato del lavoro);
+- **l'immigrazione**.
+
+**I flussi di USCITA** sono diretti a:
+- **l'area dell'occupazione** (assunzioni);
+- **la popolazione non attiva** — *giovani disoccupati che riprendono gli studi, donne che decidono di dedicarsi al lavoro casalingo*;
+- **l'emigrazione**;
+- **altri (decessi)**.
+
+> **La regola:** *tanto più intenso è il flusso d'entrata, tanto più è elevato il tasso di disoccupazione, che al contrario si riduce quando aumentano i flussi in uscita. **Se il tasso di disoccupazione è stabile, significa che i flussi in entrata e in uscita si compensano perfettamente.***
+
+**L'osservazione acuta del manuale, da riportare:** *si esce dalla condizione di disoccupato **non solo perché si trova lavoro, ma anche per altre ragioni**.* **Quindi la durata media della disoccupazione non corrisponde al tempo necessario per trovare un'occupazione.** È la stessa avvertenza dei lavoratori scoraggiati, vista dal lato dei flussi.
+
+### I tre fattori che determinano la durata
+
+**1. Le fasi del ciclo economico.** *Il tempo medio può essere **breve nelle fasi di espansione**, ma **molto lungo nelle fasi di recessione**.* E la definizione tecnica: *quando la permanenza nella condizione di disoccupazione **è superiore a un anno** si parla di **disoccupazione di lunga durata**.*
+
+**2. La flessibilità del mercato del lavoro.** *Nei paesi europei che presentano **una maggiore regolamentazione** rispetto ad altri sistemi, **la durata della disoccupazione è maggiore**; ciò può valere soprattutto **per i giovani che si affacciano per la prima volta sul mercato**.*
+
+**3. La normativa di sostegno ai disoccupati** — ed è il passaggio più sfumato, che il manuale svolge con equilibrio:
+
+> *La presenza di **sussidi di disoccupazione** o di altre forme di sostegno economico **potrebbe disincentivare gli individui ad accettare qualsiasi tipo di lavoro**, prolungando in questo modo la durata media della disoccupazione. Inoltre, **quando l'ammontare dei sussidi non è molto inferiore a quanto verrebbe percepito lavorando, le imprese possono essere più disposte a licenziare** in caso di calo temporaneo della domanda.*
+
+**Ma il manuale chiude con un'importante precisazione**, che è la cosa da riportare se volete una risposta equilibrata: *questi effetti sono ovviamente **poco determinanti per quei Paesi, come l'Italia, dove l'entità del sussidio di disoccupazione è del tutto irrilevante**.*
+
+> **Come esporre il punto senza sbilanciarsi.** *«L'argomento teorico è che un sussidio generoso allunga la durata della ricerca, perché **aumenta il salario di riserva** del disoccupato. È un effetto reale e documentato. **Va però pesato su due fronti**: da un lato **il sussidio permette una ricerca migliore**, e quindi un incontro più efficiente fra competenze e posto — non è solo tempo perso; dall'altro **la sua rilevanza dipende dalla generosità effettiva**, e il manuale stesso osserva che in Italia l'entità del sussidio rende l'effetto marginale. **La soluzione moderna è la condizionalità**: sussidio legato alla partecipazione a politiche attive, che è il modello della flexicurity nordica.»*
+
+---
+
+## 62. I TRE TIPI DI DISOCCUPAZIONE
+
+**È l'elenco più chiesto del capitolo**, e va saputo con le definizioni, gli esempi e i numeri.
+
+### 1. Disoccupazione FRIZIONALE
+
+> *Una **condizione momentanea di disoccupazione** che si crea a seguito dello **squilibrio fra flussi di entrata e flussi di uscita** dal mercato del lavoro.*
+
+**Il perché**: *può accadere che sul mercato vi siano **contemporaneamente posti di lavoro liberi da un lato e disoccupati dall'altro**. Ciò dipende dal fatto che **il mercato del lavoro non funziona in modo perfetto e automatico ma presenta alcune frizioni**.*
+
+**Chi la compone**: *lavoratori **in attesa di passare da un'occupazione a un'altra**; persone che **cercano un'occupazione migliore** — cioè occupati che sono però attivamente alla ricerca; individui **temporaneamente inattivi perché in attesa di iniziare un'attività lavorativa**.*
+
+**Il dato e la conseguenza teorica, che è decisiva:**
+
+> *Quando la disoccupazione frizionale è anche **l'unica forma di disoccupazione presente**, si dice che **il sistema economico è in una condizione di PIENO IMPIEGO** (il prodotto effettivo è pari al livello potenziale). Il tasso di disoccupazione frizionale può variare da paese a paese, ma **generalmente si stima che sia compreso fra il 2 e il 5%**.*
+
+> **Questo è il punto da capire bene: «pieno impiego» NON significa disoccupazione zero.** Significa **disoccupazione pari a quella frizionale**. E la ragione è quasi confortante: **in un'economia viva le persone cambiano lavoro**, e il passaggio richiede tempo. **Una disoccupazione frizionale nulla segnalerebbe un'economia immobile**, non un'economia sana. È anche la definizione operativa del **tasso naturale** che incontreremo al §67.
+
+### 2. Disoccupazione CICLICA (o congiunturale)
+
+> *Viene considerata **disoccupazione di breve periodo** e si determina **quando la domanda complessiva di lavoro è scarsa rispetto all'offerta**. Si manifesta **soprattutto nelle fasi di recessione dell'economia**: quando la domanda di beni e servizi è insufficiente, **le imprese riducono la produzione e di conseguenza l'occupazione ne risente**.*
+
+**È la disoccupazione keynesiana per eccellenza**: nasce da un deficit di domanda aggregata, e si cura con politiche espansive.
+
+> **LA LEGGE DI OKUN**, che il manuale riporta ed è **assolutamente da sapere** — è uno di quei risultati con un numero, e i numeri si ricordano:
+>
+> *L'economista americano **Arthur Okun** studiò **la relazione empirica fra crescita economica e disoccupazione**: **ogni diminuzione del PIL di circa il 2-2,5% rispetto al suo valore potenziale comporta un aumento del tasso di disoccupazione dell'1%**.*
+>
+> **Come presentarla**: *«È una **regolarità empirica, non una legge teorica** — Okun la ricavò dai dati statunitensi. Dice che **il legame fra prodotto e occupazione esiste ma non è uno a uno**: servono circa due punti di PIL perduti per generare un punto di disoccupazione in più. **La ragione è che le imprese, di fronte a un calo temporaneo della domanda, non licenziano subito** — riducono gli straordinari, usano gli ammortizzatori, trattengono i lavoratori qualificati in cui hanno investito. **È il fenomeno del *labour hoarding*.** Il coefficiente varia quindi da paese a paese in funzione della rigidità del mercato del lavoro.»*
+>
+> *(La avete già incontrata nella dispensa 06 di statistica economica, nel capitolo sul mercato del lavoro. È un ottimo punto di raccordo fra le due materie.)*
+
+### 3. Disoccupazione STRUTTURALE
+
+> *Riguarda **il lungo periodo** e si verifica quando esistono **squilibri profondi e permanenti fra domanda e offerta di lavoro**. Si manifesta **sia in termini quantitativi sia qualitativi**.*
+
+**Il paradosso che la caratterizza**, formulato dal manuale: *in questi casi, **anche se paradossalmente la domanda di lavoro fosse pari all'offerta**, si potrebbe avere **una parte di forza lavoro eccedente**.*
+
+**Gli esempi dati**: *la disoccupazione **tecnologica**; il **settore agricolo** nel nostro paese; e — per alcuni aspetti — **la disoccupazione esistente nel Mezzogiorno**.*
+
+> **Come spiegare il paradosso, perché è la parte che conta:** *«La disoccupazione strutturale è quella in cui **i disoccupati e i posti vacanti esistono contemporaneamente ma non si incontrano**, perché **non coincidono per competenze, per settore o per territorio**. Un operaio tessile disoccupato in Puglia non copre un posto vacante da programmatore a Milano. **La domanda e l'offerta aggregate possono anche pareggiare: è la loro composizione a non corrispondere.***
+>
+> ***Per questo la disoccupazione strutturale NON si cura con politiche della domanda**: stimolare la spesa aggregata non trasforma un tessile in un programmatore. **Si cura con politiche dell'offerta**: formazione professionale, riqualificazione, mobilità territoriale, servizi per l'impiego. **È la disoccupazione più difficile da combattere e la più persistente.**»*
+
+### La distinzione volontaria / involontaria
+
+Il manuale chiude con **una seconda classificazione**, trasversale alla prima:
+
+| | Definizione |
+|---|---|
+| **Disoccupazione VOLONTARIA** | *si verifica quando, **pur in presenza di una situazione di equilibrio sul mercato del lavoro**, **esiste una parte di lavoratori disposti a lavorare solo per un salario superiore a quello che si determina dall'incontro fra domanda e offerta*** |
+| **Disoccupazione INVOLONTARIA** | *riguarda quei lavoratori che **sarebbero disposti a lavorare per il salario corrente o di mercato ma non riescono a farlo**, perché **la domanda di lavoro da parte delle imprese è già interamente soddisfatta*** |
+
+E la conclusione che chiude il cerchio con i §55-56:
+
+> *La distinzione **è legata alla diversa visione del mondo che le teorie economiche accolgono**: **per i classici la disoccupazione può essere solo volontaria, mentre per i keynesiani è sempre involontaria**.*
+
+> **La tabella riassuntiva che conviene avere in testa — e che è il modo migliore di rispondere a «quali tipi di disoccupazione conosce?»:**
+>
+> | Tipo | Orizzonte | Causa | **Cura** |
+> |---|---|---|---|
+> | **Frizionale** | momentanea | attriti nell'incontro domanda-offerta | **servizi per l'impiego, informazione** — è **fisiologica**, non si elimina |
+> | **Ciclica** | breve periodo | **carenza di domanda aggregata** | **politiche della domanda**: fiscale e monetaria espansive |
+> | **Strutturale** | lungo periodo | **disallineamento** di competenze, settori, territori | **politiche dell'offerta**: formazione, mobilità, riqualificazione |
+>
+> **La colonna della cura è quella che vale la lode**, perché mostra che avete capito **che a tipi diversi di disoccupazione corrispondono strumenti diversi**, e che usare lo strumento sbagliato non funziona.
+
+---
+
+## 63. L'inflazione: definizione, misura, intensità
+
+### Le definizioni
+
+> **INFLAZIONE** = *l'**aumento persistente del livello generale dei prezzi** e la conseguente **riduzione del potere d'acquisto della moneta**.*
+>
+> **TASSO DI INFLAZIONE** = *il **tasso percentuale di aumento del livello dei prezzi** in un determinato periodo di tempo, di solito un anno.*
+>
+> **tasso di inflazione = (P_{t+1} − P_t) / P_t**
+
+**L'esempio numerico del manuale**: *se i prezzi al tempo *t* sono pari a **100** e nel periodo successivo salgono a **110**, il tasso di inflazione sarà pari al **10%**.*
+
+**Due parole della definizione meritano attenzione**, e sottolinearle fa la differenza:
+- **«persistente»** — un rialzo isolato di un prezzo, o un rincaro una tantum, **non è inflazione**; l'inflazione è un processo continuato;
+- **«livello GENERALE»** — non il prezzo di un bene, ma **la media ponderata di tutti i prezzi**. L'aumento del prezzo di un singolo bene è un **cambiamento di prezzo relativo**, che ha un significato economico opposto: segnala scarsità di quel bene e riorienta le risorse. **L'inflazione, invece, distrugge l'informazione contenuta nei prezzi relativi** — ed è questo il suo danno allocativo, già visto al §3.
+
+### La misura: i tre indici ISTAT
+
+*Per misurare il livello dei prezzi **si utilizzano i numeri indici**, che consistono in **rapporti matematici che consentono di confrontare l'intensità di un fenomeno in situazioni temporali e spaziali differenti**.* In Italia **l'ISTAT fa riferimento a tre indici dei prezzi**:
+
+| Indice | Popolazione di riferimento | Note |
+|---|---|---|
+| **NIC** — indice nazionale dei prezzi al consumo **per l'intera collettività** | *la **popolazione presente sul territorio nazionale*** | **è l'indice principale** del sistema, impiegato dall'ISTAT **a partire dal 1999** |
+| **FOI** — indice dei prezzi al consumo **per le famiglie di operai e impiegati** | *l'insieme delle **famiglie residenti che fanno capo a un operaio o un impiegato*** | indice **speciale**; tiene conto dei **consumi dei lavoratori non agricoli** |
+| **IPCA** — indice **armonizzato** dei prezzi al consumo per i paesi dell'UE | **la stessa del NIC** | indice **speciale**; si limita a **quei beni e servizi i cui regimi di prezzi sono comparabili** nei diversi paesi dell'Unione |
+
+**Le tre differenze tecniche fra gli indici**, che il manuale espone e che sono **esattamente il tipo di dettaglio su cui si viene interrogati**:
+
+1. **il paniere e i pesi**: *NIC e FOI **tengono conto dello stesso paniere, ma il peso attribuito a ogni bene è diverso**, perché dipende dall'importanza che questi rivestono nei consumi della popolazione di riferimento*;
+2. **le esclusioni**: *l'IPCA ha la stessa popolazione del NIC, ma **il paniere esclude, sulla base di un accordo comunitario, le lotterie, il lotto e i concorsi pronostici***;
+3. **il concetto di prezzo — ed è la differenza più importante**: *NIC e FOI **considerano sempre il prezzo pieno di vendita**. **L'IPCA tiene invece conto del prezzo effettivamente pagato dal consumatore e delle riduzioni temporanee di prezzo, come saldi e promozioni**.*
+
+**Il paniere** *viene **annualmente aggiornato dall'ISTAT e tenuto fisso per l'intero anno***, ed è costruito sulla base dei beni *che hanno un peso maggiore nelle decisioni di spesa delle famiglie considerate*.
+
+> **La domanda che una commissione può fare: «quale indice si usa per che cosa?»** La risposta: il **FOI** è quello storicamente usato per **l'adeguamento di valori monetari** (affitti, assegni, rivalutazione monetaria ex art. 150 disp. att. c.p.c.); l'**IPCA** è quello usato **per i confronti europei e per la verifica del criterio di convergenza sull'inflazione**, ed è il riferimento della BCE; il **NIC** è l'indice generale del sistema. *(Il collegamento con statistica economica, dispensa 06, è integrale: là questi indici sono trattati con Laspeyres, Paasche e Fisher.)*
+
+### Il deflatore del PIL
+
+*È possibile determinare l'andamento dei prezzi anche costruendo indici che hanno come riferimento **alcune grandezze di contabilità nazionale**; fra questi **il più indicativo è il deflatore del PIL**, che non è altro che **un indice dei prezzi che, se rapportato al PIL nominale, consente di ottenere il PIL reale**.*
+
+**L'esempio numerico del manuale, che conviene ripercorrere perché è chiarissimo:**
+
+| | Anno 1 | Anno 2 |
+|---|---|---|
+| Litri di latte prodotti | 1.000 | 1.100 |
+| Prezzo al litro | 2,00 € | 2,50 € |
+| **PIL nominale** | **2.000 €** | **2.750 €** |
+
+*Il PIL nominale è cresciuto del **37,5%**. Assumendo l'anno 1 come **anno base** e ponendo **P = 1**, nell'anno 2 il deflatore è **2,50/2,00 = 1,25**. Il **PIL reale** è quindi: anno 1 → 2.000/1 = **2.000 €**; anno 2 → 2.750/1,25 = **2.200 €**.*
+
+> **Il risultato da far notare, perché è tutto il senso dell'esercizio:** **il PIL nominale è cresciuto del 37,5%, quello reale solo del 10%.** La differenza — **27,5 punti** — **è inflazione, non crescita**. *(E notate che il 10% corrisponde esattamente all'aumento della quantità fisica: da 1.000 a 1.100 litri. **Il deflatore ha fatto esattamente il suo mestiere**: ha separato quantità e prezzi.)*
+>
+> **La differenza fra deflatore del PIL e indice dei prezzi al consumo**, se la commissione la chiede: il **deflatore** copre **tutti i beni prodotti internamente**, compresi investimenti e spesa pubblica, **ma esclude le importazioni**; l'**indice dei prezzi al consumo** copre **solo il paniere dei consumi delle famiglie**, **ma include i beni importati**. **Possono quindi divergere**: un rincaro del petrolio importato alza l'indice dei consumi ma **non** il deflatore del PIL.
+
+### Le tre intensità dell'inflazione
+
+| Tipo | Caratteristiche |
+|---|---|
+| **INFLAZIONE STRISCIANTE** | *il tasso ha **un andamento piuttosto costante**. È considerata **un fenomeno normale, NON patologico**, dell'economia di mercato* |
+| **INFLAZIONE GALOPPANTE** | *si manifesta con **un aumento progressivo dei prezzi difficilmente controllabile**. Il tasso annuo può essere **pari al 7-9% e crescere fino al 15-20%*** |
+| **IPERINFLAZIONE** | *la crescita è **talmente rapida che la moneta perde praticamente del tutto il suo valore** e quindi **la sua funzione di intermediario degli scambi*** |
+
+**Gli esempi storici del manuale, che sono ottimi da citare:**
+- **l'inflazione tedesca del 1923**, *in cui si raggiunse **un tasso mensile del 300%**: il marco perse così tanto valore da **costringere le persone a recarsi a fare la spesa con carriole piene di soldi***;
+- i **paesi dell'America Latina**, con tassi annuali *compresi fra il **2000% di Brasile e Argentina** e il **7000% del Perù***;
+- lo **Zimbabwe a partire dal 2007**, con *tassi d'inflazione inimmaginabili*.
+
+**E il fenomeno opposto**: *il fenomeno contrario all'inflazione è detto **DEFLAZIONE** e si manifesta con **la riduzione del livello generale dei prezzi**.*
+
+> **L'osservazione che collega l'iperinflazione alla teoria**: notate che l'iperinflazione **distrugge le funzioni della moneta nell'ordine esatto in cui le abbiamo studiate al §27**: prima la **riserva di valore** (nessuno tiene moneta), poi **l'intermediario degli scambi** (si torna al baratto o a valute estere), infine **l'unità di conto** (si comincia a fare i prezzi in dollari). **L'iperinflazione è, letteralmente, la morte della moneta** — ed è il motivo per cui la stabilità dei prezzi è un obiettivo così difeso.
+
+---
+
+## 64. Gli effetti dell'inflazione
+
+*Le conseguenze che un processo inflazionistico produce sull'economia di un paese **sono numerose**.* Il manuale le organizza per **soggetti colpiti**, ed è il modo giusto di esporle.
+
+### Chi perde e chi guadagna
+
+| Categoria | Effetto |
+|---|---|
+| **Percettori di redditi FISSI** (lavoratori dipendenti, pensionati) | **DANNEGGIATI**: *devono provvedere ai propri fabbisogni **con un reddito che in termini reali risulta più basso** di quello percepito prima dell'aumento dei prezzi* |
+| **Percettori di redditi VARIABILI** (imprenditori, commercianti) | **inizialmente AVVANTAGGIATI**: *in tale contesto **i profitti crescono insieme ai prezzi**. L'inizio di una fase inflazionistica **potrebbe dunque stimolare gli investimenti*** |
+| **PRESTATORI di fondi (creditori)** | **DANNEGGIATI**: *le **somme rimborsate alla scadenza hanno un valore inferiore** rispetto a quando furono prestate* |
+| **DEBITORI** | **AVVANTAGGIATI**, *per il ragionamento inverso* |
+
+> **Il principio generale, da enunciare così:** *«**L'inflazione ridistribuisce ricchezza dai creditori ai debitori e dai redditi fissi ai redditi variabili.** Non è quindi un fenomeno distributivamente neutro: **è una redistribuzione che avviene senza deliberazione e senza che nessuno l'abbia decisa**.»*
+>
+> **E l'implicazione sul debito pubblico, che vale la pena trarre perché lega a scienza delle finanze:** **lo Stato è il maggiore debitore del sistema**, quindi **l'inflazione erode il valore reale del debito pubblico**. È la ragione per cui l'inflazione è storicamente considerata **una forma occulta di imposta patrimoniale sui detentori di titoli**, e perché avete visto nella dispensa 07 (§28) la **monetizzazione** fra le vie d'uscita dal debito.
+
+### La scala mobile
+
+*Per contenere la perdita del potere d'acquisto dei redditi da lavoro **si è, in passato, fatto ricorso a meccanismi di indicizzazione automatica (la cosiddetta scala mobile)** che **periodicamente adeguavano il livello dei salari all'aumento dei prezzi** di un determinato paniere di beni.*
+
+*(Aggiornamento utile: in Italia la scala mobile fu introdotta nel 1945, ridotta con il «decreto di San Valentino» del 1984 e definitivamente abolita con il **protocollo del 31 luglio 1993**, che la sostituì con una contrattazione a due livelli ancorata **all'inflazione programmata**. La ragione dell'abolizione è al §65: **l'indicizzazione automatica alimenta l'inflazione inerziale**.)*
+
+### Il circolo vizioso dell'incertezza
+
+Il manuale costruisce una catena che vale la pena seguire per intero, perché è il meccanismo per cui **l'inflazione, da stimolo iniziale, diventa un freno**:
+
+1. *in presenza di **una crescita costante del tasso di inflazione** si determina **un clima di grande incertezza e sfiducia** nelle aspettative economiche sia dei produttori sia dei consumatori;*
+2. *la prospettiva di prezzi in continua ascesa induce i consumatori **a ridurre il proprio risparmio sotto forma di depositi bancari e titoli non indicizzati** e **a investire le proprie riserve monetarie in beni durevoli** — appartamenti, terreni, oro — **meno soggetti a perdite di valore**;*
+3. *la **riduzione dell'offerta di risparmio** genera **un aumento dei tassi d'interesse** — cresce il costo del denaro —;*
+4. *che **scoraggia gli investimenti** e quindi **frena la produzione e comprime il reddito**.*
+
+> **Il punto notevole:** l'inflazione **all'inizio stimola** (i profitti crescono, gli investimenti aumentano) **e poi deprime** (l'incertezza spinge verso beni rifugio, il risparmio produttivo si prosciuga, i tassi salgono). **È questa inversione a rendere l'inflazione pericolosa**: i suoi effetti iniziali sono piacevoli, quelli successivi no. **È esattamente la dinamica che rende difficile fermarla per tempo.**
+
+### Gli effetti internazionali
+
+**Due canali**, entrambi da conoscere:
+
+**1. Gli investimenti esteri.** *Alti tassi influiscono negativamente sul volume degli investimenti esteri, che **si troverebbero esposti a eccessive fluttuazioni**; e quand'anche riuscissero a conservare una remunerazione in termini reali, **ben poco potrebbero lucrare una volta convertita in valuta forte la moneta dello Stato di destinazione**.*
+
+**2. La competitività e la bilancia dei pagamenti** — ed è il canale più importante:
+
+> *L'aumento dei prezzi in una determinata nazione, **se maggiore rispetto a quello registrato negli altri paesi**, **rende più cari i beni domestici rispetto a quelli esteri**, provocando **un aumento delle importazioni** e compromettendo **l'equilibrio della bilancia dei pagamenti**. La minore competitività dei prodotti nazionali comporta anche **un calo della produzione e quindi del reddito e dell'occupazione**.*
+
+> **Notate la condizione «se maggiore rispetto agli altri paesi».** **Ciò che conta non è l'inflazione assoluta ma il DIFFERENZIALE d'inflazione.** Un paese con inflazione al 5% in un mondo al 5% non perde competitività; un paese al 3% in un mondo all'1% la perde. **È la ragione per cui in un'unione monetaria — dove non si può svalutare — i differenziali d'inflazione si traducono direttamente in perdita di competitività e squilibri delle partite correnti.** È stata, in gran parte, la meccanica della crisi dell'area euro. Se la commissione porta il discorso lì, questo è il collegamento.
+
+---
+
+## 65. Le cause dell'inflazione
+
+Il manuale distingue **tre spiegazioni**, con tre scuole diverse alle spalle. **Vanno sapute tutte e tre, con la scuola di riferimento**, perché la risposta alla domanda «come si combatte l'inflazione?» dipende interamente da quale causa si ritiene prevalente.
+
+### 1. Inflazione da DOMANDA (keynesiani)
+
+*Quando il sistema economico è **al di sotto del livello di pieno impiego**, un aumento della domanda aggregata determina **una crescita della produzione e un calo della disoccupazione**. Tuttavia, **se la domanda aggregata cresce oltre il potenziale di produzione**, le imprese **non sono in grado, nel breve periodo, di adeguare la loro offerta** e pertanto **si viene a creare un eccesso di domanda**. Per riportare in equilibrio domanda e offerta **i prezzi saliranno**, determinando una spinta inflazionistica.*
+
+> **Il collegamento con il §53 è diretto e va fatto:** finché **Y < Y_p**, la domanda aggiuntiva si traduce **in quantità**; una volta raggiunto **Y_p**, **si traduce in prezzi**. **La distinzione fra prodotto effettivo e potenziale è precisamente ciò che separa la politica espansiva efficace da quella inflazionistica.**
+
+### 2. Inflazione MONETARIA (monetaristi)
+
+*Anche i monetaristi vedono nella crescita dei prezzi **una necessità di riequilibrio fra domanda e offerta**, ma **individuano la causa iniziale dell'inflazione in un eccesso della quantità di moneta rispetto a quanto sarebbe strettamente necessario**.*
+
+> ***L'offerta di moneta troppo elevata è il principale fattore che determina l'inflazione**, in quanto **inevitabilmente provoca un aumento della domanda aggregata** a cui fa seguito il meccanismo descritto in precedenza: se il sistema è vicino al pieno impiego, **l'offerta aggregata non può far fronte a questo eccesso di domanda, i prezzi salgono e si crea inflazione**.*
+
+*(È la **teoria quantitativa** del §29 applicata: **«l'inflazione è sempre e ovunque un fenomeno monetario»**, nella formula celebre di Milton Friedman. Notate che i monetaristi **non negano il meccanismo keynesiano dell'eccesso di domanda: ne identificano l'origine nella moneta**. La differenza non è sul meccanismo, è sulla causa prima.)*
+
+### 3. Inflazione da COSTI
+
+> *Un'altra spiegazione è che l'inflazione sia originata da **un aumento dei costi**: quando **il prezzo delle materie prime e i salari aumentano fortemente**, **le imprese aumentano i prezzi per mantenere i loro margini di profitto**.*
+
+**Perché il manuale la considera la spiegazione più adeguata ai tempi recenti** — e questo è un giudizio da riportare:
+
+> *Questo tipo di spiegazione sembra essere **particolarmente adeguata a spiegare i fenomeni di inflazione delle moderne economie industriali**: **la tendenza alla crescita costante dei prezzi anche in periodi di recessione è difficilmente spiegabile con la tesi dell'inflazione da domanda**. **Prezzi e salari aumentano anche quando la capacità produttiva delle imprese non è pienamente utilizzata e una parte delle forze lavoro è disoccupata.***
+
+**I due decenni, che il manuale distingue**: *negli **anni Sessanta** i rialzi dei prezzi furono dovuti prevalentemente **alla crescita dei salari**; negli **anni Settanta** la causa principale fu **l'aumento delle materie prime, soprattutto del petrolio**.*
+
+### LA STAGFLAZIONE
+
+> *Questi fattori possono portare a **una situazione apparentemente paradossale** in cui **vi è disoccupazione, anche molto elevata**, perché l'economia è in una fase di ristagno — la produzione diminuisce e quindi cala anche l'occupazione — **MA contemporaneamente vi è anche un'inflazione molto alta**. Per definire questa situazione è stato coniato, **agli inizi degli anni Settanta**, il termine **STAGFLAZIONE** (stagnazione + inflazione).*
+
+**È il fenomeno che ha demolito la curva di Phillips originaria**, e va tenuto a mente per il §67.
+
+### L'inflazione inerziale e il ruolo delle aspettative
+
+> *La principale causa di questo fenomeno **è rappresentata dalle ASPETTATIVE che gli agenti economici hanno sulla dinamica futura dei prezzi**. In un contesto inflazionistico **gli individui si aspettano ulteriori aumenti dei prezzi e di questo tengono conto in tutte le decisioni in cui si impegnano per il futuro**.*
+
+**Il meccanismo di auto-alimentazione, nei due canali indicati:**
+1. *i lavoratori, attraverso i sindacati, **chiedono aumenti salariali in previsione dell'aumento dei prezzi**, ma **questi aumenti salariali generano a loro volta aumenti dei prezzi**;*
+2. *lo stesso vale per **la determinazione di molti prezzi che non si possono facilmente modificare una volta fissati** — i prezzi delle auto, le tariffe, gli affitti.*
+
+> *In questo modo **il processo inflazionistico si auto-alimenta**, e si parla in tal caso di **INFLAZIONE INERZIALE**.*
+
+> **Il concetto da fissare, perché è quello che spiega perché l'inflazione sia difficile da fermare:** **l'inflazione, una volta entrata nelle aspettative, si riproduce da sola**, anche quando la causa originaria è venuta meno. Le aspettative diventano **profezie che si autoavverano**: ci si aspetta inflazione, si fissano prezzi e salari più alti, **e l'inflazione si realizza**.
+>
+> **Ne discendono due conseguenze pratiche importanti:**
+> 1. **il compito della banca centrale non è solo controllare la moneta ma ANCORARE LE ASPETTATIVE** — ed è la ragione per cui gli obiettivi d'inflazione vengono annunciati pubblicamente e difesi con tanta insistenza: **la credibilità è essa stessa uno strumento**;
+> 2. **l'indicizzazione automatica dei salari — la scala mobile del §64 — è il meccanismo che istituzionalizza l'inerzia**. È esattamente per questo che è stata abolita in Italia nel 1993: non per punire i salari, ma **per spezzare il canale di trasmissione dell'inflazione inerziale**.
+
+---
+
+## 66. Il controllo dell'inflazione
+
+*Per combattere l'inflazione si è soliti adottare **una politica economica che tende a rallentare i consumi interni**, utilizzando **due strumenti fondamentali**.*
+
+| Strumento | Come si usa | Il meccanismo |
+|---|---|---|
+| **Politica FISCALE restrittiva** | *si **aumenta la pressione fiscale** o si **riduce la spesa pubblica*** | *provocando **una contrazione della domanda globale**: più imposte vengono pagate, meno soldi per consumi si hanno a disposizione* |
+| **Politica MONETARIA restrittiva** | *si opera **una contrazione dell'offerta di moneta*** | *e di conseguenza **degli investimenti e del reddito disponibile*** |
+
+### La politica dei redditi
+
+*Col tempo, a queste tradizionali «ricette» deflazionistiche — **di chiara ispirazione keynesiana** — si sono aggiunte altre tecniche, **la più importante delle quali è senz'altro la politica dei redditi**.*
+
+**La ragione per cui serve** è precisa: *un'**inflazione da costi** può innescare **una rincorsa fra salari e prezzi** per cui, a un aumento dei salari, corrisponde un aumento dei costi e quindi dei prezzi. **Per poter bloccare questo processo** è stata sperimentata in vari paesi la politica dei redditi.*
+
+**Si attua in due modi:**
+
+| Modalità | In che consiste | Il limite |
+|---|---|---|
+| **BLOCCO dei prezzi e dei salari** | *il governo decide di **bloccare ogni ulteriore aumento** dei prezzi dei prodotti e dei salari, **spezzando così il circolo** che si era innescato* | *è perseguibile **soltanto per brevi periodi**, in quanto nel lungo periodo è **molto difficile controllare prezzi e salari senza creare tensioni sociali*** (in un'economia non pianificata) |
+| **PATTO SOCIALE** | *il freno è **il risultato di un accordo fra le varie categorie sociali**, raggiunto **con l'intermediazione delle autorità governative**: lavoratori e imprenditori decidono di **contenere le rivendicazioni salariali e gli aumenti dei prezzi entro limiti circoscritti** — in genere **in proporzione agli aumenti di produttività**| — |
+
+> **L'ancoraggio alla produttività è il punto tecnicamente decisivo**, e vale la pena spiegarlo: **se i salari crescono quanto la produttività, il costo del lavoro per unità di prodotto resta costante e non c'è spinta sui prezzi.** L'impresa paga di più ma ottiene proporzionalmente di più. **È la regola aurea della politica dei redditi**, e fu il principio ispiratore del **protocollo italiano del 1993** — che è, di fatto, il patto sociale descritto qui.
+
+### I TIP (*tax incentive plans*)
+
+Il manuale dedica un passaggio a una tecnica meno nota, che è però **un ottimo esempio da citare** perché mostra un uso non ovvio della leva fiscale:
+
+> *Altre politiche anti-inflazionistiche, dette **TIP (*tax incentive plans*)**, sono basate su **incentivi fiscali** volti a ridurre l'inflazione **invogliando lavoratori e imprese a mantenere ridotti gli aumenti dei salari e dei prezzi**. In questo caso **si applicano aliquote fiscali più alte a quelle imprese che concedono aumenti salariali superiori a una certa soglia**.*
+
+**I due problemi che il manuale segnala:**
+1. *non è sempre facile **distinguere fra aumenti dovuti al costo della vita e aumenti dovuti a promozione o lavoro straordinario**: di qui la difficoltà di gestione dei TIP*;
+2. *come qualsiasi altro strumento di controllo diretto o indiretto dei salari, **i TIP devono confrontarsi con la necessità di assicurare a prezzi e salari un'ampia flessibilità, affinché le risorse siano allocate in modo efficiente**.*
+
+> **Il secondo problema è quello di fondo, ed è generale a tutta la politica dei redditi:** **i prezzi e i salari non sono solo numeri da contenere — sono segnali che allocano le risorse.** Bloccarli ferma l'inflazione ma **spegne anche l'informazione**: un settore in espansione non riesce più ad attrarre lavoratori offrendo di più. **È lo stesso *trade-off* fra equità/stabilità ed efficienza che attraversa tutta la scienza delle finanze** — e riconoscerlo qui, in un contesto diverso, mostra di avere una mappa.
+
+---
+
+## 67. LA CURVA DI PHILLIPS
+
+**È il risultato più famoso di tutta la Parte VI**, ed è quasi certamente ciò che una commissione chiederà se apre sul rapporto fra inflazione e disoccupazione. Va saputo in tre momenti: **la scoperta**, **la crisi**, **la reinterpretazione**.
+
+### 67.1 La scoperta
+
+> *Alla fine degli anni '50 del secolo scorso un economista inglese, **Arthur Phillips**, studiando **i dati relativi all'andamento della disoccupazione e dei salari nel Regno Unito nell'arco di un secolo**, individuò l'esistenza di **una relazione INVERSA fra inflazione e disoccupazione**.*
+
+**Il meccanismo economico**, che il manuale spiega e che va saputo perché è la parte sostanziale:
+
+> *Nel corso di un periodo di tempo piuttosto lungo, **se la disoccupazione è bassa i salari tendono a crescere**, generando un aumento dei prezzi e quindi inflazione. Accade il contrario quando la disoccupazione è elevata: **i salari si abbassano e con essi anche i prezzi**.*
+>
+> *Ciò dipende dal fatto che **i lavoratori e le loro organizzazioni sindacali esercitano una pressione maggiore per ottenere aumenti salariali quando la disoccupazione è bassa**; viceversa, **in periodi di elevata disoccupazione il potere contrattuale dei sindacati è inferiore** e quindi i salari e i prezzi sono stabili.*
+
+> **La spiegazione in una riga, che è quella da dare:** *«**È il potere contrattuale**: quando c'è poca disoccupazione i lavoratori sono scarsi, quindi cari; quando ce n'è molta sono abbondanti, quindi a buon mercato. **La disoccupazione è la misura del potere contrattuale relativo delle parti, e il salario ne è il prezzo.**»*
+>
+> **Notate una cosa importante sulla scoperta originaria**: Phillips aveva studiato la relazione fra disoccupazione e **salari monetari**, non fra disoccupazione e prezzi. **Il passaggio dai salari ai prezzi è un'estensione successiva** — legittima, perché i salari sono la componente principale dei costi, ma **è un passaggio**, e segnalarlo mostra precisione.
+
+> ### 📊 **GRAFICO 18 — La curva di Phillips**
+>
+> **CHE COSA STA SUGLI ASSI**
+> - **Asse verticale**: il **tasso di inflazione**.
+> - **Asse orizzontale**: il **tasso di disoccupazione**.
+>
+> **CHE COSA SI DISEGNA**
+>
+> Una **curva decrescente**, convessa verso l'origine — più ripida a sinistra (bassa disoccupazione) e più piatta a destra.
+>
+> **QUAL È IL PUNTO CHE CONTA**
+>
+> Il manuale lo formula come ***trade-off***, ed è il cuore del grafico:
+>
+> > *La curva di Phillips mette in luce l'esistenza di **una relazione reciproca (*trade-off*) fra inflazione e disoccupazione**: **più è alto il tasso di disoccupazione, più è basso il tasso di inflazione**. Ciò significa che, almeno in linea teorica, **il sistema economico potrebbe ridurre la disoccupazione purché sia disposto a pagare il prezzo di un tasso di inflazione più alto** o, alternativamente, **può scegliere di ridurre l'inflazione ma sopportando il costo di un aumento della disoccupazione**.*
+>
+> **Perché questo risultato fu così importante negli anni Sessanta:** perché **trasformava un dilemma in un menù**. Se esiste una relazione stabile fra i due mali, **il policy maker non deve sceglierne uno: deve scegliere il punto della curva che preferisce.** La politica economica diventa un problema di ottimizzazione: **si sceglie la combinazione inflazione-disoccupazione che minimizza la funzione di perdita sociale del §13**, e si usa la domanda aggregata per raggiungerla.
+>
+> *(È esattamente il caso che il manuale aveva anticipato al §13, parlando di due obiettivi e un solo strumento: **la curva di Phillips è il vincolo su cui si cerca il punto tangente alla curva di isoperdita più piccola**. Il collegamento fra i due paragrafi è una delle cose migliori che possiate far notare.)*
+
+### 67.2 La crisi: la verifica empirica
+
+> *A partire dagli anni Sessanta furono condotte **numerose ricerche empiriche** per cercare di confermare o smentire questa relazione. Da questi studi è emerso che **una relazione inversa fra disoccupazione e inflazione talvolta esiste, ma solo nel BREVE periodo**.*
+
+**Il verdetto storico, decennio per decennio:**
+- *la relazione **negli anni Sessanta** rispecchierebbe **abbastanza bene la curva di Phillips**;*
+- *nei **due decenni successivi** — anni Settanta e Ottanta — *questo *trade-off* **sembra essere venuto meno**, poiché **vi sono stati periodi in cui un'elevata inflazione è stata accompagnata da una disoccupazione altrettanto elevata**.*
+
+**È la stagflazione del §65.** E la sua importanza teorica è enorme: **un'osservazione che la curva di Phillips dichiara impossibile si è verificata**. Il modello, nella sua forma originaria, è stato **falsificato dai fatti**.
+
+### 67.3 La reinterpretazione monetarista: breve e lungo periodo
+
+> *Se **nel breve periodo la curva di Phillips è stabile** ed esiste quindi un *trade-off*, **nel lungo periodo questa relazione viene meno** e **il tasso di disoccupazione risulta essere sostanzialmente indipendente dal tasso di inflazione di lungo periodo**.*
+
+**La spiegazione monetarista**, che il manuale attribuisce esplicitamente a quella scuola:
+
+> *Questa differenza fra relazione di breve e di lungo periodo è stata messa in luce, oltre che dall'evidenza empirica, anche **dalla scuola monetarista**. Essa dipende dal fatto che **la curva di Phillips NON esprime una relazione stabile fra le due grandezze, ma VARIA AL VARIARE DELLE ASPETTATIVE DI INFLAZIONE e quindi SI SPOSTA NEL TEMPO**.*
+>
+> ***Se le aspettative sono per una crescita dell'inflazione, nel periodo successivo la curva di Phillips si sposterà verso l'alto: il risultato finale è che IL TASSO DI DISOCCUPAZIONE NON CAMBIA MENTRE L'INFLAZIONE AUMENTA.***
+
+> ### 📊 **GRAFICO 19 — La curva di Phillips di breve e di lungo periodo**
+>
+> **CHE COSA SI DISEGNA**
+>
+> Sugli stessi assi del Grafico 18:
+> - una o più **curve di Phillips di BREVE periodo**, **decrescenti**, ciascuna corrispondente a un dato livello di aspettative di inflazione;
+> - una **RETTA VERTICALE**, che è **la curva di Phillips di LUNGO periodo**, collocata **in corrispondenza del tasso di disoccupazione naturale U_n**.
+>
+> **QUAL È IL PUNTO CHE CONTA**
+>
+> > *Se nel breve periodo la curva può avere pendenza negativa — esisterebbe cioè il *trade-off* —, **nel lungo periodo esiste UN SOLO tasso di disoccupazione in corrispondenza del quale l'inflazione è costante**. Per questa ragione **la curva di Phillips di lungo periodo è rappresentata da una retta VERTICALE in corrispondenza del tasso di disoccupazione naturale**.*
+>
+> **La verticalità significa una cosa sola e va detta chiaramente:** **nel lungo periodo il tasso di disoccupazione è indipendente dall'inflazione.** Si può avere quel tasso con il 2% di inflazione o con il 20%: **il tasso di disoccupazione non cambia**. L'inflazione, nel lungo periodo, **non compra occupazione**.
+>
+> **Come si passa dal breve al lungo — il meccanismo, che è la parte da saper raccontare:**
+>
+> *«Il governo stimola la domanda per ridurre la disoccupazione sotto il livello naturale. **Nel breve periodo funziona**: i lavoratori accettano più lavoro perché **vedono salari nominali più alti e non hanno ancora capito che anche i prezzi stanno salendo**. Ci si muove **lungo** la curva di breve periodo. **Ma poi le aspettative si adeguano**: i lavoratori capiscono, chiedono salari che incorporino l'inflazione attesa, e **la curva di breve periodo si sposta verso l'alto**. **Si torna al tasso naturale, ma con inflazione più alta.** Se il governo insiste, il processo si ripete: **inflazione sempre più alta, disoccupazione sempre uguale.**»*
+
+### 67.4 Il tasso di disoccupazione naturale
+
+> **TASSO DI DISOCCUPAZIONE NATURALE (U_n)** — *quello in corrispondenza del quale **c'è sostanzialmente una piena occupazione** e **non vi sono pressioni né per un rialzo dell'inflazione né per un suo calo** — cioè **le decisioni di prezzo e di salario sono coerenti fra loro**.*
+
+**La precisazione del manuale, che è essenziale e va riportata:**
+
+> *Questo **non significa** che in corrispondenza di tale tasso **non vi siano disoccupati**: significa solo che **la disoccupazione è al suo livello fisiologico o naturale**. Come sappiamo, infatti, **anche quando il mercato del lavoro è in equilibrio la disoccupazione frizionale esiste**.*
+
+**Il dato di riferimento**: *negli Stati Uniti è stato stimato un tasso di disoccupazione naturale **compreso fra il 5 e il 6%**.*
+
+**La regola di comportamento del sistema**, che è il modo migliore di ricordare il concetto:
+
+| Situazione | Che cosa accade all'inflazione |
+|---|---|
+| **disoccupazione SOTTO il tasso naturale** (l'economia «viaggia» in una fase di prosperità) | *l'inflazione **tende ad aumentare*** |
+| **disoccupazione SOPRA il tasso naturale** (fasi di recessione) | *l'inflazione **tende a diminuire*** |
+| **disoccupazione AL tasso naturale** | *l'inflazione è **stabile e sotto controllo*** |
+
+> **Il concetto, in linguaggio tecnico moderno, si chiama NAIRU** — *Non-Accelerating Inflation Rate of Unemployment*, il tasso di disoccupazione che non accelera l'inflazione. **È un nome che vale la pena conoscere e usare**, perché è quello che compare nei documenti di finanza pubblica. *(Nei Documenti programmatici italiani il NAIRU è la grandezza usata per stimare l'**output gap**, e quindi per calcolare il **saldo strutturale** — il collegamento con contabilità pubblica e con le regole europee è diretto.)*
+>
+> **E una precisazione critica, che distingue:** **il tasso naturale non è un dato di natura**. Dipende dalla disoccupazione **frizionale e strutturale** del §62, e quindi da **come funziona il mercato del lavoro**: efficacia dei servizi per l'impiego, formazione, mobilità, disegno dei sussidi. **È modificabile — ma con politiche dell'offerta, non della domanda.** Il manuale stesso lo dirà al §68.
+
+### 67.5 Le due conseguenze di politica economica
+
+Il manuale le enuncia espressamente, e sono **la risposta alla domanda «che cosa se ne ricava per la politica economica?»**:
+
+> ***Nel lungo periodo** un sistema economico **non può ridurre la disoccupazione al di sotto del tasso naturale senza provocare un forte aumento dei prezzi e dei salari**.*
+>
+> ***Nel breve periodo**, invece, **è possibile intervenire a favore dell'una o dell'altra variabile, ma entrambe le scelte hanno un costo**: se si vuole intervenire a favore dell'occupazione **si dovrà accettare un tasso di inflazione più elevato**; al contrario, si può cercare di tenere sotto controllo il tasso di inflazione **al costo di provocare una recessione e un peggioramento della disoccupazione**.*
+
+### 67.6 Le due conclusioni contrapposte
+
+Il manuale chiude — ed è **l'ultimo grande confronto fra le due scuole** di tutta la Parte VI — mettendo a fronte le due letture.
+
+**La conclusione classico-monetarista:**
+
+> *La conclusione, **non nuova**, a cui arrivano gli economisti classici e i monetaristi, è che **le politiche keynesiane a sostegno dell'occupazione, condotte attraverso aumenti della domanda aggregata, non producono alcun risultato positivo sul mercato del lavoro ma generano soltanto disoccupazione**.*
+
+**La replica keynesiana:**
+
+> *Gli economisti keynesiani non sono dello stesso avviso. **Il sistema economico non è affatto in grado di raggiungere spontaneamente l'equilibrio di pieno impiego**, con un tasso di disoccupazione al livello naturale. **Ma se la produzione effettiva è normalmente al di sotto del suo livello potenziale e quindi la disoccupazione è al di sopra del suo livello naturale, la relazione fra inflazione e disoccupazione potrebbe non essere così rigida.***
+
+> **Come esporre il confronto senza schierarsi — ed è ciò che una commissione apprezza:**
+>
+> *«**La divergenza non è sul meccanismo ma su dove si trovi normalmente il sistema.** I monetaristi assumono che l'economia gravitі attorno al tasso naturale: da lì, ogni stimolo della domanda **è per definizione eccessivo** e produce solo inflazione. I keynesiani osservano che **l'economia sta normalmente al di sotto del potenziale**: e in quella condizione **c'è spazio per crescere senza accelerare i prezzi**, perché esiste capacità inutilizzata.*
+>
+> ***È quindi, in ultima analisi, una questione empirica**: quanto vale l'output gap, e quanto è affidabile la sua misura. **E la difficoltà è reale**, perché il prodotto potenziale non si osserva: si stima. **Due economisti onesti possono guardare gli stessi dati e vedere due diagnosi opposte.**»*
+
+> **► Schema di risposta orale — «La curva di Phillips»**
+>
+> *«La curva di Phillips fu individuata alla fine degli anni Cinquanta dall'economista inglese **Arthur Phillips**, che studiando **un secolo di dati britannici** su disoccupazione e salari trovò fra le due grandezze **una relazione inversa**. La spiegazione è il **potere contrattuale**: quando la disoccupazione è bassa i sindacati ottengono aumenti salariali, che si trasmettono ai prezzi; quando è alta il potere contrattuale si indebolisce e prezzi e salari restano stabili.*
+>
+> ***Il risultato ebbe un'importanza enorme perché trasformava un dilemma in un menù**: se la relazione è stabile, il policy maker **sceglie il punto della curva che preferisce**, accettando più inflazione per meno disoccupazione o viceversa. È il *trade-off*.*
+>
+> ***La relazione è però entrata in crisi negli anni Settanta**, quando si è verificata la **stagflazione** — alta inflazione e alta disoccupazione insieme —, che la curva dichiarava impossibile.*
+>
+> ***La reinterpretazione, dovuta alla scuola monetarista, distingue breve e lungo periodo.** Nel breve periodo il *trade-off* esiste. Ma **la curva non è stabile: si sposta al variare delle aspettative di inflazione**. Se il governo stimola la domanda, nel breve i lavoratori accettano più lavoro perché vedono salari nominali più alti; **poi le aspettative si adeguano, si chiedono salari che incorporino l'inflazione attesa, e la curva si sposta verso l'alto**. Si torna al punto di partenza in termini di disoccupazione, **ma con inflazione più alta**. **Nel lungo periodo la curva di Phillips è quindi una retta verticale in corrispondenza del tasso di disoccupazione naturale**, oggi detto **NAIRU**.*
+>
+> ***Il tasso naturale non è disoccupazione zero**: è il livello fisiologico, composto da disoccupazione frizionale e strutturale — negli Stati Uniti stimato fra il 5 e il 6%. Sotto quel livello l'inflazione accelera, sopra decelera, a quel livello è stabile.*
+>
+> ***Le due conseguenze di politica economica** sono che **nel lungo periodo non si può scendere sotto il tasso naturale senza generare inflazione crescente**, mentre **nel breve un margine di scelta esiste, ma ha sempre un costo**.*
+>
+> ***Chiuderei osservando che la controversia resta aperta**: i monetaristi ne concludono che le politiche della domanda producono solo inflazione; i keynesiani replicano che **l'economia sta normalmente sotto il potenziale**, e in quella condizione c'è spazio per crescere senza accelerare i prezzi. **La differenza non è sul meccanismo ma sulla diagnosi di dove si trovi il sistema** — ed è una questione empirica, resa difficile dal fatto che il prodotto potenziale non si osserva ma si stima.»*
+
+---
+
+## 68. Le politiche contro inflazione e disoccupazione: la sintesi del manuale
+
+Il capitolo si chiude con **un paragrafo operativo** che è, di fatto, **un ricettario**. È prezioso perché mostra che **la cura dipende dalla diagnosi**, ed è la struttura ideale di una risposta.
+
+### Le politiche antinflazionistiche, per causa
+
+> *Sul fronte delle politiche antinflazionistiche **i rimedi saranno generalmente diversi a seconda delle cause**.*
+
+| Se l'inflazione è… | Il rimedio |
+|---|---|
+| **da eccesso di MONETA** (tesi monetarista) | *è necessario **ridurre la moneta in circolazione** e attuare **politiche monetarie restrittive*** |
+| **da eccesso di DOMANDA** rispetto all'offerta | occorre *fare in modo di **contrarre i consumi** (politica fiscale restrittiva che aumenti le imposte), di **ridurre gli investimenti** (politiche monetarie e creditizie restrittive) e di **tenere sotto controllo la spesa pubblica**. Sono necessari **più interventi combinati di politica economica*** |
+| **da COSTI** | *bisognerà **agire sui costi stessi**, cercando di **frenare la crescita dei salari e dei profitti*** |
+
+> **Questa tabella è la migliore risposta possibile alla domanda «come si combatte l'inflazione?»**, perché la risposta corretta non è un elenco di strumenti ma **una diagnosi seguita da una terapia**. *«Dipende dalla causa»* — e poi le tre righe.
+
+### Abbassare il tasso naturale
+
+Il manuale aggiunge **una quarta via**, che è quella strutturale e che vale la pena riportare per intero:
+
+> *Si potrebbe, infine, **cercare di intervenire sul tasso naturale di disoccupazione per abbassarne il livello**, mettendo in atto **una serie di misure specifiche che riducano la componente frizionale e strutturale** della disoccupazione: ad esempio*
+> - ***investendo nella formazione professionale dei lavoratori**;*
+> - ***facilitando la ricerca di un lavoro attraverso uffici di collocamento che permettano davvero alla domanda e all'offerta di lavoro di incontrarsi**;*
+> - ***introducendo meccanismi di sostegno e di aiuto ai disoccupati che non disincentivino però la ricerca di lavoro**.*
+
+> **Questo è il passaggio più importante del paragrafo**, e va valorizzato: **è l'unica via che migliora il *trade-off* anziché sceglierne un punto.**
+>
+> *«Le politiche della domanda **si muovono lungo la curva di Phillips**: scelgono un punto, con il costo che comporta. **Le politiche strutturali spostano la curva verticale di lungo periodo verso sinistra**: permettono cioè **meno disoccupazione allo stesso tasso d'inflazione**. **Non scelgono fra i due mali: ne riducono uno senza aggravare l'altro.***
+>
+> ***Il prezzo è che agiscono lentamente**: formazione, servizi per l'impiego e mobilità danno risultati in anni, non in trimestri. **Ed è precisamente la ragione per cui sono politicamente meno attraenti** delle politiche della domanda, che danno risultati visibili entro la legislatura.»*
+>
+> *(Il collegamento con l'attualità è immediato e pertinente: **le politiche attive del lavoro**, il **programma GOL** finanziato dal PNRR, la riforma dei **centri per l'impiego** sono esattamente questo — tentativi di abbassare la componente frizionale e strutturale del tasso naturale. Se la commissione porta il discorso sulle riforme, questo è il quadro teorico in cui collocarle.)*
+
+---
+
+# PARTE XI — LA POLITICA FISCALE O DI BILANCIO
+
+*(Capitolo 11, pp. 802-804 — il capitolo si interrompe qui nel materiale disponibile)*
+
+Il capitolo 11 riprende, sistematizzandolo, quanto è stato incontrato in ordine sparso nei capitoli precedenti. Il materiale disponibile ne contiene **l'impianto generale e l'esposizione della ricetta keynesiana**.
+
+## 69. La mappa degli interventi
+
+Il manuale riparte dalla classificazione, che è **un ottimo schema di apertura per qualunque risposta sulla politica economica**:
+
+> *La **politica economica** è **l'insieme delle misure con cui lo Stato interviene nel sistema economico**, e generalmente si distingue fra:*
+> - ***interventi di politica MICROECONOMICA**, che in sostanza **mirano a tutelare la concorrenza**;*
+> - ***interventi di politica MACROECONOMICA**, che riguardano **le grandezze aggregate** — il reddito nazionale, la domanda aggregata.*
+
+*A sua volta la politica macroeconomica **può essere distinta, a seconda degli strumenti utilizzati**, in:*
+
+| | Che cosa comprende |
+|---|---|
+| **POLITICA DI BILANCIO** | *ogni misura adottata dallo Stato in materia di **consumi pubblici, investimenti pubblici, imposte*** |
+| **POLITICA MONETARIA** | *mira a influenzare il livello del reddito **variando i tassi d'interesse e la quantità di moneta** presente nel sistema* |
+
+**I quattro obiettivi comuni a entrambe** — e notate che il manuale li ripete qui in forma più compatta rispetto al §3:
+1. **la crescita del prodotto (o reddito) nazionale**;
+2. **la piena occupazione delle forze di lavoro** — *strettamente legato al primo: **più un sistema economico produce, maggiore sarà l'impiego dei fattori produttivi***;
+3. **l'equa distribuzione del reddito fra le classi sociali**;
+4. **la stabilità del livello dei prezzi**.
+
+## 70. Gli strumenti della politica di bilancio
+
+> **POLITICA DI BILANCIO** (detta anche **politica fiscale**) = *un tipo di intervento **il cui obiettivo principale è influenzare il livello della domanda globale e, quindi, del reddito e dell'occupazione**, attraverso **la variazione della spesa pubblica (uscite) e del prelievo fiscale (entrate)**.*
+
+### Le tre componenti della spesa pubblica
+
+| Componente | Che cosa comprende |
+|---|---|
+| **Spesa per INVESTIMENTI** | *acquisto o costruzione di **beni capitali** necessari alla realizzazione di **infrastrutture pubbliche** — strade, porti* |
+| **Spesa per CONSUMI** | *acquisto di **beni e servizi**, **stipendi dei dipendenti pubblici*** |
+| **Spese per TRASFERIMENTI** | ***pagamenti unilaterali** a favore di **famiglie** (pensioni, sussidi di disoccupazione) e **imprese** (incentivi alla produzione)* |
+
+*(È la classificazione che avete già studiato in scienza delle finanze, §55 della dispensa 07: spese correnti/in conto capitale e spese produttive/redistributive. **E ricordate la conseguenza macroeconomica**: i trasferimenti **non sono domanda diretta**, diventano domanda solo quando il beneficiario li spende — per questo hanno **moltiplicatore più basso**, come visto al §26 di questa dispensa.)*
+
+### Le tre componenti delle entrate fiscali
+
+| Componente | Definizione del manuale | Esempio |
+|---|---|---|
+| **Imposte DIRETTE** | *colpiscono **le manifestazioni immediate della capacità contributiva** — come **il reddito o il patrimonio*** | **IRPEF** |
+| **Imposte INDIRETTE** | *colpiscono **le manifestazioni mediate della capacità contributiva** — come **i consumi, gli scambi e i trasferimenti*** | **IVA** |
+| **TASSE** | *il **corrispettivo** che un privato deve a un ente pubblico **per la fornitura di un bene o servizio di cui ha fatto esplicita domanda*** | **tasse scolastiche** |
+
+*(Sono esattamente le definizioni della dispensa 07, §31 e §33. **Ritrovarle qui conferma l'unità delle due materie** — e all'orale potete dirlo: «questa classificazione l'ho incontrata anche in scienza delle finanze, dove è trattata in dettaglio con i cinque criteri distintivi fra dirette e indirette».)*
+
+### I due effetti sulla domanda aggregata
+
+> *È chiaro che le spese pubbliche e le entrate fiscali **hanno un effetto opposto sul reddito nazionale**:*
+> - ***se aumentano le spese pubbliche aumenta la domanda aggregata** e quindi il reddito nazionale;*
+> - ***se aumentano le entrate fiscali** gli operatori economici **vedranno ridursi il reddito a propria disposizione** e quindi **la domanda aggregata diminuisce**.*
+
+Da cui **le due politiche**:
+
+| Politica | Strumenti | Obiettivo |
+|---|---|---|
+| **ESPANSIVA** | ***aumento della spesa pubblica*** o ***riduzione delle imposte*** | *aumentare **il livello della domanda globale e di conseguenza il reddito di equilibrio*** |
+| **RESTRITTIVA** | ***riduzione della spesa pubblica*** o ***aumento delle imposte*** | l'obiettivo opposto |
+
+## 71. La doppia lettura del reddito nazionale
+
+Il manuale richiama **due definizioni di contabilità nazionale** per mostrare **come la politica fiscale agisca**, e la costruzione è elegante.
+
+**Prima lettura — la somma delle decisioni di spesa degli operatori:**
+
+> **(1) Y = C + S + T**
+
+*Tutti gli operatori economici, **dopo aver pagato le imposte e le tasse**, potranno decidere quanta parte del proprio reddito destinare al consumo e quanta al risparmio.*
+
+**Seconda lettura — gli impieghi del reddito nazionale:**
+
+> **(2) Y = C + I + G**
+
+*Il reddito nazionale, **nell'ipotesi che il paese non abbia scambi con l'estero**, può essere destinato ai **consumi privati (C)**, agli **investimenti privati (I)**, ai **consumi e investimenti pubblici, cioè alla spesa pubblica (G)**.*
+
+**E l'uguaglianza che ne segue:**
+
+> *L'equazione **(1) può essere considerata come l'equazione dell'OFFERTA aggregata**, mentre l'equazione **(2) costituisce la rappresentazione della DOMANDA aggregata**. Se il reddito prodotto deve essere uguale al reddito domandato:*
+>
+> **(3) C + S + T = C + I + G**
+> **offerta aggregata = domanda aggregata**
+
+> **Perché questa doppia lettura è utile, ed è la ragione per cui il manuale la propone:** *«Lo stesso reddito **si può leggere da dove viene o da dove va**. Dal lato di chi lo riceve, si divide in **consumo, risparmio e imposte**. Dal lato di come viene speso, si divide in **consumo, investimento e spesa pubblica**. **Le due letture devono coincidere**, e nell'uguaglianza compaiono **due grandezze che lo Stato controlla direttamente: G e T**. **È lì che la politica fiscale afferra il sistema.**»*
+>
+> *(Semplificando la (3) si ottiene **S + T = I + G**, e quindi **S − I = G − T**: **il risparmio privato netto eguaglia il disavanzo pubblico**. È l'identità del §19, versione 3, in forma compatta. **Poterla ricavare in due passaggi davanti alla commissione fa un'ottima impressione.**)*
+
+### Il meccanismo dell'intervento
+
+*Poiché **l'operatore pubblico ha il controllo diretto della spesa pubblica (G) e delle entrate fiscali (T)**, **attraverso la loro manovra potrà raggiungere gli obiettivi che si è prefissato**.*
+
+L'esempio del manuale: *ipotizziamo che lo Stato giudichi che il reddito nazionale sia troppo basso: **un aumento della spesa pubblica farà accrescere la domanda aggregata**. Per conservare l'equilibrio fra reddito nazionale e domanda aggregata, **se la domanda aumenta anche il reddito nazionale dovrà crescere**.*
+
+> **AUMENTO SPESA PUBBLICA (G↑) → AUMENTO DOMANDA AGGREGATA (C+I+G)↑ → AUMENTO DEL REDDITO (Y↑)**
+
+*Ma **di quanto** crescerà il reddito nazionale? **Grazie all'effetto del moltiplicatore il reddito crescerà in maniera più che proporzionale** rispetto all'incremento della spesa pubblica.*
+
+## 72. La «ricetta» keynesiana: il confronto finale
+
+Il manuale chiude il materiale disponibile con **il confronto più chiaro fra le due scuole di tutta la Parte VI**. Va letto con attenzione perché è **l'argomento keynesiano nella sua forma più nuda**.
+
+**La diagnosi.** *Se il sistema economico si trova in **un equilibrio di sottoccupazione**, **il livello della domanda aggregata non è abbastanza alto da assicurare la piena occupazione** di tutti i fattori produttivi; ciò significa che **le imprese, non potendo vendere tutto ciò che producono, lasceranno inutilizzati gli impianti, aumenteranno le scorte di magazzino e numerosi lavoratori saranno disoccupati**.*
+
+**La terapia neoclassica.** *Secondo i neoclassici **basterebbe far scendere i salari**: poiché questo farebbe diminuire il costo del lavoro, **le imprese assumerebbero nuovi operai** e la produzione potrebbe ripartire. **Se il mercato del lavoro opera in condizioni di concorrenza perfetta, questo aggiustamento avviene automaticamente, senza bisogno di alcun intervento di politica economica**.*
+
+**L'obiezione di Keynes — ed è l'argomento decisivo**, da saper esporre a voce perché è di una semplicità formidabile:
+
+> *Secondo Keynes, invece, **una riduzione dei salari farebbe solo diminuire il reddito delle famiglie**: **le spese per consumi si ridurrebbero ulteriormente** e, in sostanza, **la crisi economica si aggraverebbe**, perché ora **le imprese troverebbero ancora meno sbocchi per la propria produzione**.*
+
+> **Perché questo argomento è così potente, e come presentarlo:** *«**Il salario non è solo un costo per l'impresa: è anche il reddito del consumatore.** Il ragionamento neoclassico è corretto **per una singola impresa** — se io taglio i salari e tutti gli altri no, i miei costi scendono e il mio mercato resta intatto. **Ma se tutte le imprese tagliano insieme, crolla anche il mercato.***
+>
+> ***È una FALLACIA DI COMPOSIZIONE**: ciò che è vero per il singolo non è vero per l'insieme. **È lo stesso errore logico del paradosso della parsimonia** — il risparmio è una virtù individuale e un danno collettivo — e non è un caso: **è la stessa struttura di ragionamento, ed è il contributo metodologico centrale di Keynes alla macroeconomia.** La macroeconomia esiste come disciplina autonoma proprio perché **l'aggregato non si comporta come la somma dei singoli**.»*
+
+**La terapia keynesiana**, con la catena completa che il manuale riporta in schema:
+
+> *Se **i consumi aggregati o gli investimenti privati sono troppo bassi** per assicurare la piena occupazione, **occorre un intervento dello Stato**.*
+
+> **AUMENTO SPESA PUBBLICA (G↑)**
+> **→ AUMENTO DOMANDA AGGREGATA (C+I+G)↑**
+> **→ AUMENTO DEL REDDITO NAZIONALE (Y↑)** *— grazie all'effetto moltiplicatore*
+> **→ AUMENTO DEL CONSUMO AGGREGATO (C = cY)↑**
+> **→ AUMENTO DELLE VENDITE DELLE IMPRESE**
+> **→ AUMENTO DEI LAVORATORI IMPIEGATI**
+
+*L'aumento del reddito farà crescere i consumi delle famiglie e **le imprese potranno finalmente trovare sbocchi per la propria produzione**; **si effettueranno nuovi investimenti e il numero dei disoccupati diminuirà**.*
+
+**E la domanda finale, che il manuale lascia aperta e che il materiale disponibile non scioglie:**
+
+> *Ma **se è tutto così facile**, se basta aumentare la spesa pubblica per far diminuire il numero dei disoccupati, **perché questi ultimi sono in continua crescita**? Il problema è che **anche la politica di bilancio ha dei limiti, come vedremo in seguito**.*
+
+## 73. Il finanziamento della spesa pubblica (l'inizio)
+
+L'ultimo passaggio disponibile apre la questione del finanziamento:
+
+> *La spesa pubblica può essere finanziata ricorrendo a **due diverse soluzioni**:*
+> - ***l'aumento della pressione fiscale**;*
+> - ***l'emissione di titoli di Stato**.*
+
+*Se la spesa pubblica viene finanziata **con il prelievo fiscale**, quest'ultimo **influenzerà il reddito disponibile delle famiglie e delle imprese**: prima di qualsiasi decisione di consumo o di risparmio bisognerà pagare le imposte. Ciò significa che **gli operatori economici avranno meno risorse da destinare al consumo** e quindi **un aumento della pressione fiscale deprimerà la domanda aggregata**.*
+
+Il testo si interrompe mentre sta per introdurre **la funzione del consumo in presenza di tassazione**.
+
+> **Dove stava andando, e che cosa sapete già.** Il ragionamento porta al confronto fra le due modalità di finanziamento, che **avete già studiato integralmente nella dispensa 07 di scienza delle finanze**:
+> - **il finanziamento con imposte** riduce il moltiplicatore, ma **non azzera l'effetto espansivo** — è il **teorema di Haavelmo** (§66 della dispensa 07): **anche a bilancio in pareggio il reddito cresce, esattamente dell'importo della manovra**;
+> - **il finanziamento con debito** conserva il moltiplicatore pieno **ma genera spiazzamento** (§46 di questa dispensa) e **accumula debito pubblico** (§27-28 della dispensa 07).
+>
+> **Se la commissione dovesse chiedervi i limiti della politica di bilancio prima che io abbia il materiale successivo, avete già tutto**: spiazzamento, vincolo del debito, ritardi di attuazione, equivalenza ricardiana, e — dopo questo capitolo 10 — **il vincolo inflazionistico quando il sistema è vicino al potenziale**.
+
+---
+
+# PARTE XII — DOVE SI FERMA IL MATERIALE E CHE COSA MANCA
+
+## 74. La copertura, capitolo per capitolo
+
+Il materiale disponibile copre **le pagine stampate 732-804**, in tre file la cui continuità è stata verificata pagina per pagina:
+
+| File | Pagine | Note |
+|---|---|---|
+| **1** | **732-756** | 25 pagine, nessun duplicato |
+| **2** | **757-779** | 25 scansioni, di cui **due duplicate** (pp. 766 e 767 fotografate due volte) → **23 pagine effettive** |
+| **3** | **780-804** | 25 pagine, nessun duplicato |
+
+**Nessun buco.** La Parte VI riprende inoltre esattamente dove finiva la scienza delle finanze, che si chiudeva a p. 729.
 
 | | Capitolo | Pagine | Stato |
 |---|---|---|---|
@@ -2122,248 +3194,272 @@ Il materiale caricato copre **le pagine stampate 732-779**, cioè:
 | ✅ | **6** — Il mercato del credito e le banche | 762-766 | **completo** |
 | ✅ | **7** — L'offerta di moneta | 767-770 | **completo** |
 | ✅ | **8** — La «sintesi neoclassica» e il modello IS-LM | 771-776 | **completo** |
-| ⚠️ | **9** — Il modello di domanda e offerta aggregate | 777-779 | **solo l'impostazione**: si interrompe durante la costruzione della curva AD |
+| ✅ | **9** — Il modello di domanda e offerta aggregate | 777-785 | **completo** |
+| ✅ | **10** — La disoccupazione e l'inflazione | 786-801 | **completo** |
+| ⚠️ | **11** — La politica fiscale o di bilancio e la politica monetaria | 802-804 | **impianto generale e ricetta keynesiana**: si interrompe sul finanziamento della spesa |
 
-**Verifica di continuità.** I due file sono stati controllati pagina per pagina: **il file 1 copre le pp. 732-756** (25 pagine) e **il file 2 le pp. 757-779** (25 scansioni, di cui **due duplicate** — le pp. 766 e 767 sono state fotografate due volte —, quindi **23 pagine effettive**). **Nessun buco.** La Parte VI riprende inoltre esattamente dove finiva la scienza delle finanze, che si chiudeva a p. 729.
+## 75. Che cosa manca
 
-## 52. Che cosa manca, e perché conta
+Il capitolo 11 si interrompe **mentre sta introducendo la funzione del consumo in presenza di tassazione**. Dal filo del discorso, il seguito dovrebbe comprendere:
 
-Dal contenuto del capitolo 9 e dalla struttura standard di questi manuali, **il seguito dovrebbe comprendere**:
+- **il confronto fra finanziamento con imposte e finanziamento con debito** — e quindi il **teorema di Haavelmo**, che però **avete già studiato integralmente nella dispensa 07, §66**;
+- **i limiti della politica di bilancio**, che il manuale annuncia espressamente (*«anche la politica di bilancio ha dei limiti, come vedremo in seguito»*): ritardi di attuazione, spiazzamento, vincolo del debito;
+- **la politica monetaria** nella sua trattazione sistematica: strumenti convenzionali e non convenzionali, meccanismi di trasmissione, il ruolo della BCE;
+- con ogni probabilità, **l'economia aperta**: bilancia dei pagamenti, tassi di cambio, politiche in economia aperta;
+- e, verosimilmente, **l'integrazione europea e l'Unione economica e monetaria**.
 
-- **il completamento del modello AD-AS**: costruzione della curva di domanda aggregata, **curva di offerta aggregata** nelle due versioni (keynesiana orizzontale e classica verticale), equilibrio e politiche;
-- **l'inflazione**: cause (da domanda, da costi, da moneta), effetti, misurazione, **spirale prezzi-salari**;
-- **la disoccupazione**: tipologie, tasso naturale, **curva di Phillips** — che il manuale ha già citato al §13 — e la sua versione con aspettative (**NAIRU**);
-- **la crescita economica** e i modelli di sviluppo;
-- **l'economia aperta**: bilancia dei pagamenti, tassi di cambio, politiche in economia aperta;
-- **con ogni probabilità, l'integrazione europea e l'Unione economica e monetaria**.
-
-> **Quanto pesa la lacuna, detto francamente.** Il materiale disponibile è **completo su tutta la parte modellistica** — che è la più tecnica e la più difficile — e si ferma **proprio sulla soglia dei temi applicativi**. Per l'orale questo significa che:
+> **Quanto pesa la lacuna, detto con franchezza.** **Molto meno di prima.** Con questa terza parte la dispensa copre **tutta la teoria macroeconomica** — modelli, moneta, IS-LM, AD-AS, disoccupazione, inflazione, curva di Phillips — cioè **la parte concettualmente difficile e quella con più probabilità d'orale**.
 >
-> - **sei coperto** su: definizione e obiettivi della politica economica, modelli e regola di Tinbergen, Mundell, critica di Lucas, contabilità nazionale, moltiplicatore, moneta in tutte le sue dimensioni, IS-LM e spiazzamento;
-> - **non sei ancora coperto** su: **inflazione, disoccupazione, curva di Phillips, crescita, economia aperta**.
+> Quanto resta è in buona parte **materia che conoscete già da altre dispense**: gli strumenti della politica fiscale e i limiti del *deficit spending* sono trattati per esteso in **scienza delle finanze**; la Banca centrale e la politica monetaria sono ai §35-41 di questa stessa dispensa; la bilancia dei pagamenti compare in **statistica economica**.
 >
-> **La curva di Phillips in particolare è un argomento ad altissima probabilità d'orale**, e il manuale la nomina due volte senza svilupparla. **Carica la terza parte e la dispensa viene completata**: la struttura è già predisposta per accoglierla.
+> **Il vero buco residuo è l'economia aperta** — cambi, bilancia dei pagamenti, politiche in economia aperta — che nessuna altra dispensa copre. **Se ti arriva una quarta parte, è lì che serve.**
 
 ---
 
-# PARTE XI — GLI UNDICI GRAFICI: INDICE RAGIONATO
+# PARTE XIII — I DICIANNOVE GRAFICI: INDICE RAGIONATO
 
-Come per scienza delle finanze, questa è **la sezione da rileggere il giorno prima**. Per ciascun grafico: dove sta, che cosa c'è sugli assi, e **la frase che lo riassume** — quella da pronunciare subito dopo aver detto che cosa si disegna.
+Per ciascun grafico: dove sta, che cosa c'è sugli assi, e **la frase che lo riassume**.
 
-## I cinque grafici indispensabili
+## I sette grafici indispensabili
 
 | # | Grafico | § | Assi | **La frase che lo riassume** |
 |---|---|---|---|---|
-| **5** | **LA CROCE KEYNESIANA** | §24 | Y / domanda aggregata | *Dove la retta di domanda incrocia la bisettrice a 45°, **domanda e reddito coincidono**. L'equilibrio esiste ed è unico **perché c < 1**, e **nulla garantisce che sia di piena occupazione**.* |
-| **6** | **L'effetto moltiplicatore** | §25 | Y / domanda aggregata | *La retta si sposta in su di 100 e **l'intersezione scivola a destra di molto di più**: quella sproporzione **è il moltiplicatore, reso visibile**. Più ripida la retta, più lontano scivola l'incrocio.* |
-| **8** | **LA TRAPPOLA DELLA LIQUIDITÀ** | §41 | quantità di moneta / tasso i | *Quando la domanda di moneta diventa **orizzontale**, ogni immissione di liquidità **viene assorbita come scorta e non abbassa più il tasso**: la politica monetaria è impotente e **resta solo la politica fiscale**.* |
-| **11** | **IL MODELLO IS-LM** | §45 | Y / tasso i | *IS negativa, LM positiva: **l'intersezione equilibra simultaneamente beni e moneta**. E qui **cade la dicotomia neoclassica**, perché il tasso si forma nel monetario ma governa il reale.* |
-| **9** | **La costruzione della IS** | §43 | quattro quadranti | *Per ogni reddito c'è un risparmio, a quel risparmio deve corrispondere un pari investimento, e a quell'investimento **un solo tasso**. **La IS unisce tutte le coppie così ottenute**, ed è negativa perché più domanda richiede tasso più basso.* |
+| **5** | **LA CROCE KEYNESIANA** | §24 | Y / domanda aggregata | *Dove la retta di domanda incrocia la bisettrice a 45°, **domanda e reddito coincidono**. L'equilibrio esiste **perché c < 1**, e **nulla garantisce che sia di piena occupazione**.* |
+| **6** | **L'effetto moltiplicatore** | §25 | Y / domanda aggregata | *La retta si sposta in su di 100 e **l'intersezione scivola a destra di molto di più**: quella sproporzione **è il moltiplicatore, reso visibile**.* |
+| **18-19** | **LA CURVA DI PHILLIPS**, breve e lungo periodo | §67 | disoccupazione / inflazione | *Nel breve periodo c'è un ***trade-off***; ma **la curva si sposta al variare delle aspettative**, sicché **nel lungo periodo è una retta verticale sul tasso naturale**: l'inflazione non compra occupazione.* |
+| **8** | **LA TRAPPOLA DELLA LIQUIDITÀ** | §41 | moneta / tasso i | *Quando la domanda di moneta diventa **orizzontale**, ogni immissione di liquidità **viene assorbita come scorta e non abbassa più il tasso**: resta solo la politica fiscale.* |
+| **11** | **IL MODELLO IS-LM** | §45 | Y / tasso i | *IS negativa, LM positiva: **l'intersezione equilibra simultaneamente beni e moneta**, e **qui cade la dicotomia neoclassica**.* |
+| **13** | **IL MODELLO AD-AS** | §52 | Y / livello dei prezzi P | *AD decrescente e AS crescente: il loro incontro dà **prezzo e produzione di equilibrio insieme**. **È il primo modello in cui il prezzo è una variabile spiegata, non un dato.*** |
+| **15** | **Il mercato del lavoro keynesiano** | §56 | N / salario W | *Se il salario **non può scendere sotto W₁**, fra N₁ e N\* restano lavoratori **disposti a lavorare al salario corrente che non trovano posto**: è **la disoccupazione involontaria**.* |
 
 ## I grafici da saper descrivere se richiesti
 
 | # | Grafico | § | Assi | **La frase che lo riassume** |
 |---|---|---|---|---|
-| **10** | **La costruzione della LM** | §44 | quattro quadranti | *Più reddito assorbe più moneta transattiva; a offerta data **ne resta meno per la speculazione**, e perché gli operatori l'accettino **il tasso deve salire**. Da cui l'inclinazione positiva — **orizzontale nel tratto keynesiano, verticale in quello neoclassico**.* |
-| **7** | **La domanda aggregata con settore pubblico** | §26 | Y / AD | *Lo Stato **non cambia l'inclinazione, cambia l'intercetta**: e poiché l'intercetta, via moltiplicatore, determina il reddito, **controllare l'intercetta significa controllare il reddito**.* |
-| **4** | **La domanda aggregata** | §24 | Y / AD | ***L'intercetta è la componente autonoma, l'inclinazione è quella indotta***: due informazioni in una retta.* |
-| **1** | **Le curve di isoperdita e il *bliss point*** | §14 | produzione / inflazione | *Circonferenze concentriche intorno al punto ideale: **qui il benessere cresce avvicinandosi al centro**, non allontanandosi. Quando gli strumenti non bastano, si sceglie **il punto del vincolo tangente alla circonferenza più piccola**.* |
-| **2** | **La funzione di consumo** | §22 | Y / C | ***L'inclinazione È la propensione marginale al consumo***, ed è minore di 45° perché c < 1 — che è ciò che garantisce l'esistenza dell'equilibrio.* |
-| **3** | **Gli investimenti autonomi** | §22 | Y / I | *La retta è **orizzontale**, e l'orizzontalità è tutta l'informazione: **gli investimenti non dipendono dal reddito**. Nel modello IS-LM questa ipotesi cadrà, ed è da lì che nasce la IS.* |
+| **12** | **Da IS-LM alla curva AD** | §51 | due pannelli | *Prezzi ↑ → offerta reale M/P ↓ → LM a sinistra → tasso ↑ → investimenti ↓ → reddito ↓. **Ogni punto della AD è un intero equilibrio IS-LM.*** |
+| **9** | **La costruzione della IS** | §43 | quattro quadranti | *Per ogni reddito un risparmio, per quel risparmio un pari investimento, per quell'investimento **un solo tasso**. Negativa perché **più domanda richiede tasso più basso**.* |
+| **10** | **La costruzione della LM** | §44 | quattro quadranti | *Più reddito assorbe più moneta transattiva; **ne resta meno per la speculazione**, e il tasso deve salire. **Orizzontale nel tratto keynesiano, verticale in quello neoclassico**.* |
+| **14** | **Il mercato del lavoro neoclassico** | §55 | N / salario W | *Domanda decrescente, offerta crescente, il salario si aggiusta: **per i neoclassici ogni disoccupazione è volontaria**, perché chi accetta il salario di equilibrio trova lavoro.* |
+| **17** | **L'OFFERTA DI LAVORO A «Z»** | §59 | N / salario W | ***Effetto di reddito ed effetto di sostituzione si alternano nel prevalere**: la curva sale, scende, risale e riscende. **Non è affatto garantito che alzare i salari netti aumenti le ore offerte.*** |
+| **16** | **La domanda di lavoro** | §59 | L / salario W | *Decrescente **perché la produttività marginale è decrescente**: si assume finché il valore del prodotto marginale eguaglia il salario.* |
+| **7** | **La domanda aggregata con settore pubblico** | §26 | Y / AD | *Lo Stato **non cambia l'inclinazione, cambia l'intercetta** — e l'intercetta, via moltiplicatore, determina il reddito.* |
+| **1** | **Le curve di isoperdita e il *bliss point*** | §14 | produzione / inflazione | *Circonferenze concentriche: **il benessere cresce avvicinandosi al centro**. Quando gli strumenti non bastano, si sceglie **il punto del vincolo tangente alla circonferenza più piccola**.* |
+| **2-4** | **Consumo, investimenti, domanda aggregata** | §22-24 | Y / rispettive grandezze | *Sono i tre mattoni della croce keynesiana: **l'inclinazione è c, l'intercetta è la spesa autonoma**.* |
+| **3** | **Gli investimenti autonomi** | §22 | Y / I | *Orizzontale: **non dipendono dal reddito**. Nel modello IS-LM l'ipotesi cade, ed è da lì che nasce la IS.* |
 
-> **Il consiglio, identico a quello dato per scienza delle finanze.** Se vi chiedono un grafico, **non cominciate disegnando**. Dite prima *«sugli assi metto questo e questo»*, poi *«traccio queste curve»*, poi — ed è la parte che conta — *«il punto che interessa è questo, e significa…»*. **La commissione valuta la spiegazione, non il disegno.**
+> **Il consiglio pratico.** Se vi chiedono un grafico, **non cominciate disegnando**: dite prima che cosa sta sugli assi, poi che cosa si traccia, poi — ed è ciò che conta — **qual è il punto che interessa e che cosa significa**.
 >
-> **E per i due grafici a quattro quadranti — IS e LM — non tentate di disegnarli.** Raccontateli: *«è una costruzione in quattro passaggi, si parte da un livello di reddito e si arriva al tasso corrispondente passando per il risparmio e per gli investimenti»*. **Chi tenta di disegnare quattro quadranti alla lavagna sotto esame si perde.** Chi li racconta in quattro frasi dimostra di averli capiti.
+> **E per i due grafici a quattro quadranti — IS e LM — non tentate di disegnarli**: raccontateli in quattro passaggi. Chi tenta quattro quadranti alla lavagna sotto esame si perde; chi li racconta dimostra di averli capiti.
 
 ---
 
-# PARTE XII — LE FORMULE ESSENZIALI
+# PARTE XIV — LE FORMULE ESSENZIALI
 
 Codice: **★★★ da sapere assolutamente**, **★★ da riconoscere**, **★ solo se avanza tempo**.
 
 | | Formula | Che cosa dice, in italiano |
 |---|---|---|
-| **★★★** | **Y = C + I + G (+ NX)** | L'**identità fondamentale**: il reddito è la somma di consumi, investimenti, spesa pubblica e — in economia aperta — esportazioni nette. **È un'identità contabile, non una teoria.** |
-| **★★★** | **C = cY** (o **C = C₀ + cY**) | La **funzione del consumo**. *c* è la **propensione marginale al consumo**, ed è **l'inclinazione della retta**. |
-| **★★★** | **k = 1/(1 − c) = 1/s** | Il **moltiplicatore keynesiano**. Con *c* = 0,75 → **k = 4**; con *c* = 0,8 → **k = 5**; con *c* = 0,5 → **k = 2**. |
-| **★★★** | **ΔY = [1/(1 − c)] · ΔI** | Un aumento di spesa autonoma produce **un aumento più che proporzionale del reddito**. |
-| **★★★** | **M · V = P · Q** | L'**equazione degli scambi di Fisher**. Diventa **teoria quantitativa** solo aggiungendo che **V e Q sono costanti**: allora **P varia proporzionalmente a M**. |
-| **★★★** | **Mᵈ = L₁(Y) + L₂(i)** | La **domanda keynesiana di moneta**: componente **transattiva-precauzionale** che dipende dal **reddito**, più componente **speculativa** che dipende **inversamente dal tasso**. |
-| **★★★** | **moltiplicatore dei depositi = 1/g** | Da un deposito iniziale il sistema bancario genera **moneta bancaria multipla**. Con **g = 20%** → moltiplicatore **5**: 1.000 di base diventano **5.000** di depositi. |
-| **★★** | **S = sY**, con **s = 1 − c** | La **funzione del risparmio**. *s* è la **propensione marginale al risparmio**. **c + s = 1 sempre.** |
-| **★★** | **S = I + (G + SU − T) + NX** | L'identità del risparmio: il risparmio finanzia **gli investimenti, il disavanzo pubblico, e il resto del mondo**. **È l'aritmetica dello spiazzamento.** |
-| **★★** | **M = Circolante + Depositi bancari** | La definizione di **offerta di moneta**. |
-| **★★** | **moltiplicatore realistico = 1/(k + b + a)** | Con **k** riserva obbligatoria, **b** riserve libere delle banche, **a** propensione del pubblico al circolante. **Sono tre fughe dal circuito.** |
-| **★★** | **moltiplicatore monetario m = (1 + a)/(k + b + a)**, con **Mₛ = m · BM** | Quanta **moneta complessiva** (circolante + depositi) nasce da una data **base monetaria**. |
-| **★★** | **M = k · P · R** | L'equazione di **Cambridge**: *k* è la quota di reddito che si desidera tenere liquida, ed è **il reciproco di V**. La novità è che **k non è più una costante tecnica ma una scelta**. |
-| **★** | **T₁ = a₁I₁ + a₂I₂ ; T₂ = b₁I₁ + b₂I₂** | Il **modello di Tinbergen** a due obiettivi e due strumenti. Le soluzioni esistono **solo se a₁/b₁ ≠ a₂/b₂** (indipendenza lineare). |
-| **★** | **A = 1/p** | Il **potere d'acquisto della moneta** è il reciproco del prezzo. |
-| **★** | **N = (I + G) / [(1 − c)π]** | L'esempio di **Graziani** in forma ridotta: quanta spesa pubblica serve per un dato livello di occupazione. |
+| **★★★** | **Y = C + I + G (+ NX)** | L'**identità fondamentale**. **È contabile, non teorica.** |
+| **★★★** | **C = cY** (o **C = C₀ + cY**) | La **funzione del consumo**: *c* è la **propensione marginale al consumo** e **l'inclinazione della retta**. |
+| **★★★** | **k = 1/(1 − c) = 1/s** | Il **moltiplicatore keynesiano**. Con *c* = 0,75 → **4**; *c* = 0,8 → **5**; *c* = 0,5 → **2**. |
+| **★★★** | **M · V = P · Q** | L'**equazione degli scambi di Fisher**: diventa **teoria quantitativa** solo assumendo V e Q costanti. |
+| **★★★** | **Mᵈ = L₁(Y) + L₂(i)** | La **domanda keynesiana di moneta**: transattiva-precauzionale dal **reddito**, speculativa **inversamente dal tasso**. |
+| **★★★** | **moltiplicatore dei depositi = 1/g** | Con **g = 20%** → **5**: 1.000 di base monetaria generano **5.000** di depositi. |
+| **★★★** | **tasso di inflazione = (P_{t+1} − P_t) / P_t** | Da 100 a 110 → **10%**. |
+| **★★★** | **tasso di disoccupazione = disoccupati / FORZA LAVORO** | Attenzione al denominatore: **forza lavoro**, non popolazione. |
+| **★★★** | **tasso di attività = forza lavoro / popolazione in età lavorativa** | Qui invece il denominatore **è la popolazione**. |
+| **★★★** | **OCCUPATI + IN CERCA DI OCCUPAZIONE = FORZA LAVORO** | La definizione ISTAT. Le tre soglie: **un'ora, trenta giorni, due settimane**. |
+| **★★★** | **LEGGE DI OKUN** | *−2 / −2,5% di PIL rispetto al potenziale → **+1% di disoccupazione***. |
+| **★★** | **ΔY = [1/(1−c)]·ΔG − [c/(1−c)]·ΔT** | La manovra completa. **c/(1−c)** è il **moltiplicatore delle imposte**: con *c* = 0,75 vale **3**, non 4. |
+| **★★** | **S = sY**, con **s = 1 − c** | La funzione del risparmio. **c + s = 1 sempre.** |
+| **★★** | **S = I + (G + SU − T) + NX** | L'identità del risparmio: **è l'aritmetica dello spiazzamento**. |
+| **★★** | **C + S + T = C + I + G**, da cui **S − I = G − T** | La doppia lettura del reddito: **il risparmio privato netto eguaglia il disavanzo pubblico**. |
+| **★★** | **deflatore del PIL = PIL nominale / PIL reale** | *2.000 → 2.750 nominale ma solo 2.000 → 2.200 reale: **27,5 punti su 37,5 erano inflazione**.* |
+| **★★** | **moltiplicatore realistico = 1/(k + b + a)** · **monetario m = (1+a)/(k+b+a)** | **k** riserva obbligatoria, **b** riserve libere, **a** propensione al circolante: **tre fughe dal circuito**. |
+| **★★** | **M = k · P · R** | L'equazione di **Cambridge**: *k* è **il reciproco di V**, e — novità — **non è più una costante tecnica ma una scelta**. |
+| **★** | **T₁ = a₁I₁ + a₂I₂ ; T₂ = b₁I₁ + b₂I₂** | Il modello di **Tinbergen**: soluzioni solo se **a₁/b₁ ≠ a₂/b₂**. |
+| **★** | **N = (I + G) / [(1 − c)π]** | L'esempio di **Graziani** in forma ridotta. |
 
-> **Dove concentrarsi se il tempo è poco.** Le prime sette. Con **Y = C + I + G**, il **moltiplicatore**, **MV = PQ**, la **domanda keynesiana di moneta** e il **moltiplicatore dei depositi** si affronta l'85% delle domande tecniche che questa Parte può produrre.
->
-> **E un'osservazione che vale più di tre formule**: i **moltiplicatori** di questa dispensa — quello keynesiano *1/(1−c)*, quello dei depositi *1/g*, quello monetario — **sono tutti la stessa cosa matematica**: la somma di una serie geometrica di ragione minore di 1. **Cambia solo il nome della fuga**: il risparmio, la riserva obbligatoria, il circolante. Se avete capito uno, avete capito tutti.
-
----
-
-# PARTE XIII — QUARANTACINQUE DOMANDE D'ORALE, CON TRACCIA DI RISPOSTA
-
-Il simbolo **►** segnala le **dodici più probabili**.
-
-## Che cos'è la politica economica (cap. 1)
-
-1. **►** *Qual è la differenza fra economia politica e politica economica?* → **Ramo positivo** (descrive ciò che è, cerca regolarità) e **ramo normativo** (prescrive gli strumenti per raggiungere obiettivi). Il secondo contiene per definizione giudizi di valore. §1.
-2. *Chi sono i soggetti attivi della politica economica?* → Soggetti pubblici; in economia di mercato le decisioni di governo hanno **solo funzione di indirizzo**, perché si confrontano con i comportamenti e **le aspettative** dei privati. Poi gli organismi internazionali: ONU, FMI, Banca Mondiale, UE. §2.
-3. **►** *Quali sono gli obiettivi della politica economica?* → I sei: prodotto nazionale, piena occupazione, stabilità dei prezzi, equa distribuzione, pareggio dei conti con l'estero, tutela dell'ambiente. Per l'inflazione saper distinguere **danno distributivo e danno allocativo**. §3.
-4. *Distingua intervento diretto e indiretto.* → Nel primo lo Stato **diventa imprenditore**; nel secondo **lascia la produzione ai privati ma la disciplina e la indirizza**. §4.
-5. *Che cos'è la programmazione economica e che fine ha fatto?* → Coordinamento delle iniziative private tramite incentivi, **lasciando ai privati l'attività produttiva**. Anni Sessanta in Francia, Italia, Scandinavia; abbandonata con la *deregulation*. In Italia l'ultimo tentativo è il **piano Pandolfi 1978-1980**, mai entrato in vigore. §5.
-
-## Modelli e strumenti (cap. 2)
-
-6. *Che cos'è un modello economico?* → La definizione di **Klein**: rappresentazione **astratta e semplificata** di un processo economico, in forma di equazioni. §7.
-7. **►** *Distingua modello analitico e modello strategico.* → Il primo analizza la realtà come appare, il secondo individua gli strumenti per raggiungere obiettivi. Tinbergen: il secondo è **il rovescio** del primo — **alcune grandezze passano da variabili a incognite**. §7.
-8. **►** *Come si classificano le variabili di un modello?* → **Endogene** (spiegate dal modello: obiettivo / irrilevanti) ed **esogene** (date al modello: strumentali / date). Più i **parametri**, costanti nel periodo. La coppia che conta è **obiettivi/strumenti**. §8.
-9. *Quali tipi di equazioni compongono un modello?* → I cinque: definizione, comportamento, tecniche, istituzionali, equilibrio. **La distinzione decisiva è fra identità (sempre vere) ed equazioni di comportamento (falsificabili)**. §9.
-10. *Distingua forma strutturale e forma ridotta.* → Nella prima le endogene si rimandano l'una all'altra; nella seconda sono espresse **solo in funzione delle esogene**. **La forma ridotta è il cruscotto di comando del policy maker.** §10.
-11. **►** *Enunci e spieghi la regola di Tinbergen.* → **Tanti obiettivi, tanti strumenti**. La ragione: ogni obiettivo è un'equazione, ogni strumento un'incognita; un sistema sovradeterminato non ha soluzione. I due casi di disuguaglianza. Le **due condizioni**: potere su entrambi gli strumenti, **indipendenza lineare** degli effetti. §11.
-12. *Che cos'è il *bliss point*?* → Lo stato di massimo benessere, raggiunto quando tutti gli obiettivi assumono il valore desiderato. §11.
-13. *Che cosa significa che due strumenti non sono linearmente indipendenti?* → Che i loro effetti sugli obiettivi sono **proporzionali**, cioè **è come se ce ne fosse uno solo**. Esempio del manuale: **offerta di moneta e tasso d'interesse**, che sono le due coordinate dello stesso punto. §11.
-14. **►** *Che cos'è il principio di Mundell?* → **Classificazione effettiva dei mercati**: assegnare a ogni centro di potere **il target più sensibile allo strumento che controlla**. L'assegnazione opposta rende impossibile il *bliss point*. **È il fondamento teorico dell'indipendenza della banca centrale.** §12.
-15. *Che cos'è la funzione di perdita sociale?* → I costi per la società quando le variabili obiettivo si discostano dal *bliss point*; stimata come **somma degli scostamenti al quadrato**. Il grafico è fatto di **circonferenze concentriche**. §13-14.
-16. **►** *Illustri la critica di Lucas.* → Vedi lo schema esteso al §15.
-
-## Contabilità nazionale (cap. 3)
-
-17. *Distingua PNL e PIL.* → **«Nazionale» segue le persone, «interno» segue il territorio.** La formula di raccordo. §16.
-18. *Che cos'è il valore aggiunto e a che serve?* → Ricavi meno acquisti di beni intermedi; serve a **evitare le duplicazioni**, e conduce allo stesso risultato del metodo dei beni finali. §16.
-19. **►** *Distingua PNL nominale e reale.* → Il nominale confonde variazioni di quantità e di prezzi; il reale usa **i prezzi di un anno base** e isola l'effetto quantità. È **la deflazione** studiata in statistica economica. §17.
-20. *Come si passa dal PNL al reddito personale disponibile?* → **PNL − ammortamenti − tributi + sussidi.** §18.
-21. *Distingua distribuzione funzionale e personale del reddito.* → La prima fra **i fattori produttivi** (salari, rendite, profitti, interessi), la seconda fra **gli individui**. §18.
-22. **►** *Perché l'identità Y = C + I è sempre vera anche se le imprese hanno merce invenduta?* → Perché **le scorte indesiderate sono contabilizzate come investimento**. Ma sono investimento *realizzato*, non *desiderato*: e da qui nasce la distinzione che fonda il concetto di equilibrio. §19, §23.
-23. **►** *Illustri l'identità del risparmio nelle sue tre versioni.* → *S = I*; *S = I + disavanzo pubblico*; *S = I + disavanzo + NX*. **Ogni versione aggiunge una destinazione possibile per il risparmio.** L'ultima è **l'aritmetica dello spiazzamento**. §19.
-
-## Il modello reddito-spesa (cap. 4)
-
-24. *Sotto quali ipotesi vale il modello reddito-spesa?* → Le quattro: prezzi fissi, prodotto = reddito, niente Stato (inizialmente), **niente moneta né tasso d'interesse**. E saper dire **quale ipotesi rimuove ciascun modello successivo**. §20.
-25. *Che cos'è la propensione marginale al consumo?* → L'incremento di consumo per ogni unità in più di reddito; **geometricamente, l'inclinazione della funzione di consumo**. §21.
-26. **►** *Che cos'è il reddito di equilibrio e perché è di equilibrio?* → Il livello di reddito che eguaglia **la domanda aggregata desiderata**; è di equilibrio perché **gli investimenti non desiderati sono pari a zero** e nessuno ha motivo di cambiare comportamento. §23.
-27. **►** *Illustri il moltiplicatore.* → Vedi lo schema esteso al §26. Formula, catena dei round, perché si ferma, valori numerici.
-28. *Perché il moltiplicatore è uguale a 1/s?* → Perché *s = 1 − c*: **è l'inverso della quota che esce dal circuito a ogni giro**. Da cui il **paradosso della parsimonia**. §25.
-29. *In che modo il settore pubblico rende il modello uno strumento di politica economica?* → Perché **spesa pubblica, tributi e sussidi sono componenti autonome** che il governo controlla: muovendole si muove **l'intercetta** della retta di domanda, e il moltiplicatore fa il resto. §26.
-
-## Moneta, banche, offerta di moneta (capp. 5-7)
-
-30. **►** *Quali sono le funzioni della moneta?* → Le tre: **intermediario degli scambi, riserva di valore, unità di conto**. Saper spiegare ciascuna, e collegare **la riserva di valore all'inflazione**. §27.
-31. *Come si classificano gli aggregati monetari?* → M₁, M₂, M₃, per **liquidità decrescente**; sono **cerchi concentrici**, non categorie alternative. §28.
-32. **►** *Illustri la teoria quantitativa della moneta.* → *MV = PQ*; le ipotesi di V e Q costanti; la conclusione che **l'aumento di moneta produce solo aumento dei prezzi**. **E la critica: l'equazione è un'identità, la teoria sta nelle due ipotesi.** §29.
-33. *Che cosa aggiunge la scuola di Cambridge?* → Il **fondo di moneta**: la domanda di moneta diventa **il risultato di una scelta**, quindi **k non è più costante**. È la premessa della preferenza per la liquidità. §29.
-34. **►** *Che cos'è la dicotomia neoclassica?* → La **separazione fra settore reale e settore monetario**: la moneta influenza solo i prezzi. Vale **solo in piena occupazione**; Keynes la rifiuta **in entrambe le direzioni**. Cade formalmente nel modello IS-LM. §30, §45.
-35. **►** *Quali sono i tre motivi della domanda di moneta secondo Keynes?* → **Transattivo** e **precauzionale** (dipendono dal reddito), **speculativo** (dipende **inversamente** dal tasso). Saper spiegare la relazione inversa fra prezzo dei titoli e tasso. §32.
-36. *Che cosa distingue la moneta detenuta per precauzione dal risparmio?* → Il risparmio **è remunerato**; la scorta precauzionale è **liquida ma infruttifera**. Con la precisazione di **Baumol** sulla dipendenza anche dal tasso. §32.
-37. *Che cos'è il moltiplicatore dei depositi?* → **1/g**: da un deposito iniziale il sistema genera moneta bancaria multipla, perché **i pagamenti si regolano fra conti anziché in contante**. L'esempio 1.000 → 5.000. §34, §39.
-38. *A che serve la riserva obbligatoria?* → Le tre ragioni: **tutela dei depositanti**, **controllo della quantità di moneta** (è uno strumento di politica monetaria a sé stante), **finanziamento agevolato del settore pubblico** — quest'ultimo, di fatto, **un'imposta occulta**. §38.
-39. *Che cosa sono i canali di creazione della base monetaria?* → I quattro: banche, Tesoro, estero, altri settori. Con le note sull'**art. 123 TFUE** e sul **divorzio del 1981**. §37.
-40. *La moneta è variabile esogena o endogena?* → Le due posizioni; **la formula del moltiplicatore monetario mostra che entrambe hanno un fondamento**: la banca centrale controlla la base, non il moltiplicatore. §40.
-41. **►** *Che cos'è la trappola della liquidità?* → Vedi la scheda del §41. Definizione, meccanismo delle aspettative sui tassi, **conseguenza: politica monetaria impotente, resta la fiscale**. E l'aggancio al post-2008.
-
-## Sintesi neoclassica e IS-LM (cap. 8)
-
-42. **►** *Perché in Keynes l'equilibrio automatico neoclassico non funziona?* → Perché **risparmio e investimenti dipendono da variabili diverse** — reddito e tasso — e **manca un prezzo che li faccia incontrare**. Da cui l'equilibrio di sottoccupazione. §42.
-43. *Che cos'è la sintesi neoclassica?* → Il tentativo di **Hicks e Hansen**, dal 1937, di ricomporre neoclassici e Keynes. **È un'interpretazione di Keynes, contestata dai post-keynesiani.** §42.
-44. **►** *Che cosa sono le curve IS e LM, e perché hanno quelle inclinazioni?* → Vedi §43-44. **IS negativa** (più reddito → più risparmio → servono più investimenti → serve tasso più basso); **LM positiva** (più reddito → più moneta transattiva → meno speculativa → serve tasso più alto).
-45. **►** *Che cos'è il *crowding out*?* → La catena in cinque passaggi del §46. E il rimedio: il ***policy mix***. **E soprattutto: l'entità dello spiazzamento dipende dalla pendenza della LM** — nulla nel tratto orizzontale, totale nel tratto verticale.
+> **Dove concentrarsi se il tempo è poco.** Le prime undici. E un'osservazione che vale più di tre formule: **tutti i moltiplicatori di questa dispensa — keynesiano, dei depositi, monetario — sono la stessa cosa matematica**: la somma di una serie geometrica di ragione minore di 1. **Cambia solo il nome della fuga**: risparmio, riserva obbligatoria, circolante.
 
 ---
 
-# PARTE XIV — I COLLEGAMENTI CON LE ALTRE MATERIE DEL BANDO
+# PARTE XV — SESSANTA DOMANDE D'ORALE, CON TRACCIA DI RISPOSTA
+
+Il simbolo **►** segnala le **sedici più probabili**.
+
+## Che cos'è la politica economica (capp. 1-2)
+
+1. **►** *Qual è la differenza fra economia politica e politica economica?* → **Ramo positivo** e **ramo normativo**. §1.
+2. *Chi sono i soggetti attivi della politica economica?* → Soggetti pubblici, con **funzione di indirizzo**; organismi internazionali. §2.
+3. **►** *Quali sono gli obiettivi della politica economica?* → I sei; per l'inflazione distinguere **danno distributivo e allocativo**. §3.
+4. *Distingua intervento diretto e indiretto.* → §4.
+5. *Che cos'è la programmazione economica e che fine ha fatto?* → Anni Sessanta; **piano Pandolfi 1978-1980**, mai in vigore. §5.
+6. **►** *Distingua modello analitico e modello strategico.* → Il secondo è **il rovescio** del primo: **da variabili a incognite**. §7.
+7. **►** *Come si classificano le variabili di un modello?* → **Endogene** (obiettivo/irrilevanti) ed **esogene** (strumentali/date), più i **parametri**. §8.
+8. *Quali tipi di equazioni compongono un modello?* → I cinque; **la distinzione decisiva è fra identità e equazioni di comportamento**. §9.
+9. *Distingua forma strutturale e forma ridotta.* → **La forma ridotta è il cruscotto di comando.** §10.
+10. **►** *Enunci la regola di Tinbergen.* → **Tanti obiettivi, tanti strumenti**; i due casi; le **due condizioni**. §11.
+11. *Che cosa significa che due strumenti non sono linearmente indipendenti?* → Esempio: **offerta di moneta e tasso d'interesse**. §11.
+12. **►** *Che cos'è il principio di Mundell?* → **Classificazione effettiva dei mercati**; è il fondamento dell'indipendenza della banca centrale. §12.
+13. *Che cos'è la funzione di perdita sociale?* → **Somma degli scostamenti al quadrato**; circonferenze concentriche. §13-14.
+14. **►** *Illustri la critica di Lucas.* → Schema esteso al §15.
+
+## Contabilità nazionale e reddito-spesa (capp. 3-4)
+
+15. *Distingua PNL e PIL.* → **«Nazionale» segue le persone, «interno» il territorio.** §16.
+16. **►** *Distingua PNL nominale e reale.* → §17; e l'esempio del deflatore al §63.
+17. *Come si passa dal PNL al reddito personale disponibile?* → **− ammortamenti − tributi + sussidi.** §18.
+18. **►** *Perché l'identità Y = C + I è sempre vera anche con merce invenduta?* → **Le scorte sono contabilizzate come investimento** — ma *realizzato*, non *desiderato*. §19, §23.
+19. **►** *Illustri l'identità del risparmio nelle tre versioni.* → **Ogni versione aggiunge una destinazione.** §19.
+20. *Sotto quali ipotesi vale il modello reddito-spesa?* → Le quattro, e **quale rimuove ciascun modello successivo**. §20.
+21. **►** *Che cos'è il reddito di equilibrio e perché è di equilibrio?* → **Investimenti non desiderati pari a zero.** §23.
+22. **►** *Illustri il moltiplicatore.* → Schema esteso al §26.
+23. *Perché il moltiplicatore è 1/s?* → Il **paradosso della parsimonia**. §25.
+
+## Moneta e banche (capp. 5-7)
+
+24. **►** *Quali sono le funzioni della moneta?* → Le tre; collegare **riserva di valore e inflazione**. §27.
+25. *Gli aggregati monetari.* → M₁-M₂-M₃, **cerchi concentrici** per liquidità decrescente. §28.
+26. **►** *Illustri la teoria quantitativa della moneta.* → *MV = PQ*; **l'equazione è un'identità, la teoria sta nelle due ipotesi**. §29.
+27. *Che cosa aggiunge la scuola di Cambridge?* → Il **fondo di moneta**: *k* diventa **una scelta**. §29.
+28. **►** *Che cos'è la dicotomia neoclassica?* → Vale **solo in piena occupazione**; cade nel modello IS-LM. §30, §45.
+29. **►** *I tre motivi della domanda di moneta.* → Transattivo e precauzionale **dal reddito**, speculativo **dal tasso**. §32.
+30. *Il moltiplicatore dei depositi.* → **1/g**; l'esempio 1.000 → 5.000. §34, §39.
+31. *A che serve la riserva obbligatoria?* → Le tre ragioni; la terza è **un'imposta occulta**. §38.
+32. *I canali di creazione della base monetaria.* → I quattro; **art. 123 TFUE** e **divorzio del 1981**. §37.
+33. **►** *Che cos'è la trappola della liquidità?* → §41, con l'aggancio ai tassi a zero del dopo-2008.
+34. *Le tre funzioni della Banca d'Italia.* → Vigilanza, monetaria, valutaria; **art. 47 Cost.** §35.
+35. *Il TUB del 1993 e la banca universale.* → Da **regolazione per divieti** a **requisiti prudenziali**. §35.
+
+## IS-LM e AD-AS (capp. 8-9)
+
+36. **►** *Perché in Keynes l'equilibrio automatico non funziona?* → **Risparmio e investimenti dipendono da variabili diverse.** §42.
+37. *Che cos'è la sintesi neoclassica?* → **Hicks e Hansen**; è **un'interpretazione** di Keynes, contestata. §42.
+38. **►** *Che cosa sono IS e LM e perché hanno quelle inclinazioni?* → §43-44.
+39. **►** *Che cos'è il crowding out?* → La catena in cinque passaggi; **l'entità dipende dalla pendenza della LM**. §46.
+40. **►** *Che cos'è la curva di domanda aggregata e da dove viene?* → **Ogni suo punto è un intero equilibrio IS-LM**; la catena prezzi → M/P → LM → tasso → investimenti → reddito. §51.
+41. *Che cosa sposta la curva AD?* → Politiche economiche **e** fattori esterni (progresso tecnico, fiducia, domanda estera). §51.
+42. **►** *Distingua prodotto effettivo e prodotto potenziale.* → E la conseguenza: **politiche della domanda chiudono l'output gap, politiche dell'offerta spostano il potenziale**. §53.
+
+## Disoccupazione e inflazione (cap. 10)
+
+43. *Le teorie classiche sul salario.* → Sussistenza, **legge bronzea di Lassalle**, trappola malthusiana. §54.1.
+44. *La teoria marxista del salario.* → **Esercito industriale di riserva**, plusvalore, **il ciclo labour saving**. §54.2.
+45. *La teoria del fondo dei salari.* → E **l'uso politico contro l'azione sindacale**; **Mill la ripudiò**. §54.3.
+46. **►** *Perché per i neoclassici la disoccupazione è sempre volontaria?* → §55: chi accetta il salario di equilibrio trova lavoro.
+47. **►** *Perché per Keynes è involontaria?* → **Rigidità dei salari verso il basso** e i **due motivi**; il ruolo delle **aspettative sulla domanda effettiva**. §56.
+48. **►** *Quali teorie spiegano la rigidità dei salari?* → Le quattro: **contratti impliciti, shirking, salari d'efficienza, insider-outsider**. §57.
+49. *Perché il mercato del lavoro è un monopolio bilaterale?* → E i **tre ruoli dello Stato**. §58.
+50. *Che cos'è la curva di offerta di lavoro a Z?* → **Effetto reddito ed effetto sostituzione si alternano.** §59.
+51. **►** *Le definizioni ISTAT di occupato, disoccupato, inattivo.* → Le tre soglie: **un'ora, trenta giorni, due settimane**. E **i lavoratori scoraggiati**. §60.
+52. *Tasso di attività e tasso di disoccupazione.* → **Attenzione ai due denominatori diversi.** §60.
+53. **►** *Quali tipi di disoccupazione conosce?* → **Frizionale, ciclica, strutturale** — con **la cura di ciascuna**. §62.
+54. **►** *Che cos'è la legge di Okun?* → −2/2,5% di PIL → +1% di disoccupazione; **labour hoarding**. §62.
+55. *Come si misura l'inflazione in Italia?* → **NIC, FOI, IPCA** e le tre differenze; il **deflatore del PIL**. §63.
+56. *Chi guadagna e chi perde con l'inflazione?* → **Ridistribuisce dai creditori ai debitori e dai redditi fissi ai variabili**; l'effetto sul debito pubblico. §64.
+57. **►** *Quali sono le cause dell'inflazione?* → **Da domanda, monetaria, da costi**; la **stagflazione** e **l'inflazione inerziale**. §65.
+58. *Come si combatte l'inflazione?* → **Dipende dalla causa**: la tabella del §68. Più **politica dei redditi** e **TIP**. §66, §68.
+59. **►** *Illustri la curva di Phillips.* → Schema esteso al §67.
+60. **►** *Che cos'è il tasso di disoccupazione naturale?* → **Non è disoccupazione zero**: è frizionale + strutturale. **NAIRU**; 5-6% negli USA. E **si abbassa solo con politiche dell'offerta**. §67.4, §68.
+
+---
+
+# PARTE XVI — I COLLEGAMENTI CON LE ALTRE MATERIE DEL BANDO
 
 ## Con scienza delle finanze — il collegamento più fitto
 
-È **la materia gemella**, e il manuale stesso dichiara il raccordo al §6: *gli interventi microeconomici sono stati analizzati nella parte dedicata alla Scienza delle finanze*. Le corrispondenze puntuali:
+Il manuale stesso dichiara il raccordo al §6: *gli interventi microeconomici sono stati analizzati nella parte dedicata alla Scienza delle finanze*.
 
 | Politica economica | Scienza delle finanze (dispensa 07) |
 |---|---|
-| **Y = C + I + G** (§19) | §64 — l'equazione fondamentale di Keynes |
-| **Il moltiplicatore 1/(1−c)** (§25) | §65 — qui costruito da zero, là applicato alla spesa pubblica |
-| **Il moltiplicatore dei trasferimenti più basso** (§26) | §65 — qui se ne vede **la ragione algebrica**: il coefficiente *c* davanti a *cSU* e *cT* |
-| **La critica di Lucas** (§15) | §61.5 — la scuola delle aspettative razionali; e §28, l'**equivalenza ricardiana di Barro** |
-| **Le teorie sul bilancio** | §61 — le cinque teorie: **la teoria del bilancio funzionale è il modello reddito-spesa applicato al bilancio** |
-| **Lo spiazzamento** (§46) | §28 — le critiche al *deficit spending* e il **gioco di Ponzi** |
-| **La dicotomia neoclassica** (§30) | §9 e §61.1 — la **finanza neutrale** è la stessa posizione vista dal lato del bilancio |
-| **Distribuzione funzionale e personale** (§18) | §60 — le tre ripartizioni della redistribuzione |
-| **Il principio di Mundell** (§12) | §47-48 — il federalismo fiscale è **assegnazione di funzioni a livelli di governo**: stessa logica |
-| **Asimmetria informativa e banche** (§33) | §21 — moral hazard e selezione avversa |
+| **Y = C + I + G** (§19, §71) | §64 — l'equazione fondamentale |
+| **Il moltiplicatore** (§25) | §65 — qui costruito da zero, là applicato |
+| **Moltiplicatore dei trasferimenti più basso** (§26, §70) | §65 — qui se ne vede **la ragione algebrica** |
+| **Finanziamento con imposte vs debito** (§73) | §66 — **teorema di Haavelmo**, che completa il discorso interrotto |
+| **La critica di Lucas** (§15) | §61.5 e §28 — aspettative razionali ed **equivalenza ricardiana** |
+| **Lo spiazzamento** (§46) | §28 — le critiche al *deficit spending* |
+| **Le teorie sul bilancio** | §61 — **la teoria del bilancio funzionale è il modello reddito-spesa applicato al bilancio** |
+| **La dicotomia neoclassica** (§30) | §9 e §61.1 — la **finanza neutrale** |
+| **Shirking e salari d'efficienza** (§57) | §21 — **moral hazard** e asimmetria informativa |
+| **Le imposte dirette e indirette** (§70) | §31 — la tabella a cinque criteri |
+| **L'inflazione che erode il debito** (§64) | §28 — la **monetizzazione** fra le vie d'uscita |
+| **Il principio di Mundell** (§12) | §47-48 — il federalismo fiscale come assegnazione di funzioni |
 
-> **Il modo migliore di dirlo:** *«**Scienza delle finanze e politica economica sono la stessa materia guardata da due lati**: la prima studia **che cosa lo Stato può e deve fare** — i fallimenti del mercato, il prelievo, la spesa —, la seconda **come lo fa e con quali effetti aggregati**. Il moltiplicatore che in scienza delle finanze appare come una formula da applicare, in politica economica viene costruito passo per passo.»*
-
-## Con la contabilità pubblica
-
-| Argomento | Collegamento |
-|---|---|
-| **Identità del risparmio e disavanzo** (§19) | Il **saldo di bilancio**, il fabbisogno, il saldo netto da finanziare |
-| **Politica fiscale espansiva e restrittiva** (§46) | L'**art. 81 Cost.** riformato dalla L. cost. 1/2012 e il vincolo dell'equilibrio di bilancio |
-| **La Banca d'Italia banca dello Stato** (§35) | Il **conto di disponibilità del Tesoro** e il **servizio di tesoreria** |
-| **Il canale «Tesoro» della base monetaria** (§37) | Il **divieto di finanziamento monetario**, art. 123 TFUE |
-| **Contabilità nazionale** (§16-19) | I conti pubblici in ottica SEC e i **quattro indicatori con effetti giuridici diretti** |
+> *«**Scienza delle finanze e politica economica sono la stessa materia guardata da due lati**: la prima studia che cosa lo Stato può e deve fare, la seconda come lo fa e con quali effetti aggregati.»*
 
 ## Con la statistica economica
 
 | Argomento | Collegamento |
 |---|---|
-| **PNL nominale e reale** (§17) | **Numeri indice e deflatori**; la distinzione fra **deflatore del PIL** e indice dei prezzi al consumo |
-| **Contabilità nazionale** (§16) | **SEC 2010**, settori istituzionali, perimetro S13, partita quadrupla — trattati per esteso nella dispensa 06 |
-| **La funzione del consumo** (§21) | **Legge di Engel**, **teoria del reddito permanente di Friedman**, **paradosso di Kuznets** |
-| **Aggregati monetari** (§28) | Le statistiche monetarie BCE |
-| **Bilancia dei pagamenti** (§35, §37) | La funzione valutaria della Banca d'Italia e le relative statistiche |
+| **Definizioni ISTAT del mercato del lavoro** (§60) | **Integrale**: un'ora, 30 giorni, due settimane, i tre tassi — dispensa 06 |
+| **Legge di Okun** (§62) | Trattata anche là, nel capitolo sul mercato del lavoro |
+| **NIC, FOI, IPCA** (§63) | **Integrale**, con Laspeyres, Paasche e Fisher — dispensa 06 |
+| **Deflatore del PIL** (§63) | La distinzione fra **deflatore** e indice dei prezzi al consumo |
+| **PNL nominale e reale** (§17) | Numeri indici e deflazione delle serie storiche |
+| **Contabilità nazionale** (§16-19) | **SEC 2010**, settori istituzionali, perimetro S13 |
+| **La funzione del consumo** (§21) | **Engel**, **Friedman** e il **paradosso di Kuznets** |
 
 ## Con l'econometria
 
 | Argomento | Collegamento |
 |---|---|
-| **La critica di Lucas** (§15) | È **la critica più importante all'uso dei modelli econometrici per la politica economica**: la stabilità dei parametri stimati |
-| **Equazioni di comportamento** (§9) | Sono **esattamente ciò che si stima**: la propensione al consumo è un coefficiente di regressione |
-| **Forma strutturale e forma ridotta** (§10) | **Stessa terminologia, stesso concetto** che avete studiato nel capitolo sui **modelli a equazioni simultanee** e sull'identificazione |
-| **Funzione di perdita sociale** (§13) | **È il criterio dei minimi quadrati**, applicato a un problema di decisione anziché di stima |
-| **Modelli deterministici e stocastici, statici e dinamici** (§7) | La classificazione dei modelli econometrici |
+| **La critica di Lucas** (§15) | **La critica più importante all'uso dei modelli econometrici** per la politica economica |
+| **Equazioni di comportamento** (§9) | Sono **ciò che si stima**: *c* è un coefficiente di regressione |
+| **Forma strutturale e ridotta** (§10) | **Stesso apparato** delle equazioni simultanee e dell'identificazione |
+| **Funzione di perdita sociale** (§13) | **È il criterio dei minimi quadrati**, applicato a un problema di decisione |
+| **La curva di Phillips** (§67) | Un caso di manuale di **relazione instabile nel tempo** e di **cambio di regime** |
 
-> **Il collegamento fra forma strutturale/ridotta e le equazioni simultanee è particolarmente prezioso**, perché è **letteralmente lo stesso apparato**: in econometria la forma ridotta serve a stimare, qui serve a decidere. **Se la commissione è la stessa per le due materie, questo è il ponte da costruire.**
+## Con la contabilità pubblica
+
+| Argomento | Collegamento |
+|---|---|
+| **Identità del risparmio e disavanzo** (§19, §71) | **S − I = G − T**: saldo, fabbisogno, saldo netto da finanziare |
+| **Politiche espansive e restrittive** (§46, §70) | **Art. 81 Cost.** e il vincolo di equilibrio |
+| **Il NAIRU e l'output gap** (§67.4) | **Il saldo strutturale** nei documenti programmatici e nelle regole europee |
+| **La Banca d'Italia banca dello Stato** (§35) | **Conto di disponibilità del Tesoro** e servizio di tesoreria |
+| **Le tre componenti della spesa** (§70) | Spese correnti / in conto capitale / trasferimenti |
 
 ## Con il diritto amministrativo
 
 | Argomento | Collegamento |
 |---|---|
-| **Vigilanza bancaria e indipendenza** (§35) | Le **autorità amministrative indipendenti** e la loro giustificazione economica |
-| **Il TUB e la banca universale** (§35) | Il passaggio da **regolazione per divieti** a **regolazione per requisiti prudenziali** |
-| ***Home country control*** (§35) | Il **mutuo riconoscimento** e il passaporto europeo nei servizi finanziari |
+| **Vigilanza bancaria e indipendenza** (§35) | Le **autorità amministrative indipendenti** |
 | **Tutela del risparmio** (§35) | **Art. 47 Cost.** |
-| **Le istruzioni della Banca d'Italia** (§35) | Atti di **regolazione** a contenuto generale: natura e sindacabilità |
-| **UIF e antiriciclaggio** (§35) | La disciplina antiriciclaggio e i poteri di un'autorità in posizione di autonomia |
+| ***Home country control*** (§35) | **Mutuo riconoscimento** e passaporto europeo |
+| **Politica dei redditi e patto sociale** (§66) | La **concertazione** e il protocollo del 1993 |
+| **Politiche attive del lavoro** (§68) | Centri per l'impiego, **programma GOL**, condizionalità dei sussidi |
+| **UIF e antiriciclaggio** (§35) | Autorità in posizione di autonomia |
 
 ## Con data science e data mining
 
-- **la UIF** (§35) è, tecnicamente, **un'unità di analisi dei dati**: l'esame delle segnalazioni di operazioni sospette è ***anomaly detection*** su dati transazionali;
-- **la critica di Lucas** (§15) è, in linguaggio moderno, **un problema di *distribution shift***: il modello addestrato su dati passati non generalizza a un regime diverso. **È lo stesso problema che in machine learning si chiama *concept drift***, e farne il parallelo all'orale è un'osservazione di notevole effetto;
-- **la funzione di perdita sociale** (§13) è, letteralmente, una ***loss function***;
-- **la stima dei parametri macroeconomici** (§8) è il terreno della modellistica previsiva.
+- **la critica di Lucas** (§15) è, in linguaggio moderno, un problema di ***distribution shift*** o ***concept drift***: il modello addestrato su un regime non generalizza a un regime diverso;
+- **la funzione di perdita sociale** (§13) è letteralmente una ***loss function***;
+- **la UIF** (§35) svolge ***anomaly detection*** su dati transazionali;
+- **le statistiche del lavoro** (§60) sono un caso di scuola di **come la definizione operativa determini il dato**: cambiare la soglia da un'ora a otto cambierebbe il tasso di occupazione senza che nulla cambi nella realtà.
 
 ---
 
-# PARTE XV — COME PORTARE QUESTA MATERIA ALL'ORALE
+# PARTE XVII — COME PORTARE QUESTA MATERIA ALL'ORALE
 
-**1. Apri sempre con la mappa dei tre modelli.** È la cosa che dà immediatamente l'impressione di padronanza: *«La macroeconomia di questo programma è costruita su **tre modelli in scala crescente di realismo**: il **reddito-spesa**, che determina il reddito a prezzi fissi e senza moneta; il **IS-LM**, che introduce la moneta e determina insieme reddito e tasso d'interesse; il **AD-AS**, che rimuove la fissità dei prezzi. **Ciascuno nasce rimuovendo un'ipotesi semplificatrice del precedente.**»* Da lì, qualunque domanda trova il suo posto.
+**1. Apri con la mappa dei modelli.** *«La macroeconomia di questo programma è costruita su **tre modelli in scala crescente di realismo**: il **reddito-spesa**, che determina il reddito a prezzi fissi e senza moneta; il **IS-LM**, che introduce la moneta e determina insieme reddito e tasso; il **AD-AS**, che rimuove la fissità dei prezzi e determina insieme reddito e livello dei prezzi. **Ciascuno nasce rimuovendo un'ipotesi del precedente.**»*
 
-**2. Il filo conduttore è: il mercato si aggiusta da solo, oppure no?** Ogni contrapposizione di questa Parte è una variante di quella domanda. Neoclassici contro Keynes; dicotomia contro non-neutralità della moneta; prezzi flessibili contro prezzi rigidi; politica economica superflua contro politica economica necessaria. **Dichiararlo dà una cornice a ogni risposta.**
+**2. Il filo conduttore è: il mercato si aggiusta da solo, oppure no?** Ogni contrapposizione della Parte VI è una variante di quella domanda — neoclassici contro Keynes, dicotomia contro non-neutralità, prezzi flessibili contro rigidi, disoccupazione volontaria contro involontaria, Phillips di breve contro Phillips di lungo periodo.
 
-**3. I nomi da avere pronti, con l'associazione.** **Tinbergen** → regola obiettivi/strumenti, primo Nobel 1969; **Mundell** → classificazione effettiva dei mercati, Nobel 1999; **Lucas** → critica ai modelli econometrici, 1976; **Klein** → definizione di modello; **Hicks e Hansen** → sintesi neoclassica e IS-LM; **Keynes** → preferenza per la liquidità, tre motivi, trappola; **Fisher** → equazione degli scambi; **Marshall, Pigou, Robertson** → scuola di Cambridge; **Baumol** → domanda di moneta e tasso; **Graziani** → l'esempio di forma ridotta; **Balducci-Candela**, **Valli** → le classificazioni dei modelli.
+**3. La distinzione che regge la seconda metà: breve periodo contro lungo periodo.** Compare tre volte e sempre con lo stesso esito: **nel breve periodo la politica della domanda funziona, nel lungo no**. Prodotto effettivo e potenziale (§53), curva di Phillips (§67), tasso naturale (§67.4). **Dichiararlo una volta risparmia tre spiegazioni.**
 
-**4. Quando esponi un modello, dichiara sempre le ipotesi.** È la differenza fra chi ha capito e chi ha memorizzato. *«Il modello reddito-spesa vale sotto quattro ipotesi, e la prima che verrà rimossa è…»*. **Una commissione riconosce immediatamente chi sa dove un modello si rompe.**
+**4. I nomi con l'associazione.** **Tinbergen** → regola obiettivi/strumenti, Nobel 1969; **Mundell** → classificazione effettiva dei mercati, Nobel 1999; **Lucas** → critica ai modelli, 1976; **Klein** → definizione di modello; **Hicks e Hansen** → IS-LM; **Keynes** → preferenza per la liquidità, disoccupazione involontaria; **Fisher** → equazione degli scambi; **Marshall, Pigou, Robertson** → Cambridge; **Baumol** → domanda di moneta e tasso; **Phillips** → curva, fine anni '50, dati britannici; **Okun** → legge sul PIL e disoccupazione; **Lassalle** → legge bronzea; **Marx** → esercito industriale di riserva; **Mill** → ripudio del fondo salari; **Graziani** → forma ridotta.
 
-**5. Sui grafici: racconta, non disegnare.** Vale per tutti, e **vale doppio per le costruzioni a quattro quadranti** della IS e della LM: quelle si espongono a parole in quattro passaggi, non si disegnano sotto esame.
+**5. Dichiara sempre le ipotesi di un modello.** *«Il modello reddito-spesa vale sotto quattro ipotesi, e la prima che verrà rimossa è…»*. **Una commissione riconosce immediatamente chi sa dove un modello si rompe.**
 
-**6. Aggancia all'attualità dove puoi, ma con misura.** I punti dove funziona davvero: **la trappola della liquidità e i tassi a zero dopo il 2008** (§41); **il divieto di finanziamento monetario, art. 123 TFUE** (§37); **il Meccanismo di vigilanza unico dal 2014** (§35); **il principio di Mundell come fondamento dell'architettura dell'euro** (§12); **il PNRR come ritorno di una logica programmatoria** (§5). Sono cinque, bastano: **un aggancio pertinente vale, cinque appiccicati stancano**.
+**6. Sui grafici: racconta, non disegnare.** Vale doppio per le costruzioni a quattro quadranti di IS e LM.
 
-**7. Non nascondere ciò che il manuale stesso ammette.** Questa Parte VI è piena di autocritiche esplicite — le ipotesi «poco realistiche» del modello reddito-spesa, la difficoltà di trovare strumenti linearmente indipendenti, il *bliss point* irraggiungibile in pratica. **Riportarle non indebolisce la risposta: la rende matura.**
+**7. Aggancia all'attualità, ma con misura — cinque punti bastano:** **la trappola della liquidità e i tassi a zero dopo il 2008** (§41); **il divieto di finanziamento monetario, art. 123 TFUE** (§37); **il principio di Mundell come architettura dell'euro** (§12); **l'abolizione della scala mobile nel 1993 per spezzare l'inflazione inerziale** (§64-65); **le politiche attive e il programma GOL come tentativo di abbassare il tasso naturale** (§68).
+
+**8. Quando parli di cure, parti dalla diagnosi.** Vale per l'inflazione (§68: da moneta, da domanda, da costi — tre rimedi diversi) e per la disoccupazione (§62: frizionale, ciclica, strutturale — tre rimedi diversi). **È la struttura che distingue una risposta professionale da un elenco.**
+
+**9. Non nascondere ciò che il manuale ammette.** Le ipotesi «poco realistiche» del reddito-spesa, la difficoltà di trovare strumenti indipendenti, il *bliss point* irraggiungibile, la curva di Phillips smentita dai fatti. **Riportarle non indebolisce la risposta: la rende matura.**
 
 ---
 
-*Dispensa costruita sulla lettura integrale delle pagine stampate 732-779 della Parte VI «Elementi di politica economica» del manuale — capitoli 1-8 completi e apertura del capitolo 9 —, ricostruite con OCR italiano a 300 dpi e verificate pagina per pagina. Undici grafici con scheda dedicata, sedici formule con indicazione di priorità, quarantacinque domande d'orale. **Da completare con i capitoli 9 e seguenti — modello AD-AS, inflazione, disoccupazione e curva di Phillips, crescita, economia aperta — quando sarà disponibile la terza parte del materiale.** Aggiornata al 17 settembre 2026.*
+*Dispensa costruita sulla lettura integrale delle pagine stampate 732-804 della Parte VI «Elementi di politica economica» del manuale — capitoli 1-10 completi e impianto del capitolo 11 —, ricostruite con OCR italiano a 300 dpi da tre file e verificate pagina per pagina. Diciannove grafici con scheda dedicata, venti formule con indicazione di priorità, sessanta domande d'orale. **Resta da integrare la parte finale del capitolo 11 e i capitoli successivi — limiti della politica di bilancio, politica monetaria in dettaglio, economia aperta — quando sarà disponibile il materiale oltre p. 804.** Aggiornata al 17 settembre 2026.*
