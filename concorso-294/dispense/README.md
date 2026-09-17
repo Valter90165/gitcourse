@@ -272,3 +272,75 @@ come ad altissima probabilità), i collegamenti con le altre materie — i più
 fitti sono con contabilità pubblica (fasi della spesa, art. 81 e art. 119,
 fabbisogni standard) e con il diritto amministrativo — e una sezione di
 metodo su come portare la materia all'orale.
+
+## 08 — Politica economica
+
+- Sorgente: [`08-politica-economica.md`](08-politica-economica.md)
+- Impaginata: [`08-politica-economica.pdf`](08-politica-economica.pdf) — 84 pagine
+
+Costruita sulla **Parte VI del manuale** — *Elementi di politica economica* —
+**pagine stampate 732-779**, lette integralmente. Il materiale è arrivato in
+due file (50 scansioni immagine, di cui due duplicate, ricostruite con OCR
+italiano a 300 dpi); la continuità è stata verificata pagina per pagina ed è
+contigua alla scienza delle finanze, che terminava a p. 729.
+
+> **Copertura parziale, dichiarata nel testo.** I due file coprono i
+> **capitoli 1-8 per intero** più l'**apertura del capitolo 9**: il testo si
+> interrompe a p. 779, durante la costruzione della curva di domanda
+> aggregata. La dispensa è quindi **completa e autosufficiente fino al
+> modello IS-LM**. Mancano il modello AD-AS, l'inflazione, la disoccupazione
+> con la **curva di Phillips**, la crescita e l'economia aperta: la **Parte X**
+> della dispensa elenca esattamente che cosa manca, e la struttura è
+> predisposta per accogliere la terza parte del materiale.
+
+**Impostazione: solo i grafici importanti, con le relative spiegazioni** —
+la stessa adottata per scienza delle finanze. **Undici grafici** con scheda
+dedicata (assi / disegno / punto che conta), fra cui le costruzioni a quattro
+quadranti della IS e della LM. **Sedici formule** raccolte a parte con
+indicazione di priorità.
+
+Nove parti, sui nove capitoli disponibili:
+
+- **che cos'è la politica economica**: la distinzione fra ramo positivo
+  (economia politica) e normativo, i soggetti attivi, i **sei obiettivi**,
+  intervento diretto e indiretto, la **programmazione economica** e il piano
+  Pandolfi;
+- **modelli e strumenti**: modello analitico e strategico, la classificazione
+  di **variabili e parametri**, i cinque tipi di equazione, forma strutturale e
+  ridotta, **la regola di Tinbergen** con le due condizioni e l'indipendenza
+  lineare, il ***bliss point*** e la funzione di perdita sociale, **il principio
+  di Mundell**, **la critica di Lucas**;
+- **contabilità nazionale**: PNL, PIL e valore aggiunto, nominale e reale,
+  reddito personale disponibile, distribuzione funzionale e personale, e **le
+  quattro versioni progressive dell'identità del risparmio** — fino a
+  *S = I + disavanzo + NX*, che è l'aritmetica dello spiazzamento;
+- **il modello reddito-spesa**: le quattro ipotesi, funzioni di consumo,
+  risparmio e investimento, **la croce keynesiana**, la distinzione fra domanda
+  desiderata e realizzata, **il moltiplicatore** costruito passo per passo, e
+  l'ingresso del settore pubblico come strumento;
+- **la domanda di moneta**: le tre funzioni, gli aggregati M1-M3, la **teoria
+  quantitativa** di Fisher e la rielaborazione di **Cambridge**, la **dicotomia
+  neoclassica**, la preferenza per la liquidità e **i tre motivi** (transattivo,
+  precauzionale, speculativo);
+- **il mercato del credito e le banche**: operazioni attive e passive, **il
+  moltiplicatore dei depositi**, il **TUB del 1993** e la banca universale,
+  organi di vigilanza, **le tre funzioni della Banca d'Italia**, la UIF, il
+  mercato dei capitali nelle sue tre classificazioni;
+- **l'offerta di moneta**: base monetaria e **quattro canali di creazione**,
+  **riserva obbligatoria** e le sue tre ragioni, moltiplicatore dei depositi e
+  **moltiplicatore monetario**, moneta esogena o endogena, e **la trappola
+  della liquidità** con l'aggancio ai tassi a zero del dopo-2008;
+- **la sintesi neoclassica e il modello IS-LM**: perché in Keynes l'equilibrio
+  automatico si rompe, **la costruzione della IS** e **della LM** a quattro
+  quadranti con i tratti keynesiano e neoclassico, l'equilibrio simultaneo,
+  gli effetti delle politiche, **il *crowding out*** e — il risultato più fine —
+  **l'efficacia delle politiche in funzione della pendenza della LM**;
+- **verso il modello AD-AS**: perché serve, la mappa dei tre modelli, perché la
+  distinzione reale/nominale diventa essenziale, e l'avvio della costruzione
+  della curva di domanda aggregata.
+
+Chiude con la **Parte X sullo stato del materiale**, l'**indice ragionato degli
+undici grafici**, le **sedici formule**, **45 domande d'orale** con traccia di
+risposta (dodici segnalate come ad altissima probabilità), i collegamenti con
+le altre materie — il più fitto è con scienza delle finanze, che il manuale
+stesso richiama — e una sezione di metodo.
