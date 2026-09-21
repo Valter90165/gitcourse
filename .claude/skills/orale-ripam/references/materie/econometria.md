@@ -215,4 +215,4 @@ I giorni 1-2 sono deliberatamente facili. Servono a costruire il vocabolario e l
 
 Una risposta completa contiene: la **domanda di valutazione** ben posta; il **controfattuale** e perché non si osserva; la **strategia scelta con la sua giustificazione** (qui il DiD è naturale — c'è una data e c'è un'area geografica — ma un RDD sulla soglia dimensionale d'impresa è altrettanto difendibile); **l'ipotesi identificante dichiarata** e come si controlla; **le minacce alla validità**; e **che cosa si risponde al committente**, che è la parte che quasi tutti dimenticano e che in un concorso per funzionari pesa.
 
-Alla fine: **voto motivato**, con la scala di `metodo.md`, e il piano dei giorni successivi.
+Alla fine: **voto motivato**, con la scala di `../metodo.md`, e il piano dei giorni successivi.
