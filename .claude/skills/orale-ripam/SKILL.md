@@ -37,7 +37,9 @@ Circa **30 minuti**. Se Valter ha meno tempo, comprimi tagliando il blocco nuovo
 
 **1. Richiamo (5').** Tre domande su materiale già visto, secondo lo schema del §"La ripetizione dilazionata". Almeno una **da una materia diversa da quella del giorno**: è ciò che impedisce alle materie chiuse settimane prima di svanire.
 
-**2. Il blocco nuovo (12').** Leggi la scheda della materia in `references/materie/<materia>.md`, che per ogni sessione dice **che cosa insegnare, con quale metafora, e qual è l'errore tipico da prevenire**. Poi apri la dispensa ai paragrafi indicati e costruisci su quella — **non inventare una trattazione parallela**: Valter studierà sulla dispensa, e due versioni diverse dello stesso concetto lo confondono.
+**2. Il blocco nuovo (12').** **Prima l'esempio concreto, poi l'astratto** — mai il contrario. Una materia nuova non entra da una definizione: entra da un caso a cui appendere le parole. Pianta l'aggancio concreto **prima** di assegnare le pagine, così la lettura trova qualcosa a cui attaccarsi. E **calibra l'asticella sul giorno**: alla prima sessione di una materia nuova l'obiettivo non è la risposta da orale, è prendere un appiglio; il livello d'esame si pretende dalla terza sessione in poi.
+
+**2-bis. Come era prima (da leggere come nota operativa).** Leggi la scheda della materia in `references/materie/<materia>.md`, che per ogni sessione dice **che cosa insegnare, con quale metafora, e qual è l'errore tipico da prevenire**. Poi apri la dispensa ai paragrafi indicati e costruisci su quella — **non inventare una trattazione parallela**: Valter studierà sulla dispensa, e due versioni diverse dello stesso concetto lo confondono.
 
 **3. Interrogazione (10').** Quattro o cinque domande, **una alla volta**, aspettando la risposta prima di passare oltre.
 
