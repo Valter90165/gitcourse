@@ -31,6 +31,45 @@ sovraccaricare. Da recuperare alla sessione 2.
 
 ---
 
+## Sessione 2 — Econometria — Fine cap. 6 e apertura della regressione — 22 settembre 2026
+
+**Copertura**: manuale Parte III, cap. 6 completato (ripetibilita, tipi di dati,
+forma strutturale/ridotta) e apertura del cap. 7 (la regressione, Y = b0 + b1X + e).
+Modalita lettura guidata: i passaggi del manuale portati in sessione con
+l'esempio davanti, secondo la correzione di metodo della sessione 1.
+
+**Come e andata.** Molto meglio. Tre risposte su quattro corrette; l'unica
+sbagliata era uno scambio di etichette, non un buco concettuale. Il segnale
+migliore non e nelle risposte: a meta sessione ha chiesto di andare avanti
+invece di restare sugli stessi concetti. Richiesta accolta e legittima — i
+concetti in sospeso si chiudono con il richiamo dilazionato, non martellandoli.
+
+| Domanda | Esito |
+|---|---|
+| Perche l'econometria non puo lavorare come la statistica | ✅ corretta (era ❌ in sessione 1) |
+| Riconoscere cross section / serie storica / panel | ⚠️ invertite serie storica e panel |
+| Perche il panel neutralizza l'eterogeneita non osservata | — saltata su sua richiesta |
+| Che cosa significa b1 = 0,4 | ✅ corretta, con scalatura autonoma a 10 ore |
+
+**Da riprendere**
+- **Tipi di dati**: consegnato lo schema soggetti x momenti. Richiedere fra 3 giorni.
+- **I tre vantaggi del panel** e l'eterogeneita non osservata: mai verificati.
+- **Forma strutturale e ridotta**: spiegata con Keynes e il moltiplicatore, non
+  ancora verificata con una domanda.
+
+**La frase del giorno**: *b1 = 0,4 significa che ogni ora di studio in piu porta,
+in media, 0,4 punti; dieci ore valgono circa quattro punti.* Il valore aggiunto
+e «in media».
+
+**ERRORE MIO DA NON RIPETERE**: in sessione 1 ho assegnato pp. 330-344 chiamandole
+«il capitolo 6». Il capitolo 6 finisce a p. 338; il capitolo 7 inizia a p. 339.
+Le ho quindi fatto leggere due argomenti diversi in un colpo solo il primo giorno.
+**Verificare sempre i confini di capitolo nell'OCR prima di assegnare le pagine.**
+
+**Assegnato per la sessione 3**: cap. 7, pp. 339-346.
+
+---
+
 ## LEZIONE DI METODO — vale per tutto il percorso
 
 **L'astratto prima del concreto non funziona.** In questa sessione ho
@@ -49,17 +88,18 @@ d'esame si pretende dalla terza o quarta sessione in poi.
 
 ## Coda dei buchi
 
-| Concetto | Materia | Dalla sessione |
-|---|---|---|
-| La ripetibilità come discrimine fra econometria e statistica | Econometria | 1 |
-| I tre vantaggi dei dati panel | Econometria | 1 |
-| Forma strutturale e forma ridotta | Econometria | 1 |
+| Concetto | Materia | Dalla sessione | Stato |
+|---|---|---|---|
+| ~~La ripetibilità come discrimine fra econometria e statistica~~ | Econometria | 1 | ✅ chiuso in sessione 2 |
+| Distinguere cross section / serie storica / panel | Econometria | 2 | ⚠️ schema consegnato, da verificare |
+| I tre vantaggi dei dati panel e l'eterogeneità non osservata | Econometria | 1-2 | da verificare |
+| Forma strutturale e forma ridotta | Econometria | 1-2 | spiegata, da verificare |
 
 ## Stato delle materie
 
 | Materia | Sessioni | Giudizio |
 |---|---|---|
-| **Econometria** | 1 / 10 | Avvio faticoso ma l'aggancio è stato trovato. Procedere con il metodo concreto-prima |
+| **Econometria** | 2 / 10 | In ripresa. Il metodo concreto-prima funziona: in sessione 2 ha chiuso il buco di ieri e ha chiesto di avanzare. Cap. 6 chiuso, regressione aperta |
 | Statistica economica | 0 / 5 | — |
 | Data science | 0 / 3 | — |
 | Valutazione politiche | 0 / 4 | — |
@@ -69,3 +109,23 @@ d'esame si pretende dalla terza o quarta sessione in poi.
 | Diritto amministrativo | 0 / 5 | — |
 | Tecnologie informatiche | 0 / 2 | — |
 | Inglese B1 | non avviato | Da inserire in coda a ogni sessione, 10 minuti |
+
+---
+
+## Nota su come condurre le sessioni
+
+Emerso in sessione 2 e da tenere: **ha bisogno di percepire l'avanzamento.**
+Restare a lungo sullo stesso concetto, anche per consolidarlo, produce
+scoraggiamento e la sensazione di essere arenata. La soluzione non e abbassare
+il rigore ma **spostare il consolidamento nel tempo**: si va avanti, e i
+concetti deboli tornano nel richiamo di apertura dopo qualche giorno.
+
+**Chiudere ogni sessione mostrando il terreno coperto**, non solo quello che
+manca. Un recap che elenca i blocchi acquisiti vale, per la tenuta, quanto
+l'interrogazione.
+
+**Sulla scala dei voti**: alla sessione 1 ho preteso risposte da 27 e l'ho
+spaventata. La soglia del concorso e 21. Una risposta da 22 — definizione
+corretta piu la sua conseguenza — basta per passare. L'esempio proprio e i
+collegamenti servono a salire da 22 a 27 e si costruiscono dopo, sulle materie
+che le vengono meglio.
