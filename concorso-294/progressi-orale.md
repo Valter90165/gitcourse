@@ -86,6 +86,32 @@ d'esame si pretende dalla terza o quarta sessione in poi.
 
 ---
 
+---
+
+## ⚠️ SFASAMENTO NELLE PAGINE — scienza delle finanze
+
+**I marcatori di pagina nell'OCR della Parte V sono sfasati di +2 rispetto al
+libro stampato.**
+
+> **pagina del libro = marcatore OCR + 2**
+
+Verificato su tre riscontri: marcatore 650 → stampata 652; marcatore 654 →
+stampata 656; marcatore 659 → stampata 661.
+
+Conseguenze:
+- il Capitolo 1 della Parte V inizia a **p. 651** del libro (non 649);
+- il Capitolo 4 «L'economia del benessere» inizia a **p. 664**;
+- l'intestazione della dispensa 07 dichiara «pagine stampate 649-729»: da
+  verificare e correggere in 651-731.
+
+**Da fare prima di ogni assegnazione di pagine**: incrociare il marcatore OCR
+con un numero di pagina realmente stampato nel testo, e citare alla studentessa
+**solo il numero del libro**. In sessione 3 le ho dato 649-652 quando erano
+651-654: ha trovato comunque il contenuto, ma l'errore va evitato.
+
+**Da controllare**: se lo stesso sfasamento riguarda anche le Parti caricate
+separatamente (P2, P3, P4 di scienza delle finanze) e le altre materie.
+
 ## Coda dei buchi
 
 | Concetto | Materia | Dalla sessione | Stato |
