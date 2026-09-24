@@ -70,6 +70,71 @@ Le ho quindi fatto leggere due argomenti diversi in un colpo solo il primo giorn
 
 ---
 
+## Sessione 3 — Scienza delle finanze — Fallimenti del mercato — 24 settembre 2026
+
+**Copertura**: manuale Parte V, cap. 5, fino a p. 674 stampata. In apertura si
+era partiti dal cap. 4 (economia del benessere, p. 664). Modalità lettura
+guidata.
+
+**Come è andata.** Tre risposte corrette su tre nel richiamo d'apertura sui beni
+pubblici (non escludibile, non rivale, consumo collettivo) e sul perché
+l'impresa privata non li produce. Blocco nuovo sulle esternalità portato fino in
+fondo: fallimento del mercato, imposta pigouviana con la scheda del grafico
+(Figura 3, p. 672), le tre soluzioni a confronto con il limite di ciascuna,
+teorema di Coase con i numeri del manuale.
+
+| Domanda | Esito |
+|---|---|
+| Caratteri di un bene pubblico | ✅ corretta |
+| Perché il mercato non produce beni pubblici | ✅ corretta |
+| Perché l'impresa privata non persegue l'interesse collettivo | ✅ corretta |
+
+**Il concetto chiave consegnato.** L'imposta pigouviana non punisce l'impresa:
+le fa entrare in bilancio un costo che prima scaricava sugli altri, così il suo
+calcolo privato coincide con quello sociale. Si chiama **internalizzazione
+dell'esternalità**.
+
+**Da riprendere**
+- **Capitolo 5, pp. 673-675**: beni pubblici e asimmetrie informative — gli
+  ultimi due fallimenti del mercato, mai letti. Due paginette.
+- **Capitoli 2-3 della Parte V, pp. 655-663**: saltati. Contengono
+  l'**illusione finanziaria di Puviani** e il **paradosso del voto**. Da
+  recuperare.
+- **Teorema di Coase**: spiegato, mai verificato con una domanda.
+
+---
+
+## ⚠️ NOTIZIA SULLA COMMISSIONE — 24 settembre 2026
+
+**Fonte**: una candidata uscita dall'orale lo stesso giorno. **Il commissario di
+statistica è particolarmente pignolo.**
+
+**È un'informazione operativa, e va trattata come tale.** Non cambia quanto c'è
+da studiare: cambia **il livello preteso** e **il modo di interrogare** su una
+materia sola.
+
+**Che cosa è stato deciso**
+- **Statistica economica sale da 5 a 8 sessioni** ed entra nella fascia
+  **nucleo** (calendario aggiornato: fase 1, sessioni 11-18).
+- Il costo è stato pagato dal contesto, mai dal nucleo: **contabilità pubblica
+  6 → 5**, **diritto amministrativo 5 → 4**, **fase 4 da 10 a 9 giorni**.
+- Costruita `concorso-294/statistica-scheda-precisione.md` (10 pagine): le
+  definizioni ISTAT alla lettera, i tre denominatori, Laspeyres/Paasche/Fisher
+  con le proprietà che **non** soddisfano, NIC/FOI/IPCA, il perimetro S13, e
+  **le venti domande del pignolo** in coda.
+- Da qui in avanti, **in questa materia si interroga chiedendo prima il numero e
+  poi la spiegazione, con dieci secondi di tempo.**
+
+**La regola generale che ne discende.** Un'informazione su *come interroga* un
+commissario vale più di dieci pagine in più di programma. Se ne arrivano altre,
+si registrano qui e si riversano nella scheda della materia.
+
+**Attenzione a non trasferire la severità.** Il pignolo alza l'asticella
+**finale** su statistica economica. **Non alza quella del primo giorno**, e non
+alza quella delle altre otto materie, dove la soglia resta 21.
+
+---
+
 ## LEZIONE DI METODO — vale per tutto il percorso
 
 **L'astratto prima del concreto non funziona.** In questa sessione ho
@@ -88,29 +153,39 @@ d'esame si pretende dalla terza o quarta sessione in poi.
 
 ---
 
-## ⚠️ SFASAMENTO NELLE PAGINE — scienza delle finanze
+## ⚠️ NUMERAZIONE DELLE PAGINE — stato verificato
 
-**I marcatori di pagina nell'OCR della Parte V sono sfasati di +2 rispetto al
-libro stampato.**
+**La regola non è uniforme. Va verificata Parte per Parte, e va verificata
+incrociando il marcatore OCR con un numero di pagina realmente stampato nel
+testo.**
 
-> **pagina del libro = marcatore OCR + 2**
+| Materia | File OCR | Regola | Riscontri |
+|---|---|---|---|
+| **Scienza delle finanze** (Parte V) | `ocr_sdf/SDF_TUTTO.txt` | **+2 solo nel tratto iniziale**, fino a circa la p. 665 stampata; **da p. 666 in poi marcatore = stampata** | marcatore 650 → stampata 652; poi P1_018 → 666, P2_005 → 673, P2_012 → 680, P3_008 → 696, P4_006 → 714, tutti coincidenti |
+| **Statistica economica** (Parte IV) | `ocr_stat/STATISTICA_TUTTO.txt` | **nessuno sfasamento: marcatore = stampata** | verificato su pp. 578, 590, 610, 614, 636, 648 |
+| Econometria (Parte III) | `ocr_econ/` | **da verificare** | — |
+| Politica economica (Parte VI) | — | **da verificare** | — |
 
-Verificato su tre riscontri: marcatore 650 → stampata 652; marcatore 654 →
-stampata 656; marcatore 659 → stampata 661.
+**Correzione di una nota precedente.** In questo file era scritto che la Parte V
+ha uno sfasamento di +2 *dappertutto*. **Non è così**: vale solo nelle prime
+pagine. Alla studentessa era già stata data la correzione a voce; ora è corretta
+anche qui.
 
-Conseguenze:
-- il Capitolo 1 della Parte V inizia a **p. 651** del libro (non 649);
-- il Capitolo 4 «L'economia del benessere» inizia a **p. 664**;
-- l'intestazione della dispensa 07 dichiara «pagine stampate 649-729»: da
-  verificare e correggere in 651-731.
+**Da fare prima di ogni assegnazione di pagine**: aprire la pagina nell'OCR e
+cercare l'intestazione stampata (del tipo «648 ▸ Parte IV Statistica
+economica»), e citare **solo il numero del libro**.
 
-**Da fare prima di ogni assegnazione di pagine**: incrociare il marcatore OCR
-con un numero di pagina realmente stampato nel testo, e citare alla studentessa
-**solo il numero del libro**. In sessione 3 le ho dato 649-652 quando erano
-651-654: ha trovato comunque il contenuto, ma l'errore va evitato.
+**Confini di capitolo verificati — Parte IV, Statistica economica**
 
-**Da controllare**: se lo stesso sfasamento riguarda anche le Parti caricate
-separatamente (P2, P3, P4 di scienza delle finanze) e le altre materie.
+| Capitolo | Pagine stampate |
+|---|---|
+| 1 — I numeri indici dei prezzi e delle quantità | 575-586 |
+| 2 — La contabilità nazionale e il SEC 2010 | 587-599 |
+| 3 — La comparazione nel tempo e nello spazio | 600-604 |
+| 4 — Analisi delle interdipendenze economiche (input-output) | 605-621 |
+| 5 — Analisi dei consumi | 622-632 |
+| 6 — Analisi del mercato del lavoro | 633-636 |
+| 7 — Misure della produzione e della produttività | 637-648 |
 
 ## Coda dei buchi
 
@@ -120,19 +195,23 @@ separatamente (P2, P3, P4 di scienza delle finanze) e le altre materie.
 | Distinguere cross section / serie storica / panel | Econometria | 2 | ⚠️ schema consegnato, da verificare |
 | I tre vantaggi dei dati panel e l'eterogeneità non osservata | Econometria | 1-2 | da verificare |
 | Forma strutturale e forma ridotta | Econometria | 1-2 | spiegata, da verificare |
+| Beni pubblici e asimmetrie informative (pp. 673-675) | Scienza delle finanze | 3 | mai letti — due pagine |
+| Illusione finanziaria di Puviani e paradosso del voto (pp. 655-663) | Scienza delle finanze | — | capitoli saltati, da recuperare |
+| Teorema di Coase | Scienza delle finanze | 3 | spiegato, da verificare |
+| Le venti domande della scheda di precisione | Statistica economica | — | da avviare con la sessione 11 |
 
 ## Stato delle materie
 
 | Materia | Sessioni | Giudizio |
 |---|---|---|
 | **Econometria** | 2 / 10 | In ripresa. Il metodo concreto-prima funziona: in sessione 2 ha chiuso il buco di ieri e ha chiesto di avanzare. Cap. 6 chiuso, regressione aperta |
-| Statistica economica | 0 / 5 | — |
+| **Statistica economica** | 0 / **8** | **Priorità alzata il 24/09: commissario pignolo.** Promossa a nucleo, +3 sessioni. Scheda di precisione pronta |
 | Data science | 0 / 3 | — |
 | Valutazione politiche | 0 / 4 | — |
-| Scienza delle finanze | 0 / 6 | — |
+| Scienza delle finanze | 1 / 6 | Avviata in lettura guidata. Cap. 4 e quasi tutto il cap. 5. Richiamo d'apertura perfetto: 3 su 3 |
 | Politica economica | 0 / 6 | — |
-| Contabilità pubblica | 0 / 6 | — |
-| Diritto amministrativo | 0 / 5 | — |
+| Contabilità pubblica | 0 / 5 | Ridotta di una sessione il 24/09 |
+| Diritto amministrativo | 0 / 4 | Ridotta di una sessione il 24/09: è la materia già più solida |
 | Tecnologie informatiche | 0 / 2 | — |
 | Inglese B1 | non avviato | Da inserire in coda a ogni sessione, 10 minuti |
 
