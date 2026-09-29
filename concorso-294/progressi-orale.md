@@ -199,6 +199,8 @@ economica»), e citare **solo il numero del libro**.
 | Illusione finanziaria di Puviani e paradosso del voto (pp. 655-663) | Scienza delle finanze | — | capitoli saltati, da recuperare |
 | Teorema di Coase | Scienza delle finanze | 3 | spiegato, da verificare |
 | Le venti domande della scheda di precisione | Statistica economica | — | da avviare con la sessione 11 |
+| Base monetaria, riserva obbligatoria, moltiplicatori | Politica economica | 4 | consegnata, **mai verificata** |
+| Costruzione della IS e della LM, crowding out, pendenza della LM | Politica economica | 4 | consegnata, **mai verificata** |
 
 ## Stato delle materie
 
@@ -209,7 +211,7 @@ economica»), e citare **solo il numero del libro**.
 | Data science | 0 / 3 | — |
 | Valutazione politiche | 0 / 4 | — |
 | Scienza delle finanze | 1 / 6 | Avviata in lettura guidata. Cap. 4 e quasi tutto il cap. 5. Richiamo d'apertura perfetto: 3 su 3 |
-| Politica economica | 0 / 6 | — |
+| Politica economica | 1 / 6 | Aperta fuori ordine su richiesta. Cap. 7 e 8 consegnati per intero (moneta e IS-LM), **ma nessuna risposta ancora raccolta**: la prossima sessione è di sola interrogazione |
 | Contabilità pubblica | 0 / 5 | Ridotta di una sessione il 24/09 |
 | Diritto amministrativo | 0 / 4 | Ridotta di una sessione il 24/09: è la materia già più solida |
 | Tecnologie informatiche | 0 / 2 | — |
@@ -234,3 +236,49 @@ spaventata. La soglia del concorso e 21. Una risposta da 22 — definizione
 corretta piu la sua conseguenza — basta per passare. L'esempio proprio e i
 collegamenti servono a salire da 22 a 27 e si costruiscono dopo, sulle materie
 che le vengono meglio.
+
+---
+
+## Sessione 4 — Politica economica — Base monetaria e modello IS-LM — 28-29 settembre 2026
+
+**Copertura**: manuale Parte VI, cap. 7 (l'offerta di moneta, pp. 767-769) e
+cap. 8 (la sintesi neoclassica e il modello IS-LM, pp. 770-776). Richiesta sua:
+«la IS-LM la devo fare bene perché la chiedono spesso».
+
+**Come è andata.** Blocco lungo, in lettura guidata. Consegnati: base monetaria
+e canali di creazione, riserva obbligatoria, moltiplicatore dei depositi 1/k con
+l'esempio 1.000 → 5.000, moltiplicatore monetario m = (1+a)/(k+b+a) — formula
+verificata direttamente sull'immagine della p. 769 dopo che l'OCR aveva perso il
+numeratore. Poi l'intero capitolo 8.
+
+**Materiali prodotti**
+- `concorso-294/estratti/manuale-IS-LM-pp770-776.pdf` — le sette pagine
+  originali del manuale con i tre grafici;
+- `concorso-294/estratti/guida-lettura-IS-LM.pdf` — guida alla lettura con
+  l'ordine in cui affrontare le pagine, le tre schede dei grafici e il racconto
+  in quattro passaggi di IS e LM.
+
+**Domande poste, tutte ancora aperte**
+| Domanda | Esito |
+|---|---|
+| Se sale k, la quantità di moneta sale o scende? E la base monetaria cambia? | non risposta |
+| Un surplus della bilancia dei pagamenti crea o distrugge base monetaria? | non risposta |
+| Perché il moltiplicatore reale è più piccolo di 1/k? | non risposta |
+| Perché in Keynes il tasso non equilibra più S e I | non risposta |
+| Che cosa rappresenta un punto sulla LM | non risposta |
+| Politica fiscale espansiva: effetti su Y e su i, e perché | non risposta |
+| Crowding out: la catena, non la definizione | non risposta |
+| In quale tratto della LM la politica fiscale è più efficace | non risposta |
+
+**Da riprendere.** Tutte le otto domande sopra: il blocco è stato consegnato ma
+**mai verificato**. Alla prossima sessione l'interrogazione va fatta davvero,
+prima di aggiungere altro materiale — sono due capitoli interi senza un solo
+riscontro.
+
+**ATTENZIONE METODO.** Due sessioni di fila si sono chiuse con domande poste e
+non raccolte. È il modo in cui si accumula una conoscenza che sembra solida e
+non lo è. Alla prossima sessione: **niente blocco nuovo finché non si chiude
+l'interrogazione su moneta e IS-LM.**
+
+**La frase del giorno**: non costruita. Richiesta — «raccontami la IS-LM in
+60-90 secondi come la diresti al commissario» — ancora da consegnare.
