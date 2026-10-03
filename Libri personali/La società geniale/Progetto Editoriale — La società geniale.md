@@ -263,7 +263,7 @@ Da verificare prima di usarlo che «Roccalba» e «Officine Sereni» non coincid
 | Le generazioni | l'esperienza della persona che impara e insegna da adulta | la trasmissione come infrastruttura: bottega, maestro e allievo, chi insegna a chi |
 | Il primo libro | i passaggi su età, geni tardivi e storia personale | l'Ecologia del Genio, la scarpa rossa, il flusso di gruppo, la community, l'etica come debito verso la società |
 
-Che cosa questo libro **non usa**, perché appartiene ad A: la storia dei maestri della scuola elementare; la cronologia delle lauree e delle lingue; la risorgenza in grotta come metafora; i geni tardivi come argomento; la plasticità del cervello adulto; il titolo «Il Paradosso Intergenerazionale», se ad A serve.
+Che cosa questo libro **non usa**, perché appartiene ad A: la storia dei maestri della scuola elementare; la cronologia delle lauree e delle lingue; la risorgenza in grotta come metafora; i geni tardivi come argomento; la plasticità del cervello adulto; i geni tardivi individuali; il dato sull'età media dei fondatori di imprese di successo; la frase dei puntini che si collegano all'indietro; il titolo «Il Paradosso Intergenerazionale», che A per ora lascia a disposizione di Valter.
 
 Che cosa **condividono**, e va diviso in stesura: il gesto della sedia girata, che entrambi ereditano dal primo libro. Proposta: A lo usa per la persona che gira la sedia su sé stessa, cioè sulla propria vita; B lo usa per la sala, cioè per quando a girarla sono in tanti. La ricerca su maestro e allievo sta in B; A tiene la trasmissione vissuta.
 
@@ -313,7 +313,7 @@ Il libro non entra nella politica economica tecnica (fisco, incentivi, regole de
 - **La conferma del progetto.** Nessun capitolo si scrive prima.
 - **Il titolo** (§15).
 - **Il marchio della scarpa.** Gesto senza marchio (proposta) oppure nome del marchio, che sposterebbe il libro verso il tipo B.
-- **Il confine con il Libro A** sui punti al §13, e la risposta della sessione A allo scambio del 03/10.
+- **Il confine con il Libro A** sui punti al §13, che la sessione A ha accolto il 03/10 senza obiezioni.
 - **La stanza in cui entri già calmo**: a Intelligenza Viscerale o a questo libro. Finché non si decide, qui si usa un'altra immagine.
 - **Il grande caso d'impresa del capitolo 13**: si usa, con fonti storiche lette per intero, o si sostituisce.
 - **Rifacciamo l'Italia** è nel registro ed è il precedente civico dell'autore. La democrazia non è gratis lo usa già come «il precedente». Se anche questo libro lo nomina, va scelto un aspetto diverso; altrimenti non si nomina.

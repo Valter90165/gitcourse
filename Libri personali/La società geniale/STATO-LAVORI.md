@@ -22,7 +22,7 @@ Fonti lette su Drive, in sola lettura: il primo libro in PDF, versione 2.2 (id 1
 ## Fatto
 
 - **03/10/2026.** Lettura della sessione del Libro A all'inizio del lavoro e di nuovo prima dei titoli. Lettura integrale del primo libro dal PDF (380 pagine). Lettura del corpus RAG, del registro delle Pubblicazioni, del modello di Intelligenza Viscerale e del cantiere di La democrazia non è gratis. Vaglio delle fonti su otto fronti, con 52 affermazioni classificate. Progetto editoriale rev. 0 con 21 capitoli in 6 parti, ~99.000 parole, ~240 pagine. Scelta della tesi stretta («esposizione ripetuta a persone come noi», non «vicinanza»), che regge sul contrappeso degli studi sui colleghi di dipartimento.
-- **03/10/2026, scambio con la sessione del Libro A.** Inviato un messaggio breve con tre punti e una proposta di divisione: (1) i maestri della scuola elementare restano ad A; (2) la ricerca su maestro e allievo e la bottega stanno in B, mentre A tiene la trasmissione vissuta e la frase «Non si trasmette niente spiegando. Si trasmette lasciandosi vedere»; (3) il titolo «Il Paradosso Intergenerazionale» va ad A, se lo vuole. Dichiarato che B non usa la risorgenza in grotta né la cronologia delle lauree. Risposta: non ancora arrivata.
+- **03/10/2026, scambio con la sessione del Libro A.** Inviato un messaggio breve con tre punti e una proposta di divisione: (1) i maestri della scuola elementare restano ad A; (2) la ricerca su maestro e allievo e la bottega stanno in B, mentre A tiene la trasmissione vissuta e la frase «Non si trasmette niente spiegando. Si trasmette lasciandosi vedere»; (3) il titolo «Il Paradosso Intergenerazionale» va ad A, se lo vuole. Dichiarato che B non usa la risorgenza in grotta né la cronologia delle lauree. Risposta della sessione A, stesso giorno: nessuno dei tre punti è impegnato diversamente. (1) I maestri e la frase sulle due lingue sono già previsti in A. (2) Lo studio su maestro e allievo e la bottega restano a B; A tiene la trasmissione vissuta, frase «lasciandosi vedere» compresa. (3) A per ora non usa «Il Paradosso Intergenerazionale»: resta a disposizione di Valter. A segnala di usare in esclusiva: la curva delle lauree, il cinese a 61 anni, la risorgenza come conclusione, i geni tardivi individuali, il dato sull'età media dei fondatori di imprese di successo, la frase dei puntini che si collegano all'indietro. B non usa nessuno di questi elementi.
 
 ## Prossimo passo
 
@@ -52,7 +52,7 @@ Fonti lette su Drive, in sola lettura: il primo libro in PDF, versione 2.2 (id 1
 | 03/10/2026 | Percorso dall'individuo al paese in sei parti, con la parte che smonta al secondo posto | sessione, da confermare |
 | 03/10/2026 | Tesi stretta: esposizione ripetuta, non vicinanza | sessione, da confermare |
 | 03/10/2026 | Nessuna sigla, nemmeno per le istituzioni | sessione |
-| 03/10/2026 | Proposta di divisione dei confini con il Libro A, inviata alla sessione A | sessione; decide Valter |
+| 03/10/2026 | Proposta di divisione dei confini con il Libro A, inviata alla sessione A e accolta da A | sessioni A e B; decide Valter |
 
 ## Vincoli da non perdere
 
