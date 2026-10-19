@@ -282,3 +282,70 @@ l'interrogazione su moneta e IS-LM.**
 
 **La frase del giorno**: non costruita. Richiesta — «raccontami la IS-LM in
 60-90 secondi come la diresti al commissario» — ancora da consegnare.
+
+---
+
+## PUNTO DELLA SITUAZIONE — 19 ottobre 2026 · mancano 39 giorni
+
+**Due notizie buone e un problema.**
+
+**Buone.** Ha studiato **contabilità pubblica** e **politica economica da sola**:
+restano solo da memorizzare alcuni passaggi. Sono due delle quattro materie
+istituzionali, cioè il blocco più lungo del piano originario — tolte dal
+calendario come studio, restano solo come richiamo.
+
+**Il problema.** Dichiara un **rifiuto psicologico verso econometria e
+statistica economica**. Sono le due materie del nucleo tecnico, le due che
+pesano di più, e le due su cui finora si è avanzato meno (econometria 2
+sessioni su 10, statistica 0 su 8).
+
+**Come va trattato.** Non è pigrizia ed è inutile trattarlo come tale. Il rifiuto
+nasce da un'ipotesi sbagliata — *«queste sono materie di matematica e io la
+matematica non la so»* — e l'antidoto è una prova che quell'ipotesi è falsa.
+**La prova esiste già nel suo stesso registro**: alla sessione 2, davanti a
+b₁ = 0,4, ha detto da sola che *dieci ore di studio valgono circa quattro punti*.
+Quella è econometria fatta bene, prodotta da lei, senza alcuna formula.
+**Riportarla a quel momento ogni volta che si blocca.**
+
+**Le tre regole operative da qui in avanti su econometria e statistica**
+1. **Mai aprire una sessione da una formula.** Si apre da un numero già calcolato
+   e dalla domanda «che cosa significa?».
+2. **Non si calcola nulla.** Dalle testimonianze la commissione non chiede
+   formule, chiede di spiegare. In econometria il lavoro d'orale è **leggere un
+   risultato**, non produrlo.
+3. **Blocchi da venti minuti, non da trenta**, finché il rifiuto non si scioglie.
+   Meglio sei blocchi corti che tre lunghi saltati.
+
+**Materiali: lo stato reale.** Le scansioni caricate a settembre **non sono più
+disponibili** (il contenitore della sessione è stato riciclato). Sul Drive ci
+sono i manuali interi — `econometria 2_combinato.pdf` (59 MB) e
+`statistica economica.pdf` (30 MB) — ma **superano il limite di 10 MB** del
+connettore, quindi non sono scaricabili da qui. Servono di nuovo i file già
+divisi: `econometria_2_combinatoPARTE1..4.pdf` e
+`statistica_economica_parte1..3.pdf`.
+
+**Nel frattempo si parte lo stesso**: la dispensa 05 (econometria, 100 pp) e la
+06 (statistica economica, 70 pp) sono nel repository e sono costruite sulla
+lettura integrale del manuale. **L'attesa dei file non è una ragione per non
+cominciare** — ed è esattamente l'attesa in cui un rifiuto psicologico mette
+radici.
+
+## Il calendario rivisto — 39 giorni
+
+| Materia | Sessioni residue | Note |
+|---|---|---|
+| **Econometria** | **8** | 2 già fatte. Blocchi da 20 minuti |
+| **Statistica economica** | **8** | commissario pignolo: resta a 8 |
+| **Valutazione politiche pubbliche** | 4 | nucleo del bando |
+| **Scienza delle finanze** | 4 | capp. 2-3 e 5 da chiudere |
+| **Data science** | 3 | |
+| **Diritto amministrativo** | 3 | ridotta: è la più solida |
+| **Tecnologie informatiche** | 2 | |
+| Contabilità pubblica | 0 | ✅ studiata da sola — solo richiamo |
+| Politica economica | 0 | ✅ studiata da sola — solo richiamo |
+| **Simulazioni e rifinitura** | **7** | |
+| | **39** | |
+
+**Contabilità e politica economica non spariscono**: diventano **il terzo
+richiamo** di apertura di ogni sessione. È il modo per memorizzare i passaggi
+che le mancano senza spenderci sessioni intere.
