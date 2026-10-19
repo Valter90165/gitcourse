@@ -349,3 +349,46 @@ radici.
 **Contabilità e politica economica non spariscono**: diventano **il terzo
 richiamo** di apertura di ogni sessione. È il modo per memorizzare i passaggi
 che le mancano senza spenderci sessioni intere.
+
+---
+
+## CAMBIO DI METODO — 19 ottobre 2026
+
+**Richiesta esplicita**: *«non mi devi fare domande, mi devi spiegare passo passo
+cosa andiamo a fare così che io possa impararlo e non dimenticarlo»*.
+
+**Accolta, e da rispettare.** Su econometria e statistica **si spiega, non si
+interroga**, finché non è lei a chiedere di essere messa alla prova. La skill è
+costruita sull'interrogazione: su queste due materie, per ora, quella parte è
+sospesa.
+
+**Perché la richiesta è fondata.** Nella prima verifica (unità statistica,
+mutabile, rilevazione campionaria) ha sbagliato tutte e tre, dopo venti minuti
+di lettura. Non è un problema di capacità: è che le era stata chiesta una
+restituzione **prima** di avere un'impalcatura in cui collocare le parole.
+L'ordine giusto è **prima si capisce, poi si ripete** — e io l'avevo invertito.
+
+**Che cosa resta valido.** L'interrogazione torna, ma più avanti e annunciata:
+quando il capitolo 1 sarà chiuso. Sulle materie già avviate (scienza delle
+finanze, politica economica) il richiamo d'apertura resta.
+
+**L'errore della prima verifica, da non dimenticare perché è diagnostico.** Ha
+indicato come unità statistica *il giorno* e come collettivo *i pagamenti*: ha
+scambiato **chi viene osservato** con **ciò che si osserva su di lui**. La
+correzione che ha funzionato è visiva — **l'unità è ciò che occupa una riga, i
+caratteri sono le colonne** — ed è ora la regola di apertura del materiale.
+
+## Materiale nuovo — 19 ottobre
+
+`concorso-294/econometria/00-la-mappa-e-il-primo-passo.md` / `.pdf` (8 pagine).
+Due parti: **la catena dei sette capitoli**, ciascuno presentato come risposta a
+una domanda sollevata dal precedente; e **il capitolo 1 spiegato**, organizzato
+sulle tre domande che il manuale stesso dichiara a p. 269 (posizione,
+variabilità, forma). In coda, i sei blocchi di lettura da venti minuti e le sole
+formule che servono, con **la ragione** di ciascuna invece della formula.
+
+**Scansione econometria Parte 1**: ricaricata, **100 fogli = pagine stampate
+260-359**, con livello di testo già utilizzabile (nessun OCR necessario).
+Riscontri su p. 269, 329, 345, 359. Confini di capitolo: 1 → 261-296;
+2 → 297-303; 3 → 304-315; 4 → 316-324; 5 → 325-329; 6 → 330-339;
+7 → 340-359 e oltre.
