@@ -392,3 +392,73 @@ formule che servono, con **la ragione** di ciascuna invece della formula.
 Riscontri su p. 269, 329, 345, 359. Confini di capitolo: 1 → 261-296;
 2 → 297-303; 3 → 304-315; 4 → 316-324; 5 → 325-329; 6 → 330-339;
 7 → 340-359 e oltre.
+
+---
+
+## Sessione 5 — Econometria — Statistica descrittiva: la variabilità — 20 ottobre 2026
+
+**Copertura**: manuale cap. 1, §6.1-6.6 (pp. 280-282), in micro-blocchi
+conversazionali.
+
+### LA CORREZIONE DI METODO PIÙ IMPORTANTE FINORA
+
+Le ho consegnato una scheda di 9 pagine sulla variabilità. Risposta testuale:
+**«non ho capito NIENTE aiutami a capire»**.
+
+**La diagnosi è certa e non va dimenticata: il problema era il volume.** Nove
+pagine con dodici termini nuovi non sono «semplice», sono un muro. La richiesta
+che aveva fatto — *«in maniera semplice, devo capire»* — significava **meno
+roba**, non roba scritta meglio.
+
+**Che cosa ha funzionato, e va replicato alla lettera:**
+1. **Un concetto per messaggio. Poi ci si ferma e si chiede «ci sei?».**
+2. **Niente PDF durante la spiegazione.** Il documento, semmai, alla fine come
+   promemoria — mai come veicolo del primo incontro con l'idea.
+3. **Un solo esempio per tutto il blocco.** I tre uffici A (43-47), B (10-80) e
+   C (10,45,45,45,80) hanno retto l'intera spiegazione: ogni strumento nuovo è
+   stato provato sugli stessi numeri già familiari.
+4. **Ogni strumento introdotto come soluzione a un problema appena visto**, mai
+   come voce di un elenco.
+5. **I nomi arrivano DOPO il gesto.** Prima si fa la cosa, poi si dice come si
+   chiama. «Quello che hai appena fatto si chiama scostamento semplice medio.»
+
+### Come è andata
+
+Bene, e in netto miglioramento rispetto alla verifica del 19 ottobre.
+
+| Domanda | Esito |
+|---|---|
+| Definire la variabilità con parole proprie | ✅ corretta e spontanea |
+| Campo di variazione di 12, 15, 18, 20 | ✅ 8 |
+| Campo di variazione di 30,31,32,33,90 e sua critica | ✅ 60, e ha riconosciuto l'**outlier** da sola |
+| Perché il manuale non si ferma al campo di variazione | ✅ «non considera tutti i numeri ma soltanto gli estremi» — quasi le parole del manuale |
+| Gli scarti di 8, 10, 12 e la loro somma | ⚠️ somma e ragione corrette, ma ha indicato due scarti invece di tre (dimenticato lo zero) |
+| Come impedire agli scarti di annullarsi | ✅ «togliere i segni meno» — ha trovato da sola il valore assoluto |
+| Devianza e varianza di 8, 10, 12 | ⚠️ metodo giusto (diviso 3), somma sbagliata (4 invece di 8); **si è autocorretta** al primo richiamo |
+| Scarto quadratico medio con varianza 9 | ✅ 3 |
+
+### Il punto debole individuato
+
+**Dimentica lo scarto nullo**: due volte ha contato gli scarti dei dati
+«centrali» come se non esistessero. La regola da ripetere finché non è
+automatica: **uno scarto per ogni dato — tre numeri, tre scarti, tre quadrati
+da sommare.**
+
+**E un'osservazione sul tipo di domande**: risponde volentieri e bene alle
+domande di calcolo; **salta sistematicamente le domande «perché è utile»**, anche
+riposte tre volte. Non è che non le sappia: è che la domanda aperta la blocca.
+**Soluzione: dare la risposta e chiederle di ridirla con parole sue**, invece di
+pretenderla a freddo.
+
+### Materiale
+
+Prodotto `concorso-294/econometria/03-la-variabilita.md/.pdf` (9 pp.) — **da
+usare come ripasso dopo la spiegazione a voce, non prima**. Stessa avvertenza per
+`01-le-medie-a-parole.pdf` e `02-moda-e-mediana.pdf`.
+
+### Da riprendere
+- **Coefficiente di variabilità** (§6.5): non ancora toccato. È il pezzo che
+  manca per chiudere il §6 nella parte che conta.
+- §6.7 differenze medie, §6.8 indici rapportati al massimo, §6.9 concentrazione:
+  da fare in sintesi, non sono il cuore.
+- §7 indici di forma (pp. 288-289): due soli indici, blocco corto.
