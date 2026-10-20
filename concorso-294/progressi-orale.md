@@ -462,3 +462,29 @@ usare come ripasso dopo la spiegazione a voce, non prima**. Stessa avvertenza pe
 - §6.7 differenze medie, §6.8 indici rapportati al massimo, §6.9 concentrazione:
   da fare in sintesi, non sono il cuore.
 - §7 indici di forma (pp. 288-289): due soli indici, blocco corto.
+
+## Econometria — mappa dei capitoli, Parte 2 della scansione (20 ottobre)
+
+**Parte 2 = pagine stampate 360-459.** Offset verificato: pagina stampata =
+foglio + 359 (riscontri su 363, 364, 370, 371, 372, 374, 377, 387, 390, 393,
+399, 400, 402, 419).
+
+**Attenzione, differenza tecnica dalla Parte 1**: questa scansione **non ha
+livello di testo** ed è stata processata con OCR (tesseract, `-l ita --psm 6`,
+`OMP_THREAD_LIMIT=1`, reso a 300 dpi con PyMuPDF). Tesseract **non era
+installato** nel contenitore: va aggiunto con
+`apt-get update && apt-get install -y tesseract-ocr tesseract-ocr-ita`.
+
+| Capitolo | Pagine stampate | Priorità per l'orale |
+|---|---|---|
+| 7 — Il modello di regressione semplice | **340-377** (inizia nella Parte 1) | **massima** |
+| 8 — Le estensioni del modello semplice | 378-395 | bassa, da sfogliare |
+| 9 — Il modello di regressione multipla | **396-417** | **alta** |
+| 10 — La multicollinearità | 418-429 | media-alta, concetto semplice |
+| 11 — Massima verosimiglianza, variabili strumentali, proprietà asintotiche | 430-442 | solo le **variabili strumentali** |
+| 12 — Violazione della sfericità: eteroschedasticità e autocorrelazione | 443-459 e oltre | **alta**, sono le patologie classiche |
+
+**Il criterio della priorità**: il bando ha per baricentro la valutazione delle
+politiche pubbliche. Quello che serve è saper **leggere e discutere** una
+regressione — che cosa significa un coefficiente, perché servono più variabili
+di controllo, che cosa può andare storto. Non serve saper stimare.
