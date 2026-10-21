@@ -488,3 +488,40 @@ installato** nel contenitore: va aggiunto con
 politiche pubbliche. Quello che serve è saper **leggere e discutere** una
 regressione — che cosa significa un coefficiente, perché servono più variabili
 di controllo, che cosa può andare storto. Non serve saper stimare.
+
+---
+
+## ⚠️ REGOLA PERMANENTE — 21 ottobre 2026
+
+**Istruzione esplicita della studentessa, da rispettare su tutte le materie:**
+
+> *«Ti dico una volta per tutte che io voglio studiare tutto quello che c'è sul
+> manuale, non voglio lasciare niente indietro.»*
+
+**Conseguenza operativa: nessuna selezione per resa d'esame.** Finora avevo
+tagliato ciò che non compariva fra le domande uscite; da adesso **l'elenco delle
+domande serve a stabilire l'ORDINE e la PROFONDITÀ, mai a escludere un
+argomento.**
+
+I capitoli a bassa resa si fanno comunque, eventualmente **in forma più rapida**
+— ma si fanno, e si dichiara che sono stati fatti.
+
+### L'inventario dei tagli già effettuati, da recuperare
+
+| Materia | Che cosa era stato escluso | Stato |
+|---|---|---|
+| **Diritto amministrativo** | cap. 3 pubblico impiego (pp. 30-47) e cap. 8 documentazione amministrativa (pp. 94-99) | reinseriti come **lezioni 12 e 13** |
+| **Econometria** | cap. 8 «da sfogliare»; del cap. 11 solo le variabili strumentali; capp. 2-5 «in forma ridotta» | **da reinserire per intero** |
+| **Scienza delle finanze** | capp. 2-3 della Parte V (pp. 655-663): illusione finanziaria di Puviani, paradosso del voto; fine cap. 5 (pp. 673-675) | **da recuperare** |
+| **Valutazione politiche** | cap. 16 del manuale di econometria: mai aperto, la scansione non è disponibile | **servono le parti 3 e 4** |
+
+### Materiali mancanti per poter rispettare la regola
+
+- **econometria PARTE3 e PARTE4** — contengono i capp. 13-16, compreso il
+  **capitolo 16 sulla valutazione controfattuale**;
+- **scienza delle finanze**, tutte e quattro le parti — le scansioni di settembre
+  non sono più disponibili;
+- **statistica economica**, tutte e tre le parti — idem.
+
+**Senza quei file la regola non è applicabile su quelle materie**, e va detto
+apertamente invece di lavorare sulle sole dispense.
