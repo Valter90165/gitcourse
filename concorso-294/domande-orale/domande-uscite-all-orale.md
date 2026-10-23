@@ -1,6 +1,6 @@
 # Le domande realmente uscite all'orale
 
-**Fonte**: dispensa raccolta dai candidati, 283 domande, aggiornata al **16 ottobre 2026**.
+**Fonte**: dispensa raccolta dai candidati, 285 domande, aggiornata al **23 ottobre 2026**.
 
 ⚠️ **Verifica da fare.** L'intestazione del documento dice **RIPAM 261**, non 294.
 Le materie coincidono esattamente con quelle del nostro bando, quindi il valore
@@ -60,6 +60,8 @@ spiegare.
 244. Differenza tra distorsione (bias) e varianza di uno stimatore; trade-off bias-varianza.
 273. Differenza tra dati usati per la stima e dati per la verifica; analisi di robustezza.
 274. Che cos’è il bootstrap statistico e a cosa serve?
+284. Come si valuta una politica pubblica guardando a input, output e outcome?
+   (differenza fra valutazione di input, di output e di outcome)
 
 ## Statistica economica — 40 domande
 
@@ -150,6 +152,8 @@ spiegare.
 256. Come possono le politiche attive del lavoro sostenere la crescita economica?
 265. Taglio IRPEF per redditi bassi: quali effetti attesi sulla domanda aggregata?
 278. Tassi d’interesse e investimenti: quando l’effetto della riduzione dei tassi sugli
+285. Se si dovesse ridisegnare da zero il reddito di cittadinanza, come lo si potrebbe
+   disegnare e a quali rischi bisognerebbe stare attenti?
 
 ## Scienza delle finanze — 30 domande
 
