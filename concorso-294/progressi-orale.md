@@ -564,3 +564,42 @@ L'indice marca alcune voci come **online**: non sono nel volume stampato, e sono
 **Diritto amministrativo passa da 13 a 15 lezioni**: si aggiungono le situazioni
 giuridiche soggettive (da fare presto, è un prerequisito) e la giustizia
 amministrativa.
+
+---
+
+## ⚠️ CORREZIONE: LA DATA DELL'ESAME
+
+**L'esame è il 2 DICEMBRE 2026**, non il 27 novembre. La data usata in tutti i
+piani da settembre era sbagliata. Obiettivo della studentessa: **chiudere il
+programma entro il 10 novembre**, lasciando tre settimane di ripasso.
+
+## Materiali — stato al 23 ottobre, sera
+
+| Parte | Materia | Pagine | Stato |
+|---|---|---|---|
+| I | Diritto amministrativo | 7-128 | ✅ |
+| II | **Contabilità pubblica** | ~129-256 | ❌ |
+| III | Econometria e valutazione | 261-571 | ✅ |
+| IV | Statistica economica | 575-648 | ✅ |
+| V | **Scienza delle finanze** | **651-729** | ✅ **completata** |
+| VI | Politica economica | 732-845 | ◐ mancano 752-767 e 777-796 |
+
+**Offset scienza delle finanze**: P1 +650 (651-670), P2 +668 (669-688),
+P3 +688 (689-708), P4 +708 (709-729).
+
+**Numerazione risolta definitivamente**: la Parte V comincia a **p. 651**, non
+649. La dispensa 07 dichiara «649-729» ed è sfasata di due pagine. Lo sfasamento
+«+2» che mi trascinavo da settembre era questo.
+
+**I due buchi di settembre sono chiusi**: illusione finanziaria di Puviani e
+paradosso del voto (pp. 655 e 658, parte 1); beni pubblici, beni pubblici impuri
+e free rider (p. 673 e segg., parte 2).
+
+**Capitoli della Parte V**: 1 oggetto (651) · 2 teorie sulla natura dell'attività
+finanziaria · 3 finalità dell'intervento pubblico (663) · 4 economia del
+benessere (665) · 5 fallimenti del mercato (673) · 6 entrate pubbliche (677) ·
+7 i tributi (693) · 8 teoria dell'imposta (703) · 9 criteri di riparto (707) ·
+10 federalismo fiscale · 11 spese pubbliche (719) · 12 teorie sul bilancio (723).
+
+**Manca da caricare**: contabilità pubblica (Parte II), i due buchi di politica
+economica, il data mining e il materiale integrativo.
