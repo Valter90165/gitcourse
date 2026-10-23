@@ -525,3 +525,42 @@ I capitoli a bassa resa si fanno comunque, eventualmente **in forma più rapida*
 
 **Senza quei file la regola non è applicabile su quelle materie**, e va detto
 apertamente invece di lavorare sulle sole dispense.
+
+---
+
+## MAPPA DEI MATERIALI — aggiornata al 23 ottobre 2026
+
+**Scoperta dall'indice: è un VOLUME UNICO di circa 850 pagine**, diviso in sei
+Parti, non sei manuali separati. Le numerazioni sono consecutive.
+
+| Parte | Materia | Pagine | Stato |
+|---|---|---|---|
+| I | Diritto amministrativo | 7-128 | ✅ completo (8 parti) |
+| II | Contabilità pubblica | ~129-256 | ❌ |
+| III | Econometria e metodi per l'analisi e la valutazione delle politiche | 261-571 | ✅ completo (4 parti) |
+| IV | Statistica economica | 575-648 | ✅ completo (3 parti) |
+| V | Scienza delle finanze | 649-731 | ❌ |
+| VI | Politica economica | 732-~845 | ◐ mancano 752-767 e 777-796 |
+
+**Offset verificati** (pagina stampata = foglio + offset):
+econometria P1 +259, P2 +359, P3 +459, P4 +519 · statistica P1 +574, P2 +599,
+P3 +624 · politica economica: le parti sono tagliate in modo irregolare, va
+verificata ogni volta · diritto amministrativo: parti a doppia pagina dalla 2
+in poi.
+
+### Le estensioni «online» del manuale
+
+L'indice marca alcune voci come **online**: non sono nel volume stampato, e sono
+**tutte già sul Drive** come schede della collana 349/3.
+
+| Scheda | Scaricata | Serve per |
+|---|---|---|
+| **La giustizia amministrativa** | ✅ | domande 19, 261, 277 |
+| **Le situazioni giuridiche soggettive** | ✅ | prerequisito del riparto di giurisdizione |
+| **Valutazione d'impatto e paradigma controfattuale** | ✅ | valutazione politiche |
+| Lo spoil system · I beni della P.A. · Decentramento amministrativo · Il Codice dei contratti pubblici | da prendere | quando serviranno |
+| Principi contabili generali · Il pagamento dei debiti · L'ordinamento contabile di Regioni ed enti locali | da prendere | contabilità pubblica |
+
+**Diritto amministrativo passa da 13 a 15 lezioni**: si aggiungono le situazioni
+giuridiche soggettive (da fare presto, è un prerequisito) e la giustizia
+amministrativa.
