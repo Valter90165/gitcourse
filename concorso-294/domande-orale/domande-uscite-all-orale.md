@@ -1,6 +1,6 @@
 # Le domande realmente uscite all'orale
 
-**Fonte**: dispensa raccolta dai candidati, 285 domande, aggiornata al **23 ottobre 2026**.
+**Fonte**: dispensa raccolta dai candidati, 289 domande, aggiornata al **23 ottobre 2026** (ultimo giro riportato in giornata).
 
 ⚠️ **Verifica da fare.** L'intestazione del documento dice **RIPAM 261**, non 294.
 Le materie coincidono esattamente con quelle del nostro bando, quindi il valore
@@ -62,6 +62,8 @@ spiegare.
 274. Che cos’è il bootstrap statistico e a cosa serve?
 284. Come si valuta una politica pubblica guardando a input, output e outcome?
    (differenza fra valutazione di input, di output e di outcome)
+288. Analisi multicriterio e analisi costi-benefici: differenze e quando si usa l'una
+   o l'altra.
 
 ## Statistica economica — 40 domande
 
@@ -105,6 +107,9 @@ spiegare.
 268. Differenze tra povertà assoluta e relativa e ruolo delle scale di equivalenza.
 279. Vantaggi e limiti dell’integrazione tra indagini campionarie e archivi amministrativi.
 281. Differenza tra indagine censuaria e campionaria.
+286. Che cos'e' l'elenco delle amministrazioni pubbliche dell'ISTAT (lista S13) e
+   con quale criterio un'unita' vi entra?
+287. Che cosa sono i numeri indici di quantita'?
 
 ## Data science e data mining — 9 domande
 
@@ -117,7 +122,6 @@ spiegare.
 137. Quali rischi si presentano con la sovra-adattamento (overfitting)?
 248. Che cosa sono falsi positivi e falsi negativi in un modello di classificazione?
 266. Illustrare l’analisi delle componenti principali (PCA): obiettivo e interpretazione.
-
 ## Politica economica — 32 domande
 
 68. Quali sono gli obiettivi e gli strumenti della politica economica?
@@ -292,6 +296,7 @@ spiegare.
 280. Che cos’è Microsoft 365 e come può essere utilizzato nella PA?
 283. Chi è il responsabile per la transizione al digitale (RTD) e quali funzioni svolge?
 
+289. Che cos'e' il Piano triennale per l'informatica nella PA?
 
 ## Appendice — domande attribuite a singoli candidati
 

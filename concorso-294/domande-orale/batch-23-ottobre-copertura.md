@@ -1,4 +1,4 @@
-# Le 43 domande dell'ultimo giro — e quanto siamo coperti
+# Le domande dell'ultimo giro — e quanto siamo coperti
 
 **Aggiornato al 23 ottobre 2026.** Elenco incollato da Valter: le domande
 effettivamente uscite all'orale fino a oggi. Sono tutte già presenti nel
@@ -13,13 +13,18 @@ Legenda copertura: ✅ risposta già pronta · ◐ coperta a metà · ❌ da far
 
 | Materia | Domande | Peso |
 |---|---|---|
-| **Informatica e digitale** | **10** | **23%** |
-| Statistica economica | 8 | 19% |
-| Diritto amministrativo | 8 | 19% |
-| Scienza delle finanze | 6 | 14% |
-| Econometria e valutazione | 6 | 14% |
+| **Informatica e digitale** | **11** | **23%** |
+| **Statistica economica** | **10** | **21%** |
+| Diritto amministrativo | 8 | 17% |
+| Econometria e valutazione | 7 | 15% |
+| Scienza delle finanze | 6 | 13% |
 | Politica economica | 4 | 9% |
 | Contabilità pubblica | 1 | 2% |
+
+Totale **47**: le 43 del primo elenco piu' le quattro riportate nel
+pomeriggio del 23 ottobre (elenco delle PA dell'ISTAT, indici di quantita',
+analisi multicriterio contro costi-benefici, Piano triennale per
+l'informatica nella PA).
 
 **Il cluster più grosso è informatica — e non l'abbiamo ancora aperta.**
 Sono anche le dieci domande più economiche da chiudere: sono descrittive,
@@ -27,7 +32,7 @@ non concettuali, e si imparano in due sessioni.
 
 ---
 
-## Informatica e digitale — 10 domande
+## Informatica e digitale — 11 domande
 
 | # | Domanda | Stato |
 |---|---|---|
@@ -41,12 +46,13 @@ non concettuali, e si imparano in due sessioni.
 | 32 | Chi è il responsabile per la transizione al digitale (RTD) | ❌ |
 | 39 | Come si ottiene lo SPID e come funziona | ❌ |
 | 43 | Il protocollo informatico | ❌ |
+| 47 | Il Piano triennale per l'informatica nella PA | ❌ |
 
 Nota: 14, 22, 32, 39, 43 stanno **tutte** nella parte 6 del manuale di
 diritto amministrativo (CAD, pp. 84-101). Si chiudono con una lezione sola.
 Restano 3, 4, 6, 18, 29 — materiale extra-manuale.
 
-## Statistica economica — 8 domande
+## Statistica economica — 10 domande
 
 | # | Domanda | Stato |
 |---|---|---|
@@ -58,6 +64,8 @@ Restano 3, 4, 6, 18, 29 — materiale extra-manuale.
 | 28 | Integrazione indagini campionarie / archivi amministrativi | ❌ |
 | 30 | Indagine censuaria e indagine campionaria | ❌ |
 | 37 | Economia non osservata nella contabilità nazionale | ❌ |
+| 44 | Elenco delle amministrazioni pubbliche dell'ISTAT (lista S13) | ✅ (scheda-precisione § 7: SEC 2010, test del 50%, concorrenzialità) |
+| 45 | Indici di quantità | ◐ (Laspeyres/Paasche/Fisher visti sui prezzi, non sulle quantità) |
 
 ## Diritto amministrativo — 8 domande
 
@@ -83,7 +91,7 @@ Restano 3, 4, 6, 18, 29 — materiale extra-manuale.
 | 25 | Deduzioni e detrazioni e progressività dell'imposta | ❌ |
 | 41 | Caratteristiche dell'IRPEF | ❌ |
 
-## Econometria e valutazione — 6 domande
+## Econometria e valutazione — 7 domande
 
 | # | Domanda | Stato |
 |---|---|---|
@@ -93,6 +101,7 @@ Restano 3, 4, 6, 18, 29 — materiale extra-manuale.
 | 34 | Come valutare una politica pubblica; casi di endogeneità | ✅ (ripetizione 02: endogeneità, strumentali, tre condizioni) |
 | 36 | Distorsione e varianza: come varia una al variare dell'altra | ❌ |
 | 40 | Falso positivo e falso negativo | ❌ |
+| 46 | Analisi multicriterio e analisi costi-benefici | ❌ |
 
 ## Politica economica — 4 domande
 
@@ -113,7 +122,7 @@ Restano 3, 4, 6, 18, 29 — materiale extra-manuale.
 
 ## Il conto
 
-**✅ 2 · ◐ 7 · ❌ 34**
+**✅ 3 · ◐ 8 · ❌ 36**
 
 Non è un dato brutto: siamo al 23 ottobre e il programma è ancora in corso.
 Ma dice due cose precise.
