@@ -48,31 +48,45 @@ amministrativa, Le situazioni giuridiche soggettive, Il Codice dei
 contratti pubblici - D.Lgs. 36/2023) e il **sommario completo della
 Parte II**, riportato qui sotto.
 
-### 2. Contabilita' pubblica — tutta (Parte II, pp. ~129-256)
+### 2. Contabilita' pubblica — arrivata la parte 1 di 4
+
+**Parte 1**: 25 fogli, pp. ~129-179, capitoli 1-4. Richiesta una pipeline
+diversa dalle altre, perche' la scansione e' **ruotata di 90 gradi** e a
+**doppia pagina**: reso a 300 dpi con rotazione di 270 gradi, tagliato in
+due meta' con ImageMagick, poi OCR separato di ciascuna meta'. Senza il
+taglio tesseract legge attraverso le due pagine e il risultato e'
+illeggibile (si passa da 1 a 68 parole italiane riconoscibili per
+facciata).
+
+⚠️ **La qualita' del testo di contabilita' e' inferiore a quella delle
+altre materie**, perche' qui si tratta di foto di pagine e non di un
+livello di testo nativo. Date, cifre e numeri di legge vanno verificati
+sulla pagina prima di citarli in una lezione.
+
+Se le prossime tre parti si possono esportare **non ruotate**, la resa
+migliora; in ogni caso la pipeline sopra funziona.
+
+Mancano le parti 2, 3 e 4 (pp. ~180-256).
 
 Gli undici capitoli, dal sommario stampato in coda alla Parte I:
 
-| Cap. | Titolo |
-|---|---|
-| 1 | La contabilita' pubblica: natura e fonti |
-| 2 | I soggetti |
-| 3 | L'azienda composta pubblica e il sistema delle rilevazioni contabili nel settore pubblico |
-| 4 | La programmazione degli obiettivi di finanza pubblica e l'ordinamento del bilancio italiano |
-| 5 | La classificazione delle entrate e delle spese nel bilancio dello Stato |
-| 6 | L'esecuzione del bilancio |
-| 7 | La gestione di tesoreria |
-| 8 | I rendiconti: il rendiconto generale dello Stato e i rendiconti speciali |
-| 9 | La gestione dei beni della P.A. |
-| 10 | Gli enti pubblici non territoriali: gli enti di erogazione |
-| 11 | I controlli nella contabilita' pubblica |
+| Cap. | Titolo | Stato |
+|---|---|---|
+| 1 | La contabilita' pubblica: natura e fonti | ✅ parte 1 |
+| 2 | I soggetti | ✅ parte 1 |
+| 3 | L'azienda composta pubblica e il sistema delle rilevazioni contabili nel settore pubblico | ✅ parte 1 |
+| 4 | La programmazione degli obiettivi di finanza pubblica e l'ordinamento del bilancio italiano | ◐ parte 1 |
+| 5 | La classificazione delle entrate e delle spese nel bilancio dello Stato | ❌ |
+| 6 | L'esecuzione del bilancio | ❌ |
+| 7 | La gestione di tesoreria | ❌ |
+| 8 | I rendiconti: il rendiconto generale dello Stato e i rendiconti speciali | ❌ |
+| 9 | La gestione dei beni della P.A. | ❌ |
+| 10 | Gli enti pubblici non territoriali: gli enti di erogazione | ❌ |
+| 11 | I controlli nella contabilita' pubblica | ❌ |
 
 Piu' due espansioni online, **entrambe gia' scaricate dal Drive**:
 `L'ordinamento contabile delle Regioni e degli enti locali` e
 `La contabilita' di Universita', AUSL e Camere di commercio`.
-
-Non c'e' nulla di questa materia, in nessuna forma. Sono **35 domande**
-nel repertorio. Il file sul Drive e' `contabilita.pdf`, 33 MB: serve
-dividerlo in **quattro pezzi** da circa 8 MB.
 
 ### 3. Politica economica — COMPLETA
 
