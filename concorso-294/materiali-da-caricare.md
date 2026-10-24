@@ -1,4 +1,4 @@
-# Cosa caricare — stato verificato al 23 ottobre 2026
+# Cosa caricare — stato verificato al 24 ottobre 2026
 
 Il contenitore di sessione viene riciclato: i PDF caricati in chat non
 sopravvivono, **il testo estratto sì**. Quindi la domanda giusta non e'
@@ -14,7 +14,7 @@ Questa e' la verifica fatta sul disco.
 | Scienza delle finanze (Parte V) | P1, P2, P3, P4 | ✅ completa |
 | Indice del manuale | — | ✅ |
 
-## Da caricare — restano sei file
+## Da caricare — resta una materia
 
 Il tool di Google Drive scarica solo file **sotto i 10 MB**. I volumi
 interi del manuale sul Drive (amministrativo 69 MB, econometria 59 MB,
@@ -74,26 +74,48 @@ Non c'e' nulla di questa materia, in nessuna forma. Sono **35 domande**
 nel repertorio. Il file sul Drive e' `contabilita.pdf`, 33 MB: serve
 dividerlo in **quattro pezzi** da circa 8 MB.
 
-### 3. Politica economica — resta una finestra
+### 3. Politica economica — COMPLETA
 
-Il 24 ottobre sono arrivate due parti, **scansioni senza livello di testo**,
-passate all'OCR (300 dpi, tesseract italiano):
+Quattro parti arrivate il 24 ottobre, tutte **scansioni senza livello di
+testo**, passate all'OCR (300 dpi, tesseract italiano):
 
 | File | Fogli | pp. | Contenuto |
 |---|---|---|---|
-| PARTE1 | 20 | **732-751** | fine cap. 1 (variabili e parametri, tipi di equazioni) · cap. 2 La politica economica: modelli, **regola di Tinbergen**, **critica di Lucas** · cap. 3 · inizio cap. 4 |
-| PARTE2 | 18 | **752-769** | cap. 4 **Il modello reddito-spesa** · cap. 5 **La domanda di moneta**: aggregati monetari, dicotomia classica, preferenza per la liquidita' |
+| PARTE1 | 20 | 732-751 | fine cap. 1 · cap. 2 La politica economica: **regola di Tinbergen**, **critica di Lucas** · cap. 3 · inizio cap. 4 |
+| PARTE2 | 18 | 752-769 | cap. 4 **Il modello reddito-spesa** · cap. 5 **La domanda di moneta** |
+| PARTE4 | 9 | 777-785 | cap. 9 **Il modello di domanda e offerta aggregate** |
+| PARTE5 | 11 | 786-796 | cap. 10 **La disoccupazione e l'inflazione**: teoria classica, marxista, keynesiana |
 
-Quadro aggiornato della Parte VI:
+Le cuciture combaciano sui confini di capitolo: l'estratto di settembre
+chiude a p. 776 con la fine del capitolo sulla sintesi (IS-LM), la PARTE4
+apre con la pagina iniziale del capitolo 9, la PARTE5 con quella del
+capitolo 10, dove riprende la coda gia' disponibile (pp. 797-845, capp.
+10, 11, 12, 19).
 
-| pp. | Stato |
-|---|---|
-| 732-769 | ✅ (PARTE1 + PARTE2) |
-| 768-776 | ✅ (estratto IS-LM di settembre) |
-| **777-796** | ❌ **unica finestra mancante** |
-| 797-845 | ✅ (capp. 10, 11, 12, 19) |
+**Copertura della Parte VI: pp. 732-845, senza buchi.**
 
-Serve quindi **un solo file**: `PE_777_796.pdf`. Dentro ci stanno, secondo
-l'indice, i capitoli sul **mercato del credito e le banche**, **l'offerta
-di moneta**, la **sintesi** e il **modello di domanda e offerta aggregata**
-— cioe' proprio i capitoli che reggono la IS-LM.
+## Preso dal Drive, senza doverlo caricare
+
+Tutti sotto i 10 MB (il limite del tool di Drive), tutti con livello di
+testo, nessun OCR necessario:
+
+- `data mining.pdf` — 6 pagine
+- `Le situazioni giuridiche soggettive.pdf`
+- `L'ordinamento contabile.pdf`
+- `Principi contabili generali.pdf`
+- `Aggiornamenti normativi di diritto amministrativo.pdf`
+
+Piu' quelli gia' scaricati a settembre: `La giustizia amministrativa.pdf`,
+`Decentramento amministrativo.pdf`, `Valutazione d'impatto.pdf`.
+
+### Ancora sul Drive, da prendere quando serviranno
+
+`Lo spoil system` · `I beni della P.A.` · `Il Codice dei contratti
+pubblici` · `Il pagamento dei debiti` · `La contabilita' di Universita',
+AUSL` · `Le imposte dirette e indirette` · `Aggiornamento alla disciplina
+del pubblico impiego` · `D.M. 1-10-2013 principio di competenza
+finanziaria` · `D.P.C.M. 18-9-2012`
+
+> Attenzione: il mio accesso a Drive vede l'account
+> **valter.romani@61project.it**. File caricati da un altro account Google
+> non risultano visibili.
