@@ -24,18 +24,20 @@ delle finanze 20 MB) vanno quindi caricati in chat, **a pezzi sotto i
 
 ### 1. Diritto amministrativo — parti 2, 3, 7, 8 *(urgente)*
 
-Sopravvive il testo delle parti **1, 2, 4, 5, 6** (la 2 e' arrivata il
-24 ottobre: 8 fogli, livello di testo nativo, nessun OCR necessario,
-pp. 17-29, capitolo 2 §§ 7-16). Mancano:
+Sopravvive il testo delle parti **1, 2, 4, 5, 6, 7**. Le parti 2 e 7 sono
+arrivate il 24 ottobre, entrambe con livello di testo nativo e nessun OCR
+necessario: la 2 copre pp. 17-29 (capitolo 2, §§ 7-16), la 7 copre
+pp. 101-119 (capitolo 9 per intero e capitolo 10 sul GDPR). Mancano:
 
 | Parte | pp. | Capitoli | Domande d'orale in gioco |
 |---|---|---|---|
 | **3** | 30-47 | cap. 3 Pubblico impiego | 0 |
-| **7** | 102-119 | cap. 9 Anticorruzione e trasparenza · cap. 10 GDPR | **5** |
 | **8** | 120-128 | cap. 11 Responsabilita' della P.A. | **2** |
 
-Urgente perche' la lezione su anticorruzione e trasparenza sta nella
-parte 7, e con la responsabilita' della P.A. (parte 8) vale sette domande.
+Con la parte 7 si chiude il buco sull'**OIV e la trasparenza**, lasciato
+aperto nella lezione 6A: il manuale ne descrive il ruolo fra i soggetti
+che operano a livello di singola P.A. (L. 190/2012, art. 1, commi 7 e
+segg.), accanto all'organo di indirizzo politico e al RPCT.
 
 Con la parte 2 il **capitolo 2 e' ora completo**: i §§ 1-6 (pluralismo,
 principi costituzionali, sussidiarieta') stavano in coda alla parte 1,
