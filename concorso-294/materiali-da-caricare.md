@@ -74,28 +74,26 @@ Non c'e' nulla di questa materia, in nessuna forma. Sono **35 domande**
 nel repertorio. Il file sul Drive e' `contabilita.pdf`, 33 MB: serve
 dividerlo in **quattro pezzi** da circa 8 MB.
 
-### 3. Politica economica — le due finestre mancanti
+### 3. Politica economica — resta una finestra
 
-Testo disponibile: **pp. 768-776** e **pp. ~797-845** (capp. 10, 11, 12, 19).
-Mancano: **pp. 732-767** e **pp. 777-796**.
+Il 24 ottobre sono arrivate due parti, **scansioni senza livello di testo**,
+passate all'OCR (300 dpi, tesseract italiano):
 
-## Preso dal Drive, senza doverlo caricare
+| File | Fogli | pp. | Contenuto |
+|---|---|---|---|
+| PARTE1 | 20 | **732-751** | fine cap. 1 (variabili e parametri, tipi di equazioni) · cap. 2 La politica economica: modelli, **regola di Tinbergen**, **critica di Lucas** · cap. 3 · inizio cap. 4 |
+| PARTE2 | 18 | **752-769** | cap. 4 **Il modello reddito-spesa** · cap. 5 **La domanda di moneta**: aggregati monetari, dicotomia classica, preferenza per la liquidita' |
 
-Tutti sotto i 10 MB, tutti con livello di testo (nessun OCR necessario):
+Quadro aggiornato della Parte VI:
 
-- `data mining.pdf` — 6 pagine
-- `Le situazioni giuridiche soggettive.pdf`
-- `L'ordinamento contabile.pdf`
-- `Principi contabili generali.pdf`
-- `Aggiornamenti normativi di diritto amministrativo.pdf`
+| pp. | Stato |
+|---|---|
+| 732-769 | ✅ (PARTE1 + PARTE2) |
+| 768-776 | ✅ (estratto IS-LM di settembre) |
+| **777-796** | ❌ **unica finestra mancante** |
+| 797-845 | ✅ (capp. 10, 11, 12, 19) |
 
-Piu' quelli gia' scaricati a settembre: `La giustizia amministrativa.pdf`,
-`Decentramento amministrativo.pdf`, `Valutazione d'impatto.pdf`.
-
-### Ancora sul Drive, da prendere quando serviranno
-
-`Lo spoil system` · `I beni della P.A.` · `Il Codice dei contratti
-pubblici` · `Il pagamento dei debiti` · `La contabilita' di Universita',
-AUSL` · `Le imposte dirette e indirette` · `Aggiornamento alla disciplina
-del pubblico impiego` · `D.M. 1-10-2013 principio di competenza
-finanziaria` · `D.P.C.M. 18-9-2012`
+Serve quindi **un solo file**: `PE_777_796.pdf`. Dentro ci stanno, secondo
+l'indice, i capitoli sul **mercato del credito e le banche**, **l'offerta
+di moneta**, la **sintesi** e il **modello di domanda e offerta aggregata**
+— cioe' proprio i capitoli che reggono la IS-LM.
