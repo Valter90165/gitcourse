@@ -14,7 +14,7 @@ Questa e' la verifica fatta sul disco.
 | Scienza delle finanze (Parte V) | P1, P2, P3, P4 | ✅ completa |
 | Indice del manuale | — | ✅ |
 
-## Da caricare — resta una materia
+## Il manuale e' completo
 
 Il tool di Google Drive scarica solo file **sotto i 10 MB**. I volumi
 interi del manuale sul Drive (amministrativo 69 MB, econometria 59 MB,
@@ -48,43 +48,31 @@ amministrativa, Le situazioni giuridiche soggettive, Il Codice dei
 contratti pubblici - D.Lgs. 36/2023) e il **sommario completo della
 Parte II**, riportato qui sotto.
 
-### 2. Contabilita' pubblica — arrivata la parte 1 di 4
+### 2. Contabilita' pubblica — COMPLETA
 
-**Parte 1**: 25 fogli, pp. ~129-179, capitoli 1-4. Richiesta una pipeline
-diversa dalle altre, perche' la scansione e' **ruotata di 90 gradi** e a
-**doppia pagina**: reso a 300 dpi con rotazione di 270 gradi, tagliato in
-due meta' con ImageMagick, poi OCR separato di ciascuna meta'. Senza il
-taglio tesseract legge attraverso le due pagine e il risultato e'
-illeggibile (si passa da 1 a 68 parole italiane riconoscibili per
-facciata).
+Quattro parti arrivate il 24 ottobre, **pp. 130-257**, undici capitoli.
 
-⚠️ **La qualita' del testo di contabilita' e' inferiore a quella delle
-altre materie**, perche' qui si tratta di foto di pagine e non di un
-livello di testo nativo. Date, cifre e numeri di legge vanno verificati
-sulla pagina prima di citarli in una lezione.
+| File | Fogli | pp. | Capitoli |
+|---|---|---|---|
+| parte 1 | 25 | 130-179 | 1 natura e fonti · 2 i soggetti · 3 l'azienda composta pubblica · 4 (inizio) |
+| parte 2 | 25 | 180-212 | 4 (copertura finanziaria, assestamento) · 5 classificazione di entrate e spese · 6 esecuzione del bilancio |
+| parte 3 | 25 | 213-237 | 6 · 7 gestione di tesoreria · 8 i rendiconti · 9 gestione dei beni della P.A. · 10 (inizio) |
+| parte 4 | 20 | 238-257 | 10 enti di erogazione · 11 **i controlli nella contabilita' pubblica** |
 
-Se le prossime tre parti si possono esportare **non ruotate**, la resa
-migliora; in ogni caso la pipeline sopra funziona.
+Le scansioni sono **miste**: alcuni fogli sono doppie pagine ruotate di
+90 gradi, altri pagine singole diritte, a volte nello stesso file. Per
+questo serve una pipeline che decida foglio per foglio: `ocr_mixed.sh`
+rende ogni pagina a 0 e a 270 gradi, ne produce la versione intera e
+quella tagliata in due, passa tutte e quattro al riconoscimento ottico e
+tiene quella con piu' parole italiane riconoscibili. La variante scelta
+e' annotata nel testo accanto a ogni foglio, insieme al punteggio.
 
-Mancano le parti 2, 3 e 4 (pp. ~180-256).
+⚠️ **La qualita' del testo di contabilita' resta inferiore a quella delle
+altre materie**, perche' qui si tratta di fotografie di pagine e non di
+un livello di testo nativo. Date, cifre e numeri di legge vanno
+verificati sulla pagina prima di citarli in una lezione.
 
-Gli undici capitoli, dal sommario stampato in coda alla Parte I:
-
-| Cap. | Titolo | Stato |
-|---|---|---|
-| 1 | La contabilita' pubblica: natura e fonti | ✅ parte 1 |
-| 2 | I soggetti | ✅ parte 1 |
-| 3 | L'azienda composta pubblica e il sistema delle rilevazioni contabili nel settore pubblico | ✅ parte 1 |
-| 4 | La programmazione degli obiettivi di finanza pubblica e l'ordinamento del bilancio italiano | ◐ parte 1 |
-| 5 | La classificazione delle entrate e delle spese nel bilancio dello Stato | ❌ |
-| 6 | L'esecuzione del bilancio | ❌ |
-| 7 | La gestione di tesoreria | ❌ |
-| 8 | I rendiconti: il rendiconto generale dello Stato e i rendiconti speciali | ❌ |
-| 9 | La gestione dei beni della P.A. | ❌ |
-| 10 | Gli enti pubblici non territoriali: gli enti di erogazione | ❌ |
-| 11 | I controlli nella contabilita' pubblica | ❌ |
-
-Piu' due espansioni online, **entrambe gia' scaricate dal Drive**:
+Due espansioni online della materia sono **gia' scaricate dal Drive**:
 `L'ordinamento contabile delle Regioni e degli enti locali` e
 `La contabilita' di Universita', AUSL e Camere di commercio`.
 
