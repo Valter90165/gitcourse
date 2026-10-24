@@ -24,18 +24,25 @@ delle finanze 20 MB) vanno quindi caricati in chat, **a pezzi sotto i
 
 ### 1. Diritto amministrativo — parti 2, 3, 7, 8 *(urgente)*
 
-Sopravvive il testo delle parti **1, 4, 5, 6**. Mancano:
+Sopravvive il testo delle parti **1, 2, 4, 5, 6** (la 2 e' arrivata il
+24 ottobre: 8 fogli, livello di testo nativo, nessun OCR necessario,
+pp. 17-29, capitolo 2 §§ 7-16). Mancano:
 
 | Parte | pp. | Capitoli | Domande d'orale in gioco |
 |---|---|---|---|
-| **2** | 17-29 | cap. 2 Organizzazione della P.A. | **8** |
 | **3** | 30-47 | cap. 3 Pubblico impiego | 0 |
 | **7** | 102-119 | cap. 9 Anticorruzione e trasparenza · cap. 10 GDPR | **5** |
 | **8** | 120-128 | cap. 11 Responsabilita' della P.A. | **2** |
 
-Urgente perche' due delle prossime lezioni in programma — organizzazione
-e anticorruzione/trasparenza — stanno proprio qui, e insieme valgono
-tredici domande.
+Urgente perche' la lezione su anticorruzione e trasparenza sta nella
+parte 7, e con la responsabilita' della P.A. (parte 8) vale sette domande.
+
+Con la parte 2 il **capitolo 2 e' ora completo**: i §§ 1-6 (pluralismo,
+principi costituzionali, sussidiarieta') stavano in coda alla parte 1,
+i §§ 7-16 (autorita' amministrative, assetto territoriale dopo la riforma
+del Titolo V, Regioni, art. 116 c. 3, autonomie locali, struttura degli
+enti pubblici: organo, ufficio, rapporto organico, prorogatio) sono nella
+parte 2.
 
 ### 2. Contabilita' pubblica — tutta (Parte II, pp. ~129-256)
 
