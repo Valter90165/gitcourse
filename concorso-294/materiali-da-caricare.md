@@ -14,7 +14,7 @@ Questa e' la verifica fatta sul disco.
 | Scienza delle finanze (Parte V) | P1, P2, P3, P4 | ✅ completa |
 | Indice del manuale | — | ✅ |
 
-## Da caricare — file sopra i 10 MB, che non passano da Drive
+## Da caricare — restano sei file
 
 Il tool di Google Drive scarica solo file **sotto i 10 MB**. I volumi
 interi del manuale sul Drive (amministrativo 69 MB, econometria 59 MB,
@@ -22,29 +22,25 @@ politica economica 47 MB, contabilita' 33 MB, statistica 29 MB, scienze
 delle finanze 20 MB) vanno quindi caricati in chat, **a pezzi sotto i
 9 MB**.
 
-### 1. Diritto amministrativo — parti 2, 3, 7, 8 *(urgente)*
+### 1. Diritto amministrativo — ✅ COMPLETO
 
-Sopravvive il testo delle parti **1, 2, 4, 5, 6, 7, 8**. Le parti 2 e 7 sono
-arrivate il 24 ottobre, entrambe con livello di testo nativo e nessun OCR
-necessario: la 2 copre pp. 17-29 (capitolo 2, §§ 7-16), la 7 copre
-pp. 101-119 (capitolo 9 per intero e capitolo 10 sul GDPR), la 8 copre
-pp. 119-128 (capitolo 11, la responsabilita' della P.A.). Manca solo:
+Tutte e otto le parti sono disponibili come testo, e tutte con **livello
+di testo nativo**: nessun OCR, quindi nessun errore di riconoscimento.
 
-| Parte | pp. | Capitoli | Domande d'orale in gioco |
-|---|---|---|---|
-| **3** | 30-47 | cap. 3 Pubblico impiego | 0 |
+| Parte | pp. | Contenuto |
+|---|---|---|
+| 1 | 7-16 | cap. 1 fonti · cap. 2 §§ 1-6 |
+| 2 | 17-29 | cap. 2 §§ 7-16 |
+| 3 | 29-47 | cap. 2 § 18 la competenza · cap. 3 pubblico impiego |
+| 4 | 48-67 | cap. 4 atti, provvedimenti, invalidita', autotutela, controlli |
+| 5 | 66-83 | cap. 5 procedimento · cap. 6 CAD |
+| 6 | 84-101 | cap. 6 CAD · cap. 7 accesso · cap. 8 documentazione |
+| 7 | 101-119 | cap. 9 anticorruzione e trasparenza · cap. 10 GDPR |
+| 8 | 119-128 | cap. 11 responsabilita' della P.A. |
 
-Con la parte 7 si chiude il buco sull'**OIV e la trasparenza**, lasciato
-aperto nella lezione 6A: il manuale ne descrive il ruolo fra i soggetti
-che operano a livello di singola P.A. (L. 190/2012, art. 1, commi 7 e
-segg.), accanto all'organo di indirizzo politico e al RPCT.
-
-Con la parte 2 il **capitolo 2 e' ora completo**: i §§ 1-6 (pluralismo,
-principi costituzionali, sussidiarieta') stavano in coda alla parte 1,
-i §§ 7-16 (autorita' amministrative, assetto territoriale dopo la riforma
-del Titolo V, Regioni, art. 116 c. 3, autonomie locali, struttura degli
-enti pubblici: organo, ufficio, rapporto organico, prorogatio) sono nella
-parte 2.
+La parte 3 porta in apertura il **§ 18 del capitolo 2, sulla competenza**,
+che chiude due domande del repertorio (competenza per materia, territorio
+e grado).
 
 La parte 8 porta anche due cose utili alla programmazione: l'elenco delle
 **espansioni online** della Parte I (I beni della P.A., La giustizia
