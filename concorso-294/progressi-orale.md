@@ -603,3 +603,69 @@ benessere (665) · 5 fallimenti del mercato (673) · 6 entrate pubbliche (677) �
 
 **Manca da caricare**: contabilità pubblica (Parte II), i due buchi di politica
 economica, il data mining e il materiale integrativo.
+
+---
+
+# Sessione del 24-25 ottobre
+
+## Il manuale e' completo
+
+Tutte e sei le parti sono disponibili come testo: pp. 7-845. Dettaglio e
+provenienza in `concorso-294/materiali-da-caricare.md`. Diritto
+amministrativo e le quattro parti caricate il 24 ottobre hanno **livello
+di testo nativo** (nessun OCR); politica economica e contabilita'
+pubblica sono scansioni passate al riconoscimento ottico, e il testo di
+contabilita' e' il meno affidabile dei sei: **date, cifre e numeri di
+legge si verificano sulla pagina prima di citarli**.
+
+## Il piano
+
+`concorso-294/piano-studio-al-10-novembre.md` — 68 lezioni in 17 giorni,
+quattro al giorno piu' un richiamo, calendario giorno per giorno, e le
+tre fasi del ripasso dall'11 novembre. Costruito sulla densita' di
+domande per pagina: statistica economica rende quattro volte econometria.
+
+## Registro delle lezioni
+
+Una lezione e' **consegnata** quando l'ho scritta, **verificata** quando
+Valter ha risposto alle domande e ha preso un voto. Solo le verificate
+contano come fatte.
+
+| Lezione | Stato | Voto |
+|---|---|---|
+| 6A controlli interni | consegnata · domanda 2 aperta | — |
+| 6B controlli esterni | consegnata · domanda 1 aperta | 22 (dom. 2) |
+| 7A CAD e identita' digitale | consegnata · 3 domande aperte | — |
+| **DA-1** documento informatico, firme, protocollo | **verificata** | **23** |
+| **DA-2** accesso e accesso civico | **verificata** (spiegata, non interrogata) | — |
+
+## Errori nuovi, e i loro antidoti
+
+**Risponde a «che cos'e'» anche quando la domanda chiede «quanto vale» o
+«che differenza c'e'».** Sul valore probatorio del documento informatico
+ha dato la definizione; su protocollo e fascicolo ha dato una definizione
+unica invece della differenza. Antidoto: **«che cosa mi sta chiedendo
+esattamente?»** — se la domanda contiene *valore, efficacia, effetto*
+vuole una conseguenza giuridica; se contiene *differenza, e, contro*
+vuole due cose separate e il confine.
+
+**Attribuisce il termine al soggetto sbagliato.** Ha detto che i trenta
+giorni finali nella tutela dell'accesso sono della Commissione, mentre
+sono dell'amministrazione dopo che la Commissione si e' pronunciata. E'
+la stessa famiglia dello scambio T/Y e dell'«inerzia della P.A.» nella
+consolidazione. Antidoto: **«di chi e' questo termine? chi deve muoversi
+e chi aspetta?»**
+
+## Il progresso che conta
+
+Sul valore probatorio, alla seconda risposta, ha ricostruito da sola il
+nesso fra proprieta' tecnica e conseguenza giuridica: la firma semplice
+non identifica, quindi il giudice valuta; la FEA e la FEQ identificano,
+quindi la legge stabilisce l'efficacia. Non era sul manuale in quella
+forma. **E' il tipo di frase che distingue un 28 da un 24**, e va
+incoraggiato ogni volta che compare.
+
+## Da rimettere nel ripasso
+
+La tutela del diritto di accesso: spiegata tre volte, capita, ma i due
+termini di trenta giorni si riallineano sbagliati se non si ripassano.
