@@ -2,7 +2,7 @@
 
 **Dispensa 02** (60 pp, Parte I del manuale). Fascia: **contesto istituzionale**.
 
-**Il carattere della materia.** È **quella che Valter probabilmente padroneggia meglio** ed è l'ultima del calendario: chiuderla per ultima lascia una sensazione di controllo prima delle simulazioni. Ma proprio per questo **non abbassare l'asticella**: su una materia che si conosce, una commissione va a fondo.
+**Il carattere della materia.** È **quella che Silvia probabilmente padroneggia meglio** ed è l'ultima del calendario: chiuderla per ultima lascia una sensazione di controllo prima delle simulazioni. Ma proprio per questo **non abbassare l'asticella**: su una materia che si conosce, una commissione va a fondo.
 
 **Due lacune note della dispensa**, da colmare durante il corso:
 - **la sussidiarietà orizzontale** — trattata in sole quattro righe (§316), mentre è una domanda d'orale a sé. Il materiale completo è nella conversazione del 16 settembre e va integrato alla sessione 2;

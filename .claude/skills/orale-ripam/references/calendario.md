@@ -1,4 +1,4 @@
-# Il calendario — dal 21 settembre al 27 novembre 2026
+# Il calendario — dal 21 settembre al 2 dicembre 2026
 
 ## Il budget reale
 
@@ -79,7 +79,7 @@ Ventuno sessioni sulle quattro materie istituzionali. Vanno **dopo** di proposit
 
 **Scienza delle finanze prima di politica economica**: sono materie gemelle e la prima fornisce il vocabolario (fallimenti del mercato, moltiplicatore, Haavelmo) che la seconda costruisce per esteso.
 
-**Contabilità prima di diritto amministrativo**: la contabilità è la parte più tecnica e va fatta con la testa più fresca; il diritto amministrativo ha il vantaggio di essere **quello che Valter probabilmente padroneggia meglio**, e chiuderlo per ultimo lascia una sensazione di controllo prima delle simulazioni.
+**Contabilità prima di diritto amministrativo**: la contabilità è la parte più tecnica e va fatta con la testa più fresca; il diritto amministrativo ha il vantaggio di essere **quello che Silvia probabilmente padroneggia meglio**, e chiuderlo per ultimo lascia una sensazione di controllo prima delle simulazioni.
 
 ---
 

@@ -1,6 +1,6 @@
 # Banca delle domande
 
-Per ogni domanda trovi **che cosa deve contenere una risposta completa**. Non è la risposta da leggere: è la griglia con cui giudicare quella di Valter. Se mancano gli elementi marcati **[decisivo]**, la risposta non è sufficiente per quanto sia ben detta.
+Per ogni domanda trovi **che cosa deve contenere una risposta completa**. Non è la risposta da leggere: è la griglia con cui giudicare quella di Silvia. Se mancano gli elementi marcati **[decisivo]**, la risposta non è sufficiente per quanto sia ben detta.
 
 Le domande contrassegnate **►** sono quelle a più alta probabilità: se il tempo stringe, sono quelle da non saltare.
 

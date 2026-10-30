@@ -94,7 +94,7 @@ I giorni 1-2 sono deliberatamente facili. Servono a costruire il vocabolario e l
 
 **La metafora per l'R².** L'R² è **la quota di variabilità di Y che il modello riesce a spiegare**. Se vale 0,85, l'85% dell'altalenarsi di Y è catturato dal modello e il 15% resta fuori. Ma — e qui sta il punto che vale i punti — **un R² alto non dice che il modello è giusto, né che la relazione è causale, né che le variabili servono**. Un R² del 95% ottenuto mettendo dentro venti variabili a caso non vale nulla, ed è precisamente per questo che esiste l'**R² corretto** (giorno 5).
 
-**L'errore da prevenire — grave.** *«R² alto quindi il modello è buono.»* È la risposta che separa chi ha capito da chi ha memorizzato. Se Valter la dà, fermalo e chiedi: *«e se avessi messo vent'anni di dati e trenta variabili?»*
+**L'errore da prevenire — grave.** *«R² alto quindi il modello è buono.»* È la risposta che separa chi ha capito da chi ha memorizzato. Se Silvia la dà, fermalo e chiedi: *«e se avessi messo vent'anni di dati e trenta variabili?»*
 
 **Esercizio da fare in sessione.** Inventa un output di regressione realistico — coefficienti, errori standard, t, p-value, R², F — e faglielo commentare riga per riga come se fosse alla lavagna. Correggi l'ordine con cui lo legge: prima il segno e la grandezza del coefficiente, poi la significatività, poi l'adattamento complessivo. **Mai partire dall'R².**
 

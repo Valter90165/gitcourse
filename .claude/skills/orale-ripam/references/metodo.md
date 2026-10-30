@@ -40,7 +40,7 @@ Sono quelli che una commissione nota **in qualunque materia**, perché rivelano 
 | **27-28** | Aggiunge **i collegamenti** e sa dire **perché una scelta tecnica è preferibile a un'altra** |
 | **29-30** | **Applica a un caso nuovo**, dichiarando ipotesi e minacce alla validità |
 
-**Il salto fra 23 e 26 è l'esempio proprio. Quello fra 26 e 29 è l'applicazione a un caso nuovo.** Dillo a Valter: sapere dov'è il gradino successivo è più utile del voto.
+**Il salto fra 23 e 26 è l'esempio proprio. Quello fra 26 e 29 è l'applicazione a un caso nuovo.** Dillo a Silvia: sapere dov'è il gradino successivo è più utile del voto.
 
 ## La simulazione d'orale
 
