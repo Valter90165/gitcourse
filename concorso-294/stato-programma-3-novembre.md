@@ -97,3 +97,60 @@ vanno verificati sulla pagina prima di dirli.
 
 **Inglese**: ancora a zero, con un accertamento di cui «sara' indicato l'esito».
 Quindici minuti al giorno concordati il 30 ottobre e mai iniziati.
+
+---
+
+# Aggiornamento — 4 novembre, sera: econometria
+
+## Il blocco regressione e' chiuso come lezione
+
+Consegnati EC-5 (semplice), EC-6/EC-7 (multipla ed estensioni) e la parte di
+EC-8 sulla multicollinearita', piu' BLUE e il trade-off distorsione-varianza.
+Materiale in `econometria/EC-5-la-regressione-semplice.md`,
+`econometria/blocco-regressione-le-dodici.md`,
+`econometria/blocco-C-multipla-e-stimatore.md`.
+
+**Verifica**: blocco A interrogato due volte (21 e 26 sui singoli passaggi),
+blocco B interrogato a meta' (24 e 26), blocco C **non ancora interrogato**.
+
+## Dove sta econometria adesso
+
+| Misura | Valore |
+|---|---|
+| Lezioni | 4 su 15 → **~27%** |
+| **Domande del repertorio coperte** | **~18 su 39 → ~45%** |
+
+Lo scarto fra le due percentuali e' il punto: **la regressione era la parte
+densa**. Quattro lezioni hanno coperto quasi metà delle domande della materia.
+
+Domande ora coperte: 112, 113, 114, 115, 116, 117, 118, 119, 123, 124, 129,
+172, 173, 211, 212, 244 piene; 232, 233, 273 parziali.
+
+## La scoperta che cambia il piano: non c'e' un secondo grappolo
+
+Contate una per una, le domande di econometria che restano **non formano un
+secondo blocco concentrato**. Si distribuiscono in gruppi da uno o due:
+
+| Cluster aperto | Domande | Lezione |
+|---|---|---|
+| Statistica descrittiva (medie, tipi di variabile, outlier, contingenza) | 4 | EC-1, risposte **gia' scritte** in `ripetizione/01-econometria-blocco-1.md` |
+| Verifica delle ipotesi (nulla/alternativa, cosa si sottopone a prova) | 2 | EC-3 |
+| Endogeneita' e variabili strumentali | 2 | EC-9 |
+| Dati panel, effetti fissi e casuali | 2 | EC-12 |
+| Valutazione (input/output/outcome, multicriterio vs costi-benefici) | 2 | EC-13, EC-14 |
+| Serie storiche e autocorrelazione | 1 | EC-11 |
+| Scala delle variabili | 1 | EC-6 (non coperta) |
+| Bootstrap | 1 | — |
+| Modello teorico contro modello stimato | 1 | — |
+| Sensibilita' e specificita' | 2 | EC-15 |
+
+**Conseguenza operativa: il resto di econometria non sono dieci lezioni, sono
+cinque rassegne per grappolo.** Un gruppo da una o due domande non merita una
+lezione piena: merita la domanda, la risposta a voce, e via.
+
+## Il miglior rendimento che resta in tutta la materia
+
+**Data science e data mining e' una sezione a se' del repertorio con 9
+domande** — piu' di qualunque grappolo rimasto dentro econometria, e lo copre
+una sola lezione, EC-15. **E' la prossima cosa da fare per rendimento**, prima
+dei grappoli da una o due domande.
