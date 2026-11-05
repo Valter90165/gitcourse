@@ -1,256 +1,257 @@
 # EC-15 — Data science e data mining
 
-**Copre le 9 domande della sezione omonima del repertorio**: 131 bootstrap · 132
-tecniche per stimare congetture economiche · 133 anomalie e outlier · 134
-sensibilita' e specificita' · 135 cross-validation e train/test · 136
-classificazione supervisionata · 137 overfitting · 248 falsi positivi e negativi
-· 266 analisi delle componenti principali.
+**Copre tutte e 9 le domande della sezione**: 131 bootstrap · 132 tecniche di
+data science · 133 anomalie e outlier · 134 sensibilita' e specificita' · 135
+cross-validation e train/test · 136 classificazione supervisionata · 137
+sovra-adattamento · 248 falsi positivi e falsi negativi · 266 analisi delle
+componenti principali.
 
-**Quattro sono gia' coperte dal blocco D** (bootstrap, outlier, train/test,
-sovra-adattamento): qui vengono richiamate e completate. Le nuove sono cinque.
+**Quattro erano gia' coperte dal blocco D**: bootstrap, outlier,
+train/test e sovra-adattamento. Qui si richiamano e si completano.
 
 Solo definizioni. Ogni termine attaccato al suo pezzo di definizione.
 
 ---
 
-# Movimento 1 — Che cos'e', e la divisione fondamentale
+# 0. La differenza di fondo, e va detta per prima
 
-**La data science, cioe' la disciplina che estrae conoscenza utile dai dati**,
-combinando statistica, informatica e conoscenza del dominio.
+**L'econometria vuole spiegare; la data science vuole prevedere.**
 
-**Il data mining, cioe' l'insieme delle tecniche che scoprono schemi, relazioni e
-regolarita' non note dentro grandi quantita' di dati.**
+All'econometria interessa **il coefficiente**: quanto vale, se e' significativo,
+se e' interpretabile come effetto causale. Alla data science interessa
+**l'accuratezza della previsione su dati nuovi**, e il singolo parametro puo'
+anche restare inintelligibile.
 
-**La differenza, se la chiedono**: la data science e' **il processo complessivo**,
-dalla domanda iniziale al risultato utilizzabile; il data mining e' **la fase di
-estrazione degli schemi** dentro quel processo.
+Da questa differenza seguono due conseguenze che tornano in tutte le risposte
+della materia: la data science **non si giudica sull'adattamento ma sulla
+validazione fuori campione**, e accetta modelli **non interpretabili** purche'
+funzionino.
 
-## La domanda che genera tutto il campo
-
-**Ho una risposta nota da cui imparare, oppure no?** Da qui la divisione
-fondamentale, e da qui si ricavano quasi tutte le tecniche.
-
-**L'apprendimento supervisionato, cioe' quello in cui si dispone di dati gia'
-etichettati con la risposta corretta**: il modello impara la relazione fra le
-caratteristiche e la risposta, e la applica a casi nuovi. Due famiglie: **la
-classificazione**, quando la risposta e' una **categoria**; **la regressione**,
-quando la risposta e' un **valore numerico**.
-
-**L'apprendimento non supervisionato, cioe' quello in cui non esiste una risposta
-nota**: il modello cerca struttura nei dati. Le tecniche principali: **il
-clustering**, che raggruppa osservazioni simili; **la riduzione della
-dimensionalita'**, di cui la PCA e' il caso principale; **il rilevamento delle
-anomalie**; **le regole associative**.
-
-## Le principali tecniche *(domanda 132)*
-
-La domanda del repertorio chiede le tecniche **per stimare congetture
-economiche**, quindi la risposta va orientata li'.
-
-**Le tecniche**: la **regressione**, lineare e logistica; gli **alberi
-decisionali** e le loro combinazioni, **random forest** e **gradient boosting**;
-le **reti neurali**; il **clustering**; la **PCA** e l'analisi fattoriale; i
-**modelli per serie storiche**; il **text mining** e l'analisi del sentiment su
-fonti testuali.
-
-**E il pezzo specifico che risponde davvero alla domanda: il nowcasting, cioe'
-la stima dell'andamento corrente di una variabile economica prima che le
-statistiche ufficiali siano disponibili**, usando dati non tradizionali e ad alta
-frequenza — ricerche sul web, transazioni con carte di pagamento, consumi
-elettrici, immagini satellitari, annunci di lavoro. E' il punto in cui la data
-science entra davvero nella politica economica, e citarlo distingue la risposta.
-
-## La classificazione supervisionata *(domanda 136)*
-
-**La classificazione supervisionata, cioe' la tecnica in cui un modello,
-addestrato su osservazioni di cui si conosce la categoria di appartenenza, impara
-ad assegnare a nuove osservazioni una fra categorie predefinite.**
-
-**Il processo**: si parte da **dati etichettati**, si addestra il modello sul
-**train set**, si valuta sul **test set** mai visto, e solo allora si applica ai
-casi nuovi.
-
-**Gli algoritmi**: regressione logistica, alberi decisionali, random forest,
-k-nearest neighbours, support vector machine, reti neurali, naive Bayes.
-
-**Le due differenze da citare.** Nella classificazione la risposta e' una
-**categoria**: se fosse un numero, sarebbe una **regressione**. E nel
-**clustering** i gruppi **non sono noti in anticipo**, li trova l'algoritmo:
-quella e' la differenza fra supervisionato e non supervisionato vista in
-concreto.
+Dirlo in apertura colloca subito la risposta, e mostra che si padroneggiano
+entrambe le materie del bando.
 
 ---
 
-# Movimento 2 — Il problema centrale: generalizzare
+# 1. La domanda che organizza tutta la materia
 
-## Il sovra-adattamento *(domanda 137)*
+**Nei dati ho gia' la risposta giusta, oppure no?** Due famiglie, e non ce n'e'
+una terza.
 
-**L'overfitting, o sovra-adattamento, cioe' quando il modello si adatta troppo ai
-dati di addestramento, cogliendo anche il rumore e le irregolarita' casuali, e
-per questo perde capacita' di generalizzare a dati nuovi.**
+**L'apprendimento supervisionato, cioe' quello in cui i dati contengono anche la
+variabile da prevedere**, detta etichetta: il modello impara dagli esempi di cui
+si conosce la risposta. Due compiti: **la classificazione**, quando la variabile
+da prevedere e' una categoria, e **la regressione**, quando e' un numero.
 
-**Il sintomo**: prestazioni ottime sui dati di addestramento e cattive sui dati
-nuovi.
+**L'apprendimento non supervisionato, cioe' quello in cui l'etichetta non c'e'**
+e si cerca una struttura nascosta nei dati. Due compiti tipici: il **clustering**,
+cioe' raggruppare osservazioni simili, e la **riduzione della dimensionalita'**,
+cioe' sintetizzare molte variabili in poche.
 
-**Le cause**: modello troppo complesso rispetto alla quantita' di dati, troppe
-variabili, pochi casi.
-
-**I rimedi**: semplificare il modello, **regolarizzazione**, piu' dati,
-**validazione incrociata**, potatura degli alberi, arresto precoce
-dell'addestramento.
-
-**E il difetto opposto, da nominare perche' completa la risposta:
-l'underfitting, cioe' il modello troppo semplice che non cattura la struttura
-presente nei dati.** Il bilanciamento fra i due e' esattamente il **trade-off
-distorsione-varianza**: un modello troppo semplice e' distorto, uno troppo
-complesso ha varianza elevata.
-
-## Train set, test set e validazione incrociata *(domanda 135)*
-
-**Il train set e il test set, cioe' la divisione del campione in una parte su cui
-il modello viene addestrato e una parte, mai vista dal modello, su cui viene
-valutato.** **Perche' serve**: la prestazione misurata sui dati di addestramento
-e' **ottimisticamente distorta per costruzione**, perche' il modello quei dati li
-ha gia' visti.
-
-**La cross-validation, o validazione incrociata, cioe' la procedura che divide il
-campione in k parti e ripete l'addestramento k volte, usando ogni volta k meno
-una parti per addestrare e la parte esclusa per valutare, mediando poi i
-risultati.**
-
-**I vantaggi**: **usa tutti i dati sia per addestrare sia per valutare**, e
-fornisce una stima della prestazione **piu' stabile** di quella ottenuta da
-un'unica divisione — cosa decisiva quando i dati sono pochi, perche' li' il
-risultato di una singola divisione dipende troppo da quali casi sono finiti dove.
-
-## Il bootstrap *(domanda 131)*
-
-**Il bootstrap, cioe' la tecnica di ricampionamento che estrae dal campione
-osservato molti campioni con reinserimento, ristima il modello su ciascuno, e
-dalla distribuzione delle stime ottenute ricava errore standard e intervalli di
-confidenza.**
-
-**Come stima l'incertezza, ed e' la parte che la domanda chiede: la variabilita'
-delle stime ottenute sui campioni bootstrap e' essa stessa una stima diretta
-della variabilita' dello stimatore.** In pratica **sostituisce il calcolo teorico
-con una simulazione fatta sui dati stessi**, e per questo serve quando la formula
-teorica non e' disponibile o le ipotesi che la giustificano non valgono.
-
-## Anomalie e outlier *(domanda 133)*
-
-**Le anomalie, o outlier, cioe' osservazioni che si discostano in modo marcato dal
-comportamento prevalente dei dati.**
-
-**E qui sta il punto della domanda, perche' l'angolo e' opposto a quello della
-regressione.** Nella regressione l'outlier e' **un disturbo** da identificare e
-controllare, perche' puo' spostare la retta da solo. **Nel data mining l'anomalia
-e' spesso l'oggetto stesso dell'analisi**: si cerca proprio quella. Si chiama
-**anomaly detection**, e serve a individuare **frodi, intrusioni informatiche,
-guasti di impianto, errori di misura, evasione fiscale, riciclaggio**.
-
-**La frase che risolve la domanda: lo stesso dato anomalo e' rumore da eliminare
-quando si vuole stimare una relazione media, ed e' segnale da trovare quando si
-vuole scoprire un comportamento eccezionale.**
+Questa sola domanda ordina tre delle nove domande della sezione: le tecniche, la
+classificazione e la PCA.
 
 ---
 
-# Movimento 3 — Come si giudica un classificatore
+# 2. La classificazione supervisionata *(domanda 136)*
 
-## I quattro esiti *(domanda 248)*
+**La classificazione supervisionata, cioe' la tecnica con cui, partendo da un
+insieme di osservazioni di cui si conosce la classe di appartenenza, si
+costruisce un modello capace di assegnare la classe a osservazioni nuove.**
 
-La domanda generatrice: **il modello ha detto si' o no, e aveva ragione o torto?**
-Due per due fa **quattro esiti**, e non ce ne sono altri.
+**Le tre fasi**: **addestramento** sui dati etichettati, **validazione** su dati
+tenuti da parte per misurare l'accuratezza, **applicazione** ai casi nuovi.
 
-**Vero positivo**: il modello dice si' e il caso e' effettivamente positivo.
-**Vero negativo**: dice no e il caso e' negativo. **Falso positivo, cioe' il
-falso allarme**: dice si' ma il caso e' negativo. **Falso negativo, cioe' il caso
-mancato**: dice no ma il caso e' positivo.
+**Gli algoritmi da saper nominare**: regressione logistica, alberi decisionali,
+foreste casuali, k-nearest neighbours, support vector machine, reti neurali.
 
-**La tabella che li raccoglie si chiama matrice di confusione.**
+**Gli impieghi nella PA**: individuazione del rischio di evasione o di frode,
+selezione dei controlli, classificazione automatica di pratiche e documenti,
+previsione della morosita' o dell'abbandono di un servizio.
 
-**Il punto che vale il voto: i due errori non hanno lo stesso costo, e il costo
-dipende dall'applicazione.** In uno screening sanitario un **falso negativo** e'
-gravissimo, perche' un malato viene rimandato a casa. In un controllo fiscale
-automatico un **falso positivo** costa accertamenti inutili, contenzioso e
-sfiducia. **Quindi la soglia del classificatore si sceglie in funzione del costo
-relativo dei due errori, non per massimizzare l'accuratezza.**
+---
 
-## Sensibilita' e specificita' *(domanda 134)*
+# 3. Le principali tecniche di data science *(domanda 132)*
 
-**La sensibilita', cioe' la capacita' del modello di individuare i casi
-effettivamente positivi**: la quota di positivi reali che il modello riconosce.
-**Alta sensibilita' significa pochi falsi negativi.**
+La domanda e' plurale: si risponde **per famiglie**, usando la domanda del punto
+1, non con un elenco disordinato.
 
-**La specificita', cioe' la capacita' del modello di riconoscere correttamente i
-casi negativi**: la quota di negativi reali che classifica come negativi. **Alta
-specificita' significa pochi falsi positivi.**
+**Supervisionate**: la **regressione lineare** per prevedere grandezze continue,
+la **regressione logistica** per esiti binari, gli **alberi decisionali** e le
+**foreste casuali**, le tecniche di **boosting**, le **reti neurali**.
 
-**Il trade-off, che e' la sostanza della risposta**: abbassando la soglia il
-modello dichiara positivi piu' casi, quindi **la sensibilita' sale e la
-specificita' scende**; alzandola succede l'opposto. **Non si massimizzano
-entrambe**, e la scelta dipende da quale dei due errori costa di piu'.
+**Non supervisionate**: il **clustering**, con k-means e metodi gerarchici, e
+l'**analisi delle componenti principali**.
 
-**E l'avvertenza che fa colpo: l'accuratezza da sola inganna quando le classi
-sono sbilanciate.** Se i casi positivi sono l'uno per cento del totale, un modello
-che risponde sempre «no» ha un'accuratezza del novantanove per cento e una
-sensibilita' pari a zero: e' perfettamente inutile. **Per questo si valutano
-sensibilita' e specificita', e si usa la curva ROC con l'area sottostante.**
+**Per le previsioni economiche in senso proprio**, che e' quello a cui la domanda
+allude: i **modelli di previsione su serie storiche**; le **regressioni
+penalizzate** — ridge e lasso — che servono quando i predittori sono molti e
+correlati, perche' selezionano e restringono i coefficienti; e il **nowcasting,
+cioe' la stima del valore corrente di una grandezza non ancora pubblicata**,
+ottenuta da dati ad alta frequenza come transazioni con carta, ricerche sul web,
+dati satellitari.
 
-## L'analisi delle componenti principali *(domanda 266)*
+**E le tecniche di validazione**, che non sono un accessorio ma parte del
+metodo: separazione fra dati di addestramento e di verifica, e
+**cross-validation**.
 
-**La PCA, o analisi delle componenti principali, cioe' una tecnica di riduzione
-della dimensionalita' che trasforma molte variabili correlate in un numero minore
-di nuove variabili, dette componenti principali, fra loro incorrelate e ordinate
-per quota di variabilita' spiegata.**
+---
 
-**L'obiettivo**: ridurre il numero di variabili **perdendo il meno possibile di
-informazione**, eliminando la ridondanza che nasce dalla correlazione fra le
-variabili originarie.
+# 4. La valutazione di un classificatore *(domande 248 e 134)*
 
-**L'interpretazione**: la **prima componente e' la direzione lungo la quale i
-dati variano di piu'**; ogni componente successiva e' la direzione di massima
-variabilita' residua, **ortogonale** alle precedenti. Per dare un significato
-sostantivo a una componente si guardano **i pesi delle variabili originarie** su
-di essa: se su una componente pesano tutti gli indicatori di reddito e consumo,
-quella componente si interpreta come «benessere economico».
+## La matrice di confusione
 
-**Quante componenti si tengono**: quelle che insieme spiegano una quota
-soddisfacente della variabilita' totale.
+Domanda generatrice: **il modello ha detto si' o no — e aveva ragione o torto?**
+Quattro caselle, non ce n'e' una quinta.
 
-**A cosa serve nella PA**: costruire **indicatori sintetici** — indici di
-deprivazione, di benessere, di rischio — a partire da molti indicatori elementari
-correlati; e **risolvere la multicollinearita'** prima di una regressione,
-sostituendo variabili fortemente correlate con poche componenti incorrelate.
+**Vero positivo**: il modello dice si' ed e' si'. **Vero negativo**: dice no ed e'
+no. **Falso positivo**: dice si' ed e' no — e' il **falso allarme**. **Falso
+negativo**: dice no ed e' si' — e' il **mancato rilevamento**.
 
-**I limiti**: le componenti sono **combinazioni** di variabili e non sempre hanno
-un significato immediato; e la PCA e' **sensibile alla scala**, quindi le
-variabili vanno standardizzate prima di applicarla.
+## Sensibilita' e specificita' *(134)*
+
+**La sensibilita', cioe' la quota dei positivi reali che il modello riesce a
+individuare.** Risponde alla domanda: *quanti dei casi veri riesco a trovare?*
+Sensibilita' alta significa **pochi falsi negativi**.
+
+**La specificita', cioe' la quota dei negativi reali che il modello classifica
+correttamente.** Risponde a: *quanti dei casi non veri lascio correttamente
+fuori?* Specificita' alta significa **pochi falsi positivi**.
+
+## Il trade-off, ed e' il punto che vale il voto
+
+**Le due non si massimizzano insieme.** Abbassando la soglia di decisione il
+modello dichiara positivi piu' casi: **la sensibilita' sale e la specificita'
+scende**, perche' aumentano i falsi allarmi. Alzandola accade l'opposto.
+
+**Quale privilegiare dipende dal costo relativo dei due errori**, e questa e' la
+frase da dire: in uno **screening sanitario** il falso negativo e' il piu' grave,
+perche' significa non trovare un malato; in un **controllo antifrode che blocca
+pagamenti** il falso positivo ha un costo altissimo, perche' blocca cittadini in
+regola.
+
+## E l'avvertenza sull'accuratezza
+
+**L'accuratezza da sola inganna quando le classi sono sbilanciate.** Se i casi
+positivi sono l'uno per cento, un modello che risponde sempre «no» ha il
+novantanove per cento di accuratezza **ed e' completamente inutile**. Per questo
+si guardano sensibilita' e specificita', e non la sola percentuale di risposte
+corrette.
+
+---
+
+# 5. Il sovra-adattamento e la validazione *(domande 137 e 135)*
+
+**Il sovra-adattamento, in inglese overfitting, cioe' quando il modello impara
+anche il rumore specifico dei dati di addestramento**, e percio' funziona
+benissimo su quelli e male sui dati nuovi.
+
+**I rischi**: un'**illusione di accuratezza** che porta a decisioni sbagliate;
+**risultati non replicabili** su altri dati; e modelli inutilmente complessi che
+non generalizzano. **E' lo stesso punto dell'R quadro: adattarsi bene non e'
+prevedere bene.**
+
+**Come si rileva e si previene.** **La separazione fra dati di addestramento e
+dati di verifica**, cioe' si stima su una parte e si misura l'errore sulla parte
+tenuta da parte, che il modello non ha mai visto.
+
+**La cross-validation, cioe' la divisione del campione in k parti: si addestra su
+k meno una e si valida sulla rimanente, ruotando finche' ogni parte ha fatto da
+verifica una volta**, e si media l'errore. Serve perche' con una sola divisione
+il risultato dipende da quali osservazioni sono finite nel test: la rotazione
+rende la misura stabile, e sfrutta tutti i dati.
+
+**Gli altri rimedi**: la **regolarizzazione** — ridge e lasso —, la **potatura**
+degli alberi, la limitazione della complessita' del modello, e piu' dati.
+
+---
+
+# 6. Anomalie e outlier nel data mining *(domanda 133)*
+
+**L'outlier, cioe' un'osservazione molto distante dal resto della
+distribuzione.**
+
+**La risposta alla domanda «perche' interessano» ha due facce opposte, e dirle
+entrambe e' ciò che la rende completa.**
+
+**Come disturbo**: poiche' molte tecniche minimizzano errori al quadrato, un dato
+anomalo pesa in modo sproporzionato e puo' distorcere il modello. Qui l'outlier
+e' un problema da individuare e trattare.
+
+**Come segnale**: nel data mining **l'anomalia e' molto spesso l'oggetto stesso
+dell'analisi**, non un fastidio. Si chiama **anomaly detection**, e serve a
+individuare frodi, intrusioni informatiche, guasti, comportamenti evasivi,
+transazioni sospette. **Il caso raro e' esattamente quello che si vuole trovare.**
+
+**La frase: in econometria l'outlier e' un problema da correggere, nel data
+mining e' spesso il risultato da cercare.**
+
+---
+
+# 7. L'analisi delle componenti principali *(domanda 266)*
+
+**L'analisi delle componenti principali, o PCA, cioe' una tecnica non
+supervisionata di riduzione della dimensionalita': sostituisce molte variabili
+correlate fra loro con un numero minore di nuove variabili, dette componenti
+principali, costruite come combinazioni delle originarie e fra loro
+incorrelate.**
+
+**L'obiettivo**: ridurre il numero di variabili **perdendo il meno possibile
+dell'informazione**, cioe' della variabilita' complessiva. **La prima componente
+e' quella che spiega la quota maggiore di variabilita', la seconda la quota
+maggiore fra quelle restanti**, e cosi' via.
+
+**L'interpretazione**: ogni componente si legge guardando **quali variabili
+originarie pesano di piu'** su di essa — e' da quei pesi che si capisce che cosa
+quella componente rappresenta. **Quante componenti tenere** si decide guardando
+**la quota cumulata di variabilita' spiegata**.
+
+**A cosa serve**: a **risolvere la multicollinearita'**, perche' le componenti
+sono per costruzione incorrelate; a **visualizzare** dati a molte dimensioni; e a
+**costruire indicatori sintetici** — nella PA, gli indici compositi di benessere,
+di deprivazione o di rischio.
+
+**Il limite, da dire sempre**: le componenti sono combinazioni matematiche e
+**possono non avere un significato economico immediato**. Si guadagna in sintesi
+e **si perde in interpretabilita'**.
+
+---
+
+# 8. Il bootstrap *(domanda 131)*
+
+**Il bootstrap, cioe' una tecnica di ricampionamento: dal campione osservato si
+estraggono molti campioni con reinserimento, si ristima la grandezza di interesse
+su ciascuno, e dalla distribuzione delle stime ottenute si ricavano errore
+standard e intervalli di confidenza.**
+
+**Come si usa per stimare l'incertezza**, che e' il taglio della domanda: invece
+di ricavare la precisione da una formula teorica, la si **osserva direttamente**
+dalla variabilita' delle stime ottenute sui ricampionamenti. Serve **quando la
+formula teorica non esiste o quando le ipotesi che la giustificano non valgono**.
 
 ---
 
 # La frase d'attacco
 
-*«La data science si divide in due secondo una sola domanda, se esista o no una
-risposta nota da cui imparare: supervisionato per classificazione e regressione,
-non supervisionato per clustering, riduzione della dimensionalita' e rilevamento
-delle anomalie. Il problema centrale e' sempre lo stesso, generalizzare a dati
-nuovi, e per questo si separano train e test set e si usa la validazione
-incrociata contro il sovra-adattamento. E un classificatore non si giudica
-sull'accuratezza, ma su sensibilita' e specificita', perche' falso positivo e
-falso negativo non costano la stessa cosa.»*
+*«La data science si distingue dall'econometria per l'obiettivo: l'econometria
+vuole spiegare e guarda al coefficiente, la data science vuole prevedere e guarda
+all'accuratezza fuori campione. Per questo le sue tecniche si dividono secondo
+che l'etichetta sia presente o no — supervisionate e non supervisionate — e il
+suo problema centrale e' il sovra-adattamento, che si contrasta validando il
+modello su dati che non ha mai visto.»*
 
 # Le nove domande
 
-1. Che cos'e' il bootstrap e come si utilizza per stimare l'incertezza? *(131)*
+1. Che cos'e' la classificazione supervisionata? *(136)*
 2. Quali sono le principali tecniche di data science per stimare congetture
    economiche? *(132)*
-3. Che cosa sono le anomalie e perche' interessano il data mining? *(133)*
+3. Che cosa sono i falsi positivi e i falsi negativi in un modello di
+   classificazione? *(248)*
 4. Che cosa significano sensibilita' e specificita' nella valutazione dei
    modelli? *(134)*
-5. Che cos'e' la cross-validation e a cosa servono train e test set? *(135)*
-6. Che cos'e' la classificazione supervisionata? *(136)*
-7. Quali rischi comporta il sovra-adattamento? *(137)*
-8. Che cosa sono falsi positivi e falsi negativi in un modello di
-   classificazione? *(248)*
-9. Illustri l'analisi delle componenti principali: obiettivo e interpretazione.
+5. Che cos'e' il sovra-adattamento e quali rischi comporta? *(137)*
+6. Che cos'e' la cross-validation e a cosa servono i dati di addestramento e di
+   verifica? *(135)*
+7. Che cosa sono anomalie e outlier, e perche' interessano il data mining? *(133)*
+8. Illustri l'analisi delle componenti principali: obiettivo e interpretazione.
    *(266)*
+9. Che cos'e' il bootstrap e come si utilizza per stimare l'incertezza? *(131)*
