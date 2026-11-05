@@ -154,3 +154,52 @@ lezione piena: merita la domanda, la risposta a voce, e via.
 domande** — piu' di qualunque grappolo rimasto dentro econometria, e lo copre
 una sola lezione, EC-15. **E' la prossima cosa da fare per rendimento**, prima
 dei grappoli da una o due domande.
+
+---
+
+# Registro del 5 novembre
+
+## In piano (giorno pesante, 4h55)
+IN-1 · IN-2 · EC-15 · rassegna EC-2/EC-4/EC-10 · 25 min fissi
+
+## Fatto
+| Blocco | Stato | Voto |
+|---|---|---|
+| Le dieci frasi della regressione | verificata, risposte 1-4 su 10 | **23** |
+| R quadro, rispiegato dal meccanismo | verificata | **25** |
+| **IN-1** IoT e sicurezza informatica | consegnata e interrogata (8 domande su 10) | **23** |
+| **IN-2** identita' digitale, rete, cloud, strumenti | **consegnata, non interrogata** | — |
+| **EC-15** data science e data mining | consegnata, poi ripresa passo per passo | — |
+| EC-15 passo 0: che cos'e' la data science | capito | — |
+| EC-15 passi 1-2: supervisionato e non supervisionato | verificata | **26** |
+| EC-15 passo 3: falsi positivi e negativi | verificata | **20** |
+
+**Media del giorno: 23,4.**
+
+## Guadagno in copertura
+**30 domande del repertorio** coperte come lezione: informatica **da 0 a 21 su
+21**, data science **da 0 a 9 su 9**. Erano le due materie a zero e valevano il
+**12% del repertorio**: era il rischio piu' grande della preparazione, ed e'
+chiuso come lezione.
+
+## Manca di oggi
+- **IN-2: interrogazione** delle 11 domande (rinviata al tardo pomeriggio)
+- **EC-15: 3 domande** — sensibilita' e specificita', anomaly detection, PCA
+- **Rassegna EC-2 + EC-4 + EC-10** — mai iniziata, e' la coda a bassa resa
+- **Inglese**: 15 minuti, a zero dal 30 ottobre
+
+## Debito di verifica arretrato
+Blocco B regressione 3 domande · blocco C **6 domande, mai interrogato** ·
+blocco D **10 domande, mai interrogato** · frasi 5-10 della regressione.
+
+E' il costo previsto dal piano al 12 novembre: le lezioni corrono, la verifica
+resta indietro. Si recupera in fase 2, dal 13 novembre, che e' di 12 giorni.
+
+## Proposta aperta
+**EC-16**, seconda lezione di data science sul resto del programma del bando che
+EC-15 non copre: CRISP-DM e fasi di un progetto, underfitting, validation set,
+preparazione dei dati, k-means e scelta del numero di cluster, regole
+associative, metriche mancanti (precisione, richiamo, F1, ROC e AUC, RMSE, MAE),
+record linkage, interpretabilita' e modelli black box, bias algoritmico ed equita'
+nelle decisioni amministrative. Collocazione: **venerdi' 7**, che ha due blocchi
+liberi.
