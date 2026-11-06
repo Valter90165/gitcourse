@@ -203,3 +203,97 @@ associative, metriche mancanti (precisione, richiamo, F1, ROC e AUC, RMSE, MAE),
 record linkage, interpretabilita' e modelli black box, bias algoritmico ed equita'
 nelle decisioni amministrative. Collocazione: **venerdi' 7**, che ha due blocchi
 liberi.
+
+---
+
+# Registro del 6 novembre — giornata su contabilita' pubblica
+
+Metodo cambiato: un argomento per volta, domanda subito, e **conta solo quello
+che Silvia ha detto**. Niente piu' stato «consegnata».
+
+## I numeri
+
+**26 risposte verificate. Media 24.** Soglia 21.
+
+| Fascia | Risposte |
+|---|---|
+| 26-28 | **8** |
+| 21-25 | **14** |
+| sotto 21 | **4** |
+
+**22 risposte su 26 sopra soglia: 85%.**
+
+**Domande del repertorio testate oggi: 19.** Il ritmo necessario e' 8 al giorno.
+
+## Contabilita' pubblica — dove siamo
+
+**Domande testate: 20 su 35 → 57%.** Stamattina erano 11 (31%): **+9 oggi.**
+
+Testate: 28 art. 81 · 31 struttura · 32 Sezione I e II · 33 stanziamenti · 34
+bilancio competenza/cassa · 35 fasi · 37 conto disponibilita' · 38 Banca
+d'Italia · 39 SIOPE (parziale) · 40 servizio tesoreria · 43 e 196 competenza
+potenziata · 175 e 176 FCDE · 177 decreto armonizzazione · 198 esigibilita' ·
+215 ordinazione · 216 fasi della spesa · 236 obiettivi armonizzazione · 45 FPV e
+residui (parziale).
+
+**Capitoli della Parte II toccati: 8-9 su 11.** Mai aperti: **cap. 2 i soggetti**
+e **cap. 3 azienda pubblica e rilevazioni**.
+
+## Solido — voto 25 o piu'
+
+Struttura del bilancio, entrate e spese (**28**) · FCDE nel preventivo e nel
+rendiconto (**28**) · Sezione I e Sezione II (**27**) · competenza finanziaria
+potenziata (**27**, con il decreto citato da sola) · le quattro fasi della spesa
+descritte (**27**) · i due casi di indebitamento dell'art. 81 (**27**) · il nesso
+accensione/rimborso prestiti (**27**) · perche' il dissesto e non il fallimento
+(**25**) · i residui, definizioni esatte (**25**).
+
+## Sotto soglia — da rifare
+
+**Le fonti della disciplina del bilancio (17)**: data solo la Costituzione,
+mancavano L. 196/2009, L. cost. 1/2012, L. 243/2012 e la riforma 2016.
+**Le condizioni del dissesto (18)**: data una clausola su due, e «che cosa
+accade» non toccato.
+**Unita' di voto e saldi (20)**: «missione» invece di «programma» — poi corretto
+e ridetto bene.
+**Monopolio naturale come fallimento del mercato (20)** al richiamo: tornata «la
+complessita' del prodotto», gia' corretta la mattina.
+
+## Correzioni mai ridette — rischio di decadimento
+
+Sono le piu' esposte, perche' oggi si e' visto che **cio' che non viene ridetto
+cade**:
+
+- l'istruttoria del responsabile **non e' un parere vincolante**: vincola la
+  motivazione, non il contenuto
+- nel preavviso di rigetto i dieci giorni sono per le **osservazioni**, non per
+  integrare la domanda
+- il titolare del potere sostitutivo **non e' il superiore gerarchico**: e'
+  individuato dall'organo di governo e pubblicato sul sito
+- l'organo straordinario di liquidazione prende **i debiti**, non l'ente
+- **deficit e debito**: flusso contro stock
+- esercizio provvisorio: va autorizzato **con legge**, e la spesa va **per
+  dodicesimi**
+- la **codifica** SIOPE: ogni operazione classificata dal tesoriere per tipologia
+
+## Mai risposte
+
+I tre saldi — saldo netto da finanziare, ricorso al mercato, risparmio pubblico.
+
+## Il risultato metodologico della giornata
+
+**Tutto cio' che e' stato ridetto dopo la correzione ha tenuto**: tipologie e
+programmi, 30 giugno, D.Lgs. 118/2011, maggioranza assoluta, l'apertura «la
+sicurezza fisica e' la protezione da...». **Tutto cio' che e' stato corretto e
+non ridetto e' decaduto.**
+
+Da qui la regola: **dopo ogni correzione, la frase corretta si ridice una
+volta, subito.**
+
+## Da riprendere domani, in ordine
+
+1. I quattro punti sotto soglia
+2. Le sette correzioni mai ridette
+3. I tre saldi
+4. Poi: cap. 2 i soggetti della contabilita' (1 domanda, mai aperto) e il
+   rendiconto generale con i controlli della Corte dei conti (3 domande)
