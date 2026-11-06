@@ -91,3 +91,43 @@ corrisponde a una posizione **intorno alla settantesima**.
 e' **presentarsi e superare la soglia su tre domande estratte a sorte**. Da cui
 la priorita' assoluta dell'**ampiezza** — nessuna materia a zero — sulla
 profondita'.
+
+---
+
+# AGGIORNAMENTO — il numero delle sedute residue
+
+**Silvia riferisce che mancano 9 sedute da 25 candidati: 225 convocati.**
+
+Con i tassi osservati nelle ultime quattro sedute:
+
+| | |
+|---|---|
+| Convocati rimanenti | 225 |
+| Presenti attesi (43%) | 97 |
+| Nuovi idonei attesi (84% dei presenti) | **81** |
+| Idonei attuali | 140 |
+| **Totale idonei atteso** | **221** |
+| Posti | **261** |
+
+**221 contro 261: nessun taglio. Tutti gli idonei prendono il posto.**
+
+Con 21 alla scritta e 21 all'orale — somma 42 — la posizione finale stimata
+sarebbe intorno alla **209ª su 221**: dentro di oltre cinquanta posti.
+
+## Prova di resistenza
+
+Perche' il conto si rovesci, i 225 rimanenti dovrebbero produrre **122 idonei**,
+cioe' il **54% dei convocati**, contro il **36%** osservato. Servirebbe che la
+presenza salisse dal 43% a circa il 65% e che il superamento tenesse: in tredici
+sedute la presenza non ha mai superato il 44% ed e' scesa.
+
+Scenario pessimistico con presenza al 60%: **253 idonei, ancora sotto 261.**
+
+## Perche' il bersaglio resta comunque 25-26
+
+**Silvia ha 21 alla prova scritta.** Dei sette respinti delle ultime quattro
+sedute, i voti sono 18, 18, 19, 19, 19, 19,5, 20: **nessuno a 21**. Chi punta
+alla soglia esce sotto la soglia quando una delle tre domande va storta.
+
+**Mirare a 25-26 non serve a vincere: serve a prendere 21 con certezza invece
+che con fortuna.**
