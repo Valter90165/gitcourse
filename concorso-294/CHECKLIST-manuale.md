@@ -1,4 +1,4 @@
-# Checklist del manuale — stato al 6 novembre 2026, sera
+# Checklist del manuale — stato all'8 novembre 2026, mattina
 
 **Legenda**
 **✅** = fatto **e verificato** con una risposta sopra soglia
@@ -46,7 +46,7 @@ della lezione del piano.*
 
 | | Capitolo | Stato |
 |---|---|---|
-| 1 | La statistica descrittiva | **◐** sofferta |
+| 1 | La statistica descrittiva | **◐** sofferta; **curva di Lorenz e indice di Gini ✅** (27 e 28, 8 novembre) |
 | 2 | Statistica inferenziale: la probabilita' | **–** |
 | 3 | Le variabili casuali | **–** |
 | 4 | La teoria della stima | **–** |
@@ -72,7 +72,7 @@ della lezione del piano.*
 | 4 | Le tavole input-output e il modello di Leontief | **✅** |
 | 5 | Poverta' e scale di equivalenza | **✅** fatto oggi |
 | 6 | Il mercato del lavoro | **✅** fatto oggi |
-| 7 | Produttivita', progresso tecnologico e settori | **◐** consegnata stasera, da testare |
+| 7 | Produttivita', progresso tecnologico e settori | **✅** produttivita', residuo di Solow, ULA, ATECO testati il 7 novembre |
 | 8 | Indagini e fonti statistiche | **–** |
 
 ## PARTE V — Scienza delle finanze (pp. 651-729)
@@ -83,11 +83,11 @@ della lezione del piano.*
 | 2 | Teorie sulla natura dell'attivita' finanziaria | **◐** |
 | 3 | Finalita' dell'intervento pubblico | **◐** |
 | 4 | L'economia del benessere | **◐** consegnata, mai testata |
-| 5 | I fallimenti del mercato | **◐** solo il monopolio naturale |
-| 6 | Le entrate pubbliche | **–** |
-| 7 | I tributi | **–** |
-| 8 | La teoria dell'imposta | **–** |
-| 9 | I criteri di riparto | **–** |
+| 5 | I fallimenti del mercato | **◐** monopolio naturale **✅**; elenco dei cinque e asimmetrie testati sotto soglia (4/5 e 2/3) |
+| 6 | Le entrate pubbliche | **◐** tributo come genere spiegato tre volte; **il contributo non e' acquisito** |
+| 7 | I tributi | **◐** dirette/indirette, reale/personale, tax expenditures consegnati; IRPEF consegnata e mai testata |
+| 8 | La teoria dell'imposta | **◐** progressivita', incidenza e traslazione, Ramsey, efficienza/equita' (22); deduzioni e detrazioni a meta' |
+| 9 | I criteri di riparto | **✅** beneficio e capacita' contributiva (art. 53 Cost.) |
 | 10 | Il federalismo fiscale | **–** |
 | 11 | Le spese pubbliche | **–** |
 | 12 | Le teorie sul bilancio dello Stato | **–** |
