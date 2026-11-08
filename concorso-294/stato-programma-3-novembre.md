@@ -297,3 +297,63 @@ volta, subito.**
 3. I tre saldi
 4. Poi: cap. 2 i soggetti della contabilita' (1 domanda, mai aperto) e il
    rendiconto generale con i controlli della Corte dei conti (3 domande)
+
+---
+
+## 8 novembre — mattina
+
+**Prima mattina che si apre con la raffica di verifica invece che con
+materiale nuovo.** E' la regola nuova: si converte il debito prima di
+accumularne altro.
+
+**Chiuso sopra soglia.**
+- **Curva di Lorenz** (27) — l'argomento che il 7 novembre aveva
+  rinviato perche' non lo capiva. Il grafico e' servito: ha risposto
+  sopra e sotto la diagonale *con il perche'*, prima risposta a due
+  metta' della giornata.
+- **Indice di Gini ed effetto redistributivo** (28) — il Gini
+  calcolato due volte, su reddito di mercato e su reddito
+  disponibile, l'ha ricostruito da sola.
+- **IRPEF** (26 alla seconda ripresa, 21 alla prima).
+
+**Correzioni fatte.**
+- "la retta di Lorenz" -> **la curva** di Lorenz; la retta e'
+  l'uguaglianza perfetta. Confonderle all'orale rende la risposta
+  illeggibile.
+- il Gini non e' una distanza in un punto, e' **l'area** tra retta e
+  curva rapportata all'area sotto la retta.
+- l'IRPEF **non colpisce la ricchezza**: colpisce il **reddito**. La
+  ricchezza e' patrimonio, e' uno stock, su quello ci sono altre
+  imposte. Correzione acquisita e ridetta.
+- "spese deducibili" -> **oneri deducibili** (detto due volte in modo
+  errato, termine del TUIR).
+- progressivita' **per scaglioni**, non per classi: ogni fetta di
+  reddito paga la propria aliquota, non tutto il reddito paga
+  l'aliquota dello scaglione piu' alto.
+
+**L'errore ricorrente ha colpito quattro volte in una mattina**:
+domanda a piu' richieste, risposta a una sola. Su "che imposta e',
+su cosa si applica, come e' progressiva" ha dato una frase su tre.
+Segnalato ogni volta e completato ogni volta su richiesta.
+
+**Scoperta sulla resa dei capitoli di oggi.** Controllo sul file
+delle 249 domande uscite: **federalismo fiscale 0, spese pubbliche 0,
+teorie sul bilancio 0**. I tre capitoli in programma per oggi hanno
+resa nulla. Restano completamente aperti invece: indagini
+campionarie 8, valutazione delle politiche pubbliche 6, accesso e
+trasparenza 5, IVA 4, politica monetaria e inflazione 6, IS-LM 2.
+Proposta fatta e in attesa di conferma: federalismo compresso a
+venti minuti, spese pubbliche e teorie sul bilancio al blocco di
+recupero del 14, tempo liberato su indagini campionarie e
+valutazione delle politiche.
+
+**Conteggio sui 70 capitoli del manuale:** intaccati 62%, ma
+**verificati solo 30%** (21 capitoli), 32% sentiti e non verificati,
+37% mai aperti. Parte piu' debole: politica economica, 1 verificato
+su 10 con 7 capitoli mai aperti.
+
+**Debito ancora aperto a fine mattina:** le tre specie di tributo (il
+**contributo** non e' acquisito, quarta volta, parcheggiato al
+pomeriggio su suo accordo), deduzioni e detrazioni, sugar tax,
+elenco dei cinque fallimenti del mercato, i tre rimedi alle
+asimmetrie, SF-2 economia del benessere.
