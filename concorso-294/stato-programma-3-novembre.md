@@ -357,3 +357,54 @@ su 10 con 7 capitoli mai aperti.
 pomeriggio su suo accordo), deduzioni e detrazioni, sugar tax,
 elenco dei cinque fallimenti del mercato, i tre rimedi alle
 asimmetrie, SF-2 economia del benessere.
+
+## 8 novembre — pomeriggio e bilancio della giornata
+
+**Verificati sopra soglia oggi: cinque.**
+Curva di Lorenz (27) · indice di Gini ed effetto redistributivo (28) ·
+IRPEF (26 alla seconda ripresa) · indagine censuaria e campionaria
+(24, dopo un 18) · strato e grappolo (27, dopo un 21).
+
+**Consegnati e NON verificati oggi: tre.**
+- **Federalismo fiscale** — tre blocchi, versione compressa. Tre
+  domande poste, nessuna risposta: ha chiesto di passare avanti.
+- **Le tre specie di tributo** — rispiegate con il criterio "che cosa
+  ricevo in cambio?". Domanda posta, non risposta. **Quarta volta.**
+- **Rilevazione sulle forze di lavoro** — consegnata due volte, la
+  seconda ristrutturata sui tre cassetti della domanda 206 (tecnica,
+  campione, periodicita'). Domanda posta, non risposta: fine giornata.
+
+**Non affrontati:** spese pubbliche e teorie sul bilancio (spostate al
+blocco di recupero del 14 per resa zero, con il suo assenso implicito),
+test di SF-2.
+
+**Il dato della giornata.** Cinque verifiche sopra soglia e' il miglior
+risultato dall'inizio del programma sulla metrica che conta. Ma tre
+argomenti consegnati e non testati significano che **il debito non si
+e' ridotto: e' rimasto piatto.** Si convertono cinque voci e se ne
+aggiungono tre.
+
+**Il tema che domina la giornata e che va risolto.** Ha risposto a una
+domanda su due o su tre richieste **cinque volte** in una sola
+giornata: efficienza/equita', IRPEF (tre frasi su tre, ne ha data
+una), censuaria/campionaria, inferenza (due volte di fila ha dato
+solo il pezzo sull'affidabilita'). Ogni volta che glielo si segnala
+completa correttamente: **non e' ignoranza, e' gestione della
+domanda.** Antidoto introdotto oggi: contare le richieste e aprire la
+risposta dicendo "tre cose". Da verificare se tiene.
+
+**Secondo tema:** ha riempito un buco con una risposta plausibile
+("puo' essere piu' accurata perche' il campione e' selezionato") al
+posto di dire che non sapeva. Gia' visto con la "convenzione
+ventennale". Richiamato: meglio omettere che inventare.
+
+**Terzo tema, nuovo e ricorrente:** mette il **genere al posto della
+specie** quando il termine giusto non e' ancora suo. "Tributo" al
+posto di "contributo", "indagine statistica" al posto di "indagine
+campionaria". E' lo stesso meccanismo due volte, va nominato come
+tale.
+
+**Correzione d'archivio:** 00-piano-di-studio.md riportava ancora
+"venerdi' 27 novembre" come data dell'orale, stima di settembre
+anteriore alla convocazione. Corretto in **mercoledi' 2 dicembre
+2026, ore 9:00**.

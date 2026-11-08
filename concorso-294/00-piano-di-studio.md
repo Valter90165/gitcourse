@@ -12,7 +12,9 @@
 
 ## Il tempo che hai
 
-- **Data orale: venerdì 27 novembre 2026**
+- **Data orale: mercoledì 2 dicembre 2026, ore 9:00** — MEF, Via XX Settembre 97, Roma
+  *(la data di "venerdì 27 novembre" scritta in questo file a settembre era una stima
+  anteriore alla convocazione: la convocazione fissa il 2 dicembre)*
 - Oggi: 13 settembre 2026 → **75 giorni, circa 10 settimane e mezzo**
 
 È tempo sufficiente per una preparazione completa, a una condizione: che la fase
@@ -84,9 +86,9 @@ questo tipo di risposta: è il formato in cui il concorso è scritto.
 
 ---
 
-# Calendario — 14 settembre → 27 novembre 2026
+# Calendario — 14 settembre → 2 dicembre 2026
 
-L'orale è **venerdì 27 novembre**. Hai 11 settimane piene a partire da lunedì 14
+L'orale è **mercoledì 2 dicembre**. Hai 11 settimane piene a partire da lunedì 14
 settembre.
 
 Un criterio guida l'ordine: **si parte dal nucleo, non dall'inizio del libro.**
@@ -119,7 +121,7 @@ studiano in ordine di indice e arrivano alla materia principale col fiato corto.
 |---|---|---|
 | S10 | 16-22 nov | **Solo ripasso attivo e collegamenti trasversali.** Nessuna materia nuova. Simulazioni complete di orale, 2-3 a settimana. Le domande di sintesi del file 05. |
 | S11 | 23-26 nov | Rifinitura sui punti deboli segnati nelle schede. Inglese ogni giorno. Logistica: documenti, viaggio, sede. |
-| | **ven 27 nov** | **Prova orale** |
+| | **mer 2 dic** | **Prova orale** |
 
 ## Trasversali — ogni giorno, tutto il periodo
 

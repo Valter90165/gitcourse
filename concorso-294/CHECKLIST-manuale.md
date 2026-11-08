@@ -1,4 +1,4 @@
-# Checklist del manuale — stato all'8 novembre 2026, mattina
+# Checklist del manuale — stato all'8 novembre 2026, sera
 
 **Legenda**
 **✅** = fatto **e verificato** con una risposta sopra soglia
@@ -73,7 +73,7 @@ della lezione del piano.*
 | 5 | Poverta' e scale di equivalenza | **✅** fatto oggi |
 | 6 | Il mercato del lavoro | **✅** fatto oggi |
 | 7 | Produttivita', progresso tecnologico e settori | **✅** produttivita', residuo di Solow, ULA, ATECO testati il 7 novembre |
-| 8 | Indagini e fonti statistiche | **–** |
+| 8 | Indagini e fonti statistiche | **◐** censuaria/campionaria **✅** (24), strato e grappolo **✅** (27); forze di lavoro consegnata due volte e **mai testata** |
 
 ## PARTE V — Scienza delle finanze (pp. 651-729)
 
@@ -88,7 +88,7 @@ della lezione del piano.*
 | 7 | I tributi | **◐** dirette/indirette, reale/personale, tax expenditures consegnati; IRPEF consegnata e mai testata |
 | 8 | La teoria dell'imposta | **◐** progressivita', incidenza e traslazione, Ramsey, efficienza/equita' (22); deduzioni e detrazioni a meta' |
 | 9 | I criteri di riparto | **✅** beneficio e capacita' contributiva (art. 53 Cost.) |
-| 10 | Il federalismo fiscale | **–** |
+| 10 | Il federalismo fiscale | **◐** consegnato in versione compressa l'8 novembre, **mai testato** (resa zero sulle 249 domande) |
 | 11 | Le spese pubbliche | **–** |
 | 12 | Le teorie sul bilancio dello Stato | **–** |
 
