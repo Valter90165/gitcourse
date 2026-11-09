@@ -1,4 +1,4 @@
-# Checklist del manuale — stato all'8 novembre 2026, sera
+# Checklist del manuale — stato al 9 novembre 2026, mezzogiorno
 
 **Legenda**
 **✅** = fatto **e verificato** con una risposta sopra soglia
@@ -73,7 +73,7 @@ della lezione del piano.*
 | 5 | Poverta' e scale di equivalenza | **✅** fatto oggi |
 | 6 | Il mercato del lavoro | **✅** fatto oggi |
 | 7 | Produttivita', progresso tecnologico e settori | **✅** produttivita', residuo di Solow, ULA, ATECO testati il 7 novembre |
-| 8 | Indagini e fonti statistiche | **◐** censuaria/campionaria **✅** (24), strato e grappolo **✅** (27); forze di lavoro consegnata due volte e **mai testata** |
+| 8 | Indagini e fonti statistiche | **✅** censuaria/campionaria (24), strato e grappolo (27), forze di lavoro (27) |
 
 ## PARTE V — Scienza delle finanze (pp. 651-729)
 
@@ -84,11 +84,11 @@ della lezione del piano.*
 | 3 | Finalita' dell'intervento pubblico | **◐** |
 | 4 | L'economia del benessere | **◐** consegnata, mai testata |
 | 5 | I fallimenti del mercato | **◐** monopolio naturale **✅**; elenco dei cinque e asimmetrie testati sotto soglia (4/5 e 2/3) |
-| 6 | Le entrate pubbliche | **◐** tributo come genere spiegato tre volte; **il contributo non e' acquisito** |
+| 6 | Le entrate pubbliche | **✅** le tre specie di tributo acquisite il 9 novembre (24), al quinto tentativo |
 | 7 | I tributi | **◐** dirette/indirette, reale/personale, tax expenditures consegnati; IRPEF consegnata e mai testata |
 | 8 | La teoria dell'imposta | **◐** progressivita', incidenza e traslazione, Ramsey, efficienza/equita' (22); deduzioni e detrazioni a meta' |
 | 9 | I criteri di riparto | **✅** beneficio e capacita' contributiva (art. 53 Cost.) |
-| 10 | Il federalismo fiscale | **◐** consegnato in versione compressa l'8 novembre, **mai testato** (resa zero sulle 249 domande) |
+| 10 | Il federalismo fiscale | **✅** (28) il 9 novembre |
 | 11 | Le spese pubbliche | **–** |
 | 12 | Le teorie sul bilancio dello Stato | **–** |
 
@@ -98,10 +98,10 @@ della lezione del piano.*
 |---|---|---|
 | 1-2 | Oggetto, regola di Tinbergen, bliss point, critica di Lucas | **◐** |
 | 3 | Cenni di contabilita' nazionale | **✅** |
-| 4 | Il modello reddito-spesa e il moltiplicatore | **◐** moltiplicatore non acquisito |
-| 5 | La domanda di moneta | **–** |
-| 6 | Credito e base monetaria | **–** |
-| 7 | **IS-LM** | **–** |
+| 4 | Il modello reddito-spesa e il moltiplicatore | **✅** moltiplicatore acquisito il 9 novembre (26) |
+| 5 | La domanda di moneta | **✅** tre motivazioni e trappola della liquidita' (27) |
+| 6 | Credito e base monetaria | **✅** base monetaria, offerta di moneta, moltiplicatore della moneta (27); canali e corridoio dei tassi consegnati, resa zero |
+| 7 | **IS-LM** | **✅** circolarita' (27), IS (27), LM (29), spostamenti e spiazzamento (26) — con grafico |
 | 8 | Domanda e offerta aggregate | **–** |
 | 9 | La curva di Phillips | **–** |
 | 10 | Cambi ed economia aperta | **–** |

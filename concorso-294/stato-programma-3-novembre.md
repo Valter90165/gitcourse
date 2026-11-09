@@ -408,3 +408,55 @@ tale.
 "venerdi' 27 novembre" come data dell'orale, stima di settembre
 anteriore alla convocazione. Corretto in **mercoledi' 2 dicembre
 2026, ore 9:00**.
+
+---
+
+## 9 novembre — la giornata migliore del programma
+
+**Il programma di oggi era tre conversioni piu' tre capitoli nuovi.
+Alle 12 erano fatti tutti e sei.**
+
+**Conversioni (il debito di ieri):** le tre specie di tributo **24** —
+il contributo acquisito al **quinto** tentativo · il federalismo
+fiscale **28** · la rilevazione sulle forze di lavoro **27**.
+
+**Capitoli nuovi:** la domanda di moneta **27** (tre motivazioni e
+trappola della liquidita') · credito e base monetaria **27** · il
+moltiplicatore **26**, che era segnato "non acquisito" dal 3 novembre
+· **IS-LM**, il capitolo piu' chiesto della politica economica:
+circolarita' 27, la IS 27, movimento e spostamento 26, **la LM 29**,
+spiazzamento 26.
+
+**Il 29 sulla LM e' la risposta migliore dell'intero programma**: i
+cinque passi nell'ordine, con dentro il meccanismo del prezzo dei
+titoli imparato due ore prima. Dimostra che quando il materiale ha un
+meccanismo lei lo costruisce, non lo ricorda.
+
+**Il grafico ha funzionato di nuovo.** "Inclinata negativamente" non
+significava niente finche' non ha saputo **che cosa c'e' sugli assi**
+— una cosa che non le era mai stata detta. Il grafico a due pannelli
+l'ha sbloccata, esattamente come Lorenz il 7. **Terza volta che un
+blocco si scioglie appena la geometria diventa visibile: quando
+l'argomento e' spaziale, il grafico non e' un lusso.**
+
+**L'errore ricorrente ha colpito ancora, tre volte**, e una in forma
+grave: *"la IS e' inclinata negativamente perche' al salire del tasso
+aumenta il reddito"* — **invertita**, venti minuti dopo averla
+spiegata. E' il pattern dell'inversione a distanza, gia' visto su
+programma/missione e 30 giugno/aprile. Corretta rileggendo il grafico
+invece che la memoria, e ridetta giusta.
+
+**Due volte ha chiesto "queste cose le hanno chieste?"** — e aveva
+ragione due volte su due. Il corridoio dei tassi e i canali di
+creazione della base monetaria hanno **resa zero** sulle 249 domande;
+il capitolo si e' chiuso li' e si e' passati a IS-LM, dove stanno tre
+domande uscite. **La sua domanda sulla resa e' diventata uno
+strumento di pianificazione migliore del piano.**
+
+**Stato dopo la mattina: 40% verificato** (28 capitoli su 70), 30%
+sentito e non verificato, 30% mai aperto, **70% intaccato**. Il
+verificato era al 30% ventiquattro ore fa.
+
+**Debito ancora aperto:** deduzioni e detrazioni, sugar tax, i cinque
+fallimenti del mercato, i tre rimedi alle asimmetrie, SF-2 economia
+del benessere, il blocco C della regressione.
