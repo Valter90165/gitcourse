@@ -1,4 +1,4 @@
-# Checklist del manuale — stato al 9 novembre 2026, mezzogiorno
+# Checklist del manuale — stato al 9 novembre 2026, sera
 
 **Legenda**
 **✅** = fatto **e verificato** con una risposta sopra soglia
@@ -104,8 +104,8 @@ della lezione del piano.*
 | 7 | **IS-LM** | **✅** circolarita' (27), IS (27), LM (29), spostamenti e spiazzamento (26) — con grafico |
 | 8 | Domanda e offerta aggregate | **–** |
 | 9 | La curva di Phillips | **–** |
-| 10 | Cambi ed economia aperta | **–** |
-| 11 | Politica fiscale e politica monetaria | **–** |
+| 10 | Cambi ed economia aperta | **◐** regimi di cambio, cambi fissi, Mundell-Fleming e trilemma consegnati il 9 novembre, **mai testati**; moneta unica non fatta |
+| 11 | Politica fiscale e politica monetaria | **✅** fiscale espansiva e spiazzamento (28), monetaria espansiva e i due casi di fallimento (28) |
 
 ## Fuori manuale
 
