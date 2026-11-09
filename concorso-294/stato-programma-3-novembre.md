@@ -460,3 +460,30 @@ verificato era al 30% ventiquattro ore fa.
 **Debito ancora aperto:** deduzioni e detrazioni, sugar tax, i cinque
 fallimenti del mercato, i tre rimedi alle asimmetrie, SF-2 economia
 del benessere, il blocco C della regressione.
+
+**Pomeriggio del 9.** Scelto il capitolo 11 (politica fiscale e
+monetaria, **sette domande attestate**) al posto di domanda e offerta
+aggregate (**zero**). Due risposte da **28**: fiscale espansiva con
+spiazzamento, monetaria espansiva con i due casi in cui non funziona.
+Poi regimi di cambio, Mundell-Fleming e trilemma, consegnati e non
+testati: si e' fermata dicendo di essere stanca, il che e' la scelta
+giusta e va registrata come tale.
+
+**Politica economica dal 10% al 60% verificato in una giornata.**
+Totale programma: **41% verificato, 73% intaccato** (era 31% e 66%
+ieri sera).
+
+**Scoraggiamento.** A fine giornata ha detto che leggere le domande
+uscite la scoraggia perche' a molte non saprebbe rispondere. La
+risposta data: al 41% verificato e' **aritmeticamente giusto** non
+saper rispondere a meta' delle 249, e il confronto sbagliato e' quello
+con la lista intera invece che con le **tre domande estratte**.
+Verifica concreta offerta: le n. 73, 75, 76, 77, 78, 87, 230 stamattina
+erano inaccessibili e stasera le sa tutte e sette. **Regola pratica
+data: non leggere mai la lista intera, leggerla solo per capitolo e
+solo a capitolo finito**, cosi' diventa l'elenco di cio' che ha vinto.
+
+**IMPEGNO PRESO PER DOMANI: si apre con l'inglese.** E' l'unica casella
+a zero dal 30 ottobre ed e' un accertamento obbligatorio dentro gli
+stessi 30 punti. Si parte dalla **presentazione personale**, che e'
+l'unica cosa certa della conversazione e si costruisce una volta sola.
