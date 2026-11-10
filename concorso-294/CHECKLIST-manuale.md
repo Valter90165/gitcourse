@@ -1,4 +1,4 @@
-# Checklist del manuale — stato al 9 novembre 2026, sera
+# Checklist del manuale — stato al 10 novembre 2026
 
 **Legenda**
 **✅** = fatto **e verificato** con una risposta sopra soglia
@@ -103,8 +103,8 @@ della lezione del piano.*
 | 6 | Credito e base monetaria | **✅** base monetaria, offerta di moneta, moltiplicatore della moneta (27); canali e corridoio dei tassi consegnati, resa zero |
 | 7 | **IS-LM** | **✅** circolarita' (27), IS (27), LM (29), spostamenti e spiazzamento (26) — con grafico |
 | 8 | Domanda e offerta aggregate | **–** |
-| 9 | La curva di Phillips | **–** |
-| 10 | Cambi ed economia aperta | **◐** regimi di cambio, cambi fissi, Mundell-Fleming e trilemma consegnati il 9 novembre, **mai testati**; moneta unica non fatta |
+| 9 | La curva di Phillips | **✅** relazione e meccanismo (26-27), aspettative e tasso naturale (24-27) |
+| 10 | Cambi ed economia aperta | **✅** cambi fissi e politica fiscale, catena intera (27) · moneta unica e shock asimmetrico (27) · **da testare**: trilemma, svalutazione e curva a J (domanda 213) |
 | 11 | Politica fiscale e politica monetaria | **✅** fiscale espansiva e spiazzamento (28), monetaria espansiva e i due casi di fallimento (28) |
 
 ## Fuori manuale
