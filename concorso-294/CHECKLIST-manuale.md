@@ -59,7 +59,7 @@ della lezione del piano.*
 | 13 | I modelli a equazioni simultanee | **–** |
 | 14 | L'analisi delle serie storiche | **–** |
 | 15 | L'analisi dei dati panel | **◐** consegnata, mai testata |
-| 16 | **Valutazione delle politiche e dei programmi pubblici** | **–** ← il capitolo che da' il nome al concorso |
+| 16 | **Valutazione delle politiche e dei programmi pubblici** | **◐** ciclo della politica (26), monitoraggio e valutazione (28), le tre domande e gap di implementazione (26); input/output/outcome consegnato, da testare; restano ex ante/ex post e ACB/multicriterio |
 | + | Data science e data mining *(fuori manuale)* | **◐** 6 domande su 9 |
 
 ## PARTE IV — Statistica economica (pp. 575-648)
@@ -96,13 +96,13 @@ della lezione del piano.*
 
 | | Capitolo | Stato |
 |---|---|---|
-| 1-2 | Oggetto, regola di Tinbergen, bliss point, critica di Lucas | **◐** |
+| 1-2 | Oggetto, regola di Tinbergen, bliss point, critica di Lucas | **✅** obiettivi e cinque strumenti (26), Tinbergen e Lucas (27) |
 | 3 | Cenni di contabilita' nazionale | **✅** |
 | 4 | Il modello reddito-spesa e il moltiplicatore | **✅** moltiplicatore acquisito il 9 novembre (26) |
 | 5 | La domanda di moneta | **✅** tre motivazioni e trappola della liquidita' (27) |
 | 6 | Credito e base monetaria | **✅** base monetaria, offerta di moneta, moltiplicatore della moneta (27); canali e corridoio dei tassi consegnati, resa zero |
 | 7 | **IS-LM** | **✅** circolarita' (27), IS (27), LM (29), spostamenti e spiazzamento (26) — con grafico |
-| 8 | Domanda e offerta aggregate | **–** |
+| 8 | Domanda e offerta aggregate | **◐** consegnato due volte il 10 novembre, **non acquisito**: rinviato al 18 con grafico. Zero domande attestate |
 | 9 | La curva di Phillips | **✅** relazione e meccanismo (26-27), aspettative e tasso naturale (24-27) |
 | 10 | Cambi ed economia aperta | **✅** cambi fissi e politica fiscale, catena intera (27) · moneta unica e shock asimmetrico (27) · **da testare**: trilemma, svalutazione e curva a J (domanda 213) |
 | 11 | Politica fiscale e politica monetaria | **✅** fiscale espansiva e spiazzamento (28), monetaria espansiva e i due casi di fallimento (28) |
