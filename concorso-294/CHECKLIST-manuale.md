@@ -59,7 +59,7 @@ della lezione del piano.*
 | 13 | I modelli a equazioni simultanee | **–** |
 | 14 | L'analisi delle serie storiche | **–** |
 | 15 | L'analisi dei dati panel | **◐** consegnata, mai testata |
-| 16 | **Valutazione delle politiche e dei programmi pubblici** | **◐** ciclo della politica (26), monitoraggio e valutazione (28), le tre domande e gap di implementazione (26); input/output/outcome consegnato, da testare; restano ex ante/ex post e ACB/multicriterio |
+| 16 | **Valutazione delle politiche e dei programmi pubblici** | **◐** sette blocchi su nove verificati: ciclo (26), monitoraggio/valutazione (28), le tre domande e gap di implementazione (26), input-output-outcome ed efficienza/efficacia (26), ex ante/in itinere/ex post con AIR e VIR (23), ACB consegnata, ACE e multicriterio (27). **Restano**: metodi controfattuali e rassegna qualitativa, entrambi a resa zero |
 | + | Data science e data mining *(fuori manuale)* | **◐** 6 domande su 9 |
 
 ## PARTE IV — Statistica economica (pp. 575-648)
