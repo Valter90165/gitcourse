@@ -131,3 +131,53 @@ alla soglia esce sotto la soglia quando una delle tre domande va storta.
 
 **Mirare a 25-26 non serve a vincere: serve a prendere 21 con certezza invece
 che con fortuna.**
+
+---
+
+# Aggiornamento — seduta del 12 novembre 2026
+
+**Dati riferiti da Silvia il giorno stesso: 25 convocati, 9 assenti, 16
+presenti, 13 promossi, 3 bocciati.**
+
+| | Fino al 6 novembre | 12 novembre | Totale |
+|---|---|---|---|
+| Convocati | 100 | 25 | **125** |
+| Presenti | 43 | 16 | **59** |
+| Assenti | 57 (**57%**) | 9 (**36%**) | 66 (**53%**) |
+| Idonei | 36 | 13 | **49** |
+| Idonei sui presenti | **84%** | **81%** | **83%** |
+
+## Le due letture
+
+**La prima non cambia: chi si presenta passa.** L'81% di oggi conferma
+l'84% precedente. Su 59 presenti complessivi, 49 sono idonei.
+
+**La seconda e' nuova e va guardata: le assenze stanno calando.** Dal 57%
+al 36% in una seduta. Se il dato si consolida, si presentera' piu' gente e
+gli idonei totali saliranno.
+
+## La proiezione aggiornata
+
+Idonei a oggi: **153** (140 al 6 novembre + 13).
+Restano **otto sedute** da circa 25 convocati: **200 convocati**.
+
+**Scenario con il tasso di assenza medio (53%):** 94 presenti → ~78 idonei
+→ **231 idonei totali** su **261 posti**.
+**Scenario con il tasso di assenza di oggi (36%):** 128 presenti → ~106
+idonei → **259 idonei totali** su **261 posti**.
+
+**In tutti e due gli scenari gli idonei restano entro i posti disponibili.
+Ma nel secondo il margine si azzera.**
+
+## Che cosa cambia per la preparazione
+
+**Niente, nella sostanza: la soglia resta l'unica cosa che conta.** Non
+c'e' una graduatoria che taglia, c'e' un 21 da superare.
+
+**Qualcosa, nel margine di sicurezza.** Se gli idonei arrivano a sfiorare i
+posti, un punteggio appena sopra la soglia resta sufficiente per
+l'idoneita', ma smette di essere comodo. **La raccomandazione del 6
+novembre — puntare a 25-26, non a 21 — esce rafforzata, non indebolita.**
+
+I tre bocciati di oggi portano a **dieci** i respinti complessivi su 59
+presenti.
