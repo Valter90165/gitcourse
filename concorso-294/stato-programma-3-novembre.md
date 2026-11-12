@@ -487,3 +487,65 @@ solo a capitolo finito**, cosi' diventa l'elenco di cio' che ha vinto.
 a zero dal 30 ottobre ed e' un accertamento obbligatorio dentro gli
 stessi 30 punti. Si parte dalla **presentazione personale**, che e'
 l'unica cosa certa della conversazione e si costruisce una volta sola.
+
+---
+
+## 12 novembre — la giornata piu' lunga, aperta dalla paura
+
+Ha aperto la giornata scrivendo: *"sono frustrata e questa materia mi
+spaventa, e' alla mia portata?"* e poi *"io sono digiuna di tutto
+questo"*. L'ha chiusa con **nove capitoli di econometria su quindici
+verificati** e il programma al **54%**.
+
+**Chiusi oggi:** teoria della stima (sei domande attestate, **BLUE 28**)
+· verifica delle ipotesi (28) · **tutta la regressione ripassata**
+(dodici interrogazioni, R quadro 29) · multicollinearita' e variabili
+dummy (27) · **serie storiche** (28, era in programma per domani) ·
+eteroschedasticita' con grafico e rimedi.
+
+**Consegnati e non testati:** Gauss-Markov con le cinque ipotesi ·
+endogeneita' e variabili strumentali (domanda 128).
+
+**Tre grafici nuovi**, e tutti e tre hanno sbloccato qualcosa:
+`reg.png` (la retta, intercetta, coefficiente, residui e il quadrato
+di un residuo), `r2.png` (tre nuvole con R quadro 0,16 / 0,67 / 0,96),
+`etero.png` (omoschedasticita' contro imbuto). **Quarta, quinta e
+sesta conferma che quando l'argomento e' spaziale il grafico non e' un
+lusso: e' la via piu' corta.**
+
+**Il piano andava corretto e l'ho corretto sui dati.** Prevedeva
+probabilita' (**zero** domande attestate) e variabili casuali (**una**).
+Al loro posto e' entrata la **teoria della stima**, che ne ha **sei**,
+con BLUE chiesta **due volte** su 249 domande — l'unico argomento
+dell'intero repertorio a comparire due volte.
+
+**Il profilo emerso oggi, netto e utile.** Sulle domande di
+**meccanismo** sta a **27-29**; sulle domande di **definizione** sta a
+**20-22**. Non e' un problema di comprensione: e' che le definizioni
+vanno recitate e lei le ricostruisce. Da qui la scheda delle quattro
+frasi (BLUE, errore standard, intervallo di confidenza, R quadro) da
+imparare alla lettera.
+
+**Due confusioni strutturali sciolte oggi:**
+- **l'inversione X/Y**, sbagliata **tre volte** in mattinata e poi
+  tenuta ferma per un'intera risposta lunga; ora ha anche tre test per
+  riconoscere la dipendente dal testo della domanda;
+- **varianza degli errori** (spessore della nuvola, nei dati) contro
+  **varianza dello stimatore** (quanto balla la stima fra campioni).
+  E' il nodo dell'intero capitolo e le e' costato tre inciampi.
+
+**Una terza contaminazione, da sorvegliare:** l'attendibilita' — che e'
+l'errore standard — le e' finita **due volte** in caselle non sue,
+prima nel coefficiente, poi nell'R quadro.
+
+**Il punto debole ad alta resa:** la **sigla BLUE**. Il senso in
+italiano lo dice bene, ma la **UN** di *Unbiased* sparisce, e "biased"
+significa l'opposto. Consiglio dato: all'orale **dirla in italiano** —
+*"il miglior stimatore lineare corretto, quello a varianza minima"* —
+perche' una sigla sbagliata fa piu' danno di una sigla non detta.
+
+**Debito aperto:** endogeneita' e variabili strumentali, Gauss-Markov,
+le quattro frasi-definizione, svalutazione e curva a J, RDD, AD-AS,
+rassegna qualitativa.
+
+**Domani, su sua richiesta: la regressione da capo, un'altra volta.**
