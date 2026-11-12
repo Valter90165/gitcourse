@@ -17,7 +17,7 @@ della lezione del piano.*
 | 1 | Le fonti del diritto amministrativo | **–** |
 | 2 | L'organizzazione amministrativa (Governo, agenzie, autorita' indipendenti, Titolo V, enti, organi e uffici, competenza) | **–** |
 | 3 | Il pubblico impiego | **–** |
-| 4 | L'attivita' amministrativa: atti e provvedimenti, invalidita', autotutela | **◐** |
+| 4 | L'attivita' amministrativa: atti e provvedimenti, invalidita', autotutela | **✅** nullita' e annullabilita' con i tre vizi di legittimita' (26), **annullamento d'ufficio e revoca (28)** con ex tunc/ex nunc e indennizzo, le tre condizioni del 21-nonies (22). **Da testare**: pareri obbligatori/facoltativi/vincolanti, consegnati il 12 sera (domanda chiesta due volte) |
 | 5 | Il procedimento amministrativo | **◐** responsabile, preavviso, potere sostitutivo fatti oggi; termini e conferenza di servizi no |
 | 6 | Digitalizzazione e CAD (documento informatico, firme, protocollo, SPID, CIE) | **◐** DA-1 testata; CAD e IN-2 consegnati e mai testati |
 | 7 | L'accesso documentale e l'accesso civico | **◐** spiegato, mai votato |
