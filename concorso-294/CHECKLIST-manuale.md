@@ -24,7 +24,7 @@ della lezione del piano.*
 | 8 | La documentazione amministrativa | **–** |
 | 9 | Anticorruzione e trasparenza | **✅** |
 | 10 | GDPR e protezione dei dati | **◐** solo dentro IN-1 |
-| 11 | Giustizia amministrativa e situazioni giuridiche soggettive | **–** |
+| 11 | Giustizia amministrativa e situazioni giuridiche soggettive | **◐** diritto soggettivo e interesse legittimo con il riparto di giurisdizione **✅** (27), piu' oppositivo/pretensivo. **Nove domande attestate: il capitolo a resa piu' alta fra quelli ancora aperti** |
 | + | I controlli interni ed esterni | **✅** (22) |
 
 ## PARTE II — Contabilita' pubblica (pp. 129-256)
