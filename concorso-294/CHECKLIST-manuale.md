@@ -49,13 +49,13 @@ della lezione del piano.*
 | 1 | La statistica descrittiva | **◐** sofferta; **curva di Lorenz e indice di Gini ✅** (27 e 28, 8 novembre) |
 | 2 | Statistica inferenziale: la probabilita' | **–** |
 | 3 | Le variabili casuali | **–** |
-| 4 | La teoria della stima | **–** |
-| 5 | La verifica delle ipotesi | **◐** consegnata, mai testata |
+| 4 | La teoria della stima | **✅** stimatore e stima (27), correttezza (27), **BLUE (28)**, grande varianza (26), bias-varianza (26), intervallo di confidenza (26) — sei domande attestate coperte |
+| 5 | La verifica delle ipotesi | **✅** ipotesi nulla e alternativa (28), con l'asimmetria del processo penale |
 | 6 | I modelli econometrici | **✅** |
 | 7-9 | La regressione (semplice, multipla, estensioni) | **✅** blocchi A e B; **◐** blocco C mai testato |
 | 10 | La multicollinearita' | **◐** consegnata, mai testata |
 | 11 | Massima verosimiglianza e variabili strumentali | **◐** consegnata, mai testata |
-| 12 | Eteroschedasticita' e violazioni | **◐** consegnata, mai testata |
+| 12 | Eteroschedasticita' e violazioni | **◐** rispiegata il 12 novembre **con grafico**; Gauss-Markov e le cinque ipotesi consegnati, **da testare**. Zero domande attestate |
 | 13 | I modelli a equazioni simultanee | **–** |
 | 14 | L'analisi delle serie storiche | **–** |
 | 15 | L'analisi dei dati panel | **◐** consegnata, mai testata |
