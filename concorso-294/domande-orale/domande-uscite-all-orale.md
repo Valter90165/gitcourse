@@ -336,3 +336,33 @@ spiegare.
 - Taglio dei tassi e investimenti limitati
 - Microsoft 365 e SharePoint
 - Domande non riportate
+
+---
+
+# Seduta del 12 novembre 2026 — riferite da Silvia
+
+Otto domande raccolte il giorno stesso. **Sono la fonte piu' fresca che
+abbiamo** e vanno trattate come le altre 249.
+
+290. Che cos'e' il Piano triennale per l'informatica nella PA?
+291. La regressione multipla.
+292. Il controllo preventivo della Corte dei conti.
+293. Che effetto produce una riduzione delle imposte sulla domanda aggregata?
+294. Perche' l'inflazione misurata dall'indice dei prezzi al consumo dell'Istat
+     differisce da quella dei conti nazionali?
+295. Quali sono i caratteri del provvedimento amministrativo?
+296. Quali sono le fasi dell'entrata nel bilancio dello Stato?
+297. Quali sono i limiti della valutazione controfattuale delle politiche
+     pubbliche?
+
+## Che cosa confermano
+
+- **Il repertorio e' stabile**: la 290 e' gia' la n. 289, la 291 risuona con
+  "PCA, collinearita', regressione semplice e multipla", la 293 con la n. 265
+  sul taglio IRPEF, la 296 con la n. 35 sulle fasi dell'entrata e della spesa.
+  **Cinque domande su otto erano gia' nel repertorio in forma quasi identica.**
+- **Le tre nuove** sono: l'inflazione Istat contro conti nazionali (294), i
+  caratteri del provvedimento (295) e i limiti del controfattuale (297).
+- **La valutazione delle politiche entra dal lato dei limiti**, non dei metodi:
+  conferma che il paradigma controfattuale va saputo per quello che non
+  garantisce, piu' che per le sue tecniche.
