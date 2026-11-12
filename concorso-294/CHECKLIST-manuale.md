@@ -52,7 +52,7 @@ della lezione del piano.*
 | 4 | La teoria della stima | **✅** stimatore e stima (27), correttezza (27), **BLUE (28)**, grande varianza (26), bias-varianza (26), intervallo di confidenza (26) — sei domande attestate coperte |
 | 5 | La verifica delle ipotesi | **✅** ipotesi nulla e alternativa (28), con l'asimmetria del processo penale |
 | 6 | I modelli econometrici | **✅** |
-| 7-9 | La regressione (semplice, multipla, estensioni) | **✅** blocchi A e B; **◐** blocco C mai testato |
+| 7-9 | La regressione (semplice, multipla, estensioni) | **✅** definizione e semplice/multipla (27), coefficiente (27), intercetta (26), minimi quadrati (27), **R quadro (29)**, ceteris paribus e variabile omessa (26), BLUE (28), bias-varianza (26) — ripassata interamente il 12 novembre **con grafici**. Restano multicollinearita' e dummy, resa zero |
 | 10 | La multicollinearita' | **◐** consegnata, mai testata |
 | 11 | Massima verosimiglianza e variabili strumentali | **◐** consegnata, mai testata |
 | 12 | Eteroschedasticita' e violazioni | **◐** rispiegata il 12 novembre **con grafico**; Gauss-Markov e le cinque ipotesi consegnati, **da testare**. Zero domande attestate |
