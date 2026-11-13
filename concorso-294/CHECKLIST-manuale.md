@@ -1,4 +1,4 @@
-# Checklist del manuale — stato al 12 novembre 2026
+# Checklist del manuale — stato al 13 novembre 2026
 
 **Legenda**
 **✅** = fatto **e verificato** con una risposta sopra soglia
@@ -15,10 +15,10 @@ della lezione del piano.*
 | | Capitolo | Stato |
 |---|---|---|
 | 1 | Le fonti del diritto amministrativo | **–** |
-| 2 | L'organizzazione amministrativa (Governo, agenzie, autorita' indipendenti, Titolo V, enti, organi e uffici, competenza) | **–** |
+| 2 | L'organizzazione amministrativa (Governo, agenzie, autorita' indipendenti, Titolo V, enti, organi e uffici, competenza) | **◐** decentramento e deconcentrazione **✅** (28, usciti il 13 novembre); organi, uffici, competenza e autorita' indipendenti da fare |
 | 3 | Il pubblico impiego | **–** |
 | 4 | L'attivita' amministrativa: atti e provvedimenti, invalidita', autotutela | **✅** nullita' e annullabilita' con i tre vizi di legittimita' (26), **annullamento d'ufficio e revoca (28)** con ex tunc/ex nunc e indennizzo, le tre condizioni del 21-nonies (22). **Da testare**: pareri obbligatori/facoltativi/vincolanti, consegnati il 12 sera (domanda chiesta due volte) |
-| 5 | Il procedimento amministrativo | **◐** responsabile, preavviso, potere sostitutivo fatti oggi; termini e conferenza di servizi no |
+| 5 | Il procedimento amministrativo | **◐** responsabile, preavviso, potere sostitutivo, **conferenza di servizi ✅ (28, uscita il 13 novembre)**; fasi, partecipazione, contraddittorio e termini da fare |
 | 6 | Digitalizzazione e CAD (documento informatico, firme, protocollo, SPID, CIE) | **◐** DA-1 testata; CAD e IN-2 consegnati e mai testati |
 | 7 | L'accesso documentale e l'accesso civico | **◐** spiegato, mai votato |
 | 8 | La documentazione amministrativa | **–** |
@@ -34,7 +34,7 @@ della lezione del piano.*
 | 1 | Natura e fonti (art. 81, L. 196/2009, L. 243/2012) | **◐** testata 17, da rifare |
 | 2 | I soggetti (MEF, Ragioneria generale, CIPESS) | **–** |
 | 3 | L'azienda composta pubblica e le rilevazioni contabili | **–** |
-| 4 | Programmazione e bilancio dello Stato (ciclo, DEF, Sezione I e II) | **✅** |
+| 4 | Programmazione e bilancio dello Stato (ciclo, DEF, Sezione I e II) | **✅** piu' **i principi del bilancio** (26): universalita' = niente fuori bilancio, integrita' = niente compensazioni, uscita il 13 novembre |
 | 5 | Classificazione delle entrate e delle spese | **✅** (28) |
 | 6 | L'esecuzione del bilancio (fasi, residui) | **✅** (27) |
 | 7 | La gestione di tesoreria | **✅** (24) |
@@ -46,7 +46,7 @@ della lezione del piano.*
 
 | | Capitolo | Stato |
 |---|---|---|
-| 1 | La statistica descrittiva | **◐** sofferta; **curva di Lorenz e indice di Gini ✅** (27 e 28, 8 novembre) |
+| 1 | La statistica descrittiva | **◐** sofferta; **Lorenz e Gini ✅** (27-28), **quartili, percentili e centili ✅** (28, usciti il 13 novembre) |
 | 2 | Statistica inferenziale: la probabilita' | **–** |
 | 3 | Le variabili casuali | **–** |
 | 4 | La teoria della stima | **✅** stimatore e stima (27), correttezza (27), **BLUE (28)**, grande varianza (26), bias-varianza (26), intervallo di confidenza (26) — sei domande attestate coperte |
