@@ -14,8 +14,8 @@ della lezione del piano.*
 
 | | Capitolo | Stato |
 |---|---|---|
-| 1 | Le fonti del diritto amministrativo | **–** |
-| 2 | L'organizzazione amministrativa (Governo, agenzie, autorita' indipendenti, Titolo V, enti, organi e uffici, competenza) | **◐** decentramento e deconcentrazione **✅** (28, usciti il 13 novembre); organi, uffici, competenza e autorita' indipendenti da fare |
+| 1 | Le fonti del diritto amministrativo | **✅** gerarchia, regolamenti governativi e ministeriali, delegificanti, principi UE, regolamento contro direttiva, i quattro criteri di risoluzione (22-26) |
+| 2 | L'organizzazione amministrativa (Governo, agenzie, autorita' indipendenti, Titolo V, enti, organi e uffici, competenza) | **✅** decentramento e deconcentrazione (28), organo e ufficio (26), i tre criteri di competenza (24), incompetenza relativa e assoluta (26). **Da fare**: autorita' indipendenti, agenzie, Titolo V |
 | 3 | Il pubblico impiego | **–** |
 | 4 | L'attivita' amministrativa: atti e provvedimenti, invalidita', autotutela | **✅** nullita' e annullabilita' con i tre vizi di legittimita' (26), **annullamento d'ufficio e revoca (28)** con ex tunc/ex nunc e indennizzo, le tre condizioni del 21-nonies (22). **Da testare**: pareri obbligatori/facoltativi/vincolanti, consegnati il 12 sera (domanda chiesta due volte) |
 | 5 | Il procedimento amministrativo | **✅** fasi (26), responsabile, preavviso, potere sostitutivo, conferenza di servizi (28), **partecipazione e contraddittorio (27)**, **accordi art. 11 (27)**, termini e silenzio |
