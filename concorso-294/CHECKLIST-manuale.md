@@ -38,7 +38,7 @@ della lezione del piano.*
 | 5 | Classificazione delle entrate e delle spese | **✅** (28) |
 | 6 | L'esecuzione del bilancio (fasi, residui) | **✅** (27) |
 | 7 | La gestione di tesoreria | **✅** (24) |
-| 8 | I rendiconti | **–** solo la data |
+| 8 | I rendiconti | **✅** conto del bilancio e conto del patrimonio, giudizio di parificazione (27); allegati e nota integrativa consegnati il 14, **da testare** (domanda riferita come uscita) |
 | 9-10 | Beni, patrimonio, ordinamento di Regioni ed enti locali | **◐** armonizzazione, FCDE, dissesto fatti; DUP ed entrate dei Comuni no |
 | 11 | I controlli nella contabilita' pubblica | **◐** da riverificare |
 
