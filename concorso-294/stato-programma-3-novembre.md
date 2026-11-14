@@ -549,3 +549,53 @@ le quattro frasi-definizione, svalutazione e curva a J, RDD, AD-AS,
 rassegna qualitativa.
 
 **Domani, su sua richiesta: la regressione da capo, un'altra volta.**
+
+---
+
+## 14 novembre — sabato, quattro ore, sei capitoli
+
+**Chiusi:** endogeneita' e variabili strumentali (econometria: tutti i
+capitoli con domande attestate sono chiusi) · **il procedimento
+amministrativo** completo, con partecipazione, contraddittorio e
+accordi ex art. 11 · **l'accesso** nelle tre forme piu' Amministrazione
+trasparente, RPCT e OIV (sei domande attestate) · **le fonti del
+diritto amministrativo** · **l'organizzazione**, con organo e ufficio,
+i tre criteri di competenza e le due incompetenze · **i rendiconti**.
+
+**Programma al 66%.** Mai aperti scesi a **dieci**: erano ventisei il 6
+novembre.
+
+**La cosa di metodo della giornata, e l'ha chiesta lei: "come devo
+strutturare la risposta?"** Da li' e' uscita la **regola delle quattro
+mosse** — attacco, articolazione, un esempio, conseguenza giuridica.
+
+Alla prima prova ne ha riempite **tre su quattro**. Ma per la prima
+volta **la casella mancante era nominabile**: non piu' "hai risposto a
+meta'" come impressione, ma "la quarta e' vuota" come fatto. **Il suo
+errore piu' costoso diventa una lista di controllo.**
+
+**Il check di fine giornata su otto domande della giornata stessa:**
+25 · saltata · 22 · 26 · 26 · 27 · 27 · non prodotta.
+
+**Il pattern e' sempre lo stesso e oggi si vede nitido: tiene cio' che
+ha PRODOTTO, non tiene cio' che ha solo SENTITO.** Accordi, accesso,
+parificazione e allegati — tutti argomenti su cui aveva risposto
+stamattina — reggono a 26-27 a distanza di ore. Il regolamento
+delegificante e le due proprieta' dello strumento, solo ascoltati,
+non escono.
+
+**Due correzioni mie registrate:** avevo detto che "sei ore" quando
+erano tre e venti, e avevo dato gli allegati del rendiconto per non
+attestati quando invece erano gia' usciti.
+
+**Errori ricorrenti corretti oggi:** criterio cronologico invertito
+(l'anteriore che prevarrebbe sulla posteriore) · "l'ufficio fa parte
+dell'organo" invece dell'inverso · "competenza" al posto di "materia"
+fra i tre criteri · la sussidiarieta' letta come scelta del cittadino
+invece che allocazione del legislatore, e come salita "al livello piu'
+alto" invece che al livello adeguato.
+
+**BLUE**, al quinto fallimento, e' stata trasformata in **sequenza di
+quattro parole italiane** — migliore, stimatori lineari, corretti,
+varianza minima — e ripetuta tre volte di seguito. Le sequenze lei le
+tiene: le fasi della spesa sono intatte dal 6 novembre.
