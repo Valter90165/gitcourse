@@ -1,4 +1,4 @@
-# Checklist del manuale — stato al 13 novembre 2026
+# Checklist del manuale — stato al 14 novembre 2026
 
 **Legenda**
 **✅** = fatto **e verificato** con una risposta sopra soglia
@@ -54,7 +54,7 @@ della lezione del piano.*
 | 6 | I modelli econometrici | **✅** |
 | 7-9 | La regressione (semplice, multipla, estensioni) | **✅** definizione e semplice/multipla (27), coefficiente (27), intercetta (26), minimi quadrati (27), **R quadro (29)**, ceteris paribus e variabile omessa (26), BLUE (28), bias-varianza (26) — ripassata interamente il 12 novembre **con grafici**. Restano multicollinearita' e dummy, resa zero |
 | 10 | La multicollinearita' | **✅** (27) con il segnale diagnostico — R quadro alto ma nessun coefficiente significativo — e le variabili dummy (27) |
-| 11 | Massima verosimiglianza e variabili strumentali | **◐** endogeneita' e variabili strumentali consegnate il 12 novembre, **da testare** (domanda 128) |
+| 11 | Massima verosimiglianza e variabili strumentali | **✅** endogeneita' e variabili strumentali (27-28) il 14 novembre, **con diagramma**; le due proprieta' dello strumento e i due stadi |
 | 12 | Eteroschedasticita' e violazioni | **✅** definizione, cosa rompe e cosa no, rimedi, **con grafico** (24-27); Gauss-Markov e le cinque ipotesi consegnati, da testare. Zero domande attestate |
 | 13 | I modelli a equazioni simultanee | **–** |
 | 14 | L'analisi delle serie storiche | **✅** (28) le quattro componenti e la differenza ciclica/stagionale — tre delle quattro domande attestate chiedono questo |
