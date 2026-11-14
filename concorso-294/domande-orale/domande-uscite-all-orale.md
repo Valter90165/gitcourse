@@ -366,3 +366,12 @@ abbiamo** e vanno trattate come le altre 249.
 - **La valutazione delle politiche entra dal lato dei limiti**, non dei metodi:
   conferma che il paradigma controfattuale va saputo per quello che non
   garantisce, piu' che per le sue tecniche.
+
+---
+
+# Integrazioni riferite da Silvia
+
+298. Quali sono gli allegati del rendiconto generale dello Stato?
+     *(Riferita il 14 novembre come gia' uscita. Non era nel repertorio
+     delle 249: aggiunta qui. Conferma che il livello di dettaglio
+     chiesto puo' scendere sotto quello dei grandi istituti.)*
