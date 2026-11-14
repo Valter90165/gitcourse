@@ -24,7 +24,7 @@ della lezione del piano.*
 | 8 | La documentazione amministrativa | **–** |
 | 9 | Anticorruzione e trasparenza | **✅** |
 | 10 | GDPR e protezione dei dati | **◐** solo dentro IN-1 |
-| 11 | Giustizia amministrativa e situazioni giuridiche soggettive | **◐** diritto soggettivo e interesse legittimo con il riparto di giurisdizione **✅** (27), piu' oppositivo/pretensivo. **Resa reale: 3-4 domande** (ricorso straordinario, tutela cautelare, azione risarcitoria) — non nove: il conteggio del 12 novembre era gonfiato da falsi positivi del grep |
+| 11 | Giustizia amministrativa e situazioni giuridiche soggettive | **✅** diritto soggettivo e interesse legittimo col riparto (27), le due porte e i tre ricorsi amministrativi (27-28), ricorso straordinario (26), tutela cautelare con fumus e periculum (27), azione risarcitoria e pregiudiziale superata (26) |
 | + | I controlli interni ed esterni | **✅** (22) |
 
 ## PARTE II — Contabilita' pubblica (pp. 129-256)
