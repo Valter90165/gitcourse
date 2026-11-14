@@ -18,9 +18,9 @@ della lezione del piano.*
 | 2 | L'organizzazione amministrativa (Governo, agenzie, autorita' indipendenti, Titolo V, enti, organi e uffici, competenza) | **◐** decentramento e deconcentrazione **✅** (28, usciti il 13 novembre); organi, uffici, competenza e autorita' indipendenti da fare |
 | 3 | Il pubblico impiego | **–** |
 | 4 | L'attivita' amministrativa: atti e provvedimenti, invalidita', autotutela | **✅** nullita' e annullabilita' con i tre vizi di legittimita' (26), **annullamento d'ufficio e revoca (28)** con ex tunc/ex nunc e indennizzo, le tre condizioni del 21-nonies (22). **Da testare**: pareri obbligatori/facoltativi/vincolanti, consegnati il 12 sera (domanda chiesta due volte) |
-| 5 | Il procedimento amministrativo | **◐** responsabile, preavviso, potere sostitutivo, **conferenza di servizi ✅ (28, uscita il 13 novembre)**; fasi, partecipazione, contraddittorio e termini da fare |
+| 5 | Il procedimento amministrativo | **✅** fasi (26), responsabile, preavviso, potere sostitutivo, conferenza di servizi (28), **partecipazione e contraddittorio (27)**, **accordi art. 11 (27)**, termini e silenzio |
 | 6 | Digitalizzazione e CAD (documento informatico, firme, protocollo, SPID, CIE) | **◐** DA-1 testata; CAD e IN-2 consegnati e mai testati |
-| 7 | L'accesso documentale e l'accesso civico | **◐** spiegato, mai votato |
+| 7 | L'accesso documentale e l'accesso civico | **✅** documentale, civico semplice e generalizzato (28), Amministrazione trasparente e OIV (28) — sei domande attestate coperte |
 | 8 | La documentazione amministrativa | **–** |
 | 9 | Anticorruzione e trasparenza | **✅** |
 | 10 | GDPR e protezione dei dati | **◐** solo dentro IN-1 |
