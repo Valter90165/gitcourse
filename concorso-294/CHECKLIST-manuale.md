@@ -33,13 +33,13 @@ della lezione del piano.*
 |---|---|---|
 | 1 | Natura e fonti (art. 81, L. 196/2009, L. 243/2012) | **✅** verificato 15 nov (27) |
 | 2 | I soggetti (MEF, Ragioneria generale, CIPESS) | **✅** Ragioneria generale e le quattro funzioni con la bollinatura (27), CIPESS (27), 15 nov |
-| 3 | L'azienda composta pubblica e le rilevazioni contabili | **–** |
+| 3 | L'azienda composta pubblica e le rilevazioni contabili | **✅** le due contabilita' (finanziaria autorizzativa / economico-patrimoniale conoscitiva) 15 nov. **Azienda composta scartata**: zero domande attestate |
 | 4 | Programmazione e bilancio dello Stato (ciclo, DEF, Sezione I e II) | **✅** piu' **i principi del bilancio** (26): universalita' = niente fuori bilancio, integrita' = niente compensazioni, uscita il 13 novembre |
 | 5 | Classificazione delle entrate e delle spese | **✅** (28) |
 | 6 | L'esecuzione del bilancio (fasi, residui) | **✅** (27) |
 | 7 | La gestione di tesoreria | **✅** (24) |
 | 8 | I rendiconti | **✅** conto del bilancio e conto del patrimonio, giudizio di parificazione (27); allegati e nota integrativa consegnati il 14, **da testare** (domanda riferita come uscita) |
-| 9-10 | Beni, patrimonio, ordinamento di Regioni ed enti locali | **◐** armonizzazione, FCDE, dissesto fatti; DUP ed entrate dei Comuni no |
+| 9-10 | Beni, patrimonio, ordinamento di Regioni ed enti locali | **◐** **grappolo armonizzazione chiuso il 15 nov (11 domande attestate)**: competenza potenziata (27), accertamento e imputazione (25), obiettivi e d.lgs. 118/2011, FPV contro residui (25), FCDE (27 dopo inversione a 18), risultato di amministrazione (20 sui segni, poi 27), piano dei conti integrato (23). **Restano**: DUP, entrate dei Comuni e Fondo di solidarieta' comunale (domanda 259) |
 | 11 | I controlli nella contabilita' pubblica | **◐** da riverificare |
 
 ## PARTE III — Econometria e valutazione (pp. 261-571)
@@ -119,9 +119,9 @@ della lezione del piano.*
 
 # Il conto
 
-**✅ fatto e verificato: 54 su 70 (77%)** · **◐ parziale o non testato: 9** · **– da fare: 7**
+**✅ fatto e verificato: 55 su 70 (79%)** · **◐ parziale o non testato: 9** · **– da fare: 6**
 
-**I 7 mai aperti:** pubblico impiego · documentazione amministrativa · azienda composta pubblica · probabilita' · variabili casuali · equazioni simultanee · inglese B1. Dei sette, **cinque hanno zero domande attestate** e l'inglese e' idoneita'.
+**I 6 mai aperti:** pubblico impiego · documentazione amministrativa · probabilita' · variabili casuali · equazioni simultanee · inglese B1. **Tutti e cinque i capitoli di materia hanno zero domande attestate**; l'inglese e' idoneita'.
 
 **I 9 parziali:** CAD · GDPR · beni/patrimonio/enti locali (DUP, entrate dei Comuni) · controlli nella contabilita' · statistica descrittiva · dati panel · data science · **AD-AS** · informatica IN-2.
 
