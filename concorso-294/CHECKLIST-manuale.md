@@ -1,4 +1,4 @@
-# Checklist del manuale — stato al 14 novembre 2026
+# Checklist del manuale — stato al 15 novembre 2026
 
 **Legenda**
 **✅** = fatto **e verificato** con una risposta sopra soglia
@@ -80,13 +80,13 @@ della lezione del piano.*
 | | Capitolo | Stato |
 |---|---|---|
 | 1 | Oggetto della scienza delle finanze | **✅** |
-| 2 | Teorie sulla natura dell'attivita' finanziaria | **◐** |
-| 3 | Finalita' dell'intervento pubblico | **◐** |
-| 4 | L'economia del benessere | **◐** consegnata, mai testata |
-| 5 | I fallimenti del mercato | **◐** monopolio naturale **✅**; elenco dei cinque e asimmetrie testati sotto soglia (4/5 e 2/3) |
+| 2 | Teorie sulla natura dell'attivita' finanziaria | **✅** (27) economiche contro politico-sociologiche |
+| 3 | Finalita' dell'intervento pubblico | **✅** (27) le tre funzioni di Musgrave: allocativa, redistributiva, stabilizzazione |
+| 4 | L'economia del benessere | **✅** (27) ottimo paretiano, primo e secondo teorema, il nesso coi fallimenti |
+| 5 | I fallimenti del mercato | **✅** i cinque completi e il comune (26), i tre rimedi alle asimmetrie, monopolio naturale |
 | 6 | Le entrate pubbliche | **✅** le tre specie di tributo acquisite il 9 novembre (24), al quinto tentativo |
-| 7 | I tributi | **◐** dirette/indirette, reale/personale, tax expenditures consegnati; IRPEF consegnata e mai testata |
-| 8 | La teoria dell'imposta | **◐** progressivita', incidenza e traslazione, Ramsey, efficienza/equita' (22); deduzioni e detrazioni a meta' |
+| 7 | I tributi | **✅** dirette/indirette (26), reale/personale corretta, tax expenditures con l'equivalenza di bilancio (25) |
+| 8 | La teoria dell'imposta | **✅** proporzionale/progressiva/regressiva sull'aliquota (25), IVA regressiva sul reddito, progressivita', incidenza, Ramsey, efficienza/equita' |
 | 9 | I criteri di riparto | **✅** beneficio e capacita' contributiva (art. 53 Cost.) |
 | 10 | Il federalismo fiscale | **✅** (28) il 9 novembre |
 | 11 | Le spese pubbliche | **–** |
