@@ -31,8 +31,8 @@ della lezione del piano.*
 
 | | Capitolo | Stato |
 |---|---|---|
-| 1 | Natura e fonti (art. 81, L. 196/2009, L. 243/2012) | **◐** testata 17, da rifare |
-| 2 | I soggetti (MEF, Ragioneria generale, CIPESS) | **–** |
+| 1 | Natura e fonti (art. 81, L. 196/2009, L. 243/2012) | **✅** verificato 15 nov (27) |
+| 2 | I soggetti (MEF, Ragioneria generale, CIPESS) | **✅** Ragioneria generale e le quattro funzioni con la bollinatura (27), CIPESS (27), 15 nov |
 | 3 | L'azienda composta pubblica e le rilevazioni contabili | **–** |
 | 4 | Programmazione e bilancio dello Stato (ciclo, DEF, Sezione I e II) | **✅** piu' **i principi del bilancio** (26): universalita' = niente fuori bilancio, integrita' = niente compensazioni, uscita il 13 novembre |
 | 5 | Classificazione delle entrate e delle spese | **✅** (28) |
@@ -119,7 +119,13 @@ della lezione del piano.*
 
 # Il conto
 
-**✅ fatto e verificato: 17** · **◐ parziale o non testato: 21** · **– da fare: 28**
+**✅ fatto e verificato: 54 su 70 (77%)** · **◐ parziale o non testato: 9** · **– da fare: 7**
+
+**I 7 mai aperti:** pubblico impiego · documentazione amministrativa · azienda composta pubblica · probabilita' · variabili casuali · equazioni simultanee · inglese B1. Dei sette, **cinque hanno zero domande attestate** e l'inglese e' idoneita'.
+
+**I 9 parziali:** CAD · GDPR · beni/patrimonio/enti locali (DUP, entrate dei Comuni) · controlli nella contabilita' · statistica descrittiva · dati panel · data science · **AD-AS** · informatica IN-2.
+
+*Aggiornato domenica 15 novembre.*
 
 Su **66 voci**: circa il **26% verificato**, il **32% da consolidare**, il **42% da
 aprire**.
