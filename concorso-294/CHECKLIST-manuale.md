@@ -89,8 +89,8 @@ della lezione del piano.*
 | 8 | La teoria dell'imposta | **✅** proporzionale/progressiva/regressiva sull'aliquota (25), IVA regressiva sul reddito, progressivita', incidenza, Ramsey, efficienza/equita' |
 | 9 | I criteri di riparto | **✅** beneficio e capacita' contributiva (art. 53 Cost.) |
 | 10 | Il federalismo fiscale | **✅** (28) il 9 novembre |
-| 11 | Le spese pubbliche | **–** |
-| 12 | Le teorie sul bilancio dello Stato | **–** |
+| 11 | Le spese pubbliche | **✅** rassegna: classificazioni, Wagner, Peacock-Wiseman, morbo di Baumol. Zero domande attestate |
+| 12 | Le teorie sul bilancio dello Stato | **✅** finanza neutrale, funzionale e pareggio ciclico; **l'equilibrio dell'art. 81 come pareggio sull'arco del ciclo (26)** |
 
 ## PARTE VI — Politica economica (pp. 732-845)
 
