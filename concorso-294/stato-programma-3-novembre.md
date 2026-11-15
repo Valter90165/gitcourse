@@ -599,3 +599,51 @@ alto" invece che al livello adeguato.
 quattro parole italiane** — migliore, stimatori lineari, corretti,
 varianza minima — e ripetuta tre volte di seguito. Le sequenze lei le
 tiene: le fasi della spesa sono intatte dal 6 novembre.
+
+---
+
+## Domenica 15 novembre — la giornata piu' produttiva del percorso
+
+**Programma: 55 capitoli su 70 verificati, il 79%.**
+
+| Materia | Verificati | Parziali | Mai aperti |
+|---|---|---|---|
+| Statistica economica | **8/8** | – | – |
+| Scienza delle finanze | **12/12** | – | – |
+| Contabilita' pubblica | **8/10** | 2 | – |
+| Politica economica | 9/10 | 1 | – |
+| Diritto amministrativo | 8/12 | 2 | 2 |
+| Econometria e valutazione | 9/15 | 3 | 3 |
+| Fuori manuale | 1/3 | 1 | 1 |
+
+**Due materie chiuse al 100%**: statistica economica e **scienza delle finanze**, passata stamattina da 4/12 a 12/12.
+La **contabilita'**, che era l'ultima materia davvero scoperta, e' passata da 5-6/10 a **8/10**: restano solo le entrate dei Comuni col Fondo di solidarieta' comunale, il DUP e i controlli.
+
+### La prova che il metodo funziona
+
+I quattro item che l'11 sera avevano reso **12, 18, 15 e "non ricordo"** sono tornati stamattina a **27, 28, 27, 26**. Senza ristudio: solo per averli ridetti una volta ciascuno dopo la correzione.
+
+### Il fatto piu' importante della giornata
+
+Le stavo facendo **l'azienda composta pubblica**. Mi ha fermato: *"ma queste cose non credo le chiedano, penso piu' ad armonizzazione ecc"*.
+Conteggio sul repertorio: **azienda composta, zero domande attestate. Armonizzazione e dintorni, undici** (43, 45, 175, 176, 177, 193, 196, 197, 198, 236, 270). E' il grappolo piu' ricco della contabilita'.
+Capitolo scartato a meta' e sostituito. **Il suo istinto sulla resa ha battuto il mio ordine del manuale per la seconda volta** (la prima fu dissesto e predissesto). Regola nuova: quando dice che un argomento non lo chiedono, si controlla subito.
+
+### Voti di oggi
+
+Ragioneria generale con la bollinatura 27 · CIPESS 27 · 243/2012 contro 196/2009 **27** (il capitolo valeva 17, il voto piu' basso del programma) · art. 81 24-28-21 · competenza potenziata 24 poi 27 · competenza tradizionale 28 · diritto a riscuotere contro imputazione 25 · FPV contro residui 25 · **FCDE 18 poi 27** · **risultato di amministrazione 20 poi 27** · piano dei conti integrato 23.
+
+### I due errori da portare ai richiami di domani
+
+**Inversioni di direzione**, il suo schema ricorrente:
+1. **FCDE** letto come fondo per i crediti che si pensa **di** riscuotere. Gancio: *"dubbia esigibilita' vuol dire dubbio che si incassi"*.
+2. **Segni del risultato di amministrazione** invertiti su entrambi i residui. Gancio: *"attivo a favore, passivo contro"*. Verifica di buon senso: col segno sbagliato, piu' un ente e' indebitato piu' il risultato sarebbe alto.
+
+Restano in sospeso anche le tre frasi dell'art. 81 (**eventi eccezionali e autorizzazione a maggioranza assoluta · complessivamente quattro mesi · formale prima, sostanziale ora**), chieste e non ridette.
+
+### Da fare domani, lunedi' 16
+
+1. Cinque richiami, con dentro i due ganci di oggi e le tre frasi dell'81
+2. **Entrate dei Comuni e Fondo di solidarieta' comunale** — materiale consegnato stasera, tre domande in attesa
+3. DUP (riconferma) · controlli nella contabilita' · allegati del rendiconto (consegnati il 14, mai testati)
+4. Con questi la contabilita' e' chiusa e **nessuna materia resta scoperta**
