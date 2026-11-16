@@ -66,7 +66,7 @@ della lezione del piano.*
 
 | | Capitolo | Stato |
 |---|---|---|
-| 1 | I numeri indici | **✅** |
+| 1 | I numeri indici | **✅** definizione come rapporto con base 100 (26) e **base fissa contro base mobile (28)** il 16 nov — la domanda chiesta due volte. **Da testare**: prezzo/quantita'/valore, deflazione di un dato nominale, indici dei prezzi al consumo |
 | 2 | Contabilita' nazionale e sistema europeo dei conti | **✅** |
 | 3 | Le comparazioni: deflatore e parita' di potere d'acquisto | **✅** |
 | 4 | Le tavole input-output e il modello di Leontief | **✅** |
