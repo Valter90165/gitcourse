@@ -647,3 +647,69 @@ Restano in sospeso anche le tre frasi dell'art. 81 (**eventi eccezionali e autor
 2. **Entrate dei Comuni e Fondo di solidarieta' comunale** — materiale consegnato stasera, tre domande in attesa
 3. DUP (riconferma) · controlli nella contabilita' · allegati del rendiconto (consegnati il 14, mai testati)
 4. Con questi la contabilita' e' chiusa e **nessuna materia resta scoperta**
+
+---
+
+## Lunedi' 16 novembre — giornata corta, resa alta
+
+Mezza giornata (mattina piu' un rientro breve), e Silvia la chiude dicendo
+*"oggi non ho fatto praticamente niente"*. Il registro dice altro.
+
+### Le quattro definizioni piu' basse del programma, rimesse in piedi
+
+| | prima | oggi |
+|---|---|---|
+| Strato e grappolo | 15 | **27** |
+| Il coefficiente | 15 | **26** |
+| L'indice di Gini | 12 | **25** |
+| L'intervallo di confidenza | 15 | **25** |
+
+Tutte e quattro ridette a voce una volta in chiusura di giornata — lo stesso
+intervento che l'11 sera ha prodotto il salto a 27, 28, 27, 26 del mattino dopo.
+
+### Due buchi trovati da lei, non da me
+
+**1. I numeri indici.** Chiede *"e tipo i numeri indici?"*. Conteggio: **sette
+domande attestate** (90, 91, 92, 94, 95, 258, 287), con **base fissa contro
+base mobile chiesta due volte** — la seconda ripetizione del repertorio dopo
+BLUE. E nella checklist sono segnati **"✅" nudo, senza voto e senza data**:
+verificati prima che iniziassi a registrare i voti. Come i tre capitoli accanto
+(contabilita' nazionale, deflatore e PPA, input-output e Leontief). **Quattro
+capitoli di cui non ho un solo numero**, e tutti e quattro definitori.
+
+**2. La discrezionalita'.** Riferisce che sono state chieste
+**discrezionalita' amministrativa, merito e discrezionalita' tecnica** — tre
+domande nella stessa seduta. **Argomento mai trattato in diciotto giorni di
+sessioni**, pur essendo scritto nel programma della scheda di diritto
+amministrativo. Registrate come 299, 300, 301. Materiale consegnato la sera
+stessa: i quattro profili (an, quid, quomodo, quando), i limiti e l'eccesso di
+potere, il merito come confine del sindacato giurisdizionale, la tecnica come
+giudizio e non scelta, e il sindacato intrinseco dal Cons. Stato IV 601/1999.
+
+**Terza e quarta volta che il suo istinto sulla resa batte il mio ordine del
+manuale.** Regola confermata: quando dice che un argomento e' scoperto o che
+un altro non lo chiedono, si controlla subito.
+
+### Inversioni: il bilancio
+
+Le due di ieri sono chiuse (**risultato di amministrazione 28**, FCDE 25). Una
+nuova trovata e corretta: **stima contro valore vero** nell'intervallo di
+confidenza, piu' la parola **"sicuramente"** che e' tornata una volta dopo la
+correzione. Sostituzione data: *"con un livello di confidenza del 95%"*.
+E **strato e grappolo invertito**, raddrizzato con la derivazione *"tutti contro
+alcuni"* e con l'esempio Istat (Comuni = strati, famiglie = grappoli).
+
+### Pianificazione
+
+Scritto **piano-ripasso-19-nov-1-dic.md**: tre giri pieni del programma, due
+giorni di riparazione, due di simulazione. Ci stanno in 13 giorni con 11 ore e
+mezza di margine. Unico rischio dichiarato: che la copertura non chiuda il 18.
+
+### Da fare domani, martedi' 17
+
+1. Cinque richiami, con dentro le quattro frasi di stasera
+2. **I numeri indici** — quattro domande, nessuna rispiegazione preventiva
+3. **Discrezionalita', merito, discrezionalita' tecnica** — materiale gia' letto
+4. I tre capitoli accanto ai numeri indici, da riverificare senza voto storico
+5. Statistica descrittiva (medie e indici di variabilita'), entrate dei Comuni,
+   DUP, controlli, allegati del rendiconto
