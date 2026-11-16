@@ -375,3 +375,14 @@ abbiamo** e vanno trattate come le altre 249.
      *(Riferita il 14 novembre come gia' uscita. Non era nel repertorio
      delle 249: aggiunta qui. Conferma che il livello di dettaglio
      chiesto puo' scendere sotto quello dei grandi istituti.)*
+
+299. La discrezionalita' amministrativa.
+300. Il merito.
+301. La discrezionalita' tecnica.
+     *(Riferite da Silvia il 16 novembre come uscite. Tre domande nella
+     stessa area, segno che la commissione ha battuto il tema a fondo.
+     **Argomento mai trattato**, pur essendo nel programma del manuale
+     — materie/07-diritto-amministrativo.md riga 26: "Discrezionalita'
+     amministrativa e discrezionalita' tecnica; merito e legittimita'".
+     Si collega alla n. 10 attestata, "controllo di legittimita' e
+     controllo di merito", e all'eccesso di potere.)*
