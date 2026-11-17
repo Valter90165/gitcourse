@@ -1,4 +1,4 @@
-# Checklist del manuale — stato al 15 novembre 2026
+# Checklist del manuale — stato al 17 novembre 2026
 
 **Legenda**
 **✅** = fatto **e verificato** con una risposta sopra soglia
@@ -125,20 +125,42 @@ della lezione del piano.*
 
 **I 9 parziali:** CAD · GDPR · beni/patrimonio/enti locali (DUP, entrate dei Comuni) · controlli nella contabilita' · statistica descrittiva · dati panel · data science · **AD-AS** · informatica IN-2.
 
-*Aggiornato domenica 15 novembre.*
+*Aggiornato martedi' 17 novembre.*
 
-Su **66 voci**: circa il **26% verificato**, il **32% da consolidare**, il **42% da
-aprire**.
+## Per materia
 
-## Le due priorita' che salgono da questa tabella
+| Materia | ✅ | ◐ | – |
+|---|---|---|---|
+| **Statistica economica** | **8/8** | – | – |
+| **Scienza delle finanze** | **12/12** | – | – |
+| Contabilita' pubblica | 8/10 | 2 | – |
+| Politica economica | 9/10 | 1 | – |
+| Diritto amministrativo | 8/12 | 2 | 2 |
+| Econometria e valutazione | 9/15 | 3 | 3 |
+| Fuori manuale | 1/3 | 1 | 1 |
 
-**Scienza delle finanze: 7 capitoli su 12 mai aperti**, e sono i capitoli
-centrali — entrate, tributi, teoria dell'imposta, criteri di riparto,
-federalismo, spese, teorie sul bilancio. **E' il blocco piu' grande rimasto.**
+**Due materie chiuse al 100%.** La piu' scoperta e' l'econometria, ma dei suoi
+sei capitoli aperti **tre hanno zero domande attestate** (probabilita',
+variabili casuali, equazioni simultanee) e sono stati scartati.
 
-**Politica economica: 7 capitoli su 11 mai aperti**, fra cui **IS-LM**, che e' la
-domanda piu' chiesta della materia.
+## Che cosa resta davvero da fare
 
-**E una singola voce che pesa piu' di un capitolo: Parte III, capitolo 16,
-valutazione delle politiche e dei programmi pubblici.** Mai aperto, ed e' il
-capitolo che da' il nome al concorso.
+**Circa otto ore e mezza di lavoro**, cosi' divise:
+
+**Vale punti — 5 ore:** CAD (3 domande attestate, mai testato) · statistica
+descrittiva (medie e indici di variabilita') · DUP e beni/enti locali · i
+controlli nella contabilita' · i numeri indici (3 delle 7 attestate) ·
+statistica economica 2, 5 e 6 (**segnati fatti senza alcun voto**) · data
+science.
+
+**Recuperi brevi — 1h30:** discrezionalita' tecnica · allegati del rendiconto ·
+GDPR · informatica IN-2.
+
+**Resa zero — 1h30, in versione rapida:** pubblico impiego · documentazione
+amministrativa.
+
+**Scartati, decisione registrata:** probabilita' · variabili casuali ·
+equazioni simultanee. **AD-AS** e' l'unica voce con zero domande attestate che
+resta in lista, e ci ha battuti due volte: va per ultima.
+
+**Inglese B1**: idoneita', fuori conteggio per decisione di Silvia.
