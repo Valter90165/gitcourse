@@ -713,3 +713,72 @@ mezza di margine. Unico rischio dichiarato: che la copertura non chiuda il 18.
 4. I tre capitoli accanto ai numeri indici, da riverificare senza voto storico
 5. Statistica descrittiva (medie e indici di variabilita'), entrate dei Comuni,
    DUP, controlli, allegati del rendiconto
+
+---
+
+## Martedi' 17 novembre — giornata persa, serata recuperata
+
+Fuori tutto il giorno a Roma, rientro alle 18.16. **Il giorno di studio e'
+perso**: esce dalle undici ore e mezza di margine del piano di ripasso, che
+scendono a sei. **La chiusura della copertura slitta dal 18 al 19.** I tre giri
+ci stanno ancora; un secondo giorno perso li stringerebbe a due e mezzo.
+
+### Serata su diritto amministrativo
+
+**Voti:** pareri obbligatorio/facoltativo/vincolante **27** (consegnati il 12 e
+mai testati, domanda uscita due volte) · nullita' e annullabilita' coi sei casi
+**28** · quattro criteri tra le fonti **24** · tre condizioni del 21-nonies
+**27** · discrezionalita' amministrativa **27** · quattro profili 26 · il vizio
+**18** · il merito **27** · discrezionalita' tecnica 23 · sindacato prima e dopo
+il 1999 **20**.
+
+### Due errori lessicali che valgono piu' di quanto sembri
+
+**"Abuso di potere" per ECCESSO di potere.** L'abuso d'ufficio e' un reato
+(art. 323 c.p.): in un orale di amministrativo la parola sbagliata suona come
+confusione tra penale e amministrativo. E lei i tre vizi li aveva dati a 28 la
+sera prima.
+
+**"Criterio di materia" per criterio di COMPETENZA** tra le fonti. E' lo stesso
+scambio di vocabolario che aveva fatto al rovescio il 14 novembre, dicendo
+"competenza" al posto di "materia" tra i criteri degli organi. Gancio: **le
+fonti si dividono per competenza, gli organi per materia.**
+
+### Il blocco che ha ceduto, e perche'
+
+**La discrezionalita' tecnica.** Dopo due consegne ha detto: *"non ho capito in
+realta' cos'e' la discrezionalita' tecnica"*. **Il difetto era mio**: l'avevo
+presentata come un contrasto a due termini, mentre sono **tre livelli** —
+attivita' vincolata (criterio certo, si misura), discrezionalita' tecnica
+(criterio tecnico opinabile, si valuta con la scienza), discrezionalita'
+amministrativa (un fine, si scegle ponderando interessi). Mancava il posto in
+mezzo. Aggiunto anche che **il nome e' un errore storico**: si chiamo'
+"discrezionalita'" perche' il giudice non entrava, non per la sua natura.
+
+### La quinta inversione di direzione in tre giorni
+
+Sul sindacato della discrezionalita' tecnica ha detto le due cose giuste e poi
+ha chiuso con *"ora non puo'"*, ribaltando. Regola nuova data per ricostruire
+il verso senza memoria: **le evoluzioni giurisprudenziali in materia di tutela
+vanno verso PIU' sindacato, non meno** — e lei ha gia' l'esempio, la
+**pregiudiziale amministrativa superata**, fatta a 26.
+
+### Entrate dei Comuni
+
+Tre categorie correnti **20** (mancavano i trasferimenti correnti) · Fondo di
+solidarieta' comunale alimentato dall'IMU **28** · quota perequativa **15**, poi
+24. Sulla perequativa aveva nominato **la quota storica**, cioe' proprio cio'
+che il perequativo sostituisce: **la spesa storica**. Che e' il passaggio che
+lei stessa aveva descritto a 28 il 9 novembre sul federalismo fiscale.
+**Non un buco: un collegamento non fatto.**
+
+### Da fare mercoledi' 18
+
+1. Cinque richiami: eccesso di potere, criterio di competenza, il verso del
+   sindacato post-1999, fabbisogni standard e capacita' fiscale, i tre
+   titoli delle entrate correnti
+2. **Discrezionalita' tecnica**, da ritestare a mente fresca
+3. **AD-AS col grafico** — l'unico argomento che ci ha battuti due volte
+4. Numeri indici, le tre domande attestate che restano
+5. Statistica economica: capitoli 2, 5, 6 ancora senza voto
+6. DUP, controlli nella contabilita', allegati del rendiconto
