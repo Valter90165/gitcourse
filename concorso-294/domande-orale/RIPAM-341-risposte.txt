@@ -1,0 +1,2487 @@
+RIPAM 341 - Risposte ai quesiti
+Risposte sintetiche e ragionate per l'orale, organizzate per materia, con la numerazione
+originale dell'elenco (341 quesiti).
+
+Nota. Alcuni quesiti nell'elenco sono incompleti o ambigui (tabelle non disponibili, tracce
+troncate): per questi la risposta indica come interpretarli e come impostare la risposta. Le
+norme e i dati numerici (soglie, aliquote, versioni dei software) vanno ricontrollati sulle fonti
+aggiornate prima dell'esame.
+
+
+
+
+                                     RIPAM 341 - risposte - pag. 1
+Diritto amministrativo (49)
+1. Che cosa sono le circolari amministrative e che efficacia hanno?
+Le circolari sono atti interni con cui un organo sovraordinato impartisce istruzioni, direttive o
+chiarimenti interpretativi agli uffici dipendenti. Non sono fonti del diritto: vincolano solo gli uffici
+destinatari in virtù del rapporto gerarchico, non i privati né il giudice, che possono disapplicarle. Se però
+contengono precetti con effetti esterni lesivi, possono essere impugnate. Distinguiamo circolari
+normative, interpretative, informative e applicative.
+
+2. Differenza tra regolamenti governativi e ministeriali
+I regolamenti governativi sono adottati dal Governo (DPR, previa delibera del Consiglio dei ministri e
+parere del Consiglio di Stato) ai sensi dell'art. 17, c.1 e 2, L. 400/1988 (esecuzione, attuazione,
+indipendenti, organizzazione). I regolamenti ministeriali sono adottati dal singolo ministro (decreto
+ministeriale) nelle materie di sua competenza, solo se previsto da legge (art. 17, c.3), e devono essere
+comunicati al Presidente del Consiglio. Il regolamento governativo ha rango superiore e prevale sul
+ministeriale.
+
+3. Quali principi dell'Unione europea si applicano al diritto amministrativo?
+Il diritto amministrativo italiano è influenzato dai principi dell'UE: legalità, certezza del diritto e tutela
+del legittimo affidamento, proporzionalità, non discriminazione e parità di trattamento, trasparenza,
+buona amministrazione (art. 41 Carta di Nizza), effettività della tutela giurisdizionale, primazia e effetto
+diretto del diritto UE, sussidiarietà, leale cooperazione, concorrenza e libera circolazione. Si applicano in
+via diretta alle PA nazionali nell'attuazione del diritto UE e sono richiamati dall'art. 1 L. 241/1990
+(principi dell'ordinamento comunitario).
+
+4. Che cosa significa sussidiarietà orizzontale? E verticale?
+La sussidiarietà verticale (art. 118, c.1 Cost.) ripartisce le funzioni tra livelli di governo:
+l'amministrazione è attribuita al livello più vicino ai cittadini (Comuni), salvo che serva un livello
+superiore per assicurare l'esercizio unitario (adeguatezza e differenziazione). La sussidiarietà
+orizzontale (art. 118, c.4) impone a Stato ed enti di favorire l'autonoma iniziativa dei cittadini, singoli e
+associati, per lo svolgimento di attività di interesse generale (terzo settore, patti di collaborazione).
+
+5. Quali sono le forme di autonomia amministrativa e finanziaria degli enti locali?
+Gli enti locali (Comuni, Province, Città metropolitane) hanno autonomia statutaria, regolamentare,
+organizzativa, amministrativa, finanziaria e impositiva ai sensi degli artt. 114, 117 c.6, 118 e 119 Cost.
+e del TUEL (D.Lgs. 267/2000). Quella finanziaria si concretizza in entrate proprie, compartecipazioni a
+tributi erariali e fondo perequativo, nel rispetto del coordinamento della finanza pubblica e
+dell'equilibrio di bilancio. Dispongono di patrimonio proprio.
+
+6. Che differenza c'è tra competenza per materia, territorio e grado?
+La competenza per materia indica quali funzioni spettano a un organo o ufficio in base all'oggetto
+dell'attività. La competenza per territorio delimita l'ambito geografico in cui l'organo può agire. La
+competenza per grado distribuisce le funzioni tra organi di diverso livello gerarchico nella stessa
+materia (es. ricorso gerarchico, TAR e Consiglio di Stato nel giudizio). L'incompetenza (relativa o
+assoluta) è vizio di legittimità del provvedimento.
+
+7. Quando un provvedimento amministrativo è annullabile? Articolo 21-octies della
+legge 241/1990
+L'art. 21-octies L. 241/1990 dichiara annullabile il provvedimento adottato in violazione di legge, o
+viziato da eccesso di potere o da incompetenza. Non è annullabile per violazione di norme sul
+procedimento o sulla forma degli atti quando, per la natura vincolata, è palese che il contenuto non
+avrebbe potuto essere diverso; né per mancata comunicazione di avvio, se l'amministrazione prova in
+giudizio che il contenuto non sarebbe cambiato. È il principio del cd. vizio non invalidante.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 2
+8. Differenza tra annullabilità, nullità, irregolarità e revoca
+Annullabilità: vizio di legittimità (violazione di legge, eccesso di potere, incompetenza) che rende l'atto
+efficace finché non annullato da giudice o PA. Nullità (art. 21-septies): mancanza di elementi essenziali,
+difetto assoluto di attribuzione, violazione o elusione del giudicato, altri casi previsti dalla legge; l'atto è
+inefficace ab origine. Irregolarità: vizio lieve, che non incide sulla validità. Revoca (art. 21-quinquies):
+ritiro per sopravvenuti motivi di interesse pubblico o mutamento della situazione, con eventuale
+indennizzo; ha effetti ex nunc.
+
+9. In che cosa consiste il procedimento di annullamento d'ufficio?
+L'annullamento d'ufficio (art. 21-nonies L. 241/1990) elimina con efficacia ex tunc un provvedimento
+illegittimo. Requisiti: illegittimità ex art. 21-octies, sussistenza di ragioni di interesse pubblico,
+valutazione degli interessi dei destinatari e controinteressati, termine ragionevole e comunque non
+superiore a dodici mesi dall'adozione per i provvedimenti attributivi di vantaggi economici. Può essere
+disposto dall'organo che ha emanato l'atto o da altro organo previsto dalla legge. Il provvedimento
+ottenuto con false rappresentazioni non soggiace al termine.
+
+10. Che cosa significa controllo di legittimità e controllo di merito?
+Il controllo di legittimità verifica la conformità dell'atto a norme di legge, regolamento e al
+procedimento; il controllo di merito valuta l'opportunità, convenienza ed economicità dell'atto. Il primo
+è tipico di controlli esterni (Corte dei conti) e può portare a annullamento o rifiuto di visto; il secondo,
+oggi molto ridotto dopo la riforma costituzionale del 2001 e l'abolizione dei controlli preventivi sugli atti
+degli enti locali, resta come controllo interno o gerarchico.
+
+11. Che cosa sono i pareri obbligatori e facoltativi?
+I pareri sono atti consultivi. Obbligatori: la legge impone di richiederli prima dell'adozione dell'atto (art.
+16 L. 241/1990); decorso inutilmente il termine di 45 giorni l'amministrazione può procedere anche
+senza. Facoltativi: richiesti discrezionalmente. Vincolanti: l'amministrazione non può discostarsene. Non
+vincolanti: può decidere diversamente con adeguata motivazione. L'omissione di un parere obbligatorio
+rende l'atto illegittimo.
+
+12. In cosa consiste l'attività amministrativa di controllo?
+L'attività di controllo verifica la conformità di atti, organi o attività a parametri (legge, bilancio,
+efficienza). Può essere preventivo o successivo, di legittimità o di merito, interno (controllo di gestione,
+di regolarità amministrativa e contabile) o esterno (Corte dei conti), sugli atti o sulla gestione. Si
+realizza con visto, approvazione, annullamento, relazione, referto. Obiettivo: legalità, regolarità
+finanziaria, efficienza ed efficacia dell'azione amministrativa.
+
+13. Quali sono le fasi del procedimento amministrativo?
+Il procedimento amministrativo si articola in: iniziativa (d'ufficio o a istanza di parte), istruttoria
+(accertamento dei fatti, acquisizione di pareri, valutazioni tecniche, partecipazione dei soggetti
+interessati), fase decisoria, in cui si adotta il provvedimento, e fase integrativa dell'efficacia
+(comunicazione, notificazione, pubblicazione, controlli). Il termine ordinario di conclusione è di 30
+giorni, salvo diversa previsione.
+
+14. Come si articola la partecipazione al procedimento e quali sono i suoi strumenti?
+Gli artt. 7-13 L. 241/1990 garantiscono la partecipazione: comunicazione di avvio del procedimento ai
+destinatari e ai soggetti che possono subire pregiudizio; diritto di prendere visione degli atti; diritto di
+presentare memorie scritte e documenti che l'amministrazione ha l'obbligo di valutare; preavviso di
+rigetto (art. 10-bis) nei procedimenti a istanza; accordi integrativi o sostitutivi del provvedimento (art.
+11). Scopo: contraddittorio, trasparenza e migliore istruttoria.
+
+15. Qual è il ruolo del responsabile del procedimento?
+Il responsabile del procedimento (RUP/RdP, artt. 4-6 L. 241/1990) è individuato dal dirigente dell'unità
+organizzativa. Valuta ammissibilità, requisiti e presupposti; compie gli atti istruttori, chiede integrazioni,
+accerta fatti, propone o adotta il provvedimento finale quando ne ha competenza. L'organo competente
+non può discostarsi dalle sue risultanze se non motivando. È il referente per i cittadini e garantisce la
+correttezza e il rispetto dei termini.
+
+
+
+                                          RIPAM 341 - risposte - pag. 3
+16. Differenza tra accesso civico semplice, generalizzato e accesso documentale
+Accesso documentale (L. 241/1990, artt. 22 ss.): spetta a chi ha un interesse diretto, concreto e attuale,
+collegato a una situazione giuridicamente tutelata, per accedere a documenti amministrativi. Accesso
+civico semplice (art. 5, c.1, D.Lgs. 33/2013): chiunque può chiedere documenti, informazioni o dati di
+cui è omessa la pubblicazione obbligatoria. Accesso civico generalizzato (art. 5, c.2): chiunque, senza
+motivazione, può accedere a dati e documenti ulteriori rispetto a quelli obbligatori, salvi i limiti e le
+eccezioni dell'art. 5-bis (FOIA).
+
+17. Che cos'è la sezione Amministrazione trasparente?
+È la sezione del sito istituzionale di ogni PA dove sono pubblicati, in formato aperto, i dati, le
+informazioni e i documenti previsti dal D.Lgs. 33/2013: organizzazione, titolari di incarichi, consulenti,
+bilanci, procedimenti, bandi di gara, pagamenti, servizi erogati, provvedimenti. Serve a garantire
+trasparenza e controllo diffuso sulle risorse pubbliche e prevenire la corruzione. Il responsabile della
+prevenzione della corruzione e della trasparenza (RPCT) ne cura l'aggiornamento.
+
+18. Quali sono le regole del codice di comportamento sulla trasparenza?
+Il Codice di comportamento dei dipendenti pubblici (DPR 62/2013) impone ai dipendenti di rispettare i
+doveri di trasparenza e tracciabilità dei processi decisionali, di collaborare con il RPCT, di segnalare
+illeciti, di garantire completezza e aggiornamento dei dati pubblicati. Il Piano triennale di prevenzione
+della corruzione e della trasparenza (PTPCT), oggi confluito nel PIAO, prevede misure coerenti, tra cui
+obblighi di pubblicazione e formazione.
+
+19. Che cos'è il ricorso straordinario al Presidente della Repubblica?
+È un rimedio giustiziale, alternativo al ricorso giurisdizionale al TAR, proponibile entro 120 giorni contro
+atti amministrativi definitivi (DPR 1199/1971). Si decide con decreto del Presidente della Repubblica, su
+proposta del ministro competente, previo parere obbligatorio del Consiglio di Stato. Dà luogo a una
+decisione sostanzialmente giurisdizionale. È ammissibile solo per materie devolute alla giurisdizione
+amministrativa. Il controinteressato può chiedere la trasposizione in sede giurisdizionale entro 60
+giorni.
+
+20. Che differenza c'è tra patrimonio disponibile e indisponibile?
+Il patrimonio indisponibile (art. 826 c.c.) comprende beni destinati a un pubblico servizio o appartenenti
+per legge allo Stato (foreste, miniere, beni culturali, caserme, edifici pubblici): non possono essere
+sottratti alla destinazione se non nei modi di legge. Il patrimonio disponibile comprende beni privi di
+destinazione pubblica, gestiti con strumenti di diritto privato (alienabili, locabili). Il demanio,
+inalienabile, è altra categoria (artt. 822-824 c.c.).
+
+21. Cosa si intende per competenza amministrativa per grado?
+Cfr. domanda 6: la competenza per grado ripartisce funzioni tra organi di diverso livello nella stessa
+materia e per lo stesso territorio, ad esempio tra primo grado (TAR, organi periferici) e grado superiore
+(Consiglio di Stato, ministero). Attiene alla gerarchia e determina quale organo decide in prima istanza,
+in appello o in sede di ricorso gerarchico, con conseguenze sull'incompetenza.
+
+22. Che cosa fa il responsabile per la transizione digitale (RTD)?
+L'RTD (art. 17 CAD) è la figura che, in ciascuna PA, guida la transizione al digitale. Coordina lo sviluppo
+dei servizi pubblici digitali, cura l'integrazione tra processi, la digitalizzazione dei documenti,
+l'accessibilità, la sicurezza informatica, il cloud, l'interoperabilità e la gestione dei dati. Riporta
+direttamente al vertice politico o all'organo di indirizzo e dispone di un ufficio per la transizione al
+digitale. Ha competenze tecnologiche e giuridico-organizzative.
+
+23. Che cosa disciplina il Codice dell'amministrazione digitale (CAD)?
+Il CAD (D.Lgs. 82/2005) disciplina l'uso delle tecnologie dell'informazione nella PA: cittadinanza digitale,
+identità digitale (SPID, CIE), domicilio digitale, firme elettroniche, documento informatico, gestione e
+conservazione dei documenti, accesso telematico, pagamenti elettronici (pagoPA), dati pubblici,
+sicurezza, ruolo di AgID e dell'RTD. Obiettivo: garantire a cittadini e imprese diritto all'uso delle
+tecnologie nei rapporti con la PA.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 4
+24. Che cosa sono la firma digitale e il documento informatico?
+Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti
+(art. 1 CAD). La firma elettronica è il genus. La firma elettronica avanzata identifica il firmatario con
+garanzie di unicità. La firma digitale, basata su crittografia asimmetrica (chiave privata e pubblica) con
+certificato qualificato, garantisce autenticità, integrità e non ripudio; ha valore di sottoscrizione
+autografa. La firma elettronica qualificata ha pari efficacia.
+
+25. Che cosa sono le cause di esclusione della responsabilità amministrativa?
+Nel giudizio di responsabilità amministrativo-contabile innanzi alla Corte dei conti, la responsabilità
+richiede dolo o colpa grave. Cause di esclusione: assenza di colpa grave, esimente dell'esecuzione di
+ordini insindacabili, fatto necessitato o stato di necessità, caso fortuito e forza maggiore, assenza di
+nesso causale, prescrizione quinquennale, insindacabilità delle scelte discrezionali. Il parere favorevole
+degli organi tecnici e il "visto" possono escludere la colpa grave in buona fede.
+
+26. Che cosa fa la Corte dei conti nel giudizio di parificazione?
+Il giudizio di parificazione è il controllo con cui la Corte dei conti verifica il rendiconto generale dello
+Stato (art. 100 Cost., artt. 39-41 TU Corte conti) e quello delle Regioni (D.L. 174/2012). In sede di
+parifica certifica la regolarità dei conti, la corrispondenza delle risultanze, la legittimità delle entrate e
+delle spese, e riferisce al Parlamento con la relazione sul rendiconto. Si svolge a sezioni riunite in
+udienza pubblica.
+
+170. Autonomia amministrativa degli enti territoriali
+L'autonomia amministrativa degli enti territoriali significa capacità di gestire in autonomia le funzioni
+proprie e conferite, secondo i principi di sussidiarietà, differenziazione e adeguatezza (art. 118 Cost.),
+con potestà statutaria e regolamentare, organizzazione e personale propri. Ha come limiti la legge
+statale e regionale, i principi di coordinamento della finanza pubblica e i controlli di legittimità.
+
+205. Differenza tra organo e ufficio amministrativo
+L'organo è la persona o il collegio che esprime la volontà dell'ente e gli imputa i propri atti (ha rilevanza
+esterna e competenza); l'ufficio è la struttura organizzativa interna, composta da personale e mezzi, cui
+sono assegnati compiti strumentali, senza capacità autonoma di manifestare la volontà dell'ente. Gli
+organi sono spesso preposti agli uffici e il titolare ne è il vertice.
+
+210. Principio del contraddittorio nel procedimento amministrativo
+Il contraddittorio garantisce che chi può essere inciso da un provvedimento possa interloquire prima
+dell'adozione: conoscere l'avvio del procedimento, accedere agli atti, depositare memorie, ottenere
+preavviso di rigetto. È espressione del principio di partecipazione (artt. 7-10-bis L. 241/1990), del giusto
+procedimento e dell'art. 97 Cost., in linea con i principi UE di difesa. La violazione può dar luogo a
+annullabilità, salvo l'art. 21-octies c.2.
+
+220. Enti pubblici territoriali ed enti pubblici ministeriali: differenze
+Gli enti pubblici territoriali (Regioni, Province, Città metropolitane, Comuni) hanno competenza generale
+su un territorio e dispongono di autonomia politica e finanziaria, con organi elettivi. Gli enti pubblici non
+territoriali o ministeriali (ministeri, agenzie, enti pubblici istituzionali) hanno competenza per materia,
+un fine specifico, e sono organi o enti strumentali dell'amministrazione statale, spesso soggetti a
+vigilanza e indirizzo ministeriale.
+
+227. Trasparenza come strumento di prevenzione della corruzione
+La trasparenza è misura generale di prevenzione della corruzione: la pubblicità di atti, spese, incarichi e
+procedimenti rende l'attività visibile e sindacabile dai cittadini, riducendo asimmetrie informative e
+discrezionalità opaca. La L. 190/2012 e il D.Lgs. 33/2013 la collegano al PTPCT (oggi PIAO). L'accesso
+civico è lo strumento di controllo diffuso. Rafforza la responsabilità degli amministratori.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 5
+228. Strumenti documentali e figura del responsabile in materia di trasparenza e
+anticorruzione
+Strumenti documentali: Piano nazionale anticorruzione (PNA) di ANAC; PTPCT (ora sezione Rischi
+corruttivi e trasparenza del PIAO); sezione Amministrazione trasparente; codice di comportamento;
+registro degli accessi. La figura è il RPCT (art. 1, c.7, L. 190/2012), che predispone il piano, vigila
+sull'attuazione, segnala inadempimenti e riferisce all'organo di indirizzo e all'OIV. È tutelato da misure
+antiritorsive.
+
+241. Quali sono le principali fonti del diritto?
+Gerarchia delle fonti italiane: Costituzione e leggi costituzionali; fonti UE (regolamenti, direttive) e
+obblighi internazionali (art. 117 c.1); leggi ordinarie e atti con forza di legge (decreti legislativi e
+decreti-legge); leggi regionali; regolamenti (governativi, ministeriali, locali); consuetudini. Principi:
+gerarchia, competenza, cronologia, specialità. Gli statuti degli enti locali e i regolamenti hanno rango
+secondario.
+
+246. Che cos’è l’attività amministrativa consultiva? Pareri obbligatori e facoltativi
+L'attività consultiva si traduce in pareri, valutazioni tecniche e proposte resi da organi consultivi
+(Consiglio di Stato, Avvocatura dello Stato, organi tecnici) per assistere gli organi di amministrazione
+attiva. Pareri obbligatori: la legge impone di richiederli (art. 16 L. 241/1990, termine 45 giorni);
+facoltativi: discrezionali (art. 17: valutazioni tecniche). Vincolanti o non vincolanti. Non sono
+provvedimenti e di regola non sono autonomamente impugnabili.
+
+250. Quali sono le funzioni dell’OIV e il suo ruolo nella trasparenza?
+L'Organismo indipendente di valutazione (D.Lgs. 150/2009) misura e valuta la performance
+organizzativa e individuale, valida la Relazione sulla performance, propone la valutazione dei dirigenti,
+garantisce la correttezza dei processi di misurazione. In materia di trasparenza attesta l'assolvimento
+degli obblighi di pubblicazione, verifica la coerenza tra PTPCT e obiettivi di performance e collabora con
+l'RPCT.
+
+252. Che cosa accade quando scade il termine per la conclusione del procedimento
+amministrativo?
+Alla scadenza del termine (art. 2 L. 241/1990) si configura il silenzio inadempimento: il privato può
+ricorrere al TAR (azione avverso il silenzio, art. 31 c.p.a.) entro un anno, ottenere l'accertamento
+dell'obbligo di provvedere e, se vincolata l'attività, la condanna. Vi sono poteri sostitutivi (art. 2,
+c.9-bis), indennizzo per ritardo, danno da ritardo e responsabilità dirigenziale. Nei casi di
+silenzio-assenso (art. 20) l'istanza si intende accolta; nel silenzio-rifiuto no.
+
+261. In cosa consiste la tutela cautelare nel processo amministrativo?
+La tutela cautelare (artt. 55 ss. c.p.a.) consente al giudice amministrativo di adottare misure
+provvisorie, quando il ricorrente subisce pregiudizio grave e irreparabile durante il giudizio: sospensione
+dell'atto, ordinanza di ammissione con riserva, ingiunzione a provvedere, misure atipiche. Requisiti:
+fumus boni iuris e periculum in mora. Può essere decisa monocraticamente con decreto presidenziale
+se estremamente urgente (art. 56) e poi confermata dal collegio.
+
+264. CAD e legge Stanca: accessibilità digitale delle PA
+Il CAD stabilisce il diritto di accedere ai servizi pubblici in modo accessibile. La legge Stanca (L. 4/2004)
+impone requisiti tecnici di accessibilità di siti e strumenti informatici per persone con disabilità, sulla
+base di linee guida AgID, WCAG e direttiva UE 2016/2102. Le PA devono pubblicare la dichiarazione di
+accessibilità e garantire usabilità. AgID vigila e sanziona.
+
+272. Quando sussiste l’obbligo di motivazione del provvedimento amministrativo?
+L'art. 3 L. 241/1990 impone la motivazione di ogni provvedimento amministrativo, anche nei concorsi e
+nel personale, tranne gli atti normativi e a contenuto generale. Deve indicare i presupposti di fatto e le
+ragioni giuridiche determinanti la decisione, in modo da renderne conoscibile l'iter logico
+(eventualmente per relationem). Garantisce trasparenza, controllo e tutela giurisdizionale. Il difetto di
+motivazione è vizio di legittimità.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 6
+277. Quali sono i presupposti dell’azione risarcitoria nei confronti della PA?
+La responsabilità extracontrattuale della PA (art. 2043 c.c.; art. 30 c.p.a.) richiede: condotta illegittima,
+lesione di un interesse legittimo o diritto soggettivo meritevole di tutela, danno ingiusto, nesso causale,
+elemento soggettivo (colpa dell'apparato). Il termine per l'azione risarcitoria è di 120 giorni dal fatto
+(art. 30 c.p.a.). L'illegittimità del provvedimento non basta: il giudice valuta la spettanza del bene della
+vita.
+
+293. Quali sono i tre criteri del principio di proporzionalità nell’azione amministrativa?
+Il principio di proporzionalità (art. 1 L. 241/1990 e diritto UE) richiede che l'atto amministrativo sia:
+idoneo al raggiungimento dello scopo (adeguatezza), necessario (mezzo meno restrittivo tra quelli
+possibili) e proporzionato in senso stretto (equilibrio tra vantaggi pubblici e sacrificio degli interessi
+privati). Limita la discrezionalità amministrativa.
+
+307. Settori di competenza del Tribunale amministrativo regionale
+Il TAR ha giurisdizione di legittimità sugli interessi legittimi; giurisdizione esclusiva (art. 133 c.p.a.) in
+materie come appalti pubblici, urbanistica ed edilizia, servizi pubblici, concessioni, accesso ai
+documenti, silenzio, ottemperanza; in alcuni casi giurisdizione di merito (es. ottemperanza, sanzioni).
+Competenza territoriale in base alla sede dell'ente emanante. Appello al Consiglio di Stato.
+
+308. Accesso documentale ai dati pubblici
+Il diritto di accesso ai documenti amministrativi (artt. 22 ss. L. 241/1990) spetta a chi abbia un interesse
+diretto, concreto e attuale. Il documento amministrativo comprende qualsiasi rappresentazione di atti
+formati o detenuti dalla PA. Si esercita con richiesta motivata e visione o estrazione di copia;
+l'amministrazione risponde entro 30 giorni (silenzio-rigetto). Limiti: segreto di Stato, riservatezza di
+terzi, ordine pubblico. Il rifiuto è impugnabile al TAR in 30 giorni.
+
+310. Che cos’è la discrezionalità amministrativa e quali limiti incontra?
+La discrezionalità amministrativa è la facoltà di scegliere, nel rispetto della legge, tra più soluzioni
+possibili per soddisfare l'interesse pubblico, ponderando interessi (discrezionalità amministrativa) o
+valutando fatti complessi (tecnica). Limiti: legge, finalità pubblica, motivazione, ragionevolezza,
+proporzionalità, imparzialità. Il sindacato giurisdizionale si estende all'eccesso di potere (sviamento,
+illogicità, travisamento dei fatti), ma non alla pura opportunità (salvo giurisdizione di merito).
+
+314. Qual è il ruolo del Consiglio di Stato nell’ordinamento italiano e quali funzioni
+consultive e giurisdizionali svolge?
+Il Consiglio di Stato (art. 100 Cost.) è organo di consulenza giuridico-amministrativa del Governo (pareri
+obbligatori su regolamenti, atti normativi, ricorsi straordinari) e organo di giurisdizione amministrativa:
+giudice d'appello contro le sentenze dei TAR, giudice di primo e unico grado in alcune materie (es. atti
+del Consiglio dei ministri), giudice dell'ottemperanza. Garantisce la giustizia nell'amministrazione.
+
+324. Quali sono i caratteri del provvedimento amministrativo? Si spieghino tipicità,
+nominatività e imperatività e si distinguano efficacia, esecutività ed esecutorietà.
+Il provvedimento è atto unilaterale con cui la PA incide sulla sfera dei destinatari. Tipicità: i
+provvedimenti sono solo quelli previsti dalla legge (principio di legalità). Nominatività: sono individuati
+da un nome (concessione, autorizzazione). Imperatività: capacità di modificare unilateralmente la sfera
+giuridica altrui. Efficacia: produzione degli effetti; esecutività: attitudine a essere eseguito;
+esecutorietà: potere di eseguirlo coattivamente, solo se previsto dalla legge (art. 21-ter).
+
+329. In che cosa consiste la sospensione dell’efficacia o dell’esecuzione del
+provvedimento amministrativo? Chi può disporla, per quali ragioni e con quali limiti di
+durata?
+Art. 21-quater L. 241/1990: l'efficacia o l'esecuzione del provvedimento può essere sospesa, per gravi
+ragioni e per il tempo strettamente necessario, dallo stesso organo che l'ha emanato o da altro organo
+previsto dalla legge. Il termine è prefissato e può essere prorogato o differito una sola volta, per cause
+eccezionali. Differisce dalla revoca perché non elimina l'atto.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 7
+330. Che cosa si intende per decentramento e deconcentrazione amministrativa? Quali
+differenze ci sono tra i due concetti?
+Decentramento: trasferimento di funzioni e potestà dallo Stato ad enti autonomi dotati di personalità
+giuridica (Regioni, enti locali): decentramento istituzionale o autarchico, con autonomia.
+Deconcentrazione: attribuzione di competenze ad uffici periferici dello stesso ente (prefetture,
+questure), che restano gerarchicamente subordinati: nessuna autonomia. La prima crea nuovi centri di
+imputazione, la seconda ridistribuisce competenze interne.
+
+338. Che cos’è la conferenza di servizi? Quali tipi prevede la legge n. 241/1990 e come
+si distinguono la modalità semplificata asincrona e quella simultanea sincrona?
+La conferenza di servizi (artt. 14 ss. L. 241/1990) serve a coordinare più amministrazioni in un
+procedimento. Può essere istruttoria o decisoria. Modalità semplificata asincrona (regola):
+comunicazione di indizione, termine per rendere determinazioni (di regola 45 giorni, 90 per tutela
+ambientale), silenzio equivale a assenso; decisione motivata. Modalità simultanea sincrona: riunione in
+presenza o telematica, in caso di dissensi qualificati o su richiesta. Si conclude con la determinazione
+motivata di conclusione che sostituisce tutti gli atti.
+
+
+
+
+                                       RIPAM 341 - risposte - pag. 8
+Contabilità pubblica (43)
+27. Chi sono i soggetti della contabilità di Stato?
+Soggetti della contabilità di Stato: le amministrazioni centrali (ministeri, organi costituzionali con
+autonomia contabile), gli agenti contabili (tesorieri, consegnatari, agenti della riscossione, che
+maneggiano denaro o beni pubblici e rendono il conto giudiziale alla Corte dei conti), i funzionari
+delegati, gli ordinatori primari (ministri) e secondari (dirigenti), le Ragionerie (RGS e UCB) che
+controllano la regolarità. Oggi la contabilità riguarda l'intero perimetro delle amministrazioni pubbliche
+(L. 196/2009).
+
+28. Che cosa prevede l'articolo 81 della Costituzione?
+L'art. 81 Cost., riformato dalla L. cost. 1/2012, sancisce l'equilibrio tra entrate e spese del bilancio
+tenendo conto delle fasi avverse e favorevoli del ciclo economico. Il ricorso all'indebitamento è
+consentito solo per tener conto degli effetti del ciclo o al verificarsi di eventi eccezionali, con
+autorizzazione a maggioranza assoluta delle Camere. Ogni legge che comporta nuovi oneri deve
+indicare i mezzi per farvi fronte (obbligo di copertura). Le Camere approvano ogni anno con legge i
+bilanci e il rendiconto.
+
+29. Quali sono gli indicatori di sostenibilità della finanza pubblica?
+Indicatori principali: rapporto deficit/PIL (indebitamento netto), rapporto debito/PIL, saldo primario (al
+netto degli interessi), saldo strutturale (corretto per il ciclo e le una tantum), spesa netta, onere per
+interessi in rapporto al PIL, costo medio del debito, durata media (vita media) del debito, rapporto tra
+spesa corrente e entrate, indicatori di sostenibilità S1 e S2 elaborati dalla Commissione UE e dal FMI.
+
+30. Come si è evoluto il Patto di stabilità europeo?
+Il Patto di stabilità e crescita (1997) fissa come riferimento deficit al 3% del PIL e debito al 60%. È stato
+rafforzato con il "six pack" e "two pack" (2011-13), con il Fiscal Compact (2012) e l'obbligo di pareggio
+strutturale. Nel 2020 è stata attivata la clausola di salvaguardia generale per la pandemia. La riforma
+entrata in vigore nel 2024 introduce piani strutturali di bilancio di medio termine (4-7 anni), basati su
+una traiettoria di spesa netta, con salvaguardie sul deficit e sul debito.
+
+31. Come è strutturato il bilancio dello Stato tra entrate e spese?
+Il bilancio dello Stato (L. 196/2009) è articolato in entrate (titoli: entrate tributarie, extratributarie,
+alienazioni, accensione di prestiti) e spese (titoli: correnti, in conto capitale, rimborso passività
+finanziarie). La spesa è articolata per missioni (funzioni principali) e programmi (aggregati omogenei), e
+ulteriormente in azioni. Dal 2016 è un bilancio annuale di competenza e cassa, con previsione triennale.
+
+32. Che cosa sono Sezione I e Sezione II della legge di bilancio?
+Dal 2016 la legge di bilancio è unica e si compone di due sezioni. La Sezione I contiene le disposizioni
+normative (ex legge di stabilità) in materia di entrate e spese, con effetti finanziari, e il quadro di
+riferimento. La Sezione II contiene le previsioni di entrata e spesa a legislazione vigente, rimodulate e
+con le variazioni derivanti dalla Sezione I (ex bilancio), per missioni e programmi.
+
+33. Differenza tra stanziamenti di competenza e di cassa
+Gli stanziamenti di competenza autorizzano gli impegni di spesa e l'accertamento delle entrate che
+nascono nell'esercizio, a prescindere dal pagamento. Gli stanziamenti di cassa indicano l'ammontare
+massimo dei pagamenti che si possono effettuare nell'esercizio e sono riferiti alla gestione di
+competenza e dei residui. Nella competenza rileva il sorgere dell'obbligazione, nella cassa il flusso
+monetario effettivo.
+
+34. Differenza tra bilancio di competenza e bilancio di cassa
+Il bilancio di competenza registra le operazioni nell'esercizio in cui sorgono i diritti e le obbligazioni
+(accertamenti e impegni), mentre il bilancio di cassa registra incassi e pagamenti effettivi dell'esercizio.
+Il bilancio di competenza giuridica o finanziaria è la base dell'armonizzazione. Dal 2016 lo Stato adotta
+una competenza finanziaria potenziata affiancata dalla cassa.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 9
+35. Quali sono le fasi dell'entrata e della spesa?
+Entrata: accertamento (individuazione di credito e debitore), riscossione (incasso materiale),
+versamento (nelle casse dell'erario). Spesa: impegno (obbligazione giuridica verso un creditore),
+liquidazione (determinazione dell'importo dovuto), ordinazione (emissione del mandato di pagamento),
+pagamento (erogazione materiale dalla tesoreria). Dal D.Lgs. 118/2011 l'impegno si imputa all'esercizio
+in cui l'obbligazione è esigibile.
+
+36. Che cosa comporta il mancato accertamento delle entrate nel bilancio?
+Il mancato accertamento riduce le entrate di competenza e, se il minor gettito non è compensato, può
+determinare squilibri tra entrate e spese, disavanzo di amministrazione, necessità di tagli o di manovre
+correttive, utilizzo del fondo di riserva, obbligo di riequilibrio da parte dell'ente locale (art. 193 TUEL).
+Se riguarda crediti inesigibili si accantona il FCDE.
+
+37. Che cos'è il conto disponibilità del Tesoro e dove è aperto?
+Il conto disponibilità del Tesoro per il servizio di tesoreria è il conto corrente intestato al Ministero
+dell'Economia presso la Banca d'Italia, nel quale confluiscono incassi e pagamenti dello Stato. Su di
+esso il Tesoro può avere un saldo anche negativo, entro limiti, e riceve interessi. Gli scoperti sono
+regolati dalla normativa europea, che vieta il finanziamento monetario del debito (art. 123 TFUE).
+
+38. Qual è il ruolo della Banca d'Italia nella tesoreria dello Stato?
+La Banca d'Italia svolge per conto dello Stato il servizio di tesoreria provinciale (dal 2012 in forma di
+tesoreria unica), gestisce il conto disponibilità, esegue incassi e pagamenti, e partecipa alle operazioni
+di emissione dei titoli di Stato. Dal divieto di finanziamento monetario (art. 123 TFUE) deriva che non
+può concedere anticipazioni al Tesoro in forma di scoperto. Cura anche il circuito dei pagamenti
+SIOPE+.
+
+39. Che cosa rappresenta la codifica SIOPE?
+Il SIOPE (Sistema informativo sulle operazioni degli enti pubblici) è la codifica gestionale uniforme di
+incassi e pagamenti delle amministrazioni pubbliche, rilevati dai tesorieri e trasmessi alla Banca d'Italia.
+Consente il monitoraggio dei conti, il consolidamento della finanza pubblica e la costruzione degli
+aggregati SEC. SIOPE+ lo ha rafforzato con l'intermediazione dei flussi di ordinativi e il controllo sui
+tempi di pagamento delle fatture.
+
+40. Che cos'è il servizio di tesoreria dello Stato?
+Il servizio di tesoreria dello Stato comprende le operazioni di incasso delle entrate e pagamento delle
+spese dello Stato, e la custodia dei fondi. È affidato alla Banca d'Italia. Per gli enti locali, la tesoreria è
+svolta da un istituto bancario tesoriere. Con la tesoreria unica le disponibilità degli enti sono depositate
+presso la tesoreria statale, per contenere il fabbisogno e il debito.
+
+41. Che cos'è il rendiconto generale dello Stato?
+Il rendiconto generale dello Stato (art. 81 Cost.; L. 196/2009) è il documento con cui il Governo rende
+conto ogni anno al Parlamento della gestione finanziaria. Si articola in conto del bilancio (entrate e
+spese di competenza e cassa, residui) e conto del patrimonio (attività e passività). Viene deliberato dal
+Consiglio dei ministri, parificato dalla Corte dei conti e approvato con legge.
+
+42. Che cosa verifica la Corte dei conti con i controlli finanziari?
+La Corte dei conti verifica la regolarità finanziaria e contabile dell'attività amministrativa: controllo
+preventivo di legittimità sugli atti, controllo successivo sulla gestione (efficacia, efficienza,
+economicità), parifica dei rendiconti, controllo sulla copertura finanziaria delle leggi e sulla gestione
+degli enti sovvenzionati, relazioni al Parlamento. Verifica il rispetto del pareggio di bilancio e
+dell'indebitamento, con la collaborazione delle sezioni regionali per gli enti locali.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 10
+43. Che cosa significa contabilità finanziaria potenziata?
+La contabilità finanziaria potenziata (D.Lgs. 118/2011) mantiene il sistema finanziario autorizzatorio,
+ma introduce il principio che le obbligazioni giuridiche sono registrate quando sorgono, ma imputate
+all'esercizio in cui diventano esigibili. Garantisce corrispondenza tra imputazione e flussi di cassa,
+riduce i residui, e il Fondo pluriennale vincolato garantisce la copertura delle spese già impegnate ma
+esigibili in esercizi successivi.
+
+44. Quali documenti servono alla programmazione degli enti territoriali (DUP, bilancio
+di previsione, PEG)?
+Il DUP (Documento unico di programmazione) è il principale strumento di guida strategica e operativa,
+con orizzonte pluriennale (sezione strategica di 5 anni, sezione operativa di 3). Il bilancio di previsione è
+triennale e ha valore autorizzatorio. Il PEG (Piano esecutivo di gestione) assegna ai responsabili obiettivi
+e risorse, per capitoli, e dal 2023 confluisce nel PIAO. Seguono variazioni di bilancio, assestamento,
+rendiconto, bilancio consolidato.
+
+45. Che differenza c'è tra Fondo pluriennale vincolato e residui?
+Il Fondo pluriennale vincolato (FPV) è un saldo finanziario che garantisce la copertura di spese
+impegnate in un esercizio ma esigibili in esercizi successivi, finanziate da entrate già accertate. I residui
+sono somme impegnate (passivi) o accertate (attivi) e non ancora pagate o riscosse alla fine
+dell'esercizio, che si riportano all'esercizio seguente. Il FPV assicura copertura e pianificazione, i residui
+sono crediti e debiti già maturati.
+
+46. Qual è il collegamento tra contabilità pubblica e revisione della spesa?
+La contabilità pubblica produce le informazioni su cui si basa la revisione della spesa (spending review):
+permette di individuare costi, centri di spesa, residui, spese per funzione e di valutare efficienza ed
+efficacia. La spending review (art. 22-bis L. 196/2009) usa analisi per missioni e programmi e indicatori
+di performance, e conduce a risparmi strutturali, riallocazione e riforme, evitando tagli lineari.
+
+47. Come si valuta la sostenibilità di medio-lungo periodo dei sistemi previdenziali?
+Si utilizzano proiezioni demografiche e macroeconomiche di lungo periodo (30-50 anni) con modelli
+della RGS e il rapporto Ageing Report della Commissione UE: andamento della spesa pensionistica in
+rapporto al PIL, numero di occupati per pensionato, tassi di sostituzione, età di pensionamento legata
+alla speranza di vita, sistema contributivo (che lega prestazioni ai contributi), indicatori di sostenibilità
+S1 e S2.
+
+175. Fondo crediti di dubbia esigibilità (FCDE): finalità e funzionamento
+Il FCDE (D.Lgs. 118/2011, all. 4/2) è un accantonamento in bilancio, calcolato sulla media tra incassi e
+accertamenti di entrate di dubbia o difficile esazione negli ultimi cinque esercizi, che non genera spesa
+ma riduce le risorse disponibili. Finalità: evitare di finanziare spese con entrate non riscosse, garantire
+equilibrio e prudenza. Si applica in sede di previsione, assestamento e rendiconto. Il FCDE si calcola per
+tipologia di entrata e si adegua ogni anno.
+
+176. FCDE nel bilancio preventivo e nel rendiconto: come opera e che cosa garantisce?
+Nel bilancio di previsione il FCDE è iscritto tra le spese (missione 20) come accantonamento e fa venir
+meno risorse spendibili. Nel rendiconto si quantifica l'accantonamento in funzione dei residui attivi di
+dubbia esigibilità e si include nel risultato di amministrazione come quota accantonata. Così assicura
+che i crediti non riscossi non finanzino spese e che l'avanzo sia veritiero, proteggendo dal rischio di
+disavanzo occulto.
+
+177. Quale decreto disciplina l’armonizzazione contabile? D.Lgs. 118/2011
+Il D.Lgs. 23 giugno 2011, n. 118 ha introdotto l'armonizzazione dei sistemi contabili e degli schemi di
+bilancio di Regioni, enti locali e loro organismi (in attuazione della L. 42/2009 sul federalismo fiscale),
+con vigenza piena dal 2015-2016. Prevede contabilità finanziaria potenziata, contabilità
+economico-patrimoniale, piano dei conti integrato, bilancio consolidato, principi contabili applicati.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 11
+184. Effetti dell’inclusione di un ente nel perimetro delle amministrazioni pubbliche
+L'inclusione di un ente nell'elenco ISTAT delle amministrazioni pubbliche (S13) comporta l'obbligo di
+rispettare le regole di finanza pubblica (patto di stabilità, vincoli di bilancio, contenimento della spesa),
+adottare la contabilità armonizzata, trasmettere dati alla BDAP e alla RGS, essere soggetto a controlli e
+alla spending review. Incide sul deficit e sul debito consolidati del Paese: le sue perdite sono computate
+nell'indebitamento netto.
+
+193. Che cos’è il risultato di amministrazione e come si determina nel rendiconto?
+Il risultato di amministrazione è l'avanzo o il disavanzo di fine esercizio: Fondo di cassa al 31/12 +
+residui attivi - residui passivi - FPV. Si distingue in fondi accantonati (FCDE), vincolati, destinati agli
+investimenti e liberi. Se negativo, va ripianato nei tempi previsti. Dà la misura dell'equilibrio finanziario
+e delle risorse utilizzabili nell'esercizio successivo.
+
+196. Competenza finanziaria tradizionale e potenziata: differenze
+Competenza finanziaria tradizionale: l'impegno e l'accertamento sono registrati nell'esercizio in cui
+sorge l'obbligazione giuridica, anche se non esigibile, con residui e riporti spesso elevati. Competenza
+potenziata: l'obbligazione è registrata quando sorge, ma imputata all'esercizio in cui scade l'esigibilità,
+con FPV a copertura. Così il bilancio è più veritiero, riduce i residui e allinea competenza e cassa.
+
+197. Accertamento delle entrate: diritto a riscuotere e imputazione contabile
+L'accertamento (art. 179 TUEL) è la fase in cui si verifica la ragione del credito, il debitore, l'importo e la
+scadenza, e si registra l'entrata. Nella competenza potenziata si accertano le entrate quando il diritto è
+perfezionato, e si imputano all'esercizio in cui il credito scade (esigibilità). Se dubbie, si accantona il
+FCDE. Il diritto a riscuotere si perfeziona con titolo idoneo.
+
+198. Obbligazioni giuridiche e imputazione all’esercizio di esigibilità; rapporto tra
+momento giuridico e finanziario
+Le obbligazioni giuridiche passive si registrano quando sorgono (momento giuridico), ma si imputano
+all'esercizio in cui scadono (momento finanziario, esigibilità). Così la spesa riflette il periodo in cui
+avviene il pagamento. Il decalage tra i due momenti è coperto da FPV. Il rapporto tra giuridico e
+finanziario è alla base del principio della competenza finanziaria potenziata.
+
+215. Ordinazione della spesa: che cosa avviene in questa fase?
+L'ordinazione è la fase con cui l'ente dispone il pagamento, emettendo mandato di pagamento al
+tesoriere, indicando il creditore, l'importo, la causale, il capitolo e l'impegno. Segue la liquidazione e
+precede il pagamento. L'ordinazione è firmata dal responsabile del servizio finanziario o altro soggetto
+competente.
+
+216. Fasi della spesa: impegno, liquidazione, ordinazione e pagamento
+Impegno: l'ente assume l'obbligazione giuridicamente perfezionata verso un creditore, con la copertura
+e l'imputazione all'esercizio. Liquidazione: verifica del diritto del creditore, importo e della regolare
+prestazione. Ordinazione: ordine di pagamento (mandato) al tesoriere. Pagamento: l'estinzione
+dell'obbligazione tramite il tesoriere. Le prime due fasi sono di competenza, le ultime due di cassa.
+
+235. Processo di valutazione contabile (formulazione riportata parzialmente)
+La domanda è riportata parzialmente: si tratta probabilmente del processo di valutazione contabile o di
+valutazione delle poste di bilancio. In termini generali, la valutazione contabile consiste nell'attribuire
+valore alle poste patrimoniali ed economiche secondo principi di prudenza, competenza, continuità e
+costo storico (artt. 2423 ss. c.c.; principi del D.Lgs. 118/2011 e OIC/IPSAS). Nel caso pubblico si
+applicano la contabilità economico-patrimoniale e i criteri dell'allegato 4/3. È opportuno precisare il
+contesto con la commissione.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 12
+236. Obiettivi dell’armonizzazione contabile
+Gli obiettivi dell'armonizzazione contabile: rendere i bilanci omogenei, confrontabili e aggregabili tra
+enti; consentire il consolidamento dei conti pubblici; garantire trasparenza, prudenza e veridicità;
+migliorare il controllo e il coordinamento della finanza pubblica; rispettare gli obblighi europei (direttiva
+2011/85/UE); consentire il monitoraggio degli equilibri; avvicinare i criteri alla contabilità SEC e agli
+standard IPSAS.
+
+259. Quali sono le entrate dei Comuni? Che cos’è il Fondo di solidarietà comunale?
+Entrate dei Comuni: tributarie (IMU, addizionale comunale IRPEF, TARI, imposta di soggiorno),
+trasferimenti da Stato e Regioni, entrate extratributarie (tariffe, proventi dei servizi, sanzioni, rendite
+patrimoniali), entrate in conto capitale (oneri di urbanizzazione, alienazioni), accensioni di prestiti. Il
+Fondo di solidarietà comunale è un fondo di perequazione orizzontale, alimentato da quota del gettito
+IMU, che redistribuisce risorse in base ai fabbisogni standard e capacità fiscali.
+
+270. Quali sono le funzioni del piano dei conti integrato?
+Il piano dei conti integrato (D.Lgs. 118/2011) è l'elenco unico di conti finanziari, economici e
+patrimoniali, comune a tutte le PA, con codifica gerarchica. Consente di collegare in modo automatico
+la contabilità finanziaria con quella economico-patrimoniale, rende i dati omogenei, aggregabili e
+consolidabili, e semplifica il raccordo con i conti SEC e l'invio dei dati alla BDAP.
+
+298. Controlli successivi della Corte dei conti
+I controlli successivi della Corte dei conti (L. 20/1994) riguardano la gestione del bilancio e del
+patrimonio, l'efficienza, l'economicità e l'efficacia delle amministrazioni, i rendiconti, il referto sul
+coordinamento della finanza pubblica, la gestione degli enti cui lo Stato contribuisce in via ordinaria.
+Terminano con relazioni al Parlamento e all'amministrazione, che adotta misure correttive. Non hanno
+funzione sanzionatoria, ma possono portare a azioni di responsabilità.
+
+301. Autonomia finanziaria degli enti locali e rapporti con lo Stato
+L'autonomia finanziaria degli enti locali (art. 119 Cost.) comprende autonomia di entrata e di spesa, con
+tributi ed entrate propri, compartecipazioni al gettito erariale e un fondo perequativo per territori con
+minore capacità fiscale. È limitata dal coordinamento della finanza pubblica, dai vincoli di
+indebitamento (ammesso solo per investimenti) e di equilibrio di bilancio (L. cost. 1/2012; L. 243/2012).
+Il federalismo fiscale è attuato con la L. 42/2009.
+
+303. Documenti a corredo del rendiconto generale dello Stato
+Al rendiconto generale dello Stato sono allegati: il conto del bilancio, il conto del patrimonio, la nota
+integrativa (con analisi per missioni e programmi), la relazione sulla gestione, il rendiconto dei fondi di
+riserva, il conto riassuntivo del Tesoro, i dati sui residui e sulle gestioni fuori bilancio, e le note sui
+risultati degli indicatori. Segue la relazione della Corte dei conti in sede di parifica.
+
+312. In che cosa consiste l’obbligo di copertura finanziaria delle leggi dello Stato e
+come si assicura la copertura?
+L'art. 81, c.3 Cost. richiede che ogni legge che comporti nuovi o maggiori oneri indichi i mezzi per farvi
+fronte. La L. 196/2009 (art. 17) prevede che la copertura si assicuri con: riduzione di precedenti
+autorizzazioni di spesa, modifica o abrogazione di norme, nuove o maggiori entrate (solo per spese
+permanenti con entrate permanenti), fondi speciali. Servono relazione tecnica, verifica della Ragioneria
+generale e controllo della Corte dei conti.
+
+322. In che cosa consiste il controllo preventivo di legittimità della Corte dei conti, su
+quali atti si esercita e quali effetti produce?
+Il controllo preventivo di legittimità (L. 20/1994, art. 3) verifica la conformità a legge degli atti
+governativi: atti normativi del Governo a rilevanza esterna, atti generali di programmazione,
+provvedimenti dei ministri sulla spesa e contratti statali sopra soglia, nomine. Se l'atto è conforme, la
+Corte appone il visto, che lo rende efficace; se difforme, ricusa il visto e l'atto non diventa efficace,
+salvo registrazione con riserva su deliberazione del Consiglio dei ministri. Il termine è di 30 giorni.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 13
+325. Il candidato commenti la tabella di finanza pubblica relativa al 2026, individuando
+i principali saldi e spiegandone l’andamento.
+La tabella non è disponibile nel testo: ecco il metodo con cui commentarla. Individuare i saldi principali
+(indebitamento netto, avanzo primario, interessi passivi, spesa corrente primaria, pressione fiscale,
+debito/PIL), confrontarli con gli anni precedenti, e leggerne l'andamento. Per l'Italia, il quadro
+programmatico indica un deficit in discesa verso il 3% o sotto, un avanzo primario in rafforzamento,
+interessi elevati e un debito/PIL intorno al 135-138% (da verificare sul documento). Spiegare cause
+(ciclo, spesa per interessi, misure di bilancio, PNRR) e rischi.
+
+328. In che cosa consiste la valutazione della spesa pubblica e come si valutano
+l’efficienza e l’efficacia degli interventi?
+La valutazione della spesa pubblica misura se le risorse impiegate raggiungono i risultati. Efficienza:
+rapporto tra output e risorse (costo unitario, tempi); efficacia: grado di raggiungimento degli obiettivi o
+outcome; economicità: costi minimi a parità di qualità. Strumenti: indicatori di performance, spending
+review, analisi costi-benefici, valutazione di impatto, confronto con benchmark e costi standard.
+
+335. Che cosa prevede il principio di integrità del bilancio e come devono essere
+iscritte le entrate e le spese?
+Il principio dell'integrità del bilancio impone di iscrivere le entrate e le spese al loro valore pieno, senza
+compensazioni di partite (principio del lordo): le entrate vanno iscritte senza detrazione di spese di
+riscossione, le spese senza detrazione di entrate. Eccezioni solo per legge. Garantisce trasparenza,
+completezza e controllo parlamentare, ed è collegato ai principi di unità, universalità e veridicità.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 14
+Scienza delle finanze (35)
+48. Che cosa sono i beni pubblici? Quali caratteristiche hanno?
+I beni pubblici puri sono caratterizzati da non rivalità nel consumo (il consumo di uno non riduce quello
+di altri) e non escludibilità (non si può impedire l'uso a chi non paga). Esempi: difesa nazionale,
+illuminazione stradale, sicurezza. Generano il problema del free rider: i privati non li producono in
+quantità efficiente, per cui li offre lo Stato finanziandoli con imposte. Esistono beni pubblici impuri, club
+e risorse comuni.
+
+49. Che cos'è il teorema di impossibilità di Arrow?
+Il teorema di Arrow (1951) dimostra che non esiste una regola di aggregazione delle preferenze
+individuali in una scelta sociale che soddisfi contemporaneamente un insieme di condizioni ragionevoli:
+dominio universale, unanimità (Pareto), indipendenza dalle alternative irrilevanti, non dittatura. Quando
+le alternative sono almeno tre, l'unica regola che le rispetta è la dittatura. Implica che il voto a
+maggioranza può produrre cicli (paradosso di Condorcet).
+
+50. Che cos'è l'indice di Gini e cosa misura?
+L'indice di Gini misura la disuguaglianza nella distribuzione del reddito o della ricchezza. Varia tra 0
+(perfetta uguaglianza) e 1 (massima disuguaglianza: una persona detiene tutto). Si calcola come
+rapporto tra l'area compresa tra la retta di perfetta uguaglianza e la curva di Lorenz, e l'area sotto la
+retta. Non è sensibile a dove nella distribuzione avvengono i trasferimenti.
+
+51. Che cosa sono le esternalità del mercato?
+Le esternalità sono effetti che l'attività di un soggetto produce su terzi senza che vi sia compenso.
+Negative (inquinamento) o positive (istruzione, ricerca): in presenza di esternalità il mercato produce
+quantità non efficienti, perché i costi o benefici privati divergono da quelli sociali. Rimedi: imposte e
+sussidi pigouviani, regolazione, permessi negoziabili, negoziazione (teorema di Coase), definizione dei
+diritti di proprietà.
+
+52. Che cosa si intende per monopolio naturale?
+Un monopolio naturale si ha quando i costi fissi sono molto elevati e i costi medi decrescono lungo tutta
+la dimensione rilevante del mercato (economie di scala), per cui una sola impresa produce al costo
+minimo (reti idriche, elettriche, ferroviarie). Lasciato libero, pratica prezzi superiori al costo marginale;
+l'intervento pubblico consiste in gestione pubblica, regolazione dei prezzi (price cap, rate of return) o
+concessioni.
+
+53. Che cosa sono i beni meritori (merit goods)?
+I beni meritori (Musgrave) sono beni che lo Stato ritiene che i cittadini debbano consumare in quantità
+superiore a quella che sceglierebbero spontaneamente, per ragioni di benessere collettivo anche se i
+consumatori sono informati: istruzione, sanità, vaccinazioni. Si giustifica con la miopia delle preferenze
+o con effetti positivi. Si promuovono con offerta pubblica, sussidi o obblighi. Il contrario sono i demeriti
+(alcol, tabacco, azzardo).
+
+54. Quali sono i fallimenti del mercato e i fallimenti dello Stato (policy failure)?
+Fallimenti del mercato: beni pubblici, esternalità, concorrenza imperfetta e monopoli naturali,
+asimmetrie informative, mercati incompleti, disoccupazione e instabilità, distribuzione ritenuta iniqua.
+Fallimenti dello Stato (policy failure): informazione incompleta, inefficienza burocratica, rent-seeking,
+cattura del regolatore, miopia elettorale, effetti non voluti, costi di intervento. L'intervento pubblico non
+è sempre migliorativo.
+
+55. Che cos'è una tassa pigouviana o un'imposta ambientale?
+La tassa pigouviana è un'imposta pari al danno marginale esterno prodotto da un'attività inquinante:
+porta il costo privato al livello del costo sociale e internalizza l'esternalità, riducendo la produzione al
+livello efficiente. Esempi: carbon tax, imposte sulla CO2, accise su carburanti. Genera gettito (doppio
+dividendo) ma può essere regressiva e difficile da calibrare.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 15
+56. Che cosa sono le tax expenditures (spese fiscali)?
+Le tax expenditures sono agevolazioni fiscali (deduzioni, detrazioni, esenzioni, aliquote ridotte, crediti
+d'imposta) che riducono il gettito per perseguire obiettivi di politica economica o sociale. Equivalgono a
+una spesa pubblica realizzata mediante il sistema fiscale. In Italia sono censite nel rapporto annuale
+sulle spese fiscali (D.Lgs. 160/2015). Vanno valutate per efficacia, equità e costo.
+
+57. Che cosa sono gli scaglioni di imposta e come funziona la progressività?
+Gli scaglioni di imposta dividono il reddito imponibile in fasce a cui si applicano aliquote crescenti, solo
+alla parte di reddito che rientra in ciascuna fascia. Realizzano la progressività per scaglioni: l'aliquota
+media cresce con il reddito, ma l'aliquota marginale è più elevata dell'aliquota media. Evitano salti di
+carico fiscale. Nel 2026 l'IRPEF prevede tre scaglioni (23%, 33%, 43%).
+
+58. Qual è il principio di capacità contributiva?
+Art. 53 Cost.: tutti sono tenuti a concorrere alle spese pubbliche in ragione della loro capacità
+contributiva, e il sistema tributario è informato a criteri di progressività. La capacità contributiva è
+l'idoneità del soggetto a sopportare il prelievo, rivelata da reddito, patrimonio e consumi. Implica equità
+orizzontale (stessa capacità, stesso carico) e verticale (capacità maggiore, carico maggiore).
+
+59. Differenza tra imposte dirette e imposte indirette
+Le imposte dirette colpiscono manifestazioni dirette di capacità contributiva (reddito, patrimonio), e il
+soggetto che le paga è anche quello su cui grava (IRPEF, IRES, IMU). Le imposte indirette colpiscono gli
+scambi e i consumi (IVA, accise, registro) e possono essere traslate sui consumatori. Le prime sono in
+genere più progressive; le seconde più facili da riscuotere ma tendenzialmente regressive.
+
+60. Che cosa sono le entrate tributarie?
+Sono le entrate dello Stato derivanti dal potere impositivo: imposte (prelievo senza controprestazione
+specifica), tasse (corrispettivo di un servizio divisibile) e contributi (per un vantaggio particolare).
+Costituiscono la parte principale delle entrate correnti. Si distinguono in dirette, indirette e in conto
+capitale. Sono iscritte al titolo I del bilancio.
+
+61. Se aumenta un'imposta sul lavoro con offerta poco elastica, che effetto si osserva?
+Quando l'offerta di lavoro è poco elastica, un aumento dell'imposta sul lavoro grava in prevalenza sui
+lavoratori (incidenza economica), perché essi modificano poco la quantità offerta: il salario netto
+scende, mentre il costo lordo per le imprese cambia poco. Il peso morto è limitato. La distorsione è
+minore dell'imposta su una offerta elastica.
+
+62. Cosa accade se aumenta l'IVA su un bene con domanda molto elastica?
+Con domanda molto elastica, un aumento dell'IVA induce una forte riduzione delle quantità acquistate: i
+produttori non riescono a traslare l'imposta sui consumatori e sopportano la maggior parte del carico,
+riducendo il margine di profitto. Il gettito aumenta meno del previsto e la perdita di benessere (peso
+morto) è maggiore.
+
+63. Come funziona la sugar tax?
+La sugar tax è un'imposta di consumo sulle bevande analcoliche con zuccheri aggiunti, applicata per
+litro o per quantità di zucchero. È un'imposta pigouviana: mira a ridurre il consumo di zucchero per i
+costi sanitari esterni (obesità, diabete) e a incentivare la riformulazione dei prodotti; dà gettito ma può
+essere regressiva. In Italia è stata introdotta nel 2020 e più volte rinviata.
+
+64. Che cosa si intende per 'anomalie fiscali'? Precisare il quesito esatto
+Il quesito è formulato in modo non preciso. Per anomalie fiscali si intendono comportamenti o dati di
+bilancio incoerenti con il reddito dichiarato: scostamenti rispetto a indicatori sintetici di affidabilità
+(ISA), differenze tra gettito atteso e incassato, incongruenze nelle dichiarazioni IVA, discrepanze emerse
+da incroci di banche dati. Servono a selezionare i controlli e a contrastare evasione ed elusione (analisi
+del rischio). Conviene chiedere alla commissione di specificare.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 16
+65. Quali possono essere le conseguenze di una finanza pubblica non sostenibile?
+Conseguenze: aumento del costo di finanziamento (spread e rating più bassi), crowding-out degli
+investimenti privati, minori margini per politiche anticicliche, rischio di crisi del debito e di perdita di
+accesso ai mercati, richiesta di manovre restrittive, inflazione se monetizzato, trasferimento del peso
+alle generazioni future, tensioni distributive. Nell'area euro, anche procedure per disavanzi eccessivi e
+vincoli europei.
+
+66. Qual è la relazione tra debito pubblico e sostenibilità finanziaria?
+Il debito è sostenibile se il Paese può onorare gli impegni senza correzioni eccessive. La dinamica del
+rapporto debito/PIL dipende dal differenziale tra tasso di interesse reale (r) e tasso di crescita (g) e dal
+saldo primario: se r > g, serve un avanzo primario per stabilizzare il rapporto. Debito elevato aumenta
+la spesa per interessi e riduce la sostenibilità; una crescita più alta, o un avanzo primario, la migliorano.
+
+67. Che cosa si intende per efficienza ed equità nella finanza pubblica?
+L'efficienza riguarda l'allocazione ottimale delle risorse (ottimo paretiano, assenza di sprechi); l'equità
+riguarda la giustizia distributiva (orizzontale e verticale). Spesso sono in conflitto (trade-off tra equità ed
+efficienza): la redistribuzione può ridurre gli incentivi, ma anche migliorare il benessere sociale. Il
+progetto pubblico deve considerare entrambe, con funzioni di benessere sociale.
+
+174. Sugar tax: natura, obiettivi ed effetti economici
+La sugar tax è un'imposta indiretta sulle bevande zuccherate, applicata sulla quantità e non sul valore.
+Natura: imposta pigouviana di consumo. Obiettivi: ridurre il consumo di zuccheri, contrastare l'obesità,
+stimolare l'innovazione dei produttori, raccogliere gettito destinato alla sanità. Effetti: riduce il consumo
+(soprattutto con domanda elastica), incide sulle imprese e sui prezzi, è regressiva perché pesa di più sui
+redditi bassi.
+
+194. Propensione marginale al consumo: significato
+La propensione marginale al consumo (PMC) è la quota di ogni euro aggiuntivo di reddito disponibile
+destinata al consumo: PMC = ΔC/ΔY, compresa tra 0 e 1. Determina il moltiplicatore keynesiano
+1/(1-PMC): maggiore è la PMC, più forte l'effetto di uno stimolo fiscale. È più alta per i redditi bassi.
+
+195. Elasticità al reddito: significato e interpretazione
+L'elasticità al reddito misura la variazione percentuale della quantità domandata di un bene a fronte di
+una variazione dell'1% del reddito. Se è maggiore di 1 il bene è di lusso, tra 0 e 1 è normale (o
+necessario), se negativa è inferiore. Serve a prevedere gli effetti di variazioni del reddito e delle
+imposte sulla domanda e sul gettito.
+
+201. Teorema di impossibilità di Arrow e scelte collettive
+Il teorema di Arrow mostra l'impossibilità di costruire una funzione di benessere sociale che aggreghi
+preferenze ordinali individuali e rispetti insieme dominio universale, unanimità, indipendenza dalle
+alternative irrilevanti e non dittatura. Nelle scelte collettive implica che il voto non è sempre razionale
+(cicli di Condorcet) e che occorre rinunciare ad almeno una condizione. È alla base della teoria della
+scelta pubblica.
+
+237. Ottimo paretiano: significato ed esempi
+Un'allocazione è Pareto-ottimale quando non è possibile migliorare la situazione di un individuo senza
+peggiorare quella di almeno un altro. Esempio: in una scatola di Edgeworth, i punti sulla curva dei
+contratti. Il primo teorema del benessere afferma che l'equilibrio concorrenziale è Pareto-efficiente (in
+assenza di fallimenti del mercato). Non dice nulla sull'equità: molte allocazioni efficienti sono diseguali.
+
+249. Quali sono le caratteristiche principali dell’IRPEF?
+L'IRPEF è l'imposta personale e progressiva sul reddito complessivo delle persone fisiche.
+Caratteristiche: personalità (tiene conto della situazione del contribuente), progressività per scaglioni,
+base imponibile ampia (redditi da lavoro, impresa, capitale, fondiari, diversi), deduzioni e detrazioni,
+addizionali regionali e comunali, ritenute alla fonte per i dipendenti, dichiarazione annuale. Ha un ruolo
+centrale nella redistribuzione. Gli scaglioni attuali sono tre (23%, 33%, 43%).
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 17
+257. Quali interventi possono contrastare l’evasione dell’IVA?
+Interventi contro l'evasione IVA: fatturazione elettronica obbligatoria e trasmissione telematica dei
+corrispettivi, split payment, reverse charge nei settori a rischio, incroci tra banche dati e analisi del
+rischio, limiti ai pagamenti in contanti, tracciabilità, cooperazione europea (sistema VIES), lotteria degli
+scontrini, sanzioni e controlli mirati, riduzione della convenienza all'evasione con contrasto di interessi.
+
+260. Quali sono i principali fallimenti del mercato?
+Fallimenti del mercato: beni pubblici (non rivalità e non escludibilità), esternalità positive e negative,
+monopolio e concorrenza imperfetta, monopolio naturale, asimmetrie informative (selezione avversa,
+azzardo morale), mercati incompleti, instabilità macroeconomica (cicli, disoccupazione, inflazione) e
+distribuzione iniqua. Giustificano l'intervento pubblico: allocazione, redistribuzione, stabilizzazione.
+
+269. Come può un Paese migliorare il proprio rating sovrano (esempio: Moody’s e
+MEF)?
+Per migliorare il rating sovrano un Paese deve rafforzare la credibilità dei conti pubblici: ridurre deficit e
+debito/PIL con un avanzo primario stabile, aumentare la crescita potenziale con riforme e investimenti
+(PNRR), migliorare il quadro istituzionale, la stabilità politica e del sistema bancario, allungare la vita
+media del debito e comunicare con trasparenza con agenzie e investitori. Il MEF dialoga regolarmente
+con le agenzie (Moody's, S&P, Fitch, DBRS) fornendo dati e programmi.
+
+276. In che modo deduzioni e detrazioni incidono sulla progressività di un’imposta?
+Deduzioni (riducono la base imponibile) e detrazioni (riducono l'imposta dovuta). Le deduzioni
+favoriscono di più i redditi alti perché il risparmio è proporzionale all'aliquota marginale, e quindi
+attenuano la progressività; le detrazioni sono uguali per tutti, quindi relativamente più rilevanti per i
+redditi bassi e rendono l'imposta più progressiva. Se decrescenti con il reddito, aumentano la
+progressività.
+
+297. Disuguaglianza: definizioni e possibili soluzioni
+La disuguaglianza è la differenza nella distribuzione di reddito, ricchezza e opportunità. Si misura con
+l'indice di Gini, rapporti tra quantili (S80/S20), curva di Lorenz, indici di povertà. Soluzioni: imposte
+progressive, trasferimenti e welfare, istruzione e sanità pubblica, salario minimo, politiche attive del
+lavoro, imposta sulla ricchezza o successioni, contrasto all'evasione. Va bilanciata con l'efficienza.
+
+305. Differenza tra imposta personale e imposta reale
+L'imposta personale tiene conto della situazione complessiva del contribuente (reddito complessivo,
+carichi familiari, deduzioni) ed è proporzionata alla sua capacità contributiva (IRPEF). L'imposta reale
+colpisce singoli cespiti, fatti economici o beni senza considerare la situazione personale del soggetto
+(IMU, imposta di registro). La prima è più equa, la seconda più semplice da applicare.
+
+318. Qual è la differenza tra deficit nominale e deficit strutturale? Come incidono il
+ciclo economico e le misure una tantum?
+Il deficit nominale è l'indebitamento netto effettivo della PA. Il deficit strutturale è il saldo al netto della
+componente ciclica e delle misure una tantum (temporanee), che stima l'equilibrio indipendente dalla
+fase del ciclo. Nelle recessioni il deficit nominale cresce per l'operare degli stabilizzatori automatici,
+mentre quello strutturale non varia. Le una tantum, come entrate eccezionali o condoni, riducono il
+deficit nominale solo temporaneamente.
+
+321. Quali sono le funzioni economiche dello Stato secondo Musgrave e in che cosa
+consistono allocazione, redistribuzione e stabilizzazione?
+Secondo Musgrave lo Stato svolge tre funzioni: allocazione, correggere i fallimenti del mercato per
+offrire beni pubblici e meritori; redistribuzione, modificare la distribuzione di reddito e ricchezza con
+imposte e trasferimenti; stabilizzazione, sostenere occupazione, crescita e prezzi stabili con politica
+fiscale e monetaria anticiclica. Sono tre branche distinte con strumenti propri.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 18
+331. Gli effetti su una imposta ai contributi sociali per le imprese
+Un'imposta sui contributi sociali a carico delle imprese è un aumento del costo del lavoro. Effetti:
+l'incidenza dipende dalle elasticità di domanda e offerta di lavoro; può ridursi l'occupazione o scendere
+il salario netto (traslazione sui lavoratori), o aumentare i prezzi. In breve periodo pesa sulle imprese, nel
+lungo sui lavoratori. Riduce domanda di lavoro, competitività e occupazione, soprattutto per lavoratori
+poco qualificati, e può alimentare il lavoro irregolare.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 19
+Politica economica (36)
+68. Quali sono gli obiettivi e gli strumenti della politica economica?
+Obiettivi: crescita economica, piena occupazione, stabilità dei prezzi, equilibrio della bilancia dei
+pagamenti, equità distributiva, sostenibilità ambientale e dei conti pubblici. Strumenti: politica fiscale
+(spesa, imposte), monetaria (tassi, liquidità), del cambio, dei redditi, politiche strutturali (riforme,
+regolazione, politiche del lavoro, della concorrenza). Secondo Tinbergen servono almeno tanti
+strumenti quanti sono gli obiettivi indipendenti.
+
+69. Che cosa afferma la critica (o 'teorema') di Lucas?
+La critica di Lucas (1976) afferma che i parametri dei modelli econometrici, stimati sui dati passati, non
+sono invarianti rispetto al regime di politica economica, perché gli agenti formano aspettative razionali
+e modificano il comportamento quando cambia la politica. Quindi non si possono valutare politiche
+alternative con modelli a forma ridotta; occorrono modelli con fondamenti microeconomici (parametri
+strutturali).
+
+70. Che cosa significa conflitto tra obiettivi, ad esempio tra inflazione e occupazione?
+Un conflitto tra obiettivi si ha quando il perseguimento di uno ostacola un altro: il caso classico è il
+trade-off tra inflazione e disoccupazione descritto dalla curva di Phillips, per cui una politica espansiva
+riduce la disoccupazione ma aumenta l'inflazione. Altri conflitti: crescita e disavanzo esterno, crescita
+ed equilibrio dei conti pubblici, efficienza ed equità, crescita e ambiente.
+
+71. Che cosa sono gli operatori economici?
+Sono i soggetti che prendono decisioni economiche: famiglie (consumo e offerta di lavoro), imprese
+(produzione e investimenti), pubblica amministrazione (spesa, imposte, regolazione), istituzioni
+finanziarie (banche, assicurazioni) e resto del mondo (esportazioni, importazioni, capitali). Insieme
+formano il sistema economico e interagiscono nei mercati dei beni, del lavoro e della finanza.
+
+72. Cosa sono le tre T di uno stimolo fiscale in tempo di crisi (timely, targeted,
+temporary)?
+Le tre T sono i criteri di uno stimolo fiscale in crisi: tempestivo (timely), cioè attuato rapidamente
+quando serve; mirato (targeted), indirizzato ai soggetti o settori più colpiti, con alta propensione
+marginale al consumo; temporaneo (temporary), limitato al periodo di crisi per non aggravare in modo
+permanente il deficit e il debito.
+
+73. Che effetto può avere una politica fiscale espansiva sul reddito?
+Una politica fiscale espansiva (aumento della spesa pubblica o taglio delle imposte) aumenta la
+domanda aggregata e il reddito per effetto del moltiplicatore keynesiano. L'effetto è ridotto dall'effetto
+spiazzamento (crowding-out), per cui l'aumento dei tassi di interesse riduce gli investimenti, dalle
+importazioni e dalle aspettative di futuro aumento delle imposte (equivalenza ricardiana). È più efficace
+con capacità inutilizzata.
+
+74. Che cos'è il modello IS-LM?
+Il modello IS-LM (Hicks-Hansen) rappresenta l'equilibrio simultaneo del mercato dei beni (curva IS,
+relazione decrescente tra tasso di interesse e reddito) e del mercato della moneta (curva LM, relazione
+crescente). L'intersezione determina reddito e tasso di interesse di equilibrio nel breve periodo, con
+prezzi fissi. Permette di analizzare gli effetti di politica fiscale (sposta IS) e monetaria (sposta LM).
+
+75. Che effetto ha una politica fiscale espansiva quando la LM è molto ripida?
+Se la LM è molto ripida (domanda di moneta poco sensibile al tasso, caso classico), la politica fiscale
+espansiva sposta la IS verso destra ma aumenta quasi solo il tasso di interesse e poco il reddito:
+l'effetto spiazzamento è quasi totale e la politica fiscale è poco efficace; in caso estremo di LM verticale
+non c'è effetto sul reddito.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 20
+76. Nel modello IS-LM, se la LM è molto ripida cosa accade al tasso di interesse?
+Con LM molto ripida, uno spostamento a destra della IS (espansione fiscale) fa salire il tasso di interesse
+in misura elevata, perché la domanda di moneta aggiuntiva non può essere soddisfatta con un reddito
+maggiore a offerta di moneta data. Il tasso più alto spiazza gli investimenti privati e compensa l'impulso
+fiscale.
+
+77. Come cambia l'efficacia della politica fiscale con tassi di cambio fissi?
+In regime di cambi fissi con mobilità dei capitali (Mundell-Fleming), la politica fiscale espansiva è più
+efficace: l'aumento del tasso di interesse tenderebbe ad apprezzare la valuta, la banca centrale
+interviene aumentando l'offerta di moneta per difendere il cambio, e la LM si sposta a destra,
+rinforzando l'effetto sul reddito. Con cambi flessibili, invece, l'apprezzamento riduce le esportazioni
+nette e la politica è meno efficace. La politica monetaria è invece inefficace con cambi fissi.
+
+78. Che cosa significa politica monetaria espansiva?
+Una politica monetaria espansiva consiste nell'aumento dell'offerta di moneta o nella riduzione dei tassi
+di interesse ufficiali da parte della banca centrale, per stimolare credito, investimenti e consumi. Si
+realizza con operazioni di mercato aperto, riduzione dei tassi, acquisto di titoli (quantitative easing).
+Può aumentare reddito e occupazione, ma anche l'inflazione, e deprezzare la valuta.
+
+79. Quali sono vantaggi e svantaggi della moneta unica?
+Vantaggi della moneta unica: eliminazione del rischio di cambio e dei costi di transazione, maggiore
+trasparenza dei prezzi e concorrenza, integrazione dei mercati finanziari, stabilità dei prezzi, tassi di
+interesse più bassi per alcuni Paesi. Svantaggi: perdita di sovranità monetaria e del cambio come
+strumento di aggiustamento, politica monetaria unica per economie diverse (shock asimmetrici), vincoli
+fiscali, rischio di divergenze.
+
+80. Che cosa succede all'inflazione nel breve periodo?
+Nel breve periodo, con prezzi e salari vischiosi, un aumento della domanda aggregata (o dei costi) fa
+salire l'inflazione, e la produzione può superare il livello potenziale; l'inflazione dipende anche dalle
+aspettative e da shock di offerta. Si legge con la curva di Phillips: bassa disoccupazione e inflazione più
+alta. Nel lungo periodo la produzione ritorna al livello naturale.
+
+81. Che cosa rappresenta la curva di Phillips?
+La curva di Phillips descrive una relazione inversa tra tasso di disoccupazione e tasso di inflazione (o di
+crescita dei salari): minore disoccupazione, maggiore inflazione. Nella versione con aspettative
+(Friedman-Phelps), nel lungo periodo la curva è verticale al tasso naturale di disoccupazione, e la
+relazione vale solo nel breve periodo. Spiega il conflitto tra obiettivi di politica economica.
+
+82. Quali sono le differenze tra valori nominali e reali?
+I valori nominali sono espressi ai prezzi correnti dell'anno in cui sono misurati; quelli reali sono depurati
+dalla variazione dei prezzi e misurati a prezzi costanti di un anno base. Il PIL nominale può crescere solo
+per l'inflazione; il PIL reale misura la crescita effettiva della quantità prodotta. Lo stesso vale per salari e
+tassi di interesse (tasso reale = nominale - inflazione).
+
+83. Come si convertono dati nominali in dati reali utilizzando l'IPC?
+Per convertire valori nominali in reali si divide per l'indice dei prezzi al consumo (IPC) e si moltiplica per
+100, con base fissa: Valore reale = (Valore nominale / IPC) x 100. Ad esempio, un salario di 1.500 euro
+con IPC 120 (base 100 nell'anno di riferimento) vale 1.250 euro reali. Il tasso di variazione reale è circa
+la variazione nominale meno l'inflazione.
+
+84. Che cos'è il fenomeno dello scoraggiamento nel mercato del lavoro?
+Lo scoraggiamento è il fenomeno per cui persone senza lavoro smettono di cercarlo, ritenendo di non
+poterlo trovare, e quindi escono dalle forze di lavoro, risultando inattive e non disoccupate. Riduce il
+tasso di disoccupazione ufficiale e il tasso di attività, nascondendo la disoccupazione effettiva. In Italia è
+rilevante, soprattutto per giovani, donne e al Sud, e porta a considerare le forze di lavoro potenziali.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 21
+85. Quali sono gli effetti delle politiche fiscali sulle importazioni?
+Una politica fiscale espansiva aumenta il reddito e quindi le importazioni (propensione marginale
+all'importazione), peggiorando il saldo commerciale. Parte dell'impulso si disperde all'estero e il
+moltiplicatore si riduce. Il peggioramento della bilancia commerciale è maggiore in economie aperte e
+con elevata propensione all'importazione. Una politica restrittiva ha l'effetto opposto.
+
+86. Che cos'è il saldo commerciale e come si determina concettualmente?
+Il saldo commerciale è la differenza tra valore delle esportazioni e delle importazioni di beni (e servizi)
+in un periodo. Se positivo, è un avanzo; se negativo, disavanzo. Concettualmente dipende da reddito
+interno ed estero, prezzi relativi e tasso di cambio, ed è parte del conto corrente della bilancia dei
+pagamenti (NX = X - M).
+
+87. Che cosa significa politica fiscale espansiva con regime di cambi fissi?
+Con cambi fissi la banca centrale si impegna a difendere la parità, quindi non può usare la politica
+monetaria in modo autonomo. Una espansione fiscale aumenta reddito e tassi; l'afflusso di capitali
+costringe la banca centrale ad acquistare valuta estera e a creare moneta, per cui la LM si sposta a
+destra e il reddito cresce ancora. La politica fiscale è dunque molto efficace; il saldo commerciale
+peggiora per le maggiori importazioni.
+
+88. Che cosa distingue infrastrutture e servizi nel settore ferroviario?
+Nel settore ferroviario l'infrastruttura è la rete fisica (binari, stazioni, sistemi di segnalamento, impianti),
+un monopolio naturale gestito da un soggetto (in Italia RFI), regolato e finanziato con fondi pubblici. I
+servizi sono il trasporto di passeggeri e merci con i treni, resi da imprese che possono competere sulla
+rete (Trenitalia, Italo), pagando un canone di accesso. La separazione serve ad aprire il mercato alla
+concorrenza.
+
+89. Che cosa si intende per infrastrutture finanziate con fondi UE?
+Sono opere realizzate con risorse dei fondi europei (fondi strutturali e di coesione FESR, FSE+, Next
+Generation EU e PNRR), spesso con cofinanziamento nazionale, per ridurre i divari territoriali e
+sostenere la crescita. Seguono regole di ammissibilità, programmazione pluriennale, rendicontazione,
+monitoraggio e valutazione, e devono rispettare i tempi (target e milestone nel PNRR).
+
+191. Politiche energetiche: caratteristiche economiche per mitigare l’impatto di un
+rincaro dell’energia
+Per mitigare un rincaro dell'energia le politiche devono essere tempestive, mirate e temporanee:
+sostegno ai redditi delle famiglie vulnerabili e delle imprese energivore, crediti d'imposta, bonus sociali,
+mantenendo il segnale di prezzo per incentivare il risparmio. A medio termine investimenti in efficienza
+energetica, rinnovabili, diversificazione delle fonti e infrastrutture. Evitare interventi generalizzati che
+aumentano la domanda e il costo per il bilancio.
+
+192. Politiche energetiche: confronto tra interventi sulle accise e sostegno al reddito
+Riduzione delle accise: abbassa il prezzo per tutti, è rapida e semplice, ma è poco mirata (beneficia
+anche i ricchi), costosa per il bilancio, distorce il segnale di prezzo e riduce l'incentivo al risparmio.
+Sostegno al reddito: mirato ai più vulnerabili (bonus, trasferimenti), costa meno, mantiene i prezzi
+relativi e quindi incentivi all'efficienza, ma richiede identificazione dei beneficiari e tempi.
+Economicamente è preferibile il sostegno al reddito.
+
+213. Effetto della svalutazione sulla bilancia dei pagamenti
+La svalutazione rende i beni nazionali più convenienti all'estero e quelli esteri più cari. Se vale la
+condizione di Marshall-Lerner (somma delle elasticità delle esportazioni e importazioni maggiore di 1),
+migliora il saldo commerciale. Nel breve periodo si può avere l'effetto a J: il saldo peggiora per i
+contratti già in essere e poi migliora. Aumenta l'inflazione importata e può innescare ritorsioni.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 22
+224. Commentare i tassi del piano di spesa programmatico (contesto o tabella non
+disponibile)
+Il testo della tabella non è disponibile. Come impostare il commento: indicare le variabili del piano di
+spesa programmatico (spesa netta, spesa primaria, interessi, investimenti), i tassi di crescita annui in
+termini nominali e reali, confrontare con il PIL e con i vincoli europei sulla traiettoria di spesa netta,
+spiegare le componenti (dinamica pensionistica, sanità, interessi, PNRR) e valutare coerenza con la
+sostenibilità del debito. È utile chiedere alla commissione quale tabella.
+
+225. Indicatore di spesa netta e correttivi: significato
+Nel nuovo quadro europeo di governance economica (2024), l'indicatore operativo è la spesa netta:
+spesa pubblica al netto di interessi, di misure discrezionali sulle entrate, di spese cicliche per la
+disoccupazione e di spese cofinanziate dall'UE. Il Paese concorda un tetto di crescita della spesa netta,
+in modo coerente con la discesa del debito. I correttivi servono a isolare le componenti che non
+dipendono dal governo e a evitare di penalizzare investimenti e ciclo.
+
+229. Curva dei rendimenti: tassi di interesse per diverse scadenze
+La curva dei rendimenti mostra il rendimento dei titoli (di Stato) in funzione della scadenza, a parità di
+rischio. Normalmente è crescente (premio per la liquidità e il rischio). Se piatta o invertita (rendimenti a
+breve superiori ai lunghi) anticipa spesso un rallentamento o una recessione. Riflette aspettative sui
+tassi e sull'inflazione, i premi a termine e le politiche monetarie.
+
+230. Politica monetaria espansiva: obiettivo della riduzione dei tassi di interesse
+La riduzione dei tassi di interesse mira a rendere il credito meno costoso, stimolando investimenti,
+consumi di beni durevoli, mutui e credito alle imprese, e a sostenere domanda aggregata, occupazione
+e inflazione verso il target. Porta anche a un deprezzamento del cambio, che favorisce le esportazioni.
+Funziona nelle fasi di bassa inflazione o recessione.
+
+256. Come possono le politiche attive del lavoro sostenere la crescita economica?
+Le politiche attive del lavoro (formazione, riqualificazione, servizi di incontro tra domanda e offerta,
+incentivi all'assunzione, orientamento) migliorano la qualità del capitale umano, riducono la
+disoccupazione frizionale e strutturale e il mismatch, aumentano la partecipazione e la produttività,
+favorendo la crescita potenziale. In Italia sono finanziate anche dal PNRR (Garanzia di occupabilità dei
+lavoratori, GOL). L'efficacia dipende dalla qualità dei centri per l'impiego.
+
+265. Quali effetti produce una riduzione delle imposte sulla domanda aggregata? Si
+consideri il caso di un taglio dell’IRPEF per i redditi bassi.
+Un taglio dell'IRPEF per i redditi bassi aumenta il reddito disponibile e, grazie all'elevata propensione
+marginale al consumo, la domanda aggregata, con effetto moltiplicativo. Può aumentare l'offerta di
+lavoro e la partecipazione. Riduce il gettito e quindi peggiora il deficit se non è coperto. L'effetto sulla
+domanda è maggiore se mirato ai redditi bassi, ma può aumentare le importazioni e spingere i prezzi.
+
+278. Tassi d’interesse e investimenti: quando l’effetto della riduzione dei tassi sugli
+investimenti è limitato?
+L'effetto di una riduzione dei tassi sugli investimenti è limitato quando: la domanda di investimenti è
+poco sensibile al tasso (aspettative pessimiste, incertezza, capacità produttiva inutilizzata), c'è trappola
+della liquidità (tassi vicini a zero), il credito è razionato dalle banche, le imprese sono indebitate, i tassi
+reali non scendono perché c'è deflazione, o l'economia è aperta con elevati costi di capitale.
+
+309. Quali vantaggi e quali vincoli derivano dall’appartenenza all’Unione economica e
+monetaria europea?
+Vantaggi: moneta unica e stabilità dei prezzi, mercato integrato senza rischio di cambio, accesso a tassi
+più bassi, commercio, credibilità; politica monetaria condotta dalla BCE. Vincoli: Patto di stabilità e
+crescita sui conti pubblici, procedura per squilibri macroeconomici, perdita del cambio e della politica
+monetaria nazionale, necessità di riforme strutturali per competitività, mancanza di un bilancio federale
+significativo.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 23
+311. Attraverso quali canali la spesa pubblica può influenzare la crescita economica di
+lungo periodo?
+La spesa pubblica influenza la crescita di lungo periodo attraverso: investimenti in infrastrutture
+(capitale pubblico), istruzione e capitale umano, ricerca e innovazione, sanità, qualità delle istituzioni e
+della giustizia. Spesa improduttiva e tassazione distorsiva possono ridurre la crescita; la composizione
+della spesa è più rilevante del suo livello. Il moltiplicatore degli investimenti è maggiore di quello della
+spesa corrente.
+
+315. Quali effetti può avere una riduzione del cuneo fiscale su occupazione, salari e
+debito pubblico? Come cambiano a seconda di come viene finanziata?
+La riduzione del cuneo fiscale (differenza tra costo del lavoro e retribuzione netta) aumenta i salari netti
+e/o riduce il costo per le imprese, favorendo occupazione, partecipazione e competitività, e sostiene i
+consumi. Se finanziata in deficit, peggiora debito e disavanzo; se finanziata con tagli di spesa o altre
+imposte, l'effetto netto dipende dal modo (imposte sui consumi o sul patrimonio sono meno distorsive
+di quelle sul lavoro). Gli effetti dipendono dalle elasticità e dalla traslazione.
+
+340. Qual è il ruolo della BCE nell’Unione economica e monetaria? Qual è il suo
+obiettivo principale e con quali strumenti conduce la politica monetaria dell’area euro?
+La BCE, con la Banca centrale dei Paesi dell'area euro, forma l'Eurosistema. Il suo obiettivo primario è la
+stabilità dei prezzi (inflazione al 2% a medio termine, target simmetrico). Strumenti: tassi di interesse
+ufficiali (rifinanziamento, depositi), operazioni di mercato aperto, rifinanziamento a lungo termine,
+riserva obbligatoria, acquisti di titoli (APP, PEPP), strumenti di protezione della trasmissione (TPI). È
+indipendente e vieta il finanziamento monetario degli Stati.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 24
+Statistica economica (47)
+90. Che cosa sono i numeri indici e come si calcolano concettualmente?
+I numeri indici sono rapporti tra il valore di un fenomeno in un periodo (o luogo) e il valore dello stesso
+fenomeno in un periodo base, moltiplicati per 100. Esprimono la variazione relativa nel tempo o nello
+spazio. Si distinguono semplici (un solo bene: I = p1/p0 x 100) e complessi (più beni, con medie
+ponderate, come Laspeyres con pesi di base e Paasche con pesi correnti). Servono a confrontare dati
+eterogenei e a deflazionare.
+
+91. Come si distinguono indici di prezzo, di quantità e di valore?
+Indici di prezzo: misurano la variazione dei prezzi di un paniere (es. IPC). Indici di quantità: misurano la
+variazione delle quantità, a prezzi costanti (es. produzione industriale). Indici di valore: misurano la
+variazione del valore, cioè prezzo per quantità; il rapporto tra indice di valore e indice di prezzo dà
+quello di quantità (I valore = I prezzo x I quantità, in forma moltiplicativa).
+
+92. Che cosa sono gli indici dei prezzi al consumo?
+Gli indici dei prezzi al consumo misurano la variazione nel tempo del prezzo di un paniere
+rappresentativo di beni e servizi acquistati dalle famiglie, con pesi tratti dalle spese per consumo
+(contabilità nazionale). In Italia l'ISTAT produce NIC (intera collettività), FOI (famiglie di operai e
+impiegati) e IPCA (armonizzato europeo). Misurano l'inflazione e servono a indicizzare salari, pensioni,
+affitti e a deflazionare.
+
+93. Che differenza c'è tra variazioni di prezzo e variazioni di quantità?
+Una variazione di prezzo indica quanto è cambiato il valore unitario del bene, una variazione di quantità
+quanto è cambiato il volume scambiato o prodotto. La variazione del valore (fatturato, PIL nominale)
+può dipendere da entrambe. Distinguerle permette di separare l'inflazione dalla crescita reale: si
+ottiene deflazionando i valori con un indice dei prezzi.
+
+94. Qual è la differenza tra numeri indici a base fissa e a base mobile?
+Base fissa: tutti i valori sono rapportati a un unico periodo base (es. 2015 = 100), il che permette di
+confrontare tutti i periodi con uno stesso riferimento. Base mobile: ogni valore è rapportato al periodo
+immediatamente precedente (variazioni congiunturali). La base fissa è utile per confronti di lungo
+periodo, la mobile per la dinamica di breve. Si passa dall'una all'altra con regole di concatenamento.
+
+95. In che modo l'indice dei prezzi aiuta a deflazionare dati nominali?
+Per deflazionare si divide il valore nominale per l'indice dei prezzi (con base 100), ottenendo il valore
+reale a prezzi costanti. In tal modo si depura la serie dall'inflazione e si misura la variazione effettiva
+delle quantità. Si usa per salari, consumi, PIL (con il deflatore), fatturati. Si sceglie l'indice più adatto
+(IPC o deflatore specifico).
+
+96. Qual è la differenza tra PIL nominale e PIL reale?
+Il PIL nominale è il valore di mercato dei beni e servizi finali prodotti in un Paese in un periodo a prezzi
+correnti. Il PIL reale è lo stesso aggregato a prezzi costanti di un anno base (valori concatenati). Il PIL
+nominale può crescere per inflazione, il reale misura la crescita effettiva. Il rapporto tra nominale e
+reale è il deflatore implicito del PIL.
+
+97. Che cosa sono le articolazioni territoriali NUTS a livello nazionale ed europeo?
+La NUTS (Nomenclatura delle unità territoriali statistiche, Eurostat) divide il territorio UE in livelli: NUTS
+1 (grandi aree, in Italia gruppi di regioni: Nord-Ovest, Nord-Est, Centro, Sud, Isole), NUTS 2 (regioni, o
+province autonome), NUTS 3 (province, in Italia). A livello nazionale corrispondono alle ripartizioni
+geografiche. Servono per statistiche comparabili e per i fondi di coesione (riferimento NUTS 2).
+
+98. Che cosa sono le tavole input-output intersettoriali ISTAT?
+Le tavole input-output (o tavole delle interdipendenze settoriali) descrivono, in forma di matrice, i flussi
+di beni e servizi tra branche di attività economica in un anno: quanto ciascun settore vende agli altri
+come input (consumi intermedi), e quanto destina a impieghi finali (consumi, investimenti,
+esportazioni), con valore aggiunto e importazioni. L'ISTAT le produce nell'ambito dei conti nazionali
+(tavole per branche a 63 prodotti).
+
+
+
+                                        RIPAM 341 - risposte - pag. 25
+99. Che cosa rappresentano i coefficienti tecnici nel modello di Leontief?
+Nel modello di Leontief i coefficienti tecnici a(ij) = x(ij)/X(j) indicano la quantità di input del settore i
+necessaria per produrre un'unità di output del settore j. Sono costanti nel modello (tecnologia a
+coefficienti fissi). Con la matrice A si risolve X = (I - A)^-1 Y, dove (I - A)^-1 è l'inversa di Leontief, che
+dà i moltiplicatori e gli effetti diretti e indiretti di una variazione della domanda finale.
+
+100. Che cosa si intende per tavole intersettoriali?
+Le tavole intersettoriali (o interdipendenze settoriali) rappresentano le relazioni di scambio tra i settori
+produttivi, sulle righe gli impieghi (a chi vende un settore) e sulle colonne le risorse (cosa acquista).
+Consentono di analizzare la struttura produttiva, le filiere, l'impatto di variazioni della domanda finale e
+delle politiche (analisi degli impatti, moltiplicatori).
+
+101. Quali sono le caratteristiche della serie storica e delle sue componenti?
+Una serie storica è un insieme di osservazioni di un fenomeno ordinate nel tempo. Si scompone in:
+trend (movimento di lungo periodo), componente ciclica (oscillazioni attorno al trend di durata
+pluriennale), stagionalità (variazioni regolari entro l'anno), componente accidentale o irregolare
+(variazioni casuali). Lo schema può essere additivo (Y = T + C + S + E) o moltiplicativo (Y = T x C x S x
+E).
+
+102. Che differenza c'è tra trend, stagionalità, componente ciclica e accidentale?
+Trend: andamento di fondo di lungo periodo (crescita o declino). Stagionalità: oscillazioni regolari che si
+ripetono ogni anno negli stessi periodi (es. turismo in estate). Componente ciclica: fluttuazioni di durata
+pluriennale legate al ciclo economico, non regolari. Componente accidentale: movimenti imprevedibili e
+non sistematici dovuti a eventi casuali.
+
+103. Come si studiano i tassi di occupazione, disoccupazione e attività?
+Tasso di occupazione = occupati / popolazione in età (15-64) x 100. Tasso di disoccupazione = persone
+in cerca di lavoro / forze di lavoro x 100. Tasso di attività = forze di lavoro / popolazione x 100. Si
+ricavano dalla Rilevazione sulle forze di lavoro dell'ISTAT. Si analizzano per sesso, età, territorio, titolo
+di studio, e si confrontano nel tempo e con l'UE. Il tasso di inattività è il complemento.
+
+104. Che cosa si intende per progresso tecnologico e produttività?
+Il progresso tecnologico è l'insieme di innovazioni che permettono di produrre di più con le stesse
+risorse, spostando la funzione di produzione. La produttività misura l'output per unità di input:
+produttività del lavoro (valore aggiunto per occupato o per ora) e produttività totale dei fattori (residuo
+di Solow). È la fonte principale della crescita nel lungo periodo e della crescita dei salari reali.
+
+105. Che cosa sono gli ammortizzatori sociali?
+Gli ammortizzatori sociali sono strumenti di sostegno al reddito dei lavoratori in caso di sospensione o
+perdita del lavoro: cassa integrazione guadagni (ordinaria, straordinaria, in deroga), NASpI (indennità di
+disoccupazione), DIS-COLL, fondi di solidarietà bilaterali, assegno di inclusione. Riducono l'impatto
+sociale delle crisi e agiscono da stabilizzatori automatici. Vanno accompagnati da politiche attive.
+
+106. Che cos'è la banca dati delle amministrazioni pubbliche (BDAP)?
+La BDAP (Banca dati delle amministrazioni pubbliche, L. 196/2009, art. 13) è il sistema gestito dalla
+Ragioneria generale dello Stato che raccoglie in modo omogeneo i dati contabili di tutte le
+amministrazioni pubbliche (bilanci, rendiconti, opere pubbliche, contratti). Serve a monitorare e
+consolidare i conti, alla trasparenza e al controllo della finanza pubblica.
+
+178. Classificazione delle attività economiche per settori: criteri e difficoltà
+La classificazione delle attività economiche (ATECO, derivata dalla NACE europea e dalla ISIC dell'ONU)
+raggruppa le unità produttive in sezioni, divisioni, gruppi, classi, categorie per attività prevalente.
+Criteri: omogeneità del processo produttivo, tipo di bene o servizio, dimensione. Difficoltà: imprese
+plurisettoriali, attività secondarie, cambiamento dell'attività, nuove attività digitali, aggiornamenti
+periodici che rompono le serie.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 26
+179. Grandi aggregati settoriali: agricoltura, industria, costruzioni, servizi
+I grandi aggregati settoriali sono: agricoltura (silvicoltura e pesca), industria in senso stretto
+(manifattura, energia, estrazione), costruzioni, servizi (commercio, trasporti, finanza, PA, altri). Sono
+usati nei conti nazionali per valutare la struttura produttiva, il valore aggiunto e l'occupazione. In Italia i
+servizi pesano circa il 70% del valore aggiunto.
+
+185. Qual è il ruolo dell’ISTAT nella definizione del perimetro delle amministrazioni
+pubbliche?
+L'ISTAT pubblica ogni anno, entro il 30 settembre, l'elenco delle amministrazioni pubbliche (S13) incluse
+nel conto economico consolidato, secondo il SEC 2010 e con criteri di mercato e controllo pubblico (test
+di mercato: 50% dei costi coperti da ricavi). L'inclusione stabilisce quali enti rientrano nelle statistiche
+europee su deficit e debito e nelle regole di finanza pubblica. L'elenco è pubblicato in Gazzetta Ufficiale
+(L. 196/2009, art. 1).
+
+186. Chi è considerato disoccupato nelle statistiche ufficiali?
+Secondo l'ISTAT (e Eurostat) è disoccupato chi, tra 15 e 74 anni, non ha lavorato nella settimana di
+riferimento, ha cercato attivamente lavoro nelle 4 settimane precedenti ed è disponibile a iniziare entro
+due settimane; o chi ha già trovato lavoro e comincerà entro 3 mesi. Gli scoraggiati non rientrano tra i
+disoccupati ma tra le forze di lavoro potenziali.
+
+187. Campionamento casuale, a grappoli e stratificato: differenze
+Campionamento casuale semplice: ogni unità ha la stessa probabilità di essere estratta. Stratificato: la
+popolazione è divisa in strati omogenei e si estrae un campione da ciascuno, riducendo la varianza. A
+grappoli: si estraggono gruppi (comuni, scuole) e si rilevano tutte o alcune unità del gruppo, con costi
+minori ma maggiore varianza. Spesso si combinano in più stadi (campionamento a due stadi).
+
+199. Tavola delle interdipendenze settoriali nella contabilità nazionale
+La tavola delle interdipendenze settoriali (input-output) è uno strumento della contabilità nazionale che
+mostra le relazioni intersettoriali tra produzione, consumi intermedi, valore aggiunto e impieghi finali.
+Verifica l'uguaglianza tra risorse (produzione e importazioni) e impieghi (consumi intermedi e finali,
+investimenti, esportazioni) e garantisce coerenza tra quadri produttivi e di domanda.
+
+200. Consumi intermedi e consumi finali: differenza
+Consumi intermedi: beni e servizi utilizzati come input nel processo produttivo e interamente consumati
+(materie prime, energia, servizi), che entrano nel calcolo del valore aggiunto per differenza. Consumi
+finali: beni e servizi destinati a soddisfare direttamente i bisogni delle famiglie, della PA e delle ISP;
+fanno parte del PIL. Distinguere evita la doppia contabilizzazione.
+
+206. Rilevazione delle forze di lavoro: tecnica di rilevazione, campione e periodicità
+L'indagine sulle forze di lavoro dell'ISTAT è una rilevazione campionaria continua sulle famiglie, con
+interviste in tutte le settimane dell'anno (CAPI e CATI), riferite a una settimana di riferimento; coinvolge
+un campione di circa 250.000 famiglie l'anno. I dati sono diffusi con cadenza mensile (stime
+provvisorie), trimestrale e annuale. Il campione è a due stadi, stratificato (comuni e famiglie) e con
+struttura a panel ruotato (la stessa famiglia è intervistata in più trimestri).
+
+207. Rilevazione delle forze di lavoro e campionamento stratificato
+Nella rilevazione sulle forze di lavoro il campionamento è stratificato (e a due stadi): i comuni sono
+suddivisi in strati per provincia e dimensione demografica; le famiglie sono selezionate dalle liste
+anagrafiche. La stratificazione garantisce rappresentatività per territorio e riduce la varianza degli
+stimatori. I pesi di riporto all'universo si calibrano sui totali noti di popolazione.
+
+208. Commento di una tabella statistica presentata dalla commissione (tabella non
+disponibile)
+La tabella non è disponibile. Per commentare una tabella statistica: indicare titolo, unità di misura,
+fonte, periodo e variabili; leggere valori assoluti, variazioni (percentuali, punti percentuali) e confronti;
+individuare massimi, minimi e tendenze; collegare ai fenomeni economici; segnalare limiti (campione,
+errori, definizioni). Chiedere alla commissione di specificare.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 27
+217. Coefficiente di variazione: confronto della dispersione tra fenomeni su scale
+diverse
+Il coefficiente di variazione CV = sigma/media (spesso x 100) è un indice di dispersione relativa,
+adimensionale, perché divide lo scarto quadratico medio per la media. Consente di confrontare la
+variabilità di fenomeni espressi in unità diverse o con medie molto diverse (es. altezze e pesi, redditi di
+due Paesi). Si usa con variabili a valori positivi.
+
+218. Scarto quadratico medio: significato
+Lo scarto quadratico medio (deviazione standard) è la radice quadrata della varianza: misura la
+dispersione media dei dati attorno alla media aritmetica, nella stessa unità dei dati. Più è alto, più i dati
+sono dispersi. Nella normale, circa il 68% dei dati sta entro una deviazione standard dalla media e il
+95% entro due.
+
+238. Numero del campione e numero delle prove: domanda riportata parzialmente,
+chiarire il riferimento
+La domanda è riportata parzialmente, e il riferimento non è chiaro. Probabilmente riguarda la
+dimensione del campione n e il numero di prove (ripetizioni dell'esperimento, ad esempio nella
+binomiale n prove indipendenti con probabilità di successo p). Il numero di osservazioni del campione
+determina la precisione delle stime: l'errore standard diminuisce con la radice di n. Conviene chiedere
+alla commissione di precisare.
+
+239. Concetto di intervallo di confidenza
+L'intervallo di confidenza è un intervallo di valori, calcolato dai dati, che contiene il vero parametro con
+un livello di confidenza prefissato (es. 95%). Per la media: media campionaria ± z (o t) x errore
+standard. Non significa che il parametro è nell'intervallo con probabilità 95%, ma che, ripetendo il
+campionamento, il 95% degli intervalli costruiti contiene il valore vero. Più ampio è il campione, più è
+stretto.
+
+240. Stimatore osservato: «stimatore obs…» (traccia incompleta)
+La traccia è incompleta ("stimatore obs..."). Probabilmente si riferisce a uno stimatore osservato o alla
+stima, cioè al valore numerico assunto dallo stimatore (variabile casuale) su un campione osservato. Lo
+stimatore è la regola, la stima è il valore calcolato sui dati. Proprietà desiderabili: correttezza,
+efficienza, consistenza. Da chiarire con la commissione.
+
+245. Economia non osservata nella contabilità nazionale: componenti e stima
+L'economia non osservata comprende le attività produttive che sfuggono alle rilevazioni statistiche
+dirette ma sono comprese nel PIL: sommerso economico (sottodichiarazione del fatturato e utilizzo di
+lavoro irregolare) e attività illegali (droga, prostituzione, contrabbando), più altre componenti (mance,
+fitti in nero, integrazione domanda-offerta). L'ISTAT la stima con metodi indiretti, come la riconciliazione
+tra offerta e domanda e il confronto tra dati fiscali e statistici. Pesa circa il 11-12% del PIL.
+
+253. Quali sono le componenti di una serie storica oltre al trend?
+Oltre al trend, una serie storica ha: componente ciclica (fluttuazioni pluriennali legate al ciclo),
+componente stagionale (oscillazioni regolari annuali) e componente accidentale (irregolare, casuale).
+Nelle analisi si usano medie mobili, regressione sul tempo, destagionalizzazione e filtri (ad es.
+Hodrick-Prescott) per isolarle.
+
+258. Differenza tra numeri indici a base fissa e a base mobile
+Cfr. domanda 94. Numeri indici a base fissa: tutti i valori sono rapportati a un periodo base fisso; a base
+mobile: ogni valore è rapportato al precedente. Con la base fissa si confrontano periodi lontani; con la
+mobile si studiano le variazioni congiunturali. Per passare dall'una all'altra si concatenano le variazioni
+(I(t) = I(t-1) x variazione).
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 28
+262. Qual è la differenza tra unità di lavoro a tempo pieno e unità di lavoro equivalenti
+a tempo pieno? Come si usano negli indicatori del lavoro?
+Le unità di lavoro (ULA) misurano il volume di lavoro impiegato in termini di occupazioni equivalenti a
+tempo pieno. Le ULA ETP (equivalenti a tempo pieno) convertono le ore lavorate o i rapporti di lavoro a
+tempo parziale in unità equivalenti a un lavoratore a tempo pieno per l'intero anno. Si usano per
+calcolare produttività del lavoro, costo del lavoro per unità di prodotto, tassi di irregolarità e intensità
+del lavoro; le sole teste (occupati) non tengono conto di part-time e ore.
+
+263. «Scala carbonaro»: espressione da verificare, forse scala di equivalenza
+Carbonaro per la povertà
+L'espressione va verificata: si riferisce presumibilmente alla scala di equivalenza Carbonaro (usata
+dall'ISTAT per la stima della povertà relativa), con cui si confrontano famiglie di dimensione diversa
+trasformando la spesa familiare in spesa equivalente. Riflette le economie di scala: un componente in
+più non aumenta il bisogno in proporzione. L'ISTAT la usa per la soglia di povertà relativa; Eurostat, per
+il reddito, utilizza invece la scala OCSE modificata.
+
+268. Differenze tra povertà assoluta e relativa e ruolo delle scale di equivalenza
+Povertà assoluta: incapacità di acquistare un paniere minimo di beni e servizi essenziali per uno
+standard di vita accettabile (soglia diversa per età, dimensione familiare, ripartizione e comune).
+Povertà relativa: spesa per consumi inferiore a una soglia pari alla spesa media pro capite (o mediana).
+Le scale di equivalenza permettono di confrontare famiglie di diversa composizione, tenendo conto
+delle economie di scala.
+
+279. Vantaggi e limiti dell’integrazione tra indagini campionarie e archivi
+amministrativi
+L'integrazione tra indagini campionarie e archivi amministrativi aumenta la copertura, riduce costi e
+onere statistico per i rispondenti, migliora la precisione e consente dati più tempestivi e dettagliati
+(censimento permanente). Limiti: definizioni e finalità diverse, qualità e aggiornamenti degli archivi,
+record linkage, accesso e privacy, sottocopertura, discontinuità delle serie, dipendenza da enti esterni.
+
+281. Differenza tra indagine censuaria e campionaria
+Indagine censuaria: rileva tutte le unità della popolazione (es. Censimento), con costi elevati, ma
+fornisce dati dettagliati per piccole aree. Indagine campionaria: rileva solo una parte (campione) e
+stima i valori sulla popolazione, con errori campionari misurabili, costi e tempi minori. La censuaria è
+esente da errori di campionamento ma non da errori non campionari.
+
+286. Come rileva la statistica ufficiale il lavoro irregolare?
+Il lavoro irregolare è stimato con metodi indiretti dalla contabilità nazionale: confronto tra le fonti sulla
+domanda di lavoro (imprese) e quelle sull'offerta (famiglie), integrazione con archivi amministrativi e
+fiscali, indagine sulle forze di lavoro, individuazione delle posizioni non regolari (secondo lavoro,
+stranieri non residenti, pensionati). Il risultato è espresso in unità di lavoro irregolari (tasso di
+irregolarità).
+
+287. Che cos’è il sommerso statistico?
+Il sommerso statistico è la parte di attività produttive lecite non rilevate a causa di errori e lacune delle
+fonti statistiche (mancate risposte, imprese non iscritte, errori di copertura). Si distingue dal sommerso
+economico, cioè dalla volontà di evadere le norme. Entrambi fanno parte dell'economia non osservata e
+vengono integrati nelle stime del PIL.
+
+295. Che cosa si intende per economia non osservata nella contabilità nazionale?
+L'economia non osservata (NOE) comprende tutte le attività produttive che, per natura o per carenza
+delle fonti, non sono direttamente rilevate: sommerso economico (valore aggiunto occultato, lavoro
+irregolare), economia illegale, sommerso statistico, altre componenti (fitti in nero, mance, integrazione
+domanda-offerta). L'ISTAT la include nel PIL secondo i regolamenti europei per garantire completezza e
+confrontabilità dei conti.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 29
+300. Indici dei prezzi: NIC, FOI e IPCA
+NIC (indice nazionale dei prezzi al consumo per l'intera collettività): misura l'inflazione per tutta la
+popolazione ed è l'indice di riferimento. FOI (indice per le famiglie di operai e impiegati, senza
+tabacchi): usato per rivalutare affitti e assegni di mantenimento. IPCA (indice armonizzato dei prezzi al
+consumo europeo): costruito con regole comuni UE, usato per confrontare l'inflazione tra Paesi e per il
+target della BCE; considera i prezzi dei medicinali e dei servizi sanitari al netto dei rimborsi pubblici;
+esiste anche la versione a tassazione costante (IPCA-TC) per depurare l'effetto delle imposte indirette.
+
+317. Perché una correlazione lineare prossima a zero può coesistere con una relazione
+tra due variabili? Si faccia un esempio.
+Il coefficiente di correlazione lineare di Pearson misura solo la relazione lineare. Può essere vicino a
+zero anche in presenza di una relazione non lineare: ad esempio, y = x^2 con x simmetrico attorno a
+zero ha correlazione nulla ma y dipende interamente da x. Quindi correlazione zero non implica
+indipendenza; serve un'analisi grafica (diagramma di dispersione) e misure non lineari.
+
+323. Perché l’inflazione misurata dall’indice dei prezzi al consumo dell’ISTAT può
+differire da quella misurata con il deflatore del PIL dei conti nazionali?
+L'inflazione misurata dall'IPC riguarda i prezzi dei beni e servizi acquistati dalle famiglie (paniere fisso,
+anche importati); il deflatore del PIL misura i prezzi di tutti i beni e servizi prodotti nel Paese (compresi
+investimenti, esportazioni, spesa pubblica) e non include le importazioni, e ha pesi correnti. Differiscono
+per composizione, pesi e trattamento degli importati: ad esempio, un rincaro dell'energia importata
+aumenta l'IPC ma non il deflatore.
+
+332. Come sono cambiati nel tempo i censimenti dell’ISTAT? Quali differenze ci sono
+tra i censimenti tradizionali e quelli permanenti?
+Il censimento tradizionale (decennale, fino al 2011) rilevava in un'unica data tutte le famiglie con
+questionario esaustivo, con costi e carico elevati. Dal 2018 il censimento permanente della popolazione
+e delle abitazioni usa un campione annuale (indagine areale e da lista) integrato con registri e archivi
+amministrativi (ANPR, ecc.), producendo dati annuali. Riduce i costi e il disturbo statistico e migliora la
+tempestività; vale anche per industria e servizi, agricoltura e istituzioni.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 30
+Econometria (40)
+107. Che cosa distinguono media, mediana e moda? In quali casi sono utili?
+La media aritmetica è la somma dei valori divisa per il numero; è sensibile agli outlier. La mediana è il
+valore centrale della distribuzione ordinata, robusta agli estremi, utile con distribuzioni asimmetriche
+(redditi). La moda è il valore più frequente, l'unica misura valida anche per variabili qualitative. In
+distribuzioni simmetriche i tre indici coincidono, in quelle asimmetriche differiscono.
+
+108. Che cosa significa variabile qualitativa, quantitativa, nominale o ordinale?
+Variabili quantitative: misurate con numeri (discrete o continue: età, reddito). Variabili qualitative
+(categoriche): modalità non numeriche. Nominali: categorie senza ordine (sesso, regione); ordinali:
+categorie con ordine naturale (livello di istruzione, soddisfazione). Cambia il tipo di analisi: medie per le
+quantitative, mode e tabelle di frequenza per le qualitative.
+
+109. Che cosa si intende con 'rilevazione non lineare o nominale tra risposta e
+percettore'? Testo da verificare. . 199
+La formulazione è poco chiara e va verificata con la commissione. Probabilmente riguarda la relazione
+tra una risposta (variabile dipendente) e un percettore (soggetto rispondente o beneficiario) in
+presenza di variabili non lineari o nominali. In generale, se la relazione non è lineare si usano
+trasformazioni (logaritmi, polinomi) o modelli non lineari, e per le variabili nominali variabili dummy o
+modelli logit/probit.
+
+110. Che cosa viene sottoposto a prova nella verifica delle ipotesi statistiche?
+Nella verifica delle ipotesi si sottopone a prova un'affermazione sul parametro della popolazione
+(ipotesi nulla H0), ad esempio che un coefficiente sia zero o che la media sia pari a un certo valore. Si
+calcola una statistica test sui dati e la si confronta con la distribuzione sotto H0: se il valore è
+improbabile (p-value inferiore al livello di significatività), si rifiuta H0 a favore dell'alternativa.
+
+111. Qual è la differenza tra ipotesi nulla e alternativa?
+L'ipotesi nulla (H0) è l'affermazione di assenza di effetto o di differenza, assunta vera finché i dati non
+forniscono evidenza contraria. L'ipotesi alternativa (H1) è l'affermazione che si vuole provare (effetto
+presente, differenza o parametro diverso). Si può rifiutare H0 ma non si "accetta" H0: si dice che non si
+hanno prove sufficienti per rifiutarla. Errore di I tipo: rifiutare H0 vera; di II tipo: non rifiutare H0 falsa.
+
+112. Qual è la differenza fra stimare usando dati raccolti e dati nuovi?
+Stimare con i dati raccolti (in-sample) significa adattare il modello ai dati osservati; stimare con dati
+nuovi (out-of-sample) significa valutare la capacità di previsione su osservazioni non usate nella stima.
+Un modello può adattarsi molto bene ai dati raccolti (overfitting) e andare male sui nuovi. Per questo si
+dividono i dati in training e test e si usa la validazione incrociata.
+
+113. Che cos'è un modello econometrico e a cosa serve per la valutazione delle
+politiche pubbliche?
+Un modello econometrico è una rappresentazione quantitativa delle relazioni tra variabili economiche,
+stimata sui dati, con una componente sistematica e un termine di errore. Serve per testare ipotesi
+economiche, stimare effetti causali, prevedere e valutare politiche pubbliche (ad esempio l'effetto di un
+incentivo sull'occupazione), con metodi che isolano l'effetto causale (controllando per variabili
+confondenti, variabili strumentali, differenze nelle differenze).
+
+114. Che cosa sono variabile dipendente e variabile esplicativa?
+La variabile dipendente (o endogena, regressanda, Y) è quella che si vuole spiegare o prevedere. Le
+variabili esplicative (indipendenti, regressori, X) sono quelle che si assume la determinino. Esempio:
+consumo (dipendente) spiegato dal reddito (esplicativa). Il rapporto non implica per sé causalità.
+
+115. Che cos'è la regressione lineare semplice?
+Il modello di regressione lineare semplice è Y = b0 + b1 X + u: spiega Y con una sola variabile
+esplicativa X, con intercetta b0 e pendenza b1 (variazione attesa di Y per un'unità in più di X) e errore
+u. I coefficienti si stimano con i minimi quadrati ordinari (OLS), minimizzando la somma dei quadrati dei
+residui: b1 = Cov(X,Y)/Var(X).
+
+
+
+                                         RIPAM 341 - risposte - pag. 31
+116. Quali ipotesi devono essere rispettate in un modello di regressione?
+Ipotesi classiche (Gauss-Markov): linearità nei parametri; campionamento casuale; media condizionata
+dell'errore nulla E(u|X)=0 (esogeneità); assenza di collinearità perfetta; omoschedasticità (varianza
+costante); assenza di autocorrelazione. Per fare inferenza esatta si aggiunge la normalità degli errori.
+Se rispettate, OLS è BLUE.
+
+117. Che cosa si intende per coefficiente ed errore standard?
+Il coefficiente stimato misura l'effetto atteso sulla variabile dipendente di una variazione unitaria della
+variabile esplicativa, a parità delle altre. L'errore standard misura la variabilità campionaria dello
+stimatore, cioè la sua precisione: più è piccolo, più la stima è precisa. Il rapporto t = coefficiente/errore
+standard serve per testare la significatività.
+
+118. Che cos'è la regressione lineare multipla?
+La regressione multipla è Y = b0 + b1 X1 + ... + bk Xk + u. Ogni coefficiente rappresenta l'effetto di
+una variabile mantenendo costanti le altre (ceteris paribus). Permette di controllare per variabili
+confondenti e ridurre la distorsione da variabili omesse. Si valuta con R2 aggiustato, test F e t, e va
+controllata la multicollinearità.
+
+119. Che cosa accade se si inserisce una variabile irrilevante in un modello?
+Inserire una variabile irrilevante (con coefficiente vero zero) non genera distorsione: gli stimatori
+restano corretti, ma la varianza aumenta (soprattutto se è correlata con gli altri regressori), riducendo
+la precisione, e peggiora l'R2 aggiustato. Al contrario, omettere una variabile rilevante correlata con le
+altre causa distorsione (omitted variable bias).
+
+120. Che cosa significa cambiare la scala di una variabile?
+Cambiare la scala (moltiplicare X per una costante) modifica il coefficiente in modo inverso (se X è
+moltiplicata per c, il coefficiente è diviso per c) e l'errore standard, ma non la t, il p-value, l'R2 e le
+previsioni. Cambiare la scala di Y moltiplica coefficienti ed errori standard per la stessa costante. Serve
+per rendere interpretabili i coefficienti (euro in migliaia, percentuali).
+
+121. Che effetto hanno gli outlier sui risultati?
+Gli outlier (valori anomali) possono influenzare fortemente le stime OLS, perché minimizza i quadrati:
+spostano la retta di regressione, aumentano la varianza e distorcono coefficienti e R2, soprattutto se
+hanno leva elevata. Si individuano con grafici, residui standardizzati, distanza di Cook; si trattano
+verificando errori di misura, usando stime robuste (mediana, regressione quantile) o trasformazioni.
+
+122. Come si misura l'associazione fra variabili qualitative (contingenza, test
+chi-quadro)?
+L'associazione tra variabili qualitative si studia con la tabella di contingenza (frequenze congiunte). Il
+test chi-quadro confronta le frequenze osservate con quelle attese sotto l'ipotesi di indipendenza: chi2
+= somma di (osservate - attese)^2 / attese. Un valore elevato (p-value basso) porta a rifiutare
+l'indipendenza. Misure di intensità: V di Cramér, coefficiente di contingenza.
+
+123. Che cosa significa uno stimatore con grande varianza?
+Uno stimatore con grande varianza è poco preciso: stime ottenute su campioni diversi sono molto
+disperse attorno al valore medio. Può essere corretto (non distorto) ma inefficiente. Gli intervalli di
+confidenza sono ampi e i test poco potenti. Si riduce aumentando la dimensione campionaria,
+riducendo la collinearità o usando stimatori più efficienti (trade-off con la distorsione).
+
+124. Che cosa indica la proprietà BLUE degli stimatori?
+BLUE significa Best Linear Unbiased Estimator: lo stimatore OLS, sotto le ipotesi di Gauss-Markov, è
+lineare nelle osservazioni di Y, non distorto e ha varianza minima tra tutti gli stimatori lineari non
+distorti. Non richiede normalità. Se c'è eteroschedasticità o autocorrelazione, OLS non è più il migliore
+(si usa GLS/WLS).
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 32
+125. Che cosa sono i modelli con effetti casuali (random effects)?
+Nei modelli a effetti casuali (random effects) per dati panel, l'eterogeneità non osservata tra unità (a(i))
+è trattata come una componente casuale, non correlata con i regressori, inclusa nell'errore composto.
+Si stima con GLS. È più efficiente dell'effetto fisso se l'ipotesi di non correlazione è vera e permette di
+stimare effetti di variabili costanti nel tempo.
+
+126. Come si distinguono modelli a effetti fissi e casuali?
+Effetti fissi: l'eterogeneità non osservata di ciascuna unità è un parametro (intercetta individuale), che
+può essere correlato con i regressori; si stima con trasformazione within o variabili dummy; consistente
+anche se c'è correlazione, ma non stima variabili costanti nel tempo. Effetti casuali: componente
+casuale non correlata con i regressori, più efficiente se valida. Si sceglie con il test di Hausman.
+
+127. Che cosa significa autocorrelazione in una serie storica?
+L'autocorrelazione si ha quando gli errori (o la serie) in tempi diversi sono correlati tra loro: Cov(u(t),
+u(t-s)) diverso da zero. È tipica delle serie storiche. Con OLS gli stimatori restano non distorti (se
+esogeni) ma gli errori standard sono sbagliati e l'inferenza non è valida. Si individua con Durbin-Watson,
+Breusch-Godfrey, correlogramma. Si corregge con errori standard HAC, GLS, aggiungendo ritardi.
+
+128. Che cosa sono endogeneità e variabili strumentali?
+L'endogeneità si ha quando un regressore è correlato con l'errore (per variabili omesse, errori di
+misura, simultaneità), per cui OLS è distorto e inconsistente. La soluzione sono le variabili strumentali
+(IV): uno strumento Z deve essere rilevante (correlato con il regressore endogeno) ed esogeno (non
+correlato con l'errore). Si stima con 2SLS.
+
+129. Quando una stima in-sample non si generalizza a nuovi dati?
+Una stima in-sample non si generalizza quando il modello è sovradattato (overfitting): troppi parametri
+rispetto ai dati, adattamento al rumore; quando i nuovi dati provengono da una popolazione o periodo
+diverso (cambiamento strutturale, critica di Lucas); quando il campione non è rappresentativo o ci sono
+errori di specificazione, variabili omesse o selezione. Si valuta con validazione out-of-sample.
+
+130. Quali differenze esistono tra modello teorico e modello stimato?
+Il modello teorico descrive la relazione ipotizzata dall'economia tra le variabili (con parametri veri e non
+osservabili). Il modello stimato è la sua versione empirica, con parametri stimati dai dati campionari,
+soggetti a errore di campionamento, di specificazione e misura. Il confronto tra i due richiede test sui
+coefficienti, diagnostica sui residui e verifica della coerenza con la teoria.
+
+171. Sensibilità e specificità di un modello statistico: che cosa misurano?
+Sensibilità: quota di positivi veri correttamente classificati (veri positivi / (veri positivi + falsi negativi)).
+Specificità: quota di negativi veri correttamente classificati (veri negativi / (veri negativi + falsi
+positivi)). Misurano la capacità di un test o modello di classificazione di individuare i casi positivi e
+negativi, e si rappresentano con la curva ROC; c'è un trade-off al variare della soglia.
+
+172. I risultati del modello si mantengono costanti su campioni diversi? Come
+verificarlo?
+I risultati sono stabili se i coefficienti e le previsioni non cambiano in modo rilevante su campioni
+diversi. Si verifica con analisi di robustezza: stima su sottocampioni, periodi diversi,
+inclusione/esclusione di variabili, test di stabilità strutturale (test di Chow, CUSUM), bootstrap,
+validazione incrociata, specificazioni alternative.
+
+173. Che cosa significa BLUE per uno stimatore?
+BLUE (Best Linear Unbiased Estimator): stimatore lineare, non distorto, con varianza minima nella
+classe degli stimatori lineari non distorti. Il teorema di Gauss-Markov afferma che OLS è BLUE sotto le
+ipotesi classiche (linearità, esogeneità, omoschedasticità, assenza di autocorrelazione, no collinearità
+perfetta).
+
+
+
+
+                                          RIPAM 341 - risposte - pag. 33
+211. Misure della bontà di adattamento di un modello: quali sono?
+Misure di bontà di adattamento: R2 (quota della varianza di Y spiegata dal modello, da 0 a 1), R2
+aggiustato (penalizza i regressori), errore standard della regressione, somma dei quadrati dei residui,
+criteri di informazione (AIC, BIC), test F globale, per modelli di classificazione la devianza, pseudo R2,
+curve ROC e accuracy.
+
+212. Gli indici di bontà di adattamento misurano anche la capacità predittiva del
+modello?
+No, non necessariamente. Gli indici di adattamento (R2) misurano quanto il modello si adatta ai dati
+usati per la stima (in-sample), e possono migliorare aumentando i regressori anche quando la capacità
+predittiva peggiora (overfitting). La capacità predittiva si misura out-of-sample con RMSE, MAE,
+validazione incrociata, R2 sul campione di test.
+
+222. Endogeneità: che cosa significa e perché è un problema?
+L'endogeneità si ha quando un regressore è correlato con il termine di errore, violando E(u|X)=0.
+Cause: variabili omesse, errori di misura, simultaneità (causalità inversa). È un problema perché OLS
+diventa distorto e inconsistente: il coefficiente non misura l'effetto causale. Soluzioni: variabili
+strumentali, esperimenti, differenze nelle differenze, regressione discontinua, effetti fissi.
+
+223. Regressione sui residui: domanda riportata parzialmente, specificare il contesto
+La domanda è riportata in modo parziale. Probabilmente riguarda la regressione sui residui, cioè
+l'analisi dei residui di un modello (diagnostica) o il teorema di Frisch-Waugh-Lovell: regredendo Y e X2
+su X1, e poi i residui di Y sui residui di X2, si ottiene lo stesso coefficiente della regressione multipla.
+Serve anche a verificare ipotesi (eteroschedasticità, autocorrelazione, forma funzionale). Va chiarito il
+contesto.
+
+231. «Il candidato illustri la logica generale del…»: traccia incompleta, tema non
+identificabile
+La traccia è incompleta ("Il candidato illustri la logica generale del..."); il tema non è identificabile. Se
+riguarda l'econometria, la logica generale è: formulare un modello teorico, specificarlo in forma
+stimabile, stimare i parametri con i dati, testare le ipotesi, verificare la diagnostica e usare il modello
+per previsione o valutazione. Conviene chiedere alla commissione di completare la domanda.
+
+232. Perché confrontare i valori stimati e quelli previsti dal modello? Traccia riportata
+parzialmente
+La domanda è parziale. Confrontare valori stimati (fitted, in-sample) e valori previsti (out-of-sample)
+serve a valutare la qualità del modello: l'errore di previsione, a differenza del residuo, usa dati non
+impiegati nella stima, e rivela overfitting. Si misura con RMSE, MAE, errore percentuale. Se i due errori
+sono molto diversi, il modello non generalizza.
+
+233. Costruzione di un modello sui valori osservati: stima e previsione
+Si costruisce il modello sui valori osservati: si specifica la relazione, si stimano i parametri con OLS o
+altro metodo, si verificano ipotesi e diagnostica. La stima fornisce valori adattati sui dati osservati. La
+previsione applica il modello stimato a nuovi valori delle variabili esplicative, con intervalli di previsione,
+che sono più ampi degli intervalli di confidenza, perché includono l'errore. Si valida su un campione di
+test.
+
+244. Differenza tra distorsione (bias) e varianza di uno stimatore; trade-off
+bias-varianza
+Bias (distorsione): differenza tra valore atteso dello stimatore e il vero parametro. Varianza: variabilità
+dello stimatore tra campioni. L'errore quadratico medio = bias al quadrato + varianza. Trade-off:
+modelli semplici hanno bias alto e varianza bassa (underfitting); modelli complessi hanno bias basso e
+varianza alta (overfitting). Occorre bilanciare, ad esempio con regolarizzazione e validazione.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 34
+273. Differenza tra dati usati per la stima e dati per la verifica; analisi di robustezza
+I dati di stima (training) servono per stimare i parametri; i dati di verifica (test o validation) servono a
+valutare la capacità di previsione su dati mai visti. Dividerli evita overfitting. L'analisi di robustezza
+controlla se i risultati restano validi cambiando campione, specificazione, variabili, metodi di stima e
+trattamento degli outlier.
+
+274. Che cos’è il bootstrap statistico e a cosa serve?
+Il bootstrap è una tecnica di ricampionamento: si estraggono dal campione originale, con reinserimento,
+molti campioni della stessa dimensione (campioni bootstrap), si ricalcola la statistica su ciascuno e si
+ottiene la distribuzione empirica dello stimatore. Serve a stimare errori standard, intervalli di
+confidenza e bias senza assumere una distribuzione teorica, utile con campioni piccoli o statistiche
+complesse.
+
+290. Come si interpreta l’intercetta in una regressione?
+L'intercetta b0 è il valore atteso della variabile dipendente quando tutti i regressori valgono zero. Ha
+significato economico solo se X = 0 è plausibile e compreso nel campione (es. consumo autonomo con
+reddito zero); altrimenti è solo un parametro di aggiustamento. Centrando le variabili sulla media,
+l'intercetta è il valore atteso di Y alla media dei regressori. Con variabili dummy è il valore del gruppo di
+riferimento.
+
+320. Perché si ricorre alla regressione logistica e come si interpretano coefficienti,
+odds ratio e probabilità stimate?
+La regressione logistica si usa quando la variabile dipendente è binaria (sì/no): evita previsioni fuori da
+0-1 del modello lineare. Modella il logaritmo dell'odds (logit): ln(p/(1-p)) = b0 + b1 X. Il coefficiente è
+l'effetto sul logit; exp(b) è l'odds ratio: di quanto si moltiplicano gli odds per un'unità in più di X
+(maggiore di 1: aumenta, minore di 1: diminuisce). Le probabilità stimate si ricavano con p =
+1/(1+exp(-xb)). Si stima con massima verosimiglianza.
+
+337. Che cosa sono quartili, percentili e centili? Come si interpretano e come si
+possono usare nell’analisi econometrica, anche nella regressione quantile?
+I quartili dividono la distribuzione in quattro parti uguali (Q1 25%, Q2 mediana, Q3 75%), i percentili in
+cento parti, i centili sono sinonimo di percentili (i decili in dieci). Il valore del percentile p lascia a
+sinistra la quota p% delle osservazioni. Nell'econometria la regressione quantile stima l'effetto delle
+variabili su quantili specifici della distribuzione condizionata (non solo sulla media), utile con
+distribuzioni asimmetriche (redditi) e effetti eterogenei, ed è robusta agli outlier. Lo scarto interquartile
+(Q3 - Q1) misura la dispersione.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 35
+Data science e data mining (13)
+131. Che cos'è il bootstrap e come si utilizza per stimare l'incertezza?
+Il bootstrap è una tecnica di ricampionamento: dal campione originale si estraggono molte volte (es.
+1.000) campioni con reinserimento della stessa dimensione, si calcola la statistica d'interesse su
+ciascuno e si ottiene una distribuzione empirica. Da essa si ricavano errore standard, intervalli di
+confidenza (percentili) e bias, senza ipotesi sulla distribuzione teorica. Utile con campioni piccoli o
+statistiche complesse.
+
+132. Quali sono le principali tecniche di data science per stimare congetture
+economiche?
+Principali tecniche: regressione (lineare, regolarizzata come Ridge e Lasso), classificazione (regressione
+logistica, alberi decisionali, random forest, SVM, reti neurali), clustering (k-means, gerarchico),
+riduzione della dimensionalità (PCA), analisi di serie storiche, text mining, metodi di inferenza causale
+(matching, differenze nelle differenze, forest causali). Si valutano con validazione out-of-sample.
+
+133. Che cosa sono anomalie/outlier e perché interessano il data mining?
+Le anomalie (outlier) sono osservazioni molto diverse dalle altre. Possono indicare errori di misura,
+eventi rari o fenomeni rilevanti (frodi, evasione, malfunzionamenti, falsi in bilancio). Nel data mining
+interessano perché distorcono i modelli e perché spesso la loro individuazione (anomaly detection) è
+l'obiettivo stesso. Tecniche: distanza dal centro (z-score), boxplot, DBSCAN, isolation forest.
+
+134. Che cosa significano sensibilità e specificità nella valutazione dei modelli?
+Sensibilità (recall): quota di casi positivi veri correttamente individuati = VP/(VP+FN). Specificità: quota
+di negativi veri correttamente individuati = VN/(VN+FP). Valutano un classificatore sulle due classi; con
+la soglia c'è un trade-off, rappresentato dalla curva ROC (sensibilità contro 1-specificità), sintetizzata
+dall'AUC.
+
+135. Che cos'è la cross-validation e a cosa servono train/test set?
+La cross-validation divide i dati in k parti (fold): si addestra il modello su k-1 parti e si valuta sulla parte
+restante, ripetendo k volte e mediando i risultati. Il training set serve a stimare i parametri, il test set a
+valutare la capacità di generalizzare su dati mai visti; il validation set a scegliere gli iperparametri. Evita
+overfitting e dà una stima affidabile dell'errore di previsione.
+
+136. Che cos’è la classificazione supervisionata e come si assegna un nuovo dato a una
+classe usando le sue caratteristiche? Si faccia un esempio.
+Nella classificazione supervisionata il modello è addestrato su dati già etichettati (classe nota) e impara
+a predire la classe di nuove osservazioni in base alle caratteristiche (feature). Esempio: classificare un
+contribuente come a rischio evasione o no sulla base di reddito dichiarato, settore, anomalie nelle
+fatture, usando un albero decisionale o una regressione logistica. Il nuovo caso segue il percorso delle
+regole o ottiene una probabilità di appartenenza a ciascuna classe.
+
+137. Quali rischi si presentano con la sovra-adattamento (overfitting)?
+L'overfitting (sovra-adattamento) si ha quando il modello si adatta anche al rumore dei dati di
+addestramento: errore bassissimo in-sample ma alto su nuovi dati. Rischi: previsioni inaffidabili,
+conclusioni errate, decisioni sbagliate, costi. Si previene con validazione incrociata, modelli più
+semplici, regolarizzazione (Lasso, Ridge), potatura degli alberi, più dati, selezione delle variabili.
+
+248. Che cosa sono falsi positivi e falsi negativi in un modello di classificazione?
+In un classificatore binario il falso positivo (errore di I tipo) è un caso negativo classificato come positivo
+(allarme sbagliato); il falso negativo (errore di II tipo) è un caso positivo non riconosciuto. Il costo dei
+due errori è diverso: in un controllo fiscale un falso positivo comporta un controllo inutile, un falso
+negativo un'evasione non scoperta. Si usano matrice di confusione, precisione, recall.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 36
+266. Illustrare l’analisi delle componenti principali (PCA): obiettivo e interpretazione
+L'analisi delle componenti principali (PCA) è una tecnica di riduzione della dimensionalità: trasforma
+variabili correlate in poche componenti incorrelate, combinazioni lineari delle originali, ordinate per
+varianza spiegata (autovalori della matrice di covarianza o correlazione). Obiettivo: sintetizzare
+l'informazione perdendone poca. Si interpreta guardando i pesi (loadings) di ciascuna variabile nelle
+componenti, la quota di varianza spiegata e il grafico a gomito (scree plot). Utile per indicatori sintetici.
+
+291. Che cos’è un albero decisionale e quali sono i suoi impieghi e limiti?
+L'albero decisionale divide ricorsivamente i dati in sottogruppi omogenei con regole sulle variabili (nodi,
+rami, foglie), per classificare (albero di classificazione) o prevedere un valore (regressione). Impieghi:
+classificazione, scoring, individuazione di segmenti e regole. Vantaggi: interpretabilità e gestione di
+variabili miste. Limiti: instabilità, tendenza all'overfitting, scarsa capacità di catturare relazioni lineari; si
+migliorano con potatura e metodi ensemble (random forest).
+
+292. Che cos’è un dendrogramma e che cosa indica il criterio del massimo salto?
+Il dendrogramma è il grafico ad albero del clustering gerarchico: mostra come le unità sono aggregate
+progressivamente in cluster a livelli crescenti di distanza. Il criterio del massimo salto individua il
+numero di gruppi tagliando il dendrogramma dove c'è il maggiore aumento di distanza tra due
+aggregazioni successive: oltre quel salto si unirebbero gruppi troppo diversi.
+
+296. Variabili dummy e utilizzo
+Una variabile dummy (indicatrice) assume valore 1 se l'osservazione ha una certa caratteristica e 0
+altrimenti. Serve a inserire nei modelli variabili qualitative (genere, area geografica, trattamento). Per
+una variabile con k categorie si usano k-1 dummy per evitare la trappola della collinearità perfetta; il
+coefficiente misura la differenza rispetto alla categoria di riferimento. Si usano anche per effetti fissi e
+per identificare un intervento (trattato).
+
+304. Classificazione e criteri di suddivisione (traccia con sigla NDA)
+La sigla NDA nella traccia non è chiara. Verosimilmente si tratta di classificazione e criteri di
+suddivisione (split) degli alberi decisionali: a ogni nodo si sceglie la variabile e la soglia che rende i
+sottogruppi più omogenei, con indice di Gini, entropia (guadagno di informazione) per la classificazione
+o riduzione della varianza per la regressione. Può trattarsi anche di analisi discriminante (LDA). Meglio
+chiedere alla commissione.
+
+
+
+
+                                          RIPAM 341 - risposte - pag. 37
+Valutazione delle politiche pubbliche (19)
+138. Che cos'è il policy failure?
+Il policy failure è il fallimento di una politica pubblica, che non raggiunge gli obiettivi o produce effetti
+indesiderati. Cause: errata diagnosi del problema, obiettivi ambigui, informazione insufficiente, difetti di
+implementazione, scarsa capacità amministrativa, coordinamento carente, cattura degli interessi,
+mancanza di valutazione, shock esterni. La valutazione aiuta a identificare e correggere i fallimenti.
+
+139. Qual è la differenza tra approccio top-down e bottom-up nella valutazione delle
+politiche?
+Nell'approccio top-down la politica è definita dal vertice (decisori) con obiettivi chiari e
+l'implementazione è vista come esecuzione; la valutazione verifica la coerenza con quanto progettato.
+Nel bottom-up si parte da chi attua e dai destinatari sul territorio, riconoscendo discrezionalità e
+adattamenti locali; la valutazione considera processi, attori e contesto. Si integrano nei modelli ibridi.
+
+140. Come si progettano indicatori input, output, outcome per ridurre la dispersione
+scolastica?
+Input: risorse impiegate (finanziamenti, ore di docenza, personale, tutor). Output: prodotti diretti
+(numero di corsi di recupero attivati, studenti coinvolti, ore di tutoraggio). Outcome: cambiamenti
+ottenuti (riduzione del tasso di abbandono, aumento dei diplomati, miglioramento dei risultati,
+competenze). Si definiscono baseline, target, fonti e frequenza di misura, e un gruppo di confronto per
+attribuire gli effetti.
+
+141. Che cosa distingue l'analisi dei risultati dalla valutazione di impatto?
+L'analisi dei risultati (monitoraggio) osserva gli indicatori di output e outcome prima e dopo l'intervento,
+ma non separa l'effetto della politica da altri fattori. La valutazione di impatto stima l'effetto causale
+attribuibile all'intervento, confrontando con un controfattuale (cosa sarebbe accaduto senza intervento)
+con metodi sperimentali o quasi-sperimentali.
+
+142. Che cosa significa effetto causale e che cos'è il controfattuale?
+L'effetto causale è la differenza tra l'esito osservato per chi ha ricevuto l'intervento e l'esito che si
+sarebbe osservato se non l'avesse ricevuto. Il controfattuale è questo scenario non osservabile,
+approssimato con un gruppo di controllo credibile (RCT, matching, differenze nelle differenze,
+regressione discontinua, variabili strumentali).
+
+143. Come si confrontano gli esiti di interventi pubblici diversi?
+Si confrontano con indicatori omogenei di output e outcome, con la stima dell'impatto (controfattuale) e
+con il rapporto costi-benefici o costo-efficacia, tenendo conto di contesto e destinatari. Metodi: analisi
+costi-benefici, analisi multicriterio, benchmarking, meta-analisi, valutazione comparativa. Servono
+baseline e target comuni, e attenzione a eterogeneità e validità esterna.
+
+144. Qual è il rapporto tra infrastrutture con fondi UE e valutazione delle politiche
+pubbliche?
+Le infrastrutture finanziate con fondi europei (coesione, PNRR) richiedono valutazione ex ante
+(fabbisogni, costi-benefici), monitoraggio di avanzamento (milestone, target) e valutazione ex post di
+risultati e impatti (crescita, accessibilità, occupazione). I regolamenti UE impongono piani di
+valutazione, indicatori comuni e trasparenza. La valutazione migliora la qualità della spesa e il dialogo
+con la Commissione.
+
+180. Qual è il contributo delle interviste nella valutazione delle politiche pubbliche?
+Le interviste (a decisori, attuatori, beneficiari, esperti) forniscono informazioni qualitative su processi,
+percezioni, motivazioni, ostacoli e effetti non visibili nei dati quantitativi. Sono utili per ricostruire la
+teoria del programma, interpretare i risultati statistici, individuare cause di successo o fallimento e
+rendere la valutazione più partecipata. Limiti: soggettività, campione ridotto, rischio di bias.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 38
+188. Che cos’è una politica pubblica e in cosa differisce da una singola decisione
+amministrativa?
+Una politica pubblica è un insieme coordinato e pluriennale di decisioni e azioni di una pluralità di attori
+per affrontare un problema collettivo, con obiettivi, risorse, strumenti e destinatari (ciclo: agenda,
+formulazione, decisione, implementazione, valutazione). Una singola decisione amministrativa è un atto
+puntuale (provvedimento) che produce effetti su casi specifici e può essere uno strumento della
+politica.
+
+219. Perché l’informazione è essenziale nel processo decisionale pubblico?
+L'informazione riduce l'incertezza e le asimmetrie: serve a identificare i problemi, definire obiettivi,
+confrontare alternative, monitorare l'attuazione e valutare i risultati (evidence-based policy). Senza dati
+affidabili si rischiano scelte errate e sprechi. La qualità dei dati, la tempestività, la trasparenza e
+l'accesso garantiscono responsabilità (accountability) e partecipazione.
+
+221. Funzione dei valori di partenza (baseline) e dei valori obiettivo (target) in un
+intervento pubblico
+La baseline è il valore iniziale degli indicatori prima dell'intervento, e permette di misurare i
+cambiamenti. Il target è il valore obiettivo da raggiungere. Insieme definiscono il percorso e rendono la
+politica misurabile e valutabile: consentono di verificare i progressi, di valutare i risultati rispetto alle
+attese e di correggere in corso d'opera. Target realistici e baseline affidabili sono essenziali.
+
+242. Come si valuta una politica pubblica? Quali problemi di endogeneità possono
+sorgere?
+Una politica si valuta definendo obiettivi e indicatori, raccogliendo i dati, stimando l'effetto causale con
+un controfattuale (RCT o metodi quasi-sperimentali) e analizzando costi e benefici. Problemi di
+endogeneità: autoselezione dei beneficiari (chi partecipa è diverso da chi no), variabili omesse correlate
+con trattamento ed esiti, causalità inversa, assegnazione non casuale dell'intervento. Si affrontano con
+randomizzazione, matching, differenze nelle differenze, variabili strumentali, regressione discontinua.
+
+243. Come progettare da zero una misura come il reddito di cittadinanza? Quali rischi
+valutare (targeting, incentivi, frodi, effetti occupazionali, costi, controfattuale)?
+Si parte dall'identificazione del problema e dei destinatari, obiettivi chiari, soglie e criteri di accesso
+(targeting basato su ISEE e requisiti), importo, durata, condizionalità (impegni di ricerca di lavoro,
+politiche attive). Rischi: errori di inclusione ed esclusione, disincentivi all'offerta di lavoro e trappola
+della povertà, frodi e lavoro nero, costi di bilancio, scarsa capacità dei centri per l'impiego. Servono
+controlli incrociati, monitoraggio, e valutazione di impatto con un gruppo di controllo (sperimentazione
+graduale o regressione discontinua alla soglia).
+
+275. Che cos’è il matching statistico nella valutazione delle politiche?
+Il matching statistico associa a ciascuna unità trattata una o più unità non trattate con caratteristiche
+osservabili simili (ad esempio con il propensity score, probabilità di partecipare al programma stimata
+da un logit), per costruire un gruppo di controllo e stimare l'effetto del trattamento. Assume che, a
+parità di caratteristiche osservate, l'assegnazione sia come casuale (ignorabilità); non controlla per
+variabili non osservate.
+
+282. Nella valutazione degli interventi, cosa si intende per input, output e outcome?
+Input: risorse impiegate (finanziarie, umane, strumentali). Output: prodotti o servizi direttamente
+realizzati con quelle risorse (opere, corsi, persone assistite). Outcome: effetti, di breve e lungo periodo,
+sui destinatari o sulla collettività (benessere, occupazione, salute). L'impatto è la parte di outcome
+attribuibile all'intervento. La catena input-output-outcome è alla base della valutazione.
+
+284. Qual è la differenza tra analisi multicriterio e analisi costi-benefici?
+L'analisi costi-benefici (ACB) traduce tutti i costi e benefici in termini monetari (attualizzati) e calcola
+VAN, rapporto B/C, tasso di rendimento interno, per scegliere interventi efficienti. L'analisi multicriterio
+considera più criteri non monetizzabili (ambientali, sociali), li pesa e li aggrega in un punteggio. La
+prima è quantitativa e oggettiva, ma difficile da applicare quando i benefici non sono monetizzabili; la
+seconda è più flessibile ma soggettiva nei pesi.
+
+
+
+                                        RIPAM 341 - risposte - pag. 39
+313. In che modo il funzionamento del sistema giudiziario incide sulla performance
+economica di un Paese e con quali interventi si possono affrontare le principali
+criticità?
+Un sistema giudiziario lento e incerto riduce la certezza dei contratti, aumenta i costi di transazione e
+del credito, scoraggia investimenti esteri e la dimensione delle imprese, e ostacola la concorrenza e il
+recupero dei crediti. Interventi: digitalizzazione (processo telematico), riorganizzazione degli uffici,
+ufficio per il processo, riduzione dei tempi con obiettivi di smaltimento dell'arretrato (PNRR),
+semplificazione delle procedure, metodi alternativi di risoluzione delle controversie (mediazione,
+arbitrato), più risorse e personale.
+
+326. Quali sono i limiti della valutazione controfattuale delle politiche pubbliche e
+perché è difficile individuare un gruppo di confronto credibile?
+Il controfattuale non è osservabile: si deve stimare. Difficoltà: trovare un gruppo di confronto simile al
+trattato per caratteristiche osservate e non osservate (selezione), rischio di contaminazione (spillover
+tra gruppi), numerosità ridotta, effetti di lungo periodo e di equilibrio generale, validità esterna limitata,
+problemi etici nella randomizzazione, qualità dei dati, cambiamenti del contesto. Un gruppo di
+confronto non credibile porta a stime distorte.
+
+336. Qual è la differenza tra politiche pubbliche soggettive e oggettive? Si illustri la
+distinzione con un esempio.
+Le politiche soggettive sono rivolte alle persone in base a caratteristiche personali e bisogni
+(trasferimenti, sussidi, borse di studio, ISEE): il beneficiario è identificato. Le politiche oggettive
+riguardano beni, attività o territori (infrastrutture, incentivi a settori, opere pubbliche) e si applicano a
+chiunque soddisfi condizioni oggettive. Esempio: assegno di inclusione (soggettiva) e incentivi agli
+investimenti in un'area depressa (oggettiva). Le prime sono più mirate, le seconde più semplici da
+gestire.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 40
+Informatica e CAD (56)
+145. Che cosa sono firma digitale, firma elettronica e documento informatico?
+Il documento informatico è la rappresentazione informatica di atti, fatti o dati giuridicamente rilevanti
+(CAD, art. 1). La firma elettronica è l'insieme di dati in forma elettronica associati ad altri dati per
+firmare (livello base). La firma elettronica avanzata identifica il firmatario con un legame univoco al
+documento. La firma digitale, basata su crittografia a chiave pubblica e privata con certificato
+qualificato, garantisce autenticità, integrità e non ripudio e ha il valore di una sottoscrizione autografa.
+
+146. Chi è il responsabile per la transizione digitale (RTD)?
+Il Responsabile per la transizione al digitale (art. 17 CAD) è la figura che in ogni amministrazione guida
+e coordina la trasformazione digitale: servizi online, digitalizzazione dei processi e dei documenti,
+interoperabilità, accessibilità, sicurezza, gestione dei dati e acquisti ICT. Riporta al vertice politico, ha
+un ufficio dedicato e collabora con AgID e il Dipartimento per la trasformazione digitale.
+
+147. Che cosa fa il Data Protection Officer (DPO)?
+Il DPO (Responsabile della protezione dei dati, artt. 37-39 GDPR) è una figura indipendente, designata
+da enti pubblici e in altri casi, con compiti di informare e consigliare il titolare e i dipendenti sugli
+obblighi, sorvegliare l'osservanza del GDPR, fornire pareri sulla valutazione d'impatto (DPIA), cooperare
+con il Garante e fare da punto di contatto per gli interessati. Non riceve istruzioni e non risponde
+dell'inadempimento del titolare.
+
+148. Cosa sono SPID livello 2, CNS e autenticazione multifattore?
+SPID livello 2: identità digitale con credenziali (username e password) più un secondo fattore (codice
+OTP o notifica su app). CNS: Carta nazionale dei servizi, smart card o token con certificato di
+autenticazione, usata con lettore e PIN. L'autenticazione multifattore richiede almeno due fattori di
+categorie diverse: qualcosa che si sa (password), che si possiede (telefono, token), che si è (biometria).
+
+149. A che cosa serve un codice OTP?
+L'OTP (One-Time Password) è un codice usa e getta, valido per un breve periodo o per una sola
+operazione, generato da app, token o inviato per SMS. Serve come secondo fattore di autenticazione
+per rafforzare la sicurezza di accessi e operazioni (SPID, home banking, pagamenti), perché rubare la
+sola password non basta.
+
+150. Che cos'è il Fascicolo Sanitario Elettronico (FSE)?
+Il Fascicolo sanitario elettronico (FSE) è l'insieme dei dati e documenti sanitari e socio-sanitari digitali di
+un cittadino (referti, prescrizioni, vaccinazioni, lettere di dimissione), generati dai professionisti e dalle
+strutture. Si accede con SPID, CIE o CNS. Il paziente decide su consensi e oscuramento. Il FSE 2.0
+(PNRR) è alimentato da tutti i dati e interoperabile.
+
+151. Che differenza c'è tra RAM e ROM? Quale interviene nell'avvio del computer?
+La RAM (Random Access Memory) è la memoria principale volatile, a lettura e scrittura, che contiene
+dati e programmi in uso; perde il contenuto allo spegnimento. La ROM (Read Only Memory) è non
+volatile, di sola lettura (o riscrivibile con difficoltà), contiene il firmware (BIOS/UEFI). All'avvio interviene
+la ROM, che esegue il bootstrap e carica il sistema operativo nella RAM.
+
+152. Che cos'è la memoria cache?
+La memoria cache è una memoria molto veloce e di piccola capacità posta tra processore e RAM (livelli
+L1, L2, L3), che conserva i dati e le istruzioni usati più di frequente per ridurre i tempi di accesso. Esiste
+anche la cache del browser, che salva pagine e risorse per caricarle più rapidamente.
+
+153. In quale memoria i dati restano salvati dopo lo spegnimento?
+I dati restano salvati dopo lo spegnimento nelle memorie non volatili: memorie di massa (hard disk,
+SSD, USB, schede SD), ROM e flash. La RAM è volatile e li perde. Per conservare un file va quindi salvato
+su un supporto di memorizzazione permanente.
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 41
+154. Qual è l'unità di misura della RAM? Che differenza c'è tra bit, byte, GB e GiB?
+La RAM si misura in byte e multipli (MB, GB). 1 byte = 8 bit. 1 GB (gigabyte, sistema decimale) = 10^9
+byte; 1 GiB (gibibyte, sistema binario) = 2^30 byte = 1.073.741.824 byte, circa il 7% più di 1 GB. Il bit
+è l'unità minima (0 o 1); i bit si usano per le velocità di trasmissione (Mbit/s), i byte per la capacità.
+
+155. Che cos'è un sistema operativo e quali funzioni svolge?
+Il sistema operativo è il software di base che gestisce le risorse hardware e fornisce servizi ai
+programmi e all'utente. Funzioni: gestione dei processi e della memoria, del file system, delle
+periferiche (driver), dell'interfaccia utente, della sicurezza e degli utenti, della rete.
+
+156. Quali sistemi operativi conosci oltre a Windows e qual è la versione corrente?
+Oltre a Windows: macOS (Apple), Linux (Ubuntu, Debian, Fedora), Android (Google), iOS e iPadOS
+(Apple), ChromeOS. La versione corrente di Windows per i PC è Windows 11 (Windows 10 non è più
+supportato da ottobre 2025); le versioni più recenti degli altri andrebbero verificate al momento
+dell'esame.
+
+157. Che cos'è un bug informatico?
+Un bug è un errore o difetto nel codice di un software che causa un comportamento imprevisto o errato
+(malfunzionamenti, arresti, vulnerabilità). Si corregge con aggiornamenti (patch). Se sfruttato da un
+attaccante diventa una vulnerabilità di sicurezza. Il debug è l'attività di individuazione e correzione.
+
+158. Che cos'è un virus informatico e quali segnali ne indicano la presenza?
+Un virus è un programma malevolo che si replica infettando file e programmi e si diffonde con allegati,
+supporti, siti. Segnali: rallentamenti, comportamenti anomali, pop-up, file danneggiati o scomparsi,
+programmi sconosciuti, antivirus disabilitato, uso anomalo di rete. Difesa: antivirus, aggiornamenti,
+prudenza con allegati e link, backup.
+
+159. Che cos'è il ransomware?
+Il ransomware è un malware che cifra i file della vittima (o blocca il sistema) e chiede un riscatto per la
+chiave di decifratura, spesso con minaccia di divulgare i dati. Si diffonde via phishing, vulnerabilità,
+accessi remoti. Difese: backup offline e regolarmente testati, aggiornamenti, antivirus/EDR, formazione,
+segmentazione di rete, piano di risposta. Non si consiglia di pagare.
+
+160. Quali strumenti hardware e software servono per navigare in internet?
+Servono: hardware (computer, smartphone, tablet), connessione (modem/router, cavo o Wi-Fi,
+abbonamento a un provider), software (sistema operativo, browser come Chrome, Edge, Firefox),
+indirizzo IP, DNS; è utile antivirus e firewall. La navigazione usa i protocolli HTTP/HTTPS.
+
+161. Che cos'è lo spam e come si previene o blocca?
+Lo spam è la posta elettronica (o messaggi) non richiesta, spesso pubblicitaria o fraudolenta (phishing).
+Si previene non divulgando l'indirizzo, non rispondendo né cliccando su link o allegati sospetti, usando
+filtri antispam e blacklist del provider, segnalando i messaggi come indesiderati e usando più caselle.
+Non va confuso con il phishing, che mira a rubare credenziali.
+
+162. Come si crea una password robusta? Che cos'è un password manager?
+Una password robusta è lunga (almeno 12-14 caratteri), con lettere maiuscole e minuscole, numeri e
+simboli, non riconducibile a dati personali o parole comuni, diversa per ogni servizio; meglio una
+passphrase. Il password manager è un programma che genera, memorizza cifrate e compila
+automaticamente le password, protetto da una password principale; si abbina all'autenticazione a più
+fattori.
+
+163. Che cosa sono autenticazione multifattore e OTP?
+L'autenticazione multifattore (MFA) richiede due o più fattori indipendenti (conoscenza, possesso,
+inerenza) per l'accesso: ad esempio password più OTP o impronta. L'OTP è un codice monouso a tempo
+(TOTP) o a evento (HOTP). Riducono il rischio di accesso anche se la password viene rubata.
+
+
+
+
+                                       RIPAM 341 - risposte - pag. 42
+164. Che differenza c'è tra backup e disaster recovery?
+Il backup è la copia dei dati su un altro supporto per ripristinarli in caso di perdita, danno, cancellazione
+o attacco. Il disaster recovery (DR) è l'insieme di procedure, risorse e infrastrutture (siti alternativi) per
+ripristinare sistemi e servizi dopo un evento grave, nel rispetto di RTO (tempo di ripristino) e RPO
+(perdita dati accettabile). Il backup è una componente del DR.
+
+165. Che cosa sono QR code, cloud e hotspot?
+Il QR code è un codice a barre bidimensionale che codifica informazioni (link, testo, dati) leggibili con la
+fotocamera. Il cloud è l'erogazione su Internet, on demand, di risorse informatiche (archiviazione,
+calcolo, software) da data center remoti. L'hotspot è un punto di accesso Wi-Fi che condivide la
+connessione Internet (anche dallo smartphone).
+
+166. Che cos'è un database relazionale?
+Un database relazionale organizza i dati in tabelle (relazioni) composte da righe (record) e colonne
+(campi), collegate tra loro tramite chiavi primarie e chiavi esterne. Si interroga con il linguaggio SQL.
+Garantisce integrità, assenza di ridondanze (normalizzazione) e proprietà ACID. Esempi: Access,
+MySQL, PostgreSQL, Oracle.
+
+167. Che cos'è la sicurezza informatica?
+La sicurezza informatica è l'insieme di misure tecniche, organizzative e comportamentali per
+proteggere sistemi, reti e dati da accessi non autorizzati, perdite o danni. Si fonda su riservatezza,
+integrità e disponibilità (triade CIA), con autenticità e non ripudio. Comprende sicurezza fisica e logica,
+backup, crittografia, formazione, gestione degli incidenti.
+
+181. Che cos’è un data breach?
+Un data breach è una violazione di sicurezza che comporta, accidentalmente o in modo illecito,
+distruzione, perdita, modifica, divulgazione non autorizzata o accesso a dati personali trattati (art. 4, n.
+12, GDPR). Può essere dovuto a attacchi, errori umani, smarrimento di dispositivi. Il titolare deve
+documentarlo e, se necessario, notificarlo.
+
+182. Codice della privacy: normativa e tutela dei dati personali
+Il Codice in materia di protezione dei dati personali (D.Lgs. 196/2003, adeguato dal D.Lgs. 101/2018)
+integra il Regolamento UE 2016/679 (GDPR). Tutela i diritti degli interessati (accesso, rettifica,
+cancellazione, limitazione, portabilità, opposizione). Il trattamento deve essere lecito, corretto e
+trasparente, limitato a scopi, minimizzato, esatto, conservato per il tempo necessario e sicuro. Autorità
+di controllo: il Garante per la protezione dei dati personali.
+
+183. In caso di violazione dei dati: notifica al Garante entro 72 ore e comunicazione
+all’interessato; quando si applicano?
+Art. 33 GDPR: il titolare notifica al Garante la violazione entro 72 ore da quando ne è venuto a
+conoscenza, salvo sia improbabile che presenti un rischio per i diritti e le libertà delle persone; oltre le
+72 ore indica i motivi del ritardo. Art. 34: comunica la violazione all'interessato, senza ingiustificato
+ritardo, quando il rischio è elevato (salvo dati cifrati, misure successive, sforzo sproporzionato). Il
+responsabile informa il titolare senza ritardo.
+
+189. A cosa serve un QR code?
+Il QR code serve a collegare rapidamente oggetti fisici a contenuti digitali: aprire siti, scaricare app,
+pagare (pagoPA), accedere al Wi-Fi, verificare documenti e certificazioni, biglietti, autenticazione. Si
+legge con la fotocamera dello smartphone.
+
+190. Un QR code può essere impiegato in una procedura di autenticazione? Con quali
+cautele?
+Sì, può essere impiegato come canale di autenticazione (ad esempio accesso a un servizio inquadrando
+un codice con l'app SPID, login con token). Cautele: usare codici dinamici e a tempo, verificare la fonte
+(rischio di quishing, QR contraffatti), collegarlo a un secondo fattore, non scansionare codici sconosciuti,
+controllare l'URL di destinazione e usare solo app ufficiali.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 43
+202. Vantaggi del cloud computing
+Vantaggi del cloud: scalabilità ed elasticità, pagamento a consumo (riduzione dei costi iniziali), accesso
+da ovunque, aggiornamenti automatici, ridondanza, continuità operativa e backup, rapidità di
+attivazione, collaborazione. Rischi: dipendenza dal fornitore (lock-in), protezione dei dati e giurisdizione,
+connettività. Nella PA si usano soluzioni qualificate da ACN (Strategia Cloud Italia, PSN).
+
+203. Tipologie di cloud: modelli di servizio e di distribuzione
+Modelli di servizio: IaaS (infrastruttura: server, storage, reti), PaaS (piattaforma per sviluppare e
+distribuire applicazioni), SaaS (software completo come servizio, es. Microsoft 365). Modelli di
+distribuzione: cloud pubblico (fornitori esterni), privato (dedicato a una organizzazione), ibrido
+(combinazione), community (condiviso da organizzazioni con esigenze comuni).
+
+204. Cloud e continuità operativa: che cosa cambia?
+Il cloud aumenta la continuità operativa: ridondanza geografica, backup, scalabilità e disaster recovery
+integrati con RTO e RPO ridotti, e accesso remoto per il lavoro agile. Cambia la responsabilità: la
+sicurezza è condivisa tra fornitore e cliente, servono SLA, gestione della dipendenza e dei dati, piani di
+uscita (exit strategy) e valutazione dei rischi di concentrazione.
+
+209. Che cos’è un backup incrementale?
+Il backup incrementale copia solo i dati modificati o creati dall'ultimo backup (completo o
+incrementale). Vantaggi: poco spazio e tempo. Svantaggio: il ripristino richiede il backup completo più
+tutti gli incrementali successivi, più lento. Il backup differenziale copia le modifiche dall'ultimo backup
+completo.
+
+214. Differenza tra Internet e World Wide Web
+Internet è la rete mondiale di reti di computer interconnesse (infrastruttura, protocolli TCP/IP), che
+supporta vari servizi (posta, trasferimento file, web). Il World Wide Web è uno di questi servizi: un
+sistema di documenti ipertestuali (pagine web) collegati da link, identificati da URL e trasferiti con il
+protocollo HTTP/HTTPS, visualizzati con browser. Il web è quindi un'applicazione che gira su Internet.
+
+226. Sicurezza fisica e sicurezza logica: differenza
+La sicurezza fisica protegge le risorse tangibili (server, locali, dispositivi) da accessi non autorizzati e
+eventi (incendi, furti, allagamenti, blackout) con controllo accessi, videosorveglianza, UPS, antincendio,
+sale protette. La sicurezza logica protegge dati e sistemi dal software: autenticazione, autorizzazioni,
+cifratura, antivirus, firewall, patch, backup, log. Si integrano.
+
+234. Carta d’identità elettronica (CIE): caratteristiche e impieghi
+La Carta d'identità elettronica (CIE) è il documento di identità e di riconoscimento, in formato carta di
+credito, con microchip e dati anagrafici e biometrici (foto, impronte). Ha validità 10 anni (adulti). Serve
+per identificarsi di persona, per viaggiare nell'UE, e per l'identità digitale: accesso ai servizi online (CIE
+ID con PIN, app CieID), firma elettronica avanzata. Rilasciata dal Comune e prodotta dal Poligrafico.
+
+247. Come si ottiene SPID e come funziona?
+SPID (Sistema pubblico di identità digitale) è l'identità digitale unica per accedere ai servizi online di PA
+e privati aderenti. Si ottiene da un identity provider accreditato AgID (Poste, Aruba, Namirial, Register,
+InfoCert, TIM...) con richiesta online, riconoscimento (di persona, con CIE o CNS, via webcam, con firma
+digitale) e documento di identità, tessera sanitaria e dati di contatto. Livello 1: password; livello 2:
+password più OTP; livello 3: dispositivo fisico.
+
+251. Che cos’è il protocollo informatico e a cosa serve nella PA?
+Il protocollo informatico (DPR 445/2000, CAD) è il sistema di registrazione di tutti i documenti ricevuti,
+inviati o interni di una PA: assegna numero progressivo, data e dati essenziali (mittente, oggetto),
+producendo un registro giornaliero immodificabile da conservare. Garantisce certezza giuridica sulla
+data e sul contenuto, tracciabilità, trasparenza e ordine nella gestione documentale (con la
+classificazione e il fascicolo).
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 44
+254. Che cosa si intende per Internet of Things (IoT)?
+L'Internet of Things (IoT) è l'insieme di oggetti fisici dotati di sensori, software e connettività, che
+raccolgono e scambiano dati via Internet (smart home, sensori ambientali, contatori intelligenti,
+dispositivi sanitari, smart city). Vantaggi: automazione, monitoraggio, efficienza. Rischi: sicurezza
+debole (password di default), privacy, grande superficie di attacco (botnet).
+
+255. Come difendersi dagli attacchi informatici? Illustrare esempi di attacco e
+contromisure
+Attacchi: phishing e smishing (messaggi ingannevoli per rubare credenziali), malware e ransomware,
+attacchi DDoS, social engineering, man-in-the-middle, SQL injection, sfruttamento di vulnerabilità.
+Contromisure: aggiornamenti e patch, antivirus/EDR, firewall, MFA, password robuste, backup offline,
+formazione degli utenti, controllo degli accessi e privilegi minimi, segmentazione, crittografia,
+monitoraggio e piano di risposta agli incidenti.
+
+267. Quali strumenti e precauzioni garantiscono la sicurezza in Excel?
+Sicurezza in Excel: proteggere il foglio e la struttura della cartella di lavoro (Revisione > Proteggi
+foglio), blocco celle con formule, password di apertura e di modifica, cifratura del file, firma digitale,
+controllo delle macro (disattivare quelle non attendibili, firma), convalida dei dati, gestione dei permessi
+sui file condivisi, backup e cronologia versioni. Attenzione a link esterni e dati personali nascosti
+(ispezione documento).
+
+271. Che ruolo hanno AgID e gli identity provider nell’identità digitale?
+AgID (Agenzia per l'Italia digitale) accredita i gestori di identità digitale (identity provider), emana le
+regole tecniche e vigila su SPID, e coordina i servizi per la PA. Gli identity provider emettono le identità,
+gestiscono le credenziali e autenticano l'utente verso i fornitori di servizi, garantendo livelli di sicurezza
+e riservatezza. Con CIE e eIDAS compongono il sistema di identità digitale.
+
+280. Che cos’è Microsoft 365 e come può essere utilizzato nella PA?
+Microsoft 365 è la suite in abbonamento (cloud) con applicazioni di produttività (Word, Excel,
+PowerPoint, Outlook), posta, archiviazione (OneDrive, SharePoint), collaborazione (Teams) e sicurezza.
+Nella PA permette lavoro collaborativo e agile, videoconferenze, condivisione di documenti, firma e
+gestione dei flussi, posta istituzionale, con attenzione a protezione dei dati e al qualificazione cloud.
+
+283. Chi è il responsabile per la transizione al digitale (RTD) e quali funzioni svolge?
+Il Responsabile per la transizione al digitale (RTD, art. 17 CAD) è il dirigente che coordina la
+trasformazione digitale dell'amministrazione: servizi digitali, razionalizzazione dei sistemi,
+interoperabilità, accessibilità, sicurezza, open data, acquisti ICT, pagamenti elettronici. Riferisce
+direttamente all'organo di vertice, collabora con AgID e il Dipartimento per la trasformazione digitale, e
+vigila sull'attuazione del Piano triennale.
+
+285. Che cos’è il Piano triennale per l’informatica nella Pubblica Amministrazione?
+Il Piano triennale per l'informatica nella PA, predisposto da AgID con il Dipartimento per la
+trasformazione digitale, è il documento di indirizzo strategico che definisce obiettivi, azioni e linee guida
+sulla trasformazione digitale delle amministrazioni per un triennio: servizi, dati, piattaforme,
+infrastrutture, interoperabilità, sicurezza, governance. Le PA lo recepiscono nei propri piani.
+
+288. Qual è la differenza tra preferiti e cronologia del browser?
+I preferiti (segnalibri) sono collegamenti a pagine salvati volontariamente dall'utente per ritrovarle
+rapidamente. La cronologia è l'elenco automatico delle pagine visitate, conservato dal browser, che può
+essere consultato e cancellato. I preferiti restano finché non li si elimina, la cronologia può essere
+eliminata per privacy (anche con navigazione in incognito).
+
+289. Che cos’è l’Agenzia per la cybersicurezza nazionale e quali sono i suoi compiti?
+L'Agenzia per la cybersicurezza nazionale (ACN, D.L. 82/2021) è l'autorità nazionale per la
+cybersicurezza: tutela gli interessi nazionali nello spazio cibernetico, attua la strategia nazionale, vigila
+su perimetro di sicurezza nazionale cibernetica e direttiva NIS, certifica prodotti e servizi cloud per la
+PA, ospita il CSIRT Italia, promuove ricerca, formazione e cooperazione internazionale.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 45
+294. Qual è la differenza tra download e upload?
+Download: scarico di dati o file da un server remoto al proprio dispositivo. Upload: invio (caricamento)
+di dati o file dal proprio dispositivo a un server o al cloud. Hanno velocità distinte: di solito la
+connessione domestica è asimmetrica, con download più veloce dell'upload.
+
+299. Macro in Excel e formattazione
+Una macro in Excel è una sequenza di comandi automatizzati registrata o scritta in VBA, per ripetere
+operazioni con un clic (anche con tasti di scelta rapida). Si registra da Sviluppo > Registra macro e si
+salva nel file con estensione .xlsm. Ci sono rischi di sicurezza se provengono da fonti ignote. La
+formattazione riguarda aspetto di celle e dati: formato numero, valuta, data, allineamento, bordi, colori,
+formattazione condizionale, stili e tabelle.
+
+302. Codice dell’amministrazione digitale (CAD)
+Il CAD (D.Lgs. 82/2005) è il Codice dell'amministrazione digitale: stabilisce i diritti di cittadini e imprese
+all'uso delle tecnologie nei rapporti con la PA e gli obblighi delle amministrazioni. Disciplina documento
+informatico, firme, PEC e domicilio digitale, SPID e CIE, pagamenti elettronici, protocollo e
+conservazione, siti web e accessibilità, dati pubblici e open data, interoperabilità, ruolo di AgID e
+dell'RTD.
+
+306. Che cos’è un virus informatico
+Un virus è un programma malevolo che si replica inserendosi in file o programmi ospiti e si diffonde
+quando questi sono eseguiti o condivisi (allegati email, USB, scaricamenti). Può rubare o danneggiare
+dati, rallentare il sistema. Fa parte del malware insieme a worm, trojan, spyware, ransomware. Difesa:
+antivirus aggiornato, aggiornamenti di sistema, prudenza e backup.
+
+316. Che cos’è Microsoft Access e a cosa servono tabelle, query, maschere e report?
+Microsoft Access è un DBMS relazionale per creare e gestire database. Le tabelle contengono i dati
+(record e campi) con chiavi primarie ed esterne. Le query estraggono, filtrano e calcolano dati da una o
+più tabelle (anche con SQL). Le maschere (form) servono per inserire e modificare i dati in modo
+guidato. I report presentano e stampano i dati in forma organizzata (raggruppamenti, totali).
+
+319. Che cos’è il diritto all’oblio previsto dal GDPR, quando si può chiedere la
+cancellazione dei dati e quali sono le principali eccezioni?
+Il diritto all'oblio (art. 17 GDPR, diritto alla cancellazione) consente all'interessato di ottenere la
+cancellazione dei dati senza ingiustificato ritardo quando non sono più necessari, revoca il consenso, si
+oppone al trattamento, i dati sono trattati illecitamente o per obbligo legale. Eccezioni: libertà di
+espressione e informazione, obblighi di legge, interesse pubblico (sanità), archiviazione nell'interesse
+pubblico, ricerca e statistica, accertamento o difesa di diritti in giudizio.
+
+327. A cosa servono gli stili in Microsoft Word e come si inserisce una filigrana in un
+documento?
+Gli stili in Word sono insiemi predefiniti di formattazione (carattere, paragrafo, spaziatura) applicati con
+un clic a titoli e testo; garantiscono coerenza, facilitano modifiche globali e permettono di generare
+automaticamente indice e struttura. Per inserire una filigrana: scheda Progettazione > Filigrana, si
+sceglie un modello (Bozza, Riservato) o si personalizza con testo o immagine.
+
+333. Che cos’è il linguaggio di programmazione Python, quali sono le sue principali
+caratteristiche e per quali attività viene utilizzato?
+Python è un linguaggio di programmazione di alto livello, interpretato, multipiattaforma, open source,
+con sintassi chiara e leggibile e tipizzazione dinamica; supporta programmazione a oggetti e funzionale
+e ha un'ampia libreria standard. Usi: analisi dei dati (pandas, NumPy), machine learning (scikit-learn,
+TensorFlow), automazione, web (Django, Flask), statistica e visualizzazione (matplotlib), scripting,
+calcolo scientifico.
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 46
+339. Quali passaggi occorre seguire per riutilizzare gli open data della PA? Come si
+verifica la licenza, quando si cita la fonte e a quali condizioni è ammesso il riutilizzo
+commerciale o non commerciale?
+Passaggi: individuare il dataset sul portale dati.gov.it o dell'ente; verificare la licenza (di solito CC0, CC
+BY 4.0, IODL 2.0); controllare formato, metadati, aggiornamento e qualità; scaricare e riutilizzare nel
+rispetto delle condizioni. Si cita la fonte quando la licenza lo prevede (CC BY: attribuzione). Il D.Lgs.
+36/2006 (direttiva UE 2019/1024) rende riutilizzabili i dati pubblici per qualsiasi scopo, anche
+commerciale, salvo limiti di legge (privacy, diritti di terzi, segreti); a titolo gratuito o con costi marginali.
+
+341. A cosa serve Microsoft PowerPoint? Come si crea una presentazione e qual è la
+differenza tra transizioni e animazioni?
+PowerPoint è il programma di Microsoft Office per creare presentazioni a diapositive (slide) con testo,
+immagini, grafici, tabelle e multimedia. Si crea una presentazione da modello o vuota, si scelgono
+layout, tema e struttura, si inseriscono contenuti, si controlla la presentazione. Le transizioni sono gli
+effetti nel passaggio da una diapositiva all'altra; le animazioni sono effetti applicati agli oggetti (testo,
+immagini) all'interno della diapositiva (entrata, enfasi, uscita, percorso).
+
+
+
+
+                                         RIPAM 341 - risposte - pag. 47
+Inglese (3)
+168. Introduce yourself. Then read the passage aloud and answer three comprehension
+questions.
+Prova di inglese. Presentazione: "Good morning. My name is ..., I am ... years old and I come from ... I
+have a degree in ... and I have been preparing for this public competition. I am interested in economic
+statistics and public administration because ... In my free time I enjoy ..." Poi lettura ad alta voce del
+brano: pronuncia chiara, ritmo regolare, pause alle virgole, attenzione a parole come "statistics",
+"economy", "government". Per le tre domande di comprensione: rispondere con frasi complete,
+riprendendo le parole del testo ma riformulandole (who, what, why).
+
+169. Describe four pictures about food: descrivere immagini di cibi, persone e luoghi
+Descrivere immagini di cibo, persone e luoghi: usare il present continuous per ciò che accade ("In the
+first picture, a family is having dinner at home"), "there is/there are" per gli elementi, aggettivi
+sensoriali (fresh, spicy, delicious), preposizioni di luogo (on the table, next to, in the background).
+Struttura: dove, chi, cosa fanno, atmosfera, un'opinione ("I think it shows ..."). Lessico utile: ingredients,
+dish, plate, meal, restaurant, market, kitchen, healthy food, fast food.
+
+334. Answer a question about the passage by comparing a situation described in the
+text with another situation, explaining the similarities and differences.
+Confrontare due situazioni nel brano: usare connettivi di confronto e contrasto. Somiglianze: "both ...
+and ...", "similarly", "likewise", "in the same way". Differenze: "however", "whereas", "on the other
+hand", "unlike". Struttura: 1) identificare le due situazioni, 2) dire due somiglianze, 3) dire due
+differenze, 4) concludere ("In conclusion, although ... they share ..."). Esempio: "In the first case people
+work from home, whereas in the second they commute; however, both situations aim at ..."
+
+
+
+
+                                        RIPAM 341 - risposte - pag. 48
+

@@ -386,3 +386,67 @@ abbiamo** e vanno trattate come le altre 249.
      amministrativa e discrezionalita' tecnica; merito e legittimita'".
      Si collega alla n. 10 attestata, "controllo di legittimita' e
      controllo di merito", e all'eccesso di potere.)*
+
+---
+
+# L'elenco completo dei 341 quesiti — 18 novembre
+
+Silvia ha caricato **RIPAM 341 - Risposte ai quesiti**, un elenco di **341
+quesiti con risposta modello**, organizzato per materia con la numerazione
+originale. Salvato in **RIPAM-341-risposte.txt**, nella stessa cartella.
+
+**Verifica fatta: tutte le 261 domande numerate del nostro repertorio sono
+presenti nel PDF, nessuna esclusa e nessuna in conflitto.** Il PDF e' un
+soprainsieme: contiene **80 quesiti in piu'**.
+
+## La distribuzione per materia
+
+| Materia | Quesiti nel PDF | Non erano da noi |
+|---|---|---|
+| Informatica e CAD | 56 | 31 |
+| Diritto amministrativo | 49 | 8 |
+| Statistica economica | 47 | 3 |
+| Contabilita' pubblica | 43 | 6 |
+| Econometria | 40 | 2 |
+| Politica economica | 36 | 4 |
+| Scienza delle finanze | 35 | 4 |
+| **Valutazione delle politiche** | **19** | **18** |
+| Data science | 13 | 1 |
+| Inglese | 3 | 3 |
+
+## Che cosa cambia davvero
+
+**Quasi nulla in diritto amministrativo e contabilita'.** Gli "otto nuovi" di
+amministrativo sono in realta' argomenti gia' fatti con un numero diverso:
+discrezionalita' (310, fatta il 17), decentramento (330, 28), conferenza di
+servizi (338, 28), caratteri del provvedimento (324), Consiglio di Stato (314),
+accesso documentale (308), competenza del TAR (307). **Solo la 329 e' nuova**:
+sospensione dell'efficacia del provvedimento, art. 21-quater.
+Stessa cosa in contabilita': allegati del rendiconto (303), copertura
+finanziaria (312), controllo preventivo (322), integrita' del bilancio (335)
+sono gia' nostri. **Nuove davvero: 328 (valutazione della spesa pubblica) e 325
+(commento a una tabella di finanza pubblica).**
+
+**La materia che cambia e' la VALUTAZIONE DELLE POLITICHE.** Diciotto quesiti su
+diciannove hanno numeri che non avevamo, e almeno otto sono argomenti mai
+trattati:
+
+- **138** policy failure
+- **139** approccio top-down e bottom-up
+- **140** progettazione di indicatori input, output, outcome
+- **141** analisi dei risultati contro valutazione di impatto
+- **143** confronto fra esiti di interventi diversi
+- **180** il contributo delle interviste
+- **188** che cos'e' una politica pubblica, e differenza da una singola decisione
+- **219** perche' l'informazione e' essenziale nel processo decisionale
+- **221** baseline e target
+- **313** sistema giudiziario e performance economica
+
+**E la 336 chiude un conto aperto**: *politiche pubbliche soggettive e
+oggettive*, la domanda uscita il 13 novembre a cui avevo risposto di non sapere
+con certezza che cosa intendesse la commissione. **La risposta c'e':** le
+soggettive sono rivolte alle persone secondo caratteristiche e bisogni
+(trasferimenti, sussidi, ISEE), le oggettive riguardano beni, attivita' o
+territori (infrastrutture, incentivi settoriali) e valgono per chiunque
+soddisfi condizioni oggettive. Esempio: assegno di inclusione contro incentivi
+agli investimenti in un'area depressa.
