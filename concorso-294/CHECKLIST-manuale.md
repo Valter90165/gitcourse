@@ -67,11 +67,11 @@ della lezione del piano.*
 | | Capitolo | Stato |
 |---|---|---|
 | 1 | I numeri indici | **✅** **sette domande attestate su sette**, chiuse il 18 nov. Definizione come rapporto con base 100 (26) · **base fissa contro base mobile (28)**, la domanda chiesta due volte · prezzo/quantita'/valore (25, manca la relazione valore = prezzo x quantita') · **indici dei prezzi al consumo con NIC, FOI e IPCA (28)** · deflazione (fatta il 16 col PIL nominale e reale). Semplici contro complessi, Laspeyres contro Paasche |
-| 2 | Contabilita' nazionale e sistema europeo dei conti | **✅** |
+| 2 | Contabilita' nazionale e sistema europeo dei conti | **✅** **primo voto il 18 nov**: PIL nominale e reale (fatto il 16 col pane) · **economia non osservata (27)** con sommersa legale ma occultata contro illegale vietata, e l'esaustivita' richiesta dal SEC 2010 · **metodo dell'input di lavoro (20)**: confondeva le due fonti, sono imprese (domanda) contro famiglie nella rilevazione forze di lavoro (offerta) |
 | 3 | Le comparazioni: deflatore e parita' di potere d'acquisto | **✅** ripreso il 16 nov: deflazione di un dato nominale col PIL a pane, deflatore del PIL come rapporto nominale/reale, **PPA** come tasso di conversione che elimina le differenze di prezzo nello spazio. **Il gancio: anno -> deflatore, paese -> PPA** |
 | 4 | Le tavole input-output e il modello di Leontief | **✅** |
-| 5 | Poverta' e scale di equivalenza | **✅** fatto oggi |
-| 6 | Il mercato del lavoro | **✅** fatto oggi |
+| 5 | Poverta' e scale di equivalenza | **✅** **primo voto il 18 nov**, domanda 268 attestata: assoluta contro relativa (25) · effetto di un arricchimento generale (28) · **scale di equivalenza ed economie di scala familiari (27)**, scala Carbonaro. Gancio: **l'assoluta misura se stai male, la relativa se stai peggio degli altri** |
+| 6 | Il mercato del lavoro | **✅** **primo voto il 18 nov**, domande 103 e 186 attestate: le tre condizioni del disoccupato (25, l'"ora" migrata dalla definizione di occupato) · i tre denominatori (28) · **il paradosso dello scoraggiato (28-29)**, la miglior risposta della giornata. Gancio: **due tassi su tre si calcolano sulla popolazione 15-64, la disoccupazione sulle forze di lavoro** |
 | 7 | Produttivita', progresso tecnologico e settori | **✅** produttivita', residuo di Solow, ULA, ATECO testati il 7 novembre |
 | 8 | Indagini e fonti statistiche | **✅** censuaria/campionaria (24), strato e grappolo (27), forze di lavoro (27) |
 
