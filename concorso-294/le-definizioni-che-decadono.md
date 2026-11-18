@@ -105,9 +105,11 @@ Accanto a ciascuna, il voto peggiore preso finora.
 > previsto; la valutazione verifica che abbia prodotto gli effetti attesi,
 > e ne spiega il perche'.
 
-**Output e outcome** *(21)*
+**Output, outcome e impatto** *(21, e l'impatto e' caduto due volte su due)*
 > L'output e' il prodotto diretto dell'attivita'; l'outcome e' il
-> cambiamento nella condizione dei destinatari.
+> cambiamento nella condizione dei destinatari; l'impatto e' l'outcome
+> al netto di cio' che sarebbe avvenuto comunque.
+> **Quanto ho fatto · e' servito · al netto.**
 
 **Efficienza ed efficacia** *(25)*
 > L'efficienza e' il rapporto tra output e input; l'efficacia confronta
@@ -137,3 +139,58 @@ Accanto a ciascuna, il voto peggiore preso finora.
 > Obbligatorio riguarda il chiedere, vincolante riguarda il seguire. Se un
 > parere obbligatorio non arriva nei venti giorni, l'amministrazione PUO'
 > procedere; se era facoltativo, DEVE procedere.
+> **Attenzione: la risposta 11 del PDF dei 341 dice 45 giorni. E' un
+> errore — l'art. 16 L. 241/1990 dice VENTI. I 45 giorni sono il termine
+> della conferenza di servizi semplificata.**
+
+
+---
+
+## Aggiunte del 18 novembre — le formulazioni nuove da recitare
+
+**Il tasso di disoccupazione** *(il denominatore, 28)*
+> Due tassi su tre si calcolano sulla popolazione 15-64. La disoccupazione
+> no: si calcola sulle FORZE DI LAVORO, cioe' occupati piu' disoccupati.
+
+**Il disoccupato** *(25, l'"ora" migrata dall'occupato)*
+> Non occupato · almeno un'AZIONE ATTIVA di ricerca nelle quattro
+> settimane · immediatamente disponibile. **L'ora di lavoro e'
+> dell'OCCUPATO, non del disoccupato.**
+
+**Poverta' assoluta e relativa** *(25)*
+> L'assoluta misura se stai male: non puoi comprare un paniere essenziale.
+> La relativa misura se stai peggio degli altri: spesa sotto una soglia
+> definita in rapporto alla spesa media.
+
+**Lo scarto quadratico medio** *(15, poi 25)*
+> Gli scarti semplici si annullano · la varianza e' la MEDIA DEI QUADRATI
+> e risolve il segno · lo scarto quadratico medio e' la RADICE della
+> varianza e risolve l'unita' di misura.
+> **L'ordine: scarto, quadrato, media.** Mai media prima del quadrato:
+> la media degli scarti e' zero.
+
+**Capacita' fiscale** *(20, due volte parafrasata)*
+> Quanto un Comune POTREBBE incassare dalla sua base imponibile, ad
+> aliquote standard. **Non quanto incassa.**
+> La quota perequativa si calcola su **fabbisogni standard e capacita'
+> fiscale**: due etichette di due parole, intere.
+
+**Analisi dei risultati e valutazione di impatto** *(28)*
+> Il monitoraggio guarda PRIMA E DOPO. La valutazione di impatto guarda
+> CON E SENZA.
+
+**Top-down e bottom-up** *(22)*
+> Non dicono chi decide la politica: dicono da dove la guardi. Il
+> top-down chiede "e' stato eseguito come previsto?", il bottom-up "che
+> cosa e' successo davvero la' dove si attua?". Si integrano nei modelli
+> ibridi.
+
+**Il documento informatico e la firma** *(24)*
+> La rilevanza giuridica sta nel CONTENUTO — atti, fatti o dati
+> giuridicamente rilevanti. La firma da' l'EFFICACIA PROBATORIA.
+> La firma digitale e' una SPECIE della qualificata, con due chiavi
+> crittografiche asimmetriche.
+
+**L'eccesso di potere** *(18)*
+> E' il vizio della discrezionalita'. L'abuso d'ufficio e' un reato
+> (art. 323 c.p.): parola diversa, materia diversa.
