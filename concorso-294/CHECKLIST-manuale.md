@@ -66,9 +66,9 @@ della lezione del piano.*
 
 | | Capitolo | Stato |
 |---|---|---|
-| 1 | I numeri indici | **✅** definizione come rapporto con base 100 (26) e **base fissa contro base mobile (28)** il 16 nov — la domanda chiesta due volte. **Da testare**: prezzo/quantita'/valore, deflazione di un dato nominale, indici dei prezzi al consumo |
+| 1 | I numeri indici | **✅** **sette domande attestate su sette**, chiuse il 18 nov. Definizione come rapporto con base 100 (26) · **base fissa contro base mobile (28)**, la domanda chiesta due volte · prezzo/quantita'/valore (25, manca la relazione valore = prezzo x quantita') · **indici dei prezzi al consumo con NIC, FOI e IPCA (28)** · deflazione (fatta il 16 col PIL nominale e reale). Semplici contro complessi, Laspeyres contro Paasche |
 | 2 | Contabilita' nazionale e sistema europeo dei conti | **✅** |
-| 3 | Le comparazioni: deflatore e parita' di potere d'acquisto | **✅** |
+| 3 | Le comparazioni: deflatore e parita' di potere d'acquisto | **✅** ripreso il 16 nov: deflazione di un dato nominale col PIL a pane, deflatore del PIL come rapporto nominale/reale, **PPA** come tasso di conversione che elimina le differenze di prezzo nello spazio. **Il gancio: anno -> deflatore, paese -> PPA** |
 | 4 | Le tavole input-output e il modello di Leontief | **✅** |
 | 5 | Poverta' e scale di equivalenza | **✅** fatto oggi |
 | 6 | Il mercato del lavoro | **✅** fatto oggi |
