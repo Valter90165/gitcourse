@@ -19,7 +19,7 @@ della lezione del piano.*
 | 3 | Il pubblico impiego | **–** |
 | 4 | L'attivita' amministrativa: atti e provvedimenti, invalidita', autotutela | **✅** nullita' e annullabilita' con i tre vizi di legittimita' (26), **annullamento d'ufficio e revoca (28)** con ex tunc/ex nunc e indennizzo, le tre condizioni del 21-nonies (22). **Pareri** obbligatorio/facoltativo/vincolante (27) e organi consultivi il 17 nov. **DISCREZIONALITA' ◐** (domande 299-301, mai trattata prima del 16 nov): discrezionalita' amministrativa **27**, quattro profili 26, vizio **18** ("abuso" per **eccesso** di potere), merito **27**, discrezionalita' tecnica 23, sindacato prima/dopo 1999 **20** (verso invertito). **Da ritestare**: tecnica e sindacato |
 | 5 | Il procedimento amministrativo | **✅** fasi (26), responsabile, preavviso, potere sostitutivo, conferenza di servizi (28), **partecipazione e contraddittorio (27)**, **accordi art. 11 (27)**, termini e silenzio |
-| 6 | Digitalizzazione e CAD (documento informatico, firme, protocollo, SPID, CIE) | **◐** DA-1 testata; CAD e IN-2 consegnati e mai testati |
+| 6 | Digitalizzazione e CAD (documento informatico, firme, protocollo, SPID, CIE) | **✅** studiato e testato il 18 nov, **sei domande attestate** (23, 24, 264 in amministrativo; 247, 251, 271 in informatica): cosa disciplina il CAD e i due principi 24, documento informatico e le quattro firme 24, firma digitale come specie della qualificata 22, accessibilita' e legge Stanca 4/2004 23, SPID 26, protocollo informatico 22. **Errori corretti**: "giuridicamente rilevante" attribuito alla firma anziche' al contenuto; "canale unico" per modalita' **ordinaria**; mancava la **certezza della data** fra le funzioni del protocollo. **Non sapeva** la nullita' dei contratti in violazione dei requisiti di accessibilita' |
 | 7 | L'accesso documentale e l'accesso civico | **✅** documentale, civico semplice e generalizzato (28), Amministrazione trasparente e OIV (28) — sei domande attestate coperte |
 | 8 | La documentazione amministrativa | **–** |
 | 9 | Anticorruzione e trasparenza | **✅** |
@@ -46,7 +46,7 @@ della lezione del piano.*
 
 | | Capitolo | Stato |
 |---|---|---|
-| 1 | La statistica descrittiva | **◐** sofferta; **Lorenz e Gini ✅** (27-28), **quartili, percentili e centili ✅** (28, usciti il 13 novembre) |
+| 1 | La statistica descrittiva | **✅** **le due domande attestate coperte il 18 nov**: media/mediana/moda con analitiche contro lasche (24, poi i redditi 27) e **scarto quadratico medio** (15, poi 25). Piu' **Lorenz e Gini** (27-28) e **quartili, percentili e centili** (28, usciti il 13 nov). **Le quattro medie analitiche non fatte: resa zero.** **Da riprendere**: l'ordine scarto-quadrato-media, invertito tre volte |
 | 2 | Statistica inferenziale: la probabilita' | **–** |
 | 3 | Le variabili casuali | **–** |
 | 4 | La teoria della stima | **✅** stimatore e stima (27), correttezza (27), **BLUE (28)**, grande varianza (26), bias-varianza (26), intervallo di confidenza (26) — sei domande attestate coperte |
@@ -119,7 +119,7 @@ della lezione del piano.*
 
 # Il conto
 
-**✅ fatto e verificato: 55 su 70 (79%)** · **◐ parziale o non testato: 9** · **– da fare: 6**
+**✅ fatto e verificato: 57 su 70 (81%)** · **◐ parziale o non testato: 7** · **– da fare: 6**
 
 **I 6 mai aperti:** pubblico impiego · documentazione amministrativa · probabilita' · variabili casuali · equazioni simultanee · inglese B1. **Tutti e cinque i capitoli di materia hanno zero domande attestate**; l'inglese e' idoneita'.
 
