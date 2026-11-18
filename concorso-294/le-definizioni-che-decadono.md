@@ -194,3 +194,33 @@ Accanto a ciascuna, il voto peggiore preso finora.
 **L'eccesso di potere** *(18)*
 > E' il vizio della discrezionalita'. L'abuso d'ufficio e' un reato
 > (art. 323 c.p.): parola diversa, materia diversa.
+
+
+---
+
+## DA CHIEDERE — richiesto da Silvia il 18 novembre sera
+
+**La classificazione dei dati statistici** *(mai testata — lei chiede
+espressamente di essere interrogata nei prossimi giorni)*
+> Primo criterio, la natura del carattere: **qualitativi** (sconnessi e
+> ordinati) e **quantitativi** (discreti e continui).
+> Secondo criterio, la scala di misura: **nominale, ordinale, a
+> intervalli, di rapporti**.
+> **La frase che li lega: il tipo di dato determina quali indici puoi
+> calcolare. La moda vale sempre, la mediana dagli ordinali in su, la
+> media solo dai quantitativi in su.**
+
+**Lo spiazzamento** *(12 — buco vero, non svista; rimandato da lei la sera
+del 18, da riprendere al giro 1)*
+> Spesa pubblica in disavanzo · il tasso di interesse **SALE** ·
+> gli investimenti privati scendono. **Niente titoli**: quelli sono la
+> domanda speculativa di moneta, altro meccanismo.
+> In IS-LM e' il movimento **lungo la LM**. LM verticale: spiazzamento
+> totale. LM orizzontale (trappola della liquidita'): spiazzamento nullo.
+
+**I quattro criteri fra le fonti** *(20, errore ripetuto due giorni di fila)*
+> Gerarchico: la fonte superiore prevale · Cronologico: la posteriore
+> prevale · **Specialita'** (non "specificita'"): la norma speciale
+> prevale · **Competenza** (non "materia"): prevale la fonte cui quella
+> materia e' riservata.
+> **Le fonti si dividono per COMPETENZA, gli organi per MATERIA.**
