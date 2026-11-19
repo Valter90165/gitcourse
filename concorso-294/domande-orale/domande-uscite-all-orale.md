@@ -450,3 +450,32 @@ soggettive sono rivolte alle persone secondo caratteristiche e bisogni
 territori (infrastrutture, incentivi settoriali) e valgono per chiunque
 soddisfi condizioni oggettive. Esempio: assegno di inclusione contro incentivi
 agli investimenti in un'area depressa.
+
+---
+
+# Uscite il 19 novembre — riferite da Silvia
+
+342. **Controlli interni ed esterni.**
+     *(Gia' nostra, e gia' nei 341 in piu' forme: 10 legittimita'/merito,
+     12 attivita' di controllo, 42 controlli finanziari della Corte,
+     298 controlli successivi, 322 controllo preventivo. **Ma il nostro
+     voto su questo capitolo e' 22, il piu' basso della Parte I.**
+     Da rifare al giro 1.)*
+
+343. **Che cosa cambia tra un livello di confidenza del 95% e uno del 99%?**
+     *(Angolazione nuova. L'intervallo di confidenza l'abbiamo fatto —
+     15, poi 25 — ma mai il confronto fra due livelli. E' il punto in cui
+     si vede se si e' capito il trade-off.)*
+
+344. **Confronto fra carbon tax e incentivi alle tecnologie a basse
+     emissioni: pro e contro.**
+     *(Scienza delle finanze, esternalita'. Nei 341 ci sono la 51
+     (esternalita') e la 55 (tassa pigouviana, che cita espressamente la
+     carbon tax), ma non il confronto fra i due strumenti. Domanda da
+     "pro e contro": vuole una struttura, non un elenco.)*
+
+**Che cosa confermano.** Nessuna delle tre e' fuori programma, ma tutte e
+tre chiedono **un'angolazione** piu' che una nozione: un confronto fra due
+livelli, un confronto fra due strumenti, e un capitolo su cui il nostro
+voto e' il piu' basso. **La commissione sta chiedendo di ragionare sul
+materiale, non di recitarlo.**
