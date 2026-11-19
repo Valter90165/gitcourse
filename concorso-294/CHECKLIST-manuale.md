@@ -25,7 +25,7 @@ della lezione del piano.*
 | 9 | Anticorruzione e trasparenza | **✅** |
 | 10 | GDPR e protezione dei dati | **◐** solo dentro IN-1 |
 | 11 | Giustizia amministrativa e situazioni giuridiche soggettive | **✅** diritto soggettivo e interesse legittimo col riparto (27), le due porte e i tre ricorsi amministrativi (27-28), ricorso straordinario (26), tutela cautelare con fumus e periculum (27), azione risarcitoria e pregiudiziale superata (26) |
-| + | I controlli interni ed esterni | **✅** (22) |
+| + | I controlli interni ed esterni | **✅** rifatto il 19 nov (**uscito quel giorno all'orale**): i quattro controlli interni (27), Corte dei conti con art. 100, registrazione con riserva e comunicazione al Parlamento, Titolo V e il passaggio dai controlli sull'atto a quelli sulla gestione (25). **Errore corretto**: attribuiva alla Corte dei conti l'asse legittimita'/merito — il merito e' controllo interno o gerarchico, ed e' residuale |
 
 ## PARTE II — Contabilita' pubblica (pp. 129-256)
 
