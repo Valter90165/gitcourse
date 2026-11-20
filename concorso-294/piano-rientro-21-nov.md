@@ -96,3 +96,45 @@ essere recitate.
 
 **La mezz'ora di manutenzione del 19 e del 20 non e' simbolica: e' cio' che
 rende sostenibile la pausa.**
+
+---
+
+## Aggiunta del 20 novembre — il blocco econometria quotidiano
+
+Richiesta di Silvia: *"io devo vedere tutti i giorni econometria che e' la
+materia che capisco meno."*
+
+**Accolta, e i dati la confermano:** i quattro voti piu' bassi del programma
+(intercetta 12, Gini 12, coefficiente 15, BLUE 15) sono tutti di econometria e
+statistica, ed e' la materia meno coperta — 9 capitoli su 15.
+
+**Formato: cinque voci al giorno, a rotazione. Sedici voci in tutto, quindi
+ogni tre giorni passano tutte.** Non e' materiale nuovo: e' produzione a voce
+su cio' che e' gia' stato spiegato.
+
+### Il giro delle sedici voci
+
+| | Voce | Peggiore |
+|---|---|---|
+| 1 | L'intercetta | **12** |
+| 2 | Il coefficiente | 15 → 26 |
+| 3 | BLUE | 15 → 20 |
+| 4 | L'errore standard | 22 |
+| 5 | L'eteroschedasticita' | 22 |
+| 6 | L'R quadro | 22 → 29 |
+| 7 | L'ipotesi nulla | 24 |
+| 8 | L'intervallo di confidenza | 20 → 25 |
+| 9 | La regressione | 27 |
+| 10 | I minimi quadrati | 27 |
+| 11 | La distorsione da variabile omessa | 26 |
+| 12 | Endogeneita' e variabili strumentali | 27-28 |
+| 13 | Multicollinearita' e dummy | 27 |
+| 14 | Stimatore e stima, correttezza | 27 |
+| 15 | Bias-varianza | 26 |
+| 16 | Serie storiche: le quattro componenti | 28 (ma ciclica/stagionale **invertita il 19**) |
+
+**Rotazione:** giorno 1 le voci 1-5 (le piu' basse), giorno 2 le 6-11, giorno 3
+le 12-16. Poi da capo.
+
+**Regola:** chi scende sotto 24 torna nel gruppo del giorno dopo, fuori
+rotazione.
