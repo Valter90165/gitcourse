@@ -200,6 +200,27 @@ Accanto a ciascuna, il voto peggiore preso finora.
 
 ## DA CHIEDERE — richiesto da Silvia
 
+**L'autotutela: annullamento d'ufficio e revoca** *(chiesta il 20 sera, lei
+dice di doverla rivedere. Era a 28 il 12 novembre: **decaduta**)*
+> **Autotutela** = il potere della PA di rivedere da se' i propri atti, senza
+> passare dal giudice.
+> **ANNULLAMENTO D'UFFICIO (21-nonies)** — dice *"avevo sbagliato"*:
+> **illegittimita' ORIGINARIA**, effetto **EX TUNC** (retroattivo),
+> **nessun indennizzo**. Tre condizioni: illegittimita' · interesse pubblico
+> concreto e attuale · termine ragionevole, comunque **12 mesi** per
+> autorizzazioni e vantaggi economici.
+> **REVOCA (21-quinquies)** — dice *"ho cambiato idea"*: **inopportunita'
+> SOPRAVVENUTA** (o mutamento della situazione di fatto, o nuova valutazione
+> dell'interesse pubblico), effetto **EX NUNC** (non retroattivo), **con
+> INDENNIZZO** se arreca pregiudizio.
+> **Il gancio: l'annullamento guarda INDIETRO (l'atto era illegittimo da
+> sempre), la revoca guarda AVANTI (l'atto era legittimo, ma da oggi non
+> conviene piu').**
+> **E l'indennizzo segue questa logica:** nell'annullamento no, perche'
+> l'atto non doveva esistere; nella revoca si', perche' l'atto era valido e
+> il privato ci aveva fatto affidamento.
+
+
 **Il principio di proporzionalita'** *(18 — domanda 293, mai fatta prima del
 20 novembre; lei chiede espressamente di rivederla)*
 > **Il provvedimento non deve sacrificare gli interessi privati piu' di
