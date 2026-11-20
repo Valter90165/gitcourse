@@ -479,3 +479,31 @@ tre chiedono **un'angolazione** piu' che una nozione: un confronto fra due
 livelli, un confronto fra due strumenti, e un capitolo su cui il nostro
 voto e' il piu' basso. **La commissione sta chiedendo di ragionare sul
 materiale, non di recitarlo.**
+
+---
+
+# Uscite il 20 novembre — riferite da Silvia
+
+345. **Atto vincolato.**
+346. **Atto discrezionale.**
+347. **Discrezionalita' tecnica e merito amministrativo.**
+348. **L'albero decisionale.**
+
+## Che cosa confermano, e pesa
+
+**Tre domande su quattro sono lo stesso blocco gia' uscito il 16 novembre**
+(299 discrezionalita' amministrativa, 300 merito, 301 discrezionalita'
+tecnica). **In cinque giorni la commissione ha battuto questo tema due volte,
+per un totale di sette domande.**
+
+**E' il tema piu' chiesto del repertorio dopo l'armonizzazione contabile** — e
+fino al 16 novembre **non era mai stato trattato in nessuna sessione**, pur
+essendo scritto nel programma della scheda di diritto amministrativo.
+
+**I voti attuali non bastano:** discrezionalita' amministrativa 27 e merito 27
+tengono, ma **discrezionalita' tecnica 23** e **sindacato prima/dopo il 1999
+20** no. Vanno portati a 28 prima del 2 dicembre: **statisticamente e' il tema
+che ha piu' probabilita' di uscire.**
+
+**La 348 (albero decisionale) e' la 291 dei 341**, famiglia "metodi" del data
+science. Mai trattata.
