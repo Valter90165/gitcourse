@@ -198,6 +198,32 @@ Accanto a ciascuna, il voto peggiore preso finora.
 
 ---
 
+## DA CHIEDERE — richiesto da Silvia
+
+**Il principio di proporzionalita'** *(18 — domanda 293, mai fatta prima del
+20 novembre; lei chiede espressamente di rivederla)*
+> **Il provvedimento non deve sacrificare gli interessi privati piu' di
+> quanto sia necessario per raggiungere l'interesse pubblico.** Riguarda il
+> rapporto fra **mezzo e scopo**, non fra potere esercitato e potere
+> attribuito.
+> **I tre criteri, come tre domande in fila:**
+> **1. IDONEITA'** — *il mezzo serve allo scopo?*
+> **2. NECESSARIETA'** — *ce n'e' uno piu' leggero?* (il meno restrittivo
+> fra quelli idonei)
+> **3. PROPORZIONALITA' IN SENSO STRETTO** — *ne vale la pena?* (il
+> sacrificio dev'essere proporzionato al vantaggio)
+> **Serve? · Ce n'e' uno piu' leggero? · Ne vale la pena?**
+> E' un **limite interno della discrezionalita'**, di origine **europea**,
+> richiamato dall'**art. 1 L. 241/1990**. La violazione si fa valere come
+> **eccesso di potere**.
+
+**La trappola della liquidita'** *(mai ridetta dopo il 9 novembre; chiesta due
+volte il 20 e mai data)*
+> Il tasso e' cosi' basso che la politica monetaria perde efficacia: non
+> puo' scendere oltre lo zero. **La LM diventa ORIZZONTALE.**
+> **Politica monetaria inefficace · politica fiscale massimamente efficace,
+> perche' il tasso non sale e quindi NON C'E' SPIAZZAMENTO.**
+
 ## DA CHIEDERE — richiesto da Silvia il 18 novembre sera
 
 **La classificazione dei dati statistici** *(mai testata — lei chiede
