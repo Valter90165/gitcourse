@@ -782,3 +782,73 @@ lei stessa aveva descritto a 28 il 9 novembre sul federalismo fiscale.
 4. Numeri indici, le tre domande attestate che restano
 5. Statistica economica: capitoli 2, 5, 6 ancora senza voto
 6. DUP, controlli nella contabilita', allegati del rendiconto
+
+---
+
+## Venerdi' 20 novembre — la giornata piu' lunga, e una resa dei conti
+
+### La discussione sul manuale
+
+Silvia ha contestato una mia incoerenza sulla copertura degli enti locali
+("prima dici una cosa poi un'altra"), ed e' emerso il punto vero: **non ho mai
+avuto il manuale.** Ho sette pagine di estratto (IS-LM), le mie dispense e una
+checklist costruita su un indice scansionato in parte illeggibile. I manuali
+stanno sul suo Drive, censiti e mai letti; il connettore vede la cartella ma
+non i file.
+
+**Verificate tre fonti** — cronologia git, cartella dei caricamenti, transcript
+completo da 5,2 MB: **un solo file caricato in questa conversazione**, il PDF
+dei 341 di martedi'. L'equivoco nasce probabilmente dal fatto che nel
+repository c'e' un PDF per materia, con il nome della materia, di dimensione
+plausibile: **sono le mie dispense.**
+
+**Ma la verifica decisiva l'ha fatta lei:** il manuale finisce a **poco piu' di
+800 pagine**, contro le 845 della mia mappa. **Nessuna parte del programma e'
+fuori dalla checklist.**
+
+**La lezione, pagata con quaranta minuti:** la copertura si giudica sulle
+domande attestate, non sulla mia tabella dei capitoli. I due buchi di questa
+settimana non erano capitoli mancanti.
+
+### Il grappolo trovato stamattina
+
+**Autonomia degli enti territoriali: quattro domande attestate (5, 170, 220,
+301) mai aperte.** Consegnate le sei autonomie, l'art. 114 e l'equiordinazione,
+la sussidiarieta' verticale e orizzontale.
+
+### La discrezionalita' esce per la seconda volta
+
+**Il 20 la commissione ha chiesto atto vincolato, atto discrezionale,
+discrezionalita' tecnica e merito.** Sommate alle tre del 16: **sette domande
+in cinque giorni sullo stesso tema**, che fino al 16 non era mai stato aperto.
+
+Rifatto tutto: atto vincolato 27 · quattro profili 27 · tecnica 27 (dopo una
+terza spiegazione, costruita sulla domanda *"esiste una risposta giusta?"*) ·
+merito 27 · **la ragione del non sindacato da 18 a 26**.
+
+**Errore corretto, e vale:** il merito non e' sottratto al giudice perche' e'
+"opinabile" — opinabile e' la **tecnica**, che infatti **e'** sindacabile. Il
+merito e' sottratto per **separazione dei poteri**.
+
+**Gancio nuovo: il RIGHELLO e la BILANCIA.** La tecnica misura, l'amministrativa
+pesa. *Ponderare* viene da *pondus*: pesare.
+
+### Data science, da zero a chiuso in una giornata
+
+Albero decisionale, KDD, costruzione del modello, clustering, dendrogramma,
+bootstrap, outlier, regressione predittiva contro esplicativa.
+
+**Due domande uscite il 20 non erano nemmeno nei 341** (KDD e costruzione del
+modello): **nemmeno quell'elenco e' il perimetro.**
+
+**Il pattern emerso, e va battuto:** quando ricostruisce una sequenza, **cadono
+i momenti centrali** — prima *addestro*, poi *regolo*. Non e' incomprensione:
+sta **ricostruendo invece di recitare**. Le sequenze che recita (fasi della
+spesa) sono intatte da due settimane.
+
+### Econometria quotidiana, giorno 1
+
+**L'intercetta da 12 a 28** — era il voto piu' basso del programma.
+BLUE 25 (le quattro lettere ci sono, resta "a varianza minima").
+Errore standard 22: lo confonde con lo scarto quadratico medio. **Test dato:
+raddoppia il campione — lo scarto non cambia, l'errore standard si riduce.**
