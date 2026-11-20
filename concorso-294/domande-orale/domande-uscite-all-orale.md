@@ -507,3 +507,11 @@ che ha piu' probabilita' di uscire.**
 
 **La 348 (albero decisionale) e' la 291 dei 341**, famiglia "metodi" del data
 science. Mai trattata.
+
+349. **Che cos'e' il KDD?**
+350. **Le modalita' di costruzione di un modello di data mining.**
+     *(Riferite da Silvia il 20 novembre. **Nessuna delle due e' nell'elenco
+     dei 341**: ci sono pezzi sparsi — la 132 sulle tecniche, la 135 su
+     cross-validation e train/test — ma non il processo KDD ne' il flusso di
+     costruzione del modello. **Quindi nemmeno i 341 sono esaustivi**: vanno
+     usati come la fonte migliore disponibile, non come il perimetro.)*
