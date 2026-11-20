@@ -8,6 +8,20 @@
 *Dove il titolo del capitolo non e' leggibile nell'indice scansionato, uso il nome
 della lezione del piano.*
 
+**Verifica del 20 novembre.** Silvia ha controllato sul manuale: **finisce a
+poco piu' di 800 pagine**, contro le 845 della mappa qui sotto (828 di
+contenuto). **Nessuna parte del programma resta fuori da questa lista.**
+Restano incerti solo alcuni titoli ricostruiti e tre accorpamenti — Parte II
+9-10, Parte III 7-9, Parte VI 1-2 — che nel manuale potrebbero essere capitoli
+distinti.
+
+**E una lezione di metodo, pagata cara:** i due buchi trovati fra il 18 e il 20
+novembre — i 18 quesiti di valutazione e i 4 sull'autonomia degli enti
+territoriali — **non erano capitoli mancanti**, ma domande su materiale dentro
+capitoli gia' segnati fatti. **L'indice non li avrebbe trovati. L'elenco dei
+341 quesiti si'.** Da qui alla fine la copertura si giudica sulle domande
+attestate, non su questa tabella.
+
 ---
 
 ## PARTE I — Diritto amministrativo (pp. 7-128)
