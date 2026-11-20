@@ -224,3 +224,51 @@ del 18, da riprendere al giro 1)*
 > prevale · **Competenza** (non "materia"): prevale la fonte cui quella
 > materia e' riservata.
 > **Le fonti si dividono per COMPETENZA, gli organi per MATERIA.**
+
+
+---
+
+## Data mining — aggiunte del 20 novembre
+
+**Il KDD** *(domanda 349, fuori dai 341)*
+> Processo in **cinque fasi**: **seleziono · pulisco · trasformo · data
+> mining · interpreto**.
+> **Il data mining e' la QUARTA fase, non un sinonimo di KDD.**
+> Le prime tre assorbono il 70-80% del lavoro reale.
+
+**La costruzione di un modello** *(domanda 350, fuori dai 341)*
+> Cinque momenti dentro la fase 4: **scelgo l'approccio · divido in tre
+> mucchi · addestro · regolo · valuto**.
+> **Training** = impara · **validation** = regolo i parametri ·
+> **test** = giudico, **una volta sola**.
+> **Attenzione**: i momenti centrali (addestro, regolo) sono quelli che
+> cadono quando ricostruisce la sequenza.
+
+**Supervisionato e non supervisionato**
+> Supervisionato: **conosco le risposte passate**, imparo a PREVEDERLE.
+> Non supervisionato: non le conosco, cerco STRUTTURE. → clustering.
+
+**Addestrare**
+> Far provare al modello tutte le regole possibili sugli esempi di cui si
+> conosce l'esito, e tenere quella che sbaglia meno. **Il modello non
+> ragiona: prova e misura.**
+
+**Regolare contro valutare**
+> **Regolo** sul validation, per scegliere i parametri (quanto potare
+> l'albero). **Valuto** sul test, per giudicare. **Regolare previene
+> l'overfitting, valutare lo smaschera.**
+
+**Valutare contro interpretare**
+> **Valuto** (dentro la fase 4) = misuro con le metriche.
+> **Interpreto** (fase 5) = guardo la regola e mi chiedo se e' sensata e
+> utilizzabile. Una regola puo' avere ottime metriche ed essere
+> giuridicamente inaccettabile.
+
+**L'albero decisionale** *(domanda 291 / 348, uscita il 20 novembre)*
+> Catena di domande si'/no. **Nodi = domande, foglie = decisioni.**
+> Sceglie la domanda che **toglie piu' impurita'** (indice di Gini come
+> impurita' del nodo, oppure entropia).
+> **Vantaggio: si legge** — e in una PA le decisioni vanno motivate.
+> **Limiti: overfitting** (rimedio: potatura) e **instabilita'** (rimedio:
+> random forest, che pero' diventa una scatola nera).
+> **L'albero decisionale DIVIDE, il dendrogramma UNISCE.**
