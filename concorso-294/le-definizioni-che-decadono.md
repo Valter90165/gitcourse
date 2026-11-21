@@ -257,13 +257,29 @@ espressamente di essere interrogata nei prossimi giorni)*
 > calcolare. La moda vale sempre, la mediana dagli ordinali in su, la
 > media solo dai quantitativi in su.**
 
-**Lo spiazzamento** *(12 — buco vero, non svista; rimandato da lei la sera
-del 18, da riprendere al giro 1)*
-> Spesa pubblica in disavanzo · il tasso di interesse **SALE** ·
-> gli investimenti privati scendono. **Niente titoli**: quelli sono la
-> domanda speculativa di moneta, altro meccanismo.
-> In IS-LM e' il movimento **lungo la LM**. LM verticale: spiazzamento
-> totale. LM orizzontale (trappola della liquidita'): spiazzamento nullo.
+**Lo spiazzamento** *(era 12 dopo quattro tentativi — **acquisito il 21
+novembre a 28**, ricostruito da lei dalla geometria dell'IS-LM)*
+> **I tre anelli:** spesa pubblica in disavanzo · il tasso **SALE** ·
+> gli investimenti privati scendono.
+> **Che cosa sbloccava il capitolo:** non sapeva che cosa volesse dire
+> "in disavanzo". Chiarito che significa **spesa finanziata con prestiti**
+> (titoli di Stato), la catena si e' ricostruita da sola.
+> **Perche' il tasso sale:** per raccogliere molto lo Stato deve offrire
+> di piu'; e il rendimento del titolo di Stato, essendo il piu' sicuro,
+> fa da **pavimento** a tutti gli altri tassi.
+> **Perche' le imprese investono meno:** per loro il tasso e' un **costo**,
+> non un guadagno. Investono se il rendimento del progetto supera il costo
+> del finanziamento: il tasso alto **alza la soglia**. E anche chi ha i
+> soldi propri preferisce i BTP (costo-opportunita').
+> **In IS-LM: si SPOSTA la IS, ci si MUOVE LUNGO la LM.** La LM e'
+> inclinata positivamente, quindi muovendosi a destra salgono entrambi,
+> reddito e tasso. **Quella salita e' lo spiazzamento.**
+> LM ripida: spiazzamento grande. Orizzontale (trappola): nullo.
+> **E si annulla con un policy mix accomodante**: se la banca centrale
+> sposta anche la LM, il tasso non sale.
+> **Niente titoli nel senso speculativo**: il prezzo dei titoli che si
+> muove al contrario del tasso e' la domanda speculativa di moneta, altro
+> meccanismo.
 
 **I quattro criteri fra le fonti** *(20, errore ripetuto due giorni di fila)*
 > Gerarchico: la fonte superiore prevale · Cronologico: la posteriore
