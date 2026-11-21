@@ -852,3 +852,73 @@ spesa) sono intatte da due settimane.
 BLUE 25 (le quattro lettere ci sono, resta "a varianza minima").
 Errore standard 22: lo confonde con lo scarto quadratico medio. **Test dato:
 raddoppia il campione — lo scarto non cambia, l'errore standard si riduce.**
+
+---
+
+## Sabato 21 novembre — ventuno voci, e cadono i due argomenti che ci avevano battuti
+
+**La giornata piu' produttiva del percorso, e con due risultati che valgono
+piu' del conteggio.**
+
+### Lo spiazzamento: da 12 a 28, al quinto tentativo
+
+**Il blocco non era il meccanismo: era l'espressione "spesa pubblica in
+disavanzo", che avevo usato per cinque giorni senza mai spiegarla.** Chiarito
+che significa spesa finanziata con prestiti, Silvia ha ricostruito la catena da
+sola e l'ha chiusa derivando lo spiazzamento dall'inclinazione della LM.
+
+**Regola che ne esce, e vale per i dieci giorni che restano:** quando una cosa
+non entra dopo tre spiegazioni, quasi sempre il problema non e' il concetto —
+e' **una parola data per scontata**.
+
+### AD-AS acquisito
+
+Era l'unico capitolo del programma ancora segnato "non acquisito", consegnato
+due volte il 10 novembre senza risultato. Chiuso partendo **dagli assi** — lo
+stesso attacco che aveva sbloccato l'IS-LM — e agganciandolo alla **curva di
+Phillips**, che racconta la stessa storia con assi diversi.
+Frase sua: *"i salari si adattano lentamente, creano un effetto iniziale ma poi
+rientra tutto"* — con la correzione che conta: **rientra la produzione, i
+prezzi restano**.
+
+### Il meccanismo piu' difficile del programma
+
+**Politica fiscale con cambi fissi (domande 77 e 87)**, ricostruito in cinque
+step con lei che ha risposto a ciascuno. Mundell-Fleming.
+**Ma l'etichetta e' scivolata due volte nella stessa giornata**: dice "funziona
+la monetaria" descrivendo pero' il meccanismo della fiscale. Ancora dato:
+**mani legate = niente monetaria**.
+
+### Le sei frecce
+
+Su sua richiesta — *"devo imparare a ragionare in questo campo"* — e' stato
+scritto il motore del ragionamento in politica economica: sei relazioni da cui
+si derivano spiazzamento, dispersione, trilemma e trappola della liquidita'.
+**Metodo: trovare la prima variabile che si muove e seguire la catena.**
+
+### Le ventuno voci chiuse
+
+Spiazzamento · saldo commerciale · importazioni e dispersione · trilemma · UEM
+e area valutaria ottimale · LM ripida e piatta · cambi fissi · AD-AS · consumi
+intermedi e finali · perimetro PA e lista S13 · deficit nominale e strutturale ·
+stabilizzatori automatici · ammortizzatori sociali · cause di esclusione della
+responsabilita' amministrativa · SIOPE · BDAP · DUP e documenti di
+programmazione · allegati del rendiconto · indicatori di sostenibilita' ·
+monopolio naturale · fondi UE · dazi · endogeneita' nella valutazione.
+
+### Che cosa resta — undici voci, circa due ore
+
+**Valutazione (cinque):** 140 indicatori · 143 confronto esiti · 219
+informazione e decisione · 243 progettare una misura · 313 sistema giudiziario
+**Leggere (sei):** GDPR · informatica IN-2 · dati panel · pubblico impiego ·
+documentazione amministrativa · disuguaglianza
+**Piu' due verifiche:** sensibilita' e specificita', PCA.
+
+### Errori da battere
+
+**Cambi fissi: fiscale, non monetaria** (due volte oggi)
+**SIOPE → Banca d'Italia; BDAP → Ragioneria** (scambiato mittente e
+destinatario)
+**Base monetaria e offerta di moneta invertite** (erano a 27 il 9 novembre)
+**La motivazione precauzionale diventata "risparmi"**
+**I salari, non "i redditi", sono quelli vischiosi**
