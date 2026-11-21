@@ -116,7 +116,7 @@ attestate, non su questa tabella.
 | 5 | La domanda di moneta | **✅** tre motivazioni e trappola della liquidita' (27) |
 | 6 | Credito e base monetaria | **✅** base monetaria, offerta di moneta, moltiplicatore della moneta (27); canali e corridoio dei tassi consegnati, resa zero |
 | 7 | **IS-LM** | **✅** circolarita' (27), IS (27), LM (29), spostamenti e spiazzamento (26) — con grafico |
-| 8 | Domanda e offerta aggregate | **◐** consegnato due volte il 10 novembre, **non acquisito**: rinviato al 18 con grafico. Zero domande attestate |
+| 8 | Domanda e offerta aggregate | **✅** **acquisito il 21 novembre**, dopo due consegne fallite il 10. Assi (reddito/prezzi) · AD negativa per effetto tasso e effetto ricchezza (24) · **AS breve inclinata e AS lunga verticale, col motore: i salari sono lenti (27)** · breve = piu' produzione, lungo = solo piu' prezzi · collegamento con la curva di Phillips (stessa storia, assi diversi) · e le politiche dell'offerta per spostare la AS. **Gancio suo: "i salari si adattano lentamente, creano un effetto iniziale ma poi rientra tutto" — con la correzione: rientra la produzione, i prezzi restano** |
 | 9 | La curva di Phillips | **✅** relazione e meccanismo (26-27), aspettative e tasso naturale (24-27) |
 | 10 | Cambi ed economia aperta | **✅** cambi fissi e politica fiscale, catena intera (27) · moneta unica e shock asimmetrico (27) · **da testare**: trilemma, svalutazione e curva a J (domanda 213) |
 | 11 | Politica fiscale e politica monetaria | **✅** fiscale espansiva e spiazzamento (28), monetaria espansiva e i due casi di fallimento (28) |
