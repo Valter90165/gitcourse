@@ -335,3 +335,77 @@ novembre a 28**, ricostruito da lei dalla geometria dell'IS-LM)*
 > **Limiti: overfitting** (rimedio: potatura) e **instabilita'** (rimedio:
 > random forest, che pero' diventa una scatola nera).
 > **L'albero decisionale DIVIDE, il dendrogramma UNISCE.**
+
+
+---
+
+## Politica economica — aggiunte del 21 novembre
+
+**Le SEI FRECCE** *(il motore del ragionamento in politica economica: ogni
+domanda si risolve chiedendo "chi si muove per primo?" e seguendo le frecce)*
+> **1.** piu' spesa pubblica → piu' reddito *(moltiplicatore)*
+> **2.** piu' reddito → piu' domanda di moneta → **tasso piu' alto**
+> **3.** tasso piu' alto → **meno investimenti** *(per l'impresa e' un costo)*
+> **4.** piu' reddito → **piu' importazioni**
+> **5.** tasso piu' alto → **capitali entrano** → la moneta si apprezza
+> **6.** moneta piu' forte → meno esportazioni, piu' importazioni
+>
+> **Spiazzamento = 1+2+3 · Dispersione = 1+4 · Trilemma = 5 ·
+> Trappola della liquidita' = la freccia 2 si rompe.**
+
+**Politica fiscale e importazioni** *(domanda 85 — 28)*
+> Espansiva → reddito su → **importazioni su** → **saldo commerciale
+> peggiora**. E' una **DISPERSIONE** dello stimolo verso l'estero: per
+> questo **il moltiplicatore e' piu' piccolo in economia aperta**.
+> Restrittiva: tutto al contrario, e il saldo **migliora** — ma per
+> recessione, non per competitivita'.
+
+**Il saldo commerciale** *(domanda 86 — 28)*
+> Esportazioni meno importazioni. **PIL = C + I + G + (X − M).**
+> Dipende da **competitivita' · reddito interno · reddito estero**.
+> Da non confondere con le **partite correnti** (merci + servizi + redditi
+> + trasferimenti).
+
+**Politica fiscale con CAMBI FISSI** *(domande 77 e 87 — il meccanismo piu'
+difficile del programma, ricostruito in cinque step il 21 novembre)*
+> **1.** espansione fiscale → il tasso **sale**
+> **2.** i capitali esteri **entrano** per prendersi il rendimento
+> **3.** per entrare **comprano la nostra moneta** → tenderebbe ad
+> apprezzarsi
+> **4.** ma il cambio e' fisso → la banca centrale **VENDE la propria
+> moneta** per impedirlo
+> **5.** vendendo, **ne immette in circolazione** → la **LM va a destra** →
+> **il tasso RISCENDE**
+> **→ niente spiazzamento → la politica fiscale e' MASSIMAMENTE EFFICACE.**
+> **E lo specchio:** con i cambi fissi la politica **monetaria** e'
+> **inefficace**, perche' viene annullata dalla difesa del cambio.
+> **E' il modello Mundell-Fleming, ed e' il trilemma visto da dentro.**
+
+**LM ripida o piatta** *(domande 75 e 76 — 27)*
+> **LM ripida** → il tasso sale molto → **spiazzamento grande** → politica
+> fiscale **debole**. **Verticale**: spiazzamento **totale**, il reddito non
+> cresce.
+> **LM piatta** → spiazzamento piccolo → politica fiscale **forte**.
+> **Orizzontale** (trappola): spiazzamento **nullo**.
+> **Lo spiazzamento c'e' SEMPRE che il tasso sale: cambia solo quanto.**
+
+**Gli obiettivi della politica economica** *(domanda 68 — 25)*
+> **Il "quadrato magico": crescita · piena occupazione · stabilita' dei
+> prezzi · equilibrio dei conti con l'estero.** *(Prezzi e inflazione sono
+> lo stesso obiettivo, non due.)*
+> **Strumenti:** fiscale, monetaria, dei redditi, valutaria, commerciale,
+> strutturali.
+> **Tinbergen:** per n obiettivi servono almeno n strumenti — altrimenti
+> non si possono raggiungere **tutti**, e si accetta un trade-off.
+
+**Base monetaria e offerta di moneta** *(invertite il 21 nov, erano a 27 il 9)*
+> **Base monetaria = quella che crea la BCE** (circolante + riserve).
+> **Offerta di moneta = tutta quella che circola**, creata dalle **banche
+> commerciali** prestando.
+> **Gancio: la BCE crea il SEME, le banche fanno crescere la PIANTA.**
+> Il rapporto fra le due e' il **moltiplicatore della moneta**.
+
+**Le tre motivazioni della domanda di moneta** *(22 — "risparmi" al posto di
+precauzionale)*
+> **Transattiva** (scambi) · **PRECAUZIONALE** (imprevisti) ·
+> **speculativa** (dipende dal tasso).
