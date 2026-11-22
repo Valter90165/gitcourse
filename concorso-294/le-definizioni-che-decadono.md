@@ -409,3 +409,77 @@ difficile del programma, ricostruito in cinque step il 21 novembre)*
 precauzionale)*
 > **Transattiva** (scambi) · **PRECAUZIONALE** (imprevisti) ·
 > **speculativa** (dipende dal tasso).
+
+---
+
+## Blocco del 22 novembre — econometria
+
+**"Distorto" — la parola mai spiegata, e la causa di tre errori di fila**
+> **Distorto NON vuol dire "storto rispetto ai punti". Si misura sul VALORE
+> VERO, non sulla nuvola.** Uno stimatore e' distorto quando sbaglia sempre
+> dalla stessa parte rispetto al parametro vero.
+> **Conseguenza decisiva: guardando la propria nuvola non si puo' sapere se
+> uno stimatore e' distorto.** Una retta distorta si adatta magnificamente
+> ai suoi dati. Per questo in econometria non si discute l'adattamento: si
+> discutono le **ipotesi**.
+
+**BLUE** *(era 15 il 20 nov — 27 il 22)*
+> **Lo stimatore BLUE e' il migliore stimatore lineare corretto, cioe' quello
+> a varianza minima tra tutti gli stimatori lineari e corretti. Secondo il
+> teorema di Gauss-Markov, sotto le ipotesi classiche del modello di
+> regressione, lo stimatore OLS e' BLUE.**
+> **Due parole da non perdere:** "a varianza minima" (altrimenti "migliore"
+> resta vuoto) e "sotto le ipotesi classiche" (altrimenti la frase e' falsa).
+> **Da togliere: "tra quelli individuati"** — invenzione di riempimento,
+> tornata due volte. Il confronto e' con **tutti** gli stimatori lineari e
+> corretti.
+> **Da togliere: "la retta che meglio approssima la nuvola"** — quello e' il
+> criterio dei **minimi quadrati**, non BLUE. I minimi quadrati sono il
+> metodo, BLUE e' il certificato di qualita', Gauss-Markov e' il ponte.
+
+**Eteroschedasticita'** *(27 il 22 nov, dopo tre tentativi)*
+> **Si ha eteroschedasticita' quando la varianza dell'errore non e' costante
+> al variare delle variabili esplicative, venendo meno l'ipotesi di
+> omoschedasticita'. Lo stimatore OLS perde l'efficienza — non e' piu' a
+> varianza minima, quindi non e' piu' BLUE — ma resta corretto e consistente.
+> Gli errori standard classici risultano distorti, e per questo si ricorre a
+> errori standard robusti o ai minimi quadrati ponderati.**
+> **Il nocciolo, tre parole: PERDE EFFICIENZA, RESTA CORRETTO.**
+> **MAI dire "efficace": in econometria esiste "efficiente", ed e' esattamente
+> la proprieta' che si perde. Una parola per il contrario della risposta.**
+> **Gancio: l'eteroschedasticita' non sposta la retta, sbaglia il ventaglio.**
+> **Omoschedastico non vuol dire "punti vicini alla retta": vuol dire "larghi
+> UGUALE dappertutto". Una nuvola grassissima puo' essere omoschedastica.**
+
+**Coefficiente ed errore standard** *(28 e 27 il 22 nov)*
+> **Il coefficiente misura la variazione media attesa della variabile
+> dipendente associata all'aumento di un'unita' della variabile esplicativa,
+> a parita' delle altre variabili del modello. L'errore standard misura la
+> precisione di quella stima: di quanto il valore stimato varierebbe da
+> campione a campione.** Dal loro rapporto si ottiene la statistica t.
+> **Le due parole che cadevano: "in media" e "a parita' delle altre".**
+
+**La componente ciclica del saldo** *(14 il 22 nov — mai acquisita)*
+> **E' la parte del saldo di bilancio che dipende dall'andamento
+> dell'economia e non dalle decisioni del governo. Deriva dall'output gap —
+> la distanza fra PIL effettivo e PIL potenziale — e misura l'effetto
+> automatico del ciclo sui conti: in rallentamento le entrate scendono e la
+> spesa per ammortizzatori sale, senza che sia stata adottata alcuna misura.
+> Saldo effettivo = saldo strutturale + componente ciclica + una tantum.
+> Per questo le regole europee e l'art. 81 guardano al saldo strutturale:
+> "tenuto conto delle fasi avverse e favorevoli del ciclo economico".**
+> **Errori del 22: "fluttuazione del fatturato" (invenzione), "PIL nominale"
+> (e' effettivo), "PIL strutturale" (non esiste: e' potenziale).**
+> **E soprattutto: la differenza fra PIL effettivo e potenziale e' l'OUTPUT
+> GAP, non la componente ciclica. Uno e' la causa, l'altra l'effetto.**
+
+**Annullamento d'ufficio e revoca** *(28 il 12 nov, 22 il 22 — decaduta)*
+> **Annullamento d'ufficio (21-nonies): il provvedimento e' ILLEGITTIMO
+> DALL'ORIGINE. Effetto RETROATTIVO, ex tunc. Nessun indennizzo.**
+> **Revoca (21-quinquies): il provvedimento e' LEGITTIMO, ma SOPRAVVIENE
+> qualcosa. Effetto EX NUNC. INDENNIZZO se c'e' pregiudizio.**
+> **Il "sopraggiunto" e' della revoca, non dell'annullamento.**
+> **Termine: annullamento entro un termine ragionevole, comunque non
+> superiore a DODICI MESI per i provvedimenti di autorizzazione o di
+> attribuzione di vantaggi economici. La revoca non ha termine.**
+> **I 60 GIORNI sono il ricorso al TAR: contaminazione da argomento vicino.**
