@@ -598,3 +598,18 @@ BILANCIO** *(richiesta sua, 22 novembre)*
 > numeri e previsioni.**
 > **Il gancio: UCB controlla ATTI e sta nel MEF. UPB valuta PREVISIONI ed e'
 > indipendente, presso il Parlamento.**
+
+**DA RIVEDERE — IL PNRR** *(richiesta sua, 22 novembre)*
+> Materiale presente nelle dispense (contabilita' pubblica e valutazione) ma
+> **mai testato a voce**. Da coprire: natura e fonte (Next Generation EU e
+> Dispositivo per la ripresa e la resilienza), i tre assi, missioni e
+> componenti, le tre tipologie di riforme (orizzontali, abilitanti,
+> settoriali), la governance del D.L. 77/2021 con cabina di regia e
+> Ispettorato generale presso la RGS, il meccanismo milestone/target con
+> erogazioni a rate previa verifica della Commissione.
+> **I due agganci col resto del programma, che e' il motivo per cui conviene
+> saperlo: la Riforma 1.15 (contabilita' accrual, Quadro Concettuale e ITAS)
+> e la Riforma 1.11 (riduzione dei tempi di pagamento della PA).**
+> **ATTENZIONE: la fase di chiusura del Piano e' in corso proprio adesso.
+> Silvia deve verificare sul materiale aggiornato lo stato finale - numeri,
+> rate erogate, esito - perche' su questo non posso essere attendibile.**
