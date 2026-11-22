@@ -572,3 +572,11 @@ sua del 22 novembre)*
 > osservata che non c'entra con la X allarga il ventaglio e basta — perdi
 > PRECISIONE. Se c'entra con la X, spinge sempre dalla stessa parte — perdi
 > la CORRETTEZZA.
+
+**DA VEDERE — IL DANNO ERARIALE** *(richiesta sua, 22 novembre pomeriggio)*
+> Emerso dal quesito 36 (mancato accertamento delle entrate). Da trattare per
+> intero: nozione, elementi costitutivi, giurisdizione della Corte dei conti,
+> le cause di esclusione della responsabilita' amministrativa (gia' consegnate
+> ma mai prodotte a voce), la colpa grave, l'elemento soggettivo, il potere
+> riduttivo, la prescrizione quinquennale, il rapporto con la responsabilita'
+> civile e con quella dirigenziale.
