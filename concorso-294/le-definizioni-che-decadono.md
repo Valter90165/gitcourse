@@ -613,3 +613,27 @@ BILANCIO** *(richiesta sua, 22 novembre)*
 > **ATTENZIONE: la fase di chiusura del Piano e' in corso proprio adesso.
 > Silvia deve verificare sul materiale aggiornato lo stato finale - numeri,
 > rate erogate, esito - perche' su questo non posso essere attendibile.**
+
+**DA RIVEDERE — TIPICITA' E CARATTERI DEL PROVVEDIMENTO** *(richiesta sua,
+22 novembre)* — copre anche il quesito attestato 295
+> **Tipicita': i provvedimenti amministrativi possono essere adottati solo
+> nei casi, nelle forme e con gli effetti previsti dalla legge.** E'
+> corollario del principio di legalita': l'amministrazione non puo' creare
+> nuovi tipi di provvedimento, a differenza dell'autonomia privata che puo'
+> stipulare contratti atipici (art. 1322 c.c.).
+> **Nominativita': a ciascun interesse pubblico la legge associa un potere
+> determinato, con un nome proprio.** Da cui il **numero chiuso** dei
+> provvedimenti.
+> **I caratteri del provvedimento (quesito 295):** autoritarieta' o
+> imperativita' · tipicita' · nominativita' · esecutivita' (idoneita' a
+> produrre effetti) · esecutorieta' (potersi eseguire coattivamente senza
+> giudice, **solo nei casi previsti dalla legge, art. 21-ter**) ·
+> inoppugnabilita' decorsi i termini.
+> **NON CONFONDERE esecutivita' ed esecutorieta'.** Esecutivita' = l'atto
+> produce effetti. Esecutorieta' = l'amministrazione puo' imporlo con la
+> forza da se'.
+> **Il caso di confine da citare: le ordinanze contingibili e urgenti.**
+> Atipiche nel CONTENUTO (la legge non lo predetermina) ma tipiche nel
+> POTERE (la legge il potere lo prevede). Limiti: presupposti di
+> contingibilita' e urgenza, temporaneita', proporzionalita', rispetto dei
+> principi generali e delle riserve di legge.
