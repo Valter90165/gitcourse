@@ -580,3 +580,21 @@ sua del 22 novembre)*
 > ma mai prodotte a voce), la colpa grave, l'elemento soggettivo, il potere
 > riduttivo, la prescrizione quinquennale, il rapporto con la responsabilita'
 > civile e con quella dirigenziale.
+
+**DA RIVEDERE — UFFICIO CENTRALE DI BILANCIO e UFFICIO PARLAMENTARE DI
+BILANCIO** *(richiesta sua, 22 novembre)*
+> Due organismi diversi che si confondono per il nome. Da trattare insieme,
+> proprio per tenerli distinti:
+> **UCB — Uffici centrali di bilancio:** articolazioni della **Ragioneria
+> generale dello Stato** presso ciascun ministero. Controllo **preventivo di
+> regolarita' amministrativo-contabile** sugli atti di spesa, riscontro della
+> copertura, tenuta delle scritture. **Sono dentro l'amministrazione attiva,
+> dipendono dal MEF.**
+> **UPB — Ufficio parlamentare di bilancio:** organismo **indipendente**
+> istituito dalla **legge 243/2012** in attuazione dell'art. 81 Cost. e del
+> Fiscal Compact, presso le Camere. **Analisi e verifica delle previsioni
+> macroeconomiche e di finanza pubblica**, valutazione del rispetto delle
+> regole di bilancio. **E' un fiscal council: non controlla atti, valuta
+> numeri e previsioni.**
+> **Il gancio: UCB controlla ATTI e sta nel MEF. UPB valuta PREVISIONI ed e'
+> indipendente, presso il Parlamento.**
