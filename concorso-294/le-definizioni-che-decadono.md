@@ -528,3 +528,47 @@ precauzionale)*
 > sempre la stessa forma, "non c'e' niente".
 > **Errore di I tipo: rifiutare H0 vera (probabilita' = alfa). Di II tipo:
 > non rifiutare H0 falsa.**
+
+**I dati panel** *(27 il 22 nov — capitolo parziale dal 10 nov, chiuso oggi)*
+> **Non "la stessa variabile nel tempo": LE STESSE UNITA' osservate in piu'
+> momenti.** La tabellina a prova di errore:
+> | | unita' | momenti |
+> | sezione trasversale | molte | **uno** |
+> | serie storica | **una** | molti |
+> | **panel** | **molte** | **molti** |
+> **Perche' valgono: permettono di controllare cio' che non si osserva,
+> purche' non cambi nel tempo.** Confrontando Tizio con se' stesso, cio' che
+> in Tizio non cambia si cancella da solo. Non osservi la capacita': la
+> neutralizzi.
+
+**Effetti fissi ed effetti casuali** *(quesiti 125 e 126 — DA RIVEDERE, richiesta
+sua del 22 novembre)*
+> **PRIMA TRAPPOLA, caduta il 22: "gli effetti casuali sono il background".
+> NO. L'EFFETTO INDIVIDUALE e' la cosa (le caratteristiche non osservate e
+> costanti nel tempo). Fissi e casuali sono due MODI DI TRATTARLA.**
+> **SECONDA TRAPPOLA: il modello a effetti casuali non dice "non sappiamo",
+> dice "assumiamo di no". E' un'ipotesi, non un'incertezza.**
+>
+> **La domanda che decide tutto: chi ha lo zainetto pesante fa anche piu'
+> formazione? SI' -> effetti fissi. NO -> effetti casuali.**
+>
+> **Effetti fissi:** eliminano l'effetto individuale dando a ogni unita' la
+> sua intercetta e usando la sola variazione interna. Robusti
+> all'eterogeneita' non osservata; **ma non stimano le variabili costanti nel
+> tempo**, che spariscono insieme all'effetto.
+> **Effetti casuali:** trattano l'effetto individuale come componente
+> aleatoria **non correlata con le esplicative**, inclusa nell'errore. Usano
+> variazione interna **e** fra unita': piu' efficienti, e stimano anche le
+> variabili invarianti. **Distorti se l'ipotesi non regge.**
+> **Scelta: test di Hausman.** H0 = nessuna correlazione, casuali
+> consistenti. **Rifiuto -> effetti fissi.**
+> **Regola pratica: in economia l'effetto individuale e' quasi sempre
+> correlato, quindi i fissi sono la scelta prudente.**
+> **Collegamento: la differenza-nelle-differenze E' un panel a effetti fissi,
+> di unita' e di periodo.**
+
+> **IL PRINCIPIO CHE ORA VALE IN TRE POSTI** (eteroschedasticita', variabile
+> omessa, dati panel): **rumore non e' spinta sistematica.** Una cosa non
+> osservata che non c'entra con la X allarga il ventaglio e basta — perdi
+> PRECISIONE. Se c'entra con la X, spinge sempre dalla stessa parte — perdi
+> la CORRETTEZZA.
