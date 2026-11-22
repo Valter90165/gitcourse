@@ -637,3 +637,41 @@ BILANCIO** *(richiesta sua, 22 novembre)*
 > POTERE (la legge il potere lo prevede). Limiti: presupposti di
 > contingibilita' e urgenza, temporaneita', proporzionalita', rispetto dei
 > principi generali e delle riserve di legge.
+
+**DA RIVEDERE — ENTI TERRITORIALI, AUTONOMIE LOCALI, SUSSIDIARIETA'**
+*(richiesta sua, 22 novembre)* — copre i quesiti attestati **5, 170, 220 e 4**
+> Consegnato il 21 novembre, **mai prodotto a voce**. E' il grappolo trovato
+> il 20 novembre contando le domande: quattro attestate, zero risposte.
+>
+> **Art. 5 Cost.:** la Repubblica, una e indivisibile, **riconosce e promuove**
+> le autonomie locali e attua il piu' ampio decentramento amministrativo.
+> **Art. 114 (riforma del Titolo V, L. cost. 3/2001):** la Repubblica e'
+> costituita da Comuni, Province, Citta' metropolitane, Regioni e Stato.
+> **EQUIORDINAZIONE: pari dignita' costituzionale, non piu' gerarchia.**
+>
+> **Le cinque autonomie:** statutaria · regolamentare (art. 117 c.6) ·
+> amministrativa (art. 118) · **finanziaria di entrata e di spesa (art. 119)**
+> · organizzativa e contabile.
+>
+> **Art. 118 — i tre principi:** **sussidiarieta'**, differenziazione,
+> adeguatezza. Le funzioni spettano ai **Comuni**, salvo conferirle a enti
+> superiori per assicurarne l'esercizio unitario.
+> **VERTICALE** (c.1): fra livelli di governo, si parte dal piu' vicino.
+> **ORIZZONTALE** (c.4): favorire l'autonoma iniziativa dei cittadini,
+> singoli e associati, per attivita' di interesse generale.
+> **Il gancio: verticale = fra ISTITUZIONI. Orizzontale = fra istituzioni e
+> CITTADINI.**
+>
+> **Art. 119:** risorse autonome, tributi propri, compartecipazioni al gettito
+> erariale; **fondo perequativo senza vincolo di destinazione** per i
+> territori con minore capacita' fiscale per abitante; patrimonio proprio;
+> **indebitamento solo per spese di investimento (golden rule)**.
+>
+> **Quesito 220 — territoriali contro strumentali:** negli enti
+> **territoriali** il territorio e' **elemento costitutivo**, rappresentano la
+> collettivita' stanziata su di esso e hanno **fini generali** e autonomia
+> politica. Negli enti **istituzionali o strumentali** (camere di commercio,
+> universita', enti parco, ASL, enti previdenziali) il territorio e' solo
+> **ambito di competenza** e i fini sono **specifici**.
+> **Il gancio: nei territoriali il territorio FA l'ente; negli altri lo
+> DELIMITA soltanto.**
