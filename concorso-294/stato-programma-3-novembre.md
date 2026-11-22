@@ -977,3 +977,37 @@ resta: **dopo tre spiegazioni fallite non si rispiega, si cerca la parola.**
 **"tra quelli individuati"** in BLUE (invenzione di riempimento, tornata due
 volte) e **"efficace"** al posto di "efficiente" — una parola per il contrario
 della risposta giusta.
+
+### Il programma di lunedi' 23 novembre — fissato da lei
+
+*"domani dobbiamo andare avanti con contabilita' e finire bene il bilancio e
+rivedere le valutazioni delle politiche"*
+
+**Apertura — le quattro frasi da recitare**, tutte da voci cadute nel test di
+memoria del 22 sera:
+1. Eteroschedasticita': **perde efficienza, resta corretto** *(27 -> 18 in sei ore)*
+2. Componente ciclica: **effettivo meno ciclica meno una tantum uguale strutturale** *(27 -> 22)*
+3. UPB: **valida le previsioni; se non valida, il Governo spiega in pubblico** *(18)*
+4. Effetti fissi: **chi ha lo zainetto pesante fa anche piu' formazione?** *(non prodotta)*
+
+**Blocco contabilita' — chiudere il bilancio.** Da riprodurre, tutte spiegate
+il 22 e mai dette: DFP e DPFP · legge di bilancio, le due sezioni *(24, manca
+"piu' le variazioni", caduto tre volte)* · UPB *(18)* · i quattro saldi · i
+principi del bilancio.
+**Attestate ancora scoperte:** 44 documenti di programmazione degli enti
+territoriali · 197 accertamento delle entrate · 215 ordinazione della spesa ·
+34 competenza e cassa · 30 Patto di stabilita' · 42 controlli finanziari della
+Corte dei conti · 20 patrimonio disponibile e indisponibile · 259 DUP, entrate
+dei Comuni e Fondo di solidarieta' comunale.
+
+**Blocco valutazione delle politiche.** Ripasso dell'impianto gia' fatto
+(ciclo, monitoraggio contro valutazione, input-output-outcome, ACB/ACE/AMC,
+controfattuale, RCT, matching, differenza-nelle-differenze) **piu' le voci
+ancora aperte**: 219 informazione e processo decisionale *(spiegata il 22, mai
+prodotta)* · 243 progettare una misura da zero · 313 sistema giudiziario e
+performance economica · 297 limiti della valutazione controfattuale · 242
+endogeneita' nella valutazione.
+
+**Regola della giornata, decisa dopo il test del 22 sera: il rapporto si
+rovescia. Tre ore di produzione a voce, una di cose nuove. Niente blocchi
+lunghi di spiegazione senza che lei ridica subito.**
