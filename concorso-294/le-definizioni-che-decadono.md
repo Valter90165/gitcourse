@@ -483,3 +483,48 @@ precauzionale)*
 > superiore a DODICI MESI per i provvedimenti di autorizzazione o di
 > attribuzione di vantaggi economici. La revoca non ha termine.**
 > **I 60 GIORNI sono il ricorso al TAR: contaminazione da argomento vicino.**
+
+**Quartili e percentili** *(25 il 22 nov — mai prodotta prima)*
+> **Sono i valori che dividono una distribuzione ORDINATA in parti contenenti
+> lo stesso NUMERO di osservazioni: quattro per i quartili, cento per i
+> percentili. Ciascuno indica il valore al di sotto del quale si colloca una
+> determinata quota di unita': il primo quartile il 25%, il secondo — che
+> coincide con la mediana — il 50%. Servono a descrivere la distribuzione
+> senza risentire dei valori estremi: la differenza interquartile e' una
+> misura di variabilita' robusta.**
+> **Tre trappole: distribuzione ORDINATA · parti uguali per NUMEROSITA', non
+> per ampiezza · il quartile e' un VALORE di soglia, non un gruppo.**
+
+**Associazione fra variabili qualitative** *(27 il 22 nov)*
+> **Fra variabili qualitative non si puo' usare la correlazione. Si costruisce
+> una tabella di contingenza e si confrontano le frequenze OSSERVATE con le
+> frequenze ATTESE in caso di indipendenza. La sintesi di questi scostamenti
+> e' il chi-quadrato, su cui si fonda il test di indipendenza. Il chi-quadrato
+> dipende pero' dalla numerosita' e misura solo l'esistenza dell'associazione:
+> per l'intensita' si usa l'indice di Cramer, compreso fra 0 e 1.**
+> **Quattro parole: CHI-QUADRATO dice SE, CRAMER dice QUANTO.**
+> **Collegamento trovato da Silvia da sola: e' la logica del controfattuale —
+> si costruisce il mondo senza il legame e si misura la distanza. Da dire
+> all'orale.**
+
+**Media, mediana e moda** *(26 il 22 nov)*
+> **La moda e' la MODALITA' piu' frequente, non il "carattere"** (il carattere
+> e' *colore degli occhi*, la modalita' e' *azzurro*). Terza volta che esce.
+> **La seconda meta' della domanda — "in quali casi sono utili" — cade sempre:
+> la media risente dei valori anomali, la mediana no. Per questo nelle
+> distribuzioni asimmetriche (i redditi) si usa la mediana.**
+
+**La verifica delle ipotesi** *(spiegata il 22 nov, DA PRODURRE)*
+> **Si sottopone a prova un'affermazione relativa a un PARAMETRO DELLA
+> POPOLAZIONE — l'ipotesi nulla — che tipicamente afferma l'assenza di effetto
+> o di differenza. Non si verifica il campione. Si assume vera H0, si calcola
+> una statistica test e si valuta col p-value la probabilita' di osservare
+> dati come quelli rilevati se H0 fosse vera: se e' inferiore al livello di
+> significativita', H0 si rifiuta.**
+> **La frase che fa la differenza: H0 SI RIFIUTA, NON SI ACCETTA.** La mancata
+> reiezione significa solo che i dati non bastano a respingerla.
+> **"Nulla" non vuol dire falsa: vuol dire "di niente".** Nel chi-quadrato H0
+> e' l'indipendenza, nella regressione e' il coefficiente uguale a zero:
+> sempre la stessa forma, "non c'e' niente".
+> **Errore di I tipo: rifiutare H0 vera (probabilita' = alfa). Di II tipo:
+> non rifiutare H0 falsa.**
