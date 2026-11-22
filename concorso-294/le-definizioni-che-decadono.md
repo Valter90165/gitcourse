@@ -675,3 +675,29 @@ BILANCIO** *(richiesta sua, 22 novembre)*
 > **ambito di competenza** e i fini sono **specifici**.
 > **Il gancio: nei territoriali il territorio FA l'ente; negli altri lo
 > DELIMITA soltanto.**
+
+---
+
+## LE PAROLE GEMELLE — da rileggere la mattina del 2 dicembre
+
+Scoperte il 22 novembre: **due volte nello stesso pomeriggio Silvia ha pescato
+la parola sbagliata fra due che si somigliano, entrambe viste quel giorno.**
+Non e' un vuoto di memoria: e' interferenza fra termini vicini. **Si curano
+solo imparandole in coppia, mai da sole.**
+
+| **Questa** | **NON e'** |
+|---|---|
+| **Perenzione** — residui passivi cancellati dal bilancio dopo 2 o 3 esercizi | **Perequazione** — il fondo dell'art. 119 per i territori con minore capacita' fiscale |
+| **Eteroschedasticita'** — varianza degli errori non costante | **Elasticita'** — reazione della domanda al prezzo |
+| **Specialita'** — la legge speciale deroga alla generale | **Specificita'** — non e' il nome di nessun criterio |
+| **Competenza** — il quarto criterio fra le fonti | **Materia** — non e' il nome del criterio |
+| **Impegnate** — somme per cui e' sorto l'impegno | **Impiegate** — "usate": altro concetto |
+| **Efficiente** — a varianza minima | **Efficace** — non esiste in econometria, e dire "efficace" fa sentire "efficiente", cioe' il contrario della risposta |
+| **Eccesso di potere** — il vizio di legittimita' | **Abuso di potere** — non e' un vizio dell'atto |
+| **Modalita'** — la moda e' la modalita' piu' frequente | **Carattere** — il carattere e' la variabile, non il valore |
+| **PIL potenziale** | **"PIL strutturale"** — non esiste: strutturale e' il SALDO |
+| **Saldo strutturale** | **"saldo potenziale"** — non esiste: potenziale e' il PIL |
+| **Legislazione vigente** | **"legislazione corrente"** |
+
+**Regola operativa: quando due parole gemelle compaiono nello stesso giorno di
+studio, vanno ripassate insieme la sera stessa, non separatamente.**
