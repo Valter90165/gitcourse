@@ -922,3 +922,58 @@ destinatario)
 **Base monetaria e offerta di moneta invertite** (erano a 27 il 9 novembre)
 **La motivazione precauzionale diventata "risparmi"**
 **I salari, non "i redditi", sono quelli vischiosi**
+
+---
+
+## Domenica 22 novembre — il giorno dell'econometria
+
+**Richiesta di apertura:** *"dobbiamo fare bene anche econometria"*.
+Verifica fatta subito: dei 40 quesiti attestati di econometria **nessuno e' su
+materiale mai spiegato**. Non e' un buco di copertura, e' **un buco di
+produzione** — le formulazioni ci sono, non escono a voce.
+
+### I cinque richiami di apertura
+| | Voce | Voto | |
+|---|---|---|---|
+| 1 | L'intercetta | **27** | era **12**, il voto piu' basso del programma |
+| 2 | Cambi fissi -> politica fiscale | 26 | sbagliata due volte il 21 |
+| 3 | Annullamento e revoca | 22 | era 28 il 12 nov — **decaduta** |
+| 4 | Fondo crediti di dubbia esigibilita' | 27 | inversione storica chiusa |
+| 5 | La componente ciclica del saldo | **14** | mai acquisita |
+
+### Il blocco econometria — voci 2-5
+| Voce | Prima | Oggi |
+|---|---|---|
+| Il coefficiente | **15** | **28** |
+| L'errore standard | 22 | **27** |
+| BLUE | **15** | **27** |
+| L'eteroschedasticita' | 22 | **27** |
+
+**I tre voti piu' bassi dell'intero programma — intercetta 12, coefficiente 15,
+BLUE 15 — sono tutti sopra 27 a fine giornata.**
+
+### Le due riparazioni, chiuse in serata
+**Componente ciclica 14 -> 27** · **Annullamento e revoca 22 -> 28**
+
+### Grafici prodotti
+1. **La componente ciclica del saldo** — due riquadri, output gap sopra e
+   componente ciclica sotto, per separare causa ed effetto.
+2. **BLUE, le due proprieta' separate** — quattro distribuzioni campionarie:
+   il riquadro "distorto ma preciso" e' quello che ha fatto la differenza.
+3. **Coefficiente ed errore standard** — la pendenza e il ventaglio delle
+   rette ottenibili su altri campioni.
+
+### Il risultato di metodo
+**Tre volte di fila la stessa risposta sbagliata — "la retta che passa in mezzo
+ai punti" — avevano un'unica causa: la parola "distorto", che non le avevo mai
+spiegato.** Lei la leggeva come "storto rispetto ai dati"; con quella premessa
+le sue risposte erano coerenti.
+
+**Secondo giorno di fila in cui un blocco cade per un termine dato per
+scontato** (ieri "spesa pubblica in disavanzo", oggi "distorto"). La regola
+resta: **dopo tre spiegazioni fallite non si rispiega, si cerca la parola.**
+
+### Due parole espulse dal vocabolario
+**"tra quelli individuati"** in BLUE (invenzione di riempimento, tornata due
+volte) e **"efficace"** al posto di "efficiente" — una parola per il contrario
+della risposta giusta.
