@@ -701,3 +701,19 @@ solo imparandole in coppia, mai da sole.**
 
 **Regola operativa: quando due parole gemelle compaiono nello stesso giorno di
 studio, vanno ripassate insieme la sera stessa, non separatamente.**
+
+**DA RIVEDERE — SENSIBILITA' E SPECIFICITA'** *(richiesta sua, 23 novembre)*
+> **Quattro quesiti attestati: 134, 171, 248 e il nuovo 370.** Spiegata due
+> volte (22 e 23 novembre), mai prodotta.
+> **Mille persone: cento malate, novecento sane. Due gruppi, due domande.**
+> **SENSIBILITA': si chiede AI MALATI — quanti di voi il test ha trovato?**
+> **SPECIFICITA': si chiede AI SANI — quanti di voi ha lasciato in pace?**
+> **Il gancio e' il denominatore: ciascuna si calcola su un gruppo solo. Se
+> ricordi su CHI, non si invertono.**
+> **Servono due numeri perche' un test che dice "malato" a tutti ha
+> sensibilita' perfetta e specificita' zero.**
+>
+> **ERRORE DI METODO DA NON RIPETERE:** il 23 novembre ho aggiunto precisione,
+> F1, ROC-AUC e PR-AUC **prima** che sensibilita' e specificita' fossero
+> solide, e il blocco e' saltato. **Prima le due, poi il resto — e solo dopo
+> che le ha prodotte lei.**
