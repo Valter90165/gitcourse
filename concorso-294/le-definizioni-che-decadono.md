@@ -717,3 +717,18 @@ studio, vanno ripassate insieme la sera stessa, non separatamente.**
 > F1, ROC-AUC e PR-AUC **prima** che sensibilita' e specificita' fossero
 > solide, e il blocco e' saltato. **Prima le due, poi il resto — e solo dopo
 > che le ha prodotte lei.**
+
+**DA VEDERE — LA SPENDING REVIEW** *(richiesta sua, 24 novembre)*
+> **Quesito 46** (collegamento fra contabilita' pubblica e revisione della
+> spesa) e **quesito 328** (valutazione della spesa pubblica: efficienza ed
+> efficacia). Mai trattata.
+> **Il nucleo:** la contabilita' mostra dove sono allocate le risorse, quanto
+> e' impegnato e quanto pagato. **La revisione della spesa parte da quei dati
+> e li collega a cio' che il servizio produce e ai risultati che ottiene.**
+> **La distinzione che la domanda chiede: EFFICIENZA = rapporto fra risorse e
+> prestazioni prodotte. EFFICACIA = grado di raggiungimento dell'obiettivo.**
+> Un ufficio puo' chiudere molte pratiche a basso costo (efficiente) e
+> lasciare irrisolti proprio i casi urgenti (inefficace).
+> **Base normativa: legge 196/2009, analisi e valutazione della spesa.**
+> **Collegamenti: input-output-outcome-impatto (quesito 282) e il nucleo di
+> spesa pubblica del PNRR (Ispettorato generale presso la RGS).**
