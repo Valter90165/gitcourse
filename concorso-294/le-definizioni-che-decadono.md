@@ -732,3 +732,20 @@ studio, vanno ripassate insieme la sera stessa, non separatamente.**
 > **Base normativa: legge 196/2009, analisi e valutazione della spesa.**
 > **Collegamenti: input-output-outcome-impatto (quesito 282) e il nucleo di
 > spesa pubblica del PNRR (Ispettorato generale presso la RGS).**
+
+**DA RIVEDERE — IL BLOCCO CAD** *(richiesta sua, 24 novembre)*
+> **Quesiti 23, 24, 145, 264, 302 e l'RTD (22 e 283).**
+> **Il riframe da tenere: il CAD non e' un programma di modernizzazione, e'
+> la norma che ATTRIBUISCE VALORE GIURIDICO agli strumenti digitali.** Senza
+> l'equiparazione fra documento informatico e documento cartaceo, nessuna
+> digitalizzazione sarebbe possibile.
+> **I due principi: diritto all'uso delle tecnologie (art. 3) e digitale come
+> modalita' ORDINARIA.**
+> **Da rivedere in particolare: documento informatico e le quattro firme**
+> (elettronica semplice, avanzata, qualificata, digitale), **che il 18
+> novembre erano a 24 e 22.**
+> **RTD: non CONTROLLA, GUIDA.** Art. 17 CAD, unico ufficio dirigenziale,
+> **risponde direttamente al vertice politico**, competenze tecnologiche +
+> informatico-giuridiche + manageriali. **Non confonderlo col DPO** (GDPR).
+> **PAROLA SPIA: "fruibile".** Torna ogni volta che la risposta e' vaga. Il 18
+> novembre era migrata dall'accessibilita' dentro il protocollo informatico.
