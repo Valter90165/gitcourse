@@ -260,3 +260,49 @@ Due proprieta':
 | **Regressione multipla, matching** | **assunta** sugli osservati — l'ipotesi piu' forte |
 
 > **La causalita' non viene dallo stimatore: viene dal disegno.**
+
+---
+
+# I QUESITI ATTESTATI, GRADINO PER GRADINO
+
+*Incrocio della scala con i 375 quesiti. Venticinque domande attestate ricadono
+nei gradini 1-6.* ✅ prodotta · ◐ spiegata, mai testata · **–** mai aperta
+
+| Gradino | N. | Quesito | |
+|---|---|---|---|
+| **1** | 113 | Che cos'e' un modello econometrico e a che serve per valutare le politiche | ✅ |
+| | 114 | Che cosa sono la variabile dipendente e la variabile esplicativa | ✅ |
+| | 115 | Che cos'e' la regressione lineare semplice | ✅ |
+| | 130 | Differenza tra modello teorico e modello stimato | **–** |
+| | 317 | Perche' una correlazione vicina a zero puo' coesistere con una relazione | **–** |
+| **2** | 117 | Che cosa sono il coefficiente e l'errore standard | ✅ |
+| | 290 | Come si interpreta l'intercetta | ✅ |
+| **3** | — | **nessuna domanda attestata sui minimi quadrati** | |
+| **4** | 211 | **Quali sono le misure della bonta' di adattamento** | **–** |
+| | 212 | Un buon adattamento garantisce buone previsioni? | **–** |
+| | 123 | Che cosa significa che uno stimatore ha una varianza grande | ✅ |
+| | 172 | I risultati restano uguali su campioni diversi? | **–** |
+| | 232 | Perche' confrontare valori osservati, stimati e previsti | **–** |
+| | 244 | Differenza tra distorsione e varianza; il loro compromesso | ✅ |
+| | 371 | Come si valuta una regressione fuori campione | ✅ |
+| **5** | 118 | Che cos'e' la regressione lineare multipla | ✅ |
+| | 119 | Che cosa succede se aggiungo una variabile irrilevante | ✅ |
+| | 296 | Che cosa sono le variabili dummy | ✅ |
+| | 120 | Che cosa significa cambiare la scala di una variabile | **–** |
+| | 121 | Che effetto hanno gli outlier sui risultati | ◐ |
+| | 352 | Che cosa sono gli outlier e quali effetti possono avere *(statistica)* | ◐ |
+| | 233 | Come si costruisce un modello a partire dai valori osservati | **–** |
+| | 223 | Che cosa significa «regressione sui residui» | **–** |
+| **6** | 116 | Quali ipotesi devono essere rispettate in un modello di regressione | ✅ |
+| | 124 | Che cosa indica la proprieta' BLUE | ✅ |
+| | 173 | Che cosa significa BLUE per uno stimatore | ✅ |
+| | 127 | Che cosa significa autocorrelazione in una serie storica | ◐ |
+
+## Tre cose che l'incrocio rivela
+
+1. **Il BLUE e' chiesto due volte** (124 e 173). E' la nozione a resa piu' alta
+   di tutta la scala. Gia' a 28.
+2. **Minimi quadrati, eteroschedasticita' e multicollinearita': zero domande
+   attestate.** Restano utili come rilanci, ma non meritano altro tempo.
+3. **Il gradino 4 e' il piu' battuto** — sette domande attestate — ed e' anche
+   quello con piu' buchi: 211, 212, 172 e 232 mai aperte.
