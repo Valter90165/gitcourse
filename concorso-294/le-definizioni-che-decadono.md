@@ -749,3 +749,32 @@ studio, vanno ripassate insieme la sera stessa, non separatamente.**
 > informatico-giuridiche + manageriali. **Non confonderlo col DPO** (GDPR).
 > **PAROLA SPIA: "fruibile".** Torna ogni volta che la risposta e' vaga. Il 18
 > novembre era migrata dall'accessibilita' dentro il protocollo informatico.
+
+---
+
+## LA REGOLA DELL'ELEMENTO DI FAMIGLIA DIVERSA
+*(26 novembre 2026)*
+
+In un elenco, Silvia perde **sempre l'elemento che non appartiene alla stessa
+famiglia degli altri**. Non perde a caso e non perde l'ultimo: perde **quello
+diverso**.
+
+| Elenco | Elementi omogenei | **Quello che cade** | Perche' e' diverso |
+|---|---|---|---|
+| **I quattro saldi** | risparmio pubblico, saldo netto da finanziare, ricorso al mercato — allargano le **voci** | **indebitamento netto** | cambia il **soggetto** (tutte le PA), non il perimetro |
+| **Le tre funzioni di Musgrave** | allocativa, stabilizzazione — riguardano il **funzionamento** | **redistributiva** | riguarda la **giustizia**, non il meccanismo |
+| **Le cinque ipotesi di Gauss-Markov** | — | i due **qualificatori**: *auto*correlazione, multicollinearita' *perfetta* | l'aggettivo, non il sostantivo |
+
+**Metodo che ne discende.** Per ogni elenco da imparare, individuare prima
+**qual e' l'elemento diverso** e inchiodare quello. Gli altri reggono da soli.
+
+## COPPIE GEMELLE AGGIUNTE IL 26 NOVEMBRE
+
+| | |
+|---|---|
+| **errore** / **residuo** | errore = distanza dalla retta **VERA** (non osservabile) · residuo = distanza dal **punto** alla **MIA** retta. *Il primo termine le ruota sempre: ha detto «media», poi «atteso». Ancorare su **punto** e **retta**, non su «valore».* |
+| **eccesso di potere** / **abuso d'ufficio** | vizio dell'**ATTO** (amministrativo, annullabilita') / reato della **PERSONA** (penale) |
+| **eccesso di potere** / **incompetenza** | **CHI** ha deciso = incompetenza · **COME** = violazione di legge · **PERCHE'** = eccesso di potere. *Sviamento = deviazione dello **scopo**, non dell'organo.* |
+| **stimare** / **spiegare** | si **stimano** i coefficienti · si **spiega** la variabilita' |
+| **R quadro** / **R quadro corretto** | descrive **un** modello · **confronta** modelli con numero **diverso** di variabili |
+| **linea** di poverta' / **retta** | dopo quattro ore di regressione ha detto «sotto la retta». Si chiama **linea di poverta'** |

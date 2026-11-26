@@ -1011,3 +1011,38 @@ endogeneita' nella valutazione.
 **Regola della giornata, decisa dopo il test del 22 sera: il rapporto si
 rovescia. Tre ore di produzione a voce, una di cose nuove. Niente blocchi
 lunghi di spiegazione senza che lei ridica subito.**
+
+---
+
+## 26 NOVEMBRE — REGISTRO
+
+**Prodotto.** La retta di regressione in **sette gradini**, dalla definizione alla
+causalita', con dieci risposte pronte (`econometria/la-retta-di-regressione-sette-gradini.md`).
+La **mappa dell'econometria in nove blocchi** con stato e tempi
+(`econometria/00-i-nove-blocchi.md`). Il **percorso regressione esplicativa /
+predittiva** (`schede/percorso-regressione.md`). Tre grafici: **MAE e RMSE**,
+**le tre distanze**, **i quattro saldi**. Mappa dei 25 quesiti attestati sui gradini 1-6.
+
+**Chiuso oggi:** 371 (MAE, RMSE, R quadro fuori campione), 372 (valutazione del
+clustering), 119 (variabile irrilevante), 116 (ipotesi del modello, testato a 26).
+
+**Voti.** 23 MAE/RMSE · 26 e 27 R quadro · 26 Gauss-Markov · **15** correlazione/regressione ·
+**16 poi 22** errore/residuo · 24 poverta' assoluta e relativa · 25 UPB · **18** i quattro saldi ·
+**12 poi 19** eccesso di potere · 26 FPV e residui · 20 Musgrave.
+
+**ERRORE DI IMPOSTAZIONE MIO.** Sette gradini, due mappe, tre grafici e venti domande
+in un pomeriggio. Stessa dinamica del 23 novembre con sensibilita' e specificita'.
+**I voti bassi sono tutti su materiale consegnato venti minuti prima; gli ultimi tre
+voti della giornata — 24, 25, 26 — sono tutti su materiale sedimentato da giorni.**
+Regola che ne discende: **non si testa mai nella stessa seduta in cui si consegna.**
+
+**Resa.** Minimi quadrati, eteroschedasticita' e multicollinearita' hanno **zero domande
+attestate**: restano utili come rilanci, non meritano altro tempo. Il **BLUE e' chiesto
+due volte** (124 e 173), gia' a 28. Il **gradino 4 e' il piu' battuto** (sette quesiti) e
+il piu' bucato: 211, 212, 172, 232 mai aperte.
+
+**Aperte in econometria:** 211 · 212 · 172 · 232 · 233 · 223 · 130 · 317 · 120 (+121 da
+testare). Poi 320 logistica e 337 quantile. **Un'ora e tre quarti.**
+
+**Da richiedere domani:** UPB · i quattro saldi (col grafico) · il residuo (punto e retta) ·
+l'eccesso di potere (CHI/COME/PERCHE') · Musgrave.
