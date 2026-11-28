@@ -1046,3 +1046,49 @@ testare). Poi 320 logistica e 337 quantile. **Un'ora e tre quarti.**
 
 **Da richiedere domani:** UPB · i quattro saldi (col grafico) · il residuo (punto e retta) ·
 l'eccesso di potere (CHI/COME/PERCHE') · Musgrave.
+
+---
+
+## 28 NOVEMBRE — REGISTRO (mezza giornata di amministrativo)
+
+**Chiuso.** Accordo di programma (**mai aperto**, uscito ieri all'orale) · regolamento
+eIDAS (**mai aperto**, uscito ieri) · enti territoriali con organi, funzioni e
+**finanziamento ente per ente** (`schede/enti-territoriali.md`) · SEC 2010 · giudice
+amministrativo con i tre tipi di giurisdizione.
+
+**Registrate le 34 domande uscite all'orale il 27 novembre**
+(`domande-orale/domande-uscite-all-orale.md`). Due erano su cose fatte con noi quello
+stesso giorno: SEC 2010 e significativita' contro rilevanza.
+
+**Voti.** 27 eccesso di potere *(da 12 a 27 in quattro passaggi)* · 27 SEC 2010 ·
+27 equiordinazione · 26 riparto di giurisdizione · 25 Fondo di solidarieta' comunale ·
+24 discrezionalita' tecnica · 24 responsabilita' amministrativa · 23 autonomie ·
+22 semplificazione · 21 eccesso di potere *(terzo tentativo)* · 20 RTD ·
+19 cause di esclusione · 17 trasparenza e corruzione · **14 poteri istruttori** ·
+12 territoriale/istituzionale · 8 regola aurea.
+
+**IL DATO DI METODO DELLA GIORNATA.** Due domande poste entrambe su materiale di pochi
+minuti prima: **SEC 2010 → 27**, **poteri istruttori → 14**. Stessa freschezza, esito
+opposto. La variabile non e' il tempo:
+
+> **i MECCANISMI tengono anche da freschi. Le LISTE no, fresche o stagionate.**
+
+Conferma la regola dell'elemento di famiglia diversa del 26 novembre e la estende.
+**Per i meccanismi: spiegare. Per le liste e le formule: far ripetere, e il giorno dopo.**
+
+**Secondo errore mio ripetuto:** ho interrogato quattro volte su materiale appena
+consegnato. Il quarto giro sui poteri istruttori e' stato interrotto e parcheggiato.
+
+**AMMINISTRATIVO: 44 domande attestate su 52.** Restano otto, circa un'ora e dieci:
+poteri istruttori · eIDAS · 307-314 giudice amministrativo (consegnato, da dire) ·
+358 azione amministrativa · 18 codice di comportamento · 20 patrimonio disponibile e
+indisponibile · 24 firma digitale. Piu' i tre capitoli a resa zero (pubblico impiego,
+DPR 445, GDPR), da fare solo se avanza tempo.
+
+**L'allarme della giornata:** fra le 34 domande di ieri, **quattordici sono di statistica
+economica** — la materia piu' battuta — e quattro sono su argomenti mai aperti:
+**stime congiunturali e loro revisione · rapporti statistici · trend integrato ·
+destagionalizzazione**. E' li' che sta il rischio, non nel pubblico impiego.
+
+**Da richiedere domani:** poteri istruttori · eIDAS · i tre tipi di giurisdizione ·
+UPB · i quattro saldi · il residuo (punto e retta) · Musgrave · le quattro fonti dell'art. 119.
