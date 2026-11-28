@@ -515,3 +515,58 @@ science. Mai trattata.
      cross-validation e train/test — ma non il processo KDD ne' il flusso di
      costruzione del modello. **Quindi nemmeno i 341 sono esaustivi**: vanno
      usati come la fonte migliore disponibile, non come il perimetro.)*
+
+---
+
+# 27 NOVEMBRE 2026 — domande riferite dalle prove di giornata
+
+*Raccolte da Silvia dai candidati esaminati giovedi' 27 novembre, in ordine di orario.*
+
+| Ora | Domanda | Materia | Stato |
+|---|---|---|---|
+| 09:58 | Output, input, outcome | valutazione | ✅ |
+| 09:58 | **Giudice amministrativo** | amministrativo | ◐ |
+| 09:58 | Indice dei prezzi | statistica | ✅ |
+| 09:59 | SEC 2010 | statistica | ✅ *(fatto il 28)* |
+| 09:59 | PIL nominale e reale | statistica | ✅ |
+| 09:59 | Inflazione | statistica | ✅ |
+| 11:00 | **Fonti di finanziamento di Citta' metropolitane e Province** | amministrativo/contabilita' | ✅ *(fatto il 28)* |
+| 11:00 | Fattori che spingono la spesa pubblica (eta' demografica) | scienza delle finanze | ◐ |
+| 11:00 | Fallimenti del mercato · ISEE | scienza delle finanze | ✅ |
+| 11:02 | Teoremi dell'economia del benessere | scienza delle finanze | ✅ |
+| 12:05 | Destagionalizzare un dato | statistica | ◐ |
+| 12:07 | Dibattito sull'area euro, shock, azzardo morale | politica economica | ◐ |
+| 12:12 | Shock economico nell'UE | politica economica | ◐ |
+| 12:13 | **Accordo di programma** | amministrativo | **–** |
+| 12:31 | Stime congiunturali | statistica | **–** |
+| 12:38 | Stime congiunturali: quando vengono riviste, con quali cautele | statistica | **–** |
+| 12:52 | Indicatori di finanza pubblica | contabilita' | ✅ |
+| 12:57 | Differenza fra PIL e produzione | statistica | ◐ |
+| 12:58 | Mobilita' dei capitali | politica economica | ✅ |
+| 13:03 | Variazioni di bilancio | contabilita' | **–** |
+| 13:14 | **Fasi del procedimento** | amministrativo | ✅ |
+| 13:14 | Tassi di mortalita' di due province | statistica | ◐ |
+| 13:14 | Politiche anticicliche e culturali | politica economica | ◐ |
+| 13:22 | Elementi che costituiscono un rapporto statistico | statistica | **–** |
+| 13:23 | Variazione percentuale e assoluta | statistica | ◐ |
+| 14:31 | Trend integrato | statistica | **–** |
+| 14:35 | IRES | scienza delle finanze | ◐ |
+| 15:06 | Indici di posizione | statistica | ✅ |
+| 15:18 | **Poteri istruttori** | amministrativo | ◐ |
+| 15:18 | Significativita' statistica e rilevanza economica | econometria | ✅ *(fatto il 28)* |
+| 15:46 | Errore campionario e non campionario | statistica | ◐ |
+| 15:48 | Campioni rappresentativi e non rappresentativi | statistica | ◐ |
+| 16:00 | **Regolamento eIDAS** | amministrativo | **–** |
+| 16:04 | Commissione per l'armonizzazione degli enti territoriali (ARCONET) | contabilita' | **–** |
+
+## Che cosa dice questa giornata
+
+**La statistica economica domina**: quattordici domande su trentaquattro. E
+**quattro sono su materiale mai aperto**: stime congiunturali e loro revisione,
+rapporti statistici, trend integrato.
+
+**Diritto amministrativo: cinque domande**, due delle quali mai aperte —
+**accordo di programma** ed **eIDAS**.
+
+**Due domande sono uscite su cose fatte quello stesso giorno con noi**: il SEC 2010
+e la significativita' statistica contro la rilevanza economica.
